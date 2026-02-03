@@ -675,13 +675,6 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 🛩76@oneclickvpnkeys
-  password: 7c014d1d-262d-4ce0-97d0-2d622b9910c2
-  port: 443
-  server: jp.xiongchumo.shop
-  skip-cert-verify: true
-  tls: false
-  type: hysteria2
 - name: All_7--@V2rayAlpha
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
@@ -740,23 +733,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 🛩79@oneclickvpnkeys
-  password: bf36227c-0191-11f0-aee1-f23c91cfbbc9
-  port: 443
-  server: 4ec4fca5-t6r5s0-tc2sod-1tizo.hk1.hyhuawei.com
-  skip-cert-verify: true
-  sni: 4ec4fca5-t6r5s0-tc2sod-1tizo.hk1.hyhuawei.com
-  tls: false
-  type: hysteria2
-- name: 🛩80@oneclickvpnkeys
-  password: c1785de0-212f-11ef-92aa-f23c9164ca5d
-  port: 443
-  server: 9c25e30b-t6ccg0-tfpsin-1q3dm.hk1.hyhuawei.com
-  skip-cert-verify: true
-  sni: 9c25e30b-t6ccg0-tfpsin-1q3dm.hk1.hyhuawei.com
-  tls: false
-  type: hysteria2
-- name: 🛩78@oneclickvpnkeys
+- name: 🛩78@ConfigV2RayNG
   password: e72b54df-3c45-4856-bcf9-bf3e1bf6ff5e
   port: 443
   server: 134.195.101.191
