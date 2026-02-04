@@ -139,6 +139,6 @@ vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@developers.cloudflare.com:2095?allo
 vless://2275e858-8aff-44fe-b816-d85c2ab372e5@afrcloud4.c01.kr:443?allowInsecure=0&sni=afrcloud4.c01.kr&type=ws&host=afrcloud4.c01.kr&path=/47.254.255.125=443fp=chrome&security=tls#US_speednode_0040
 vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@104.26.12.27:2053?allowInsecure=0&sni=snippet.danfeng21.ndjp.net&type=ws&host=snippet.danfeng21.ndjp.net&path=/danfengfp=chrome&security=tls#US_speednode_0041
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.epicgames.com:2095?allowInsecure=0&sni=cnm-fangbinxing-nmsl.cnm-fangbinxing-nmsl-wcnm.workers.dev&type=ws&host=cnm-fangbinxing-nmsl.cnm-fangbinxing-nmsl-wcnm.workers.dev&path=/fp=randomized#US_speednode_0042
-anytls://a2d12dc9-c111-45ac-b803-87e48f3484d8@160.16.75.254:443?security=tls&type=tcp&allowInsecure=1&udp=1&insecure=1#JP3%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
-anytls://a2d12dc9-c111-45ac-b803-87e48f3484d8@160.16.75.254:443?security=tls&type=tcp&allowInsecure=1&sni=gw.alicdn.com&fp=chrome&insecure=1&udp=1#JP2%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
 anytls://a2d12dc9-c111-45ac-b803-87e48f3484d8@160.16.75.254:443?security=tls&type=tcp&allowInsecure=1&sni=gw.alicdn.com&insecure=1&udp=1#JP4%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
+anytls://a2d12dc9-c111-45ac-b803-87e48f3484d8@160.16.75.254:443?security=tls&type=tcp&allowInsecure=1&sni=gw.alicdn.com&fp=chrome&insecure=1&udp=1#JP2%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
+anytls://a2d12dc9-c111-45ac-b803-87e48f3484d8@160.16.75.254:443?security=tls&type=tcp&allowInsecure=1&udp=1&insecure=1#JP3%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
