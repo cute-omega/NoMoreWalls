@@ -25,3 +25,9 @@ proxies:
   sni: kr2.miyazono-kaori.com
   tls: false
   type: hysteria2
+- cipher: aes-256-cfb
+  name: 韩国|@ripaojiedian
+  password: qwerREWQ@@
+  port: 25879
+  server: 168.126.234.233
+  type: ss
