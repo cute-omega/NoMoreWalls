@@ -74,7 +74,6 @@ hysteria2://870ece4c-2d40-450d-827f-de99bb71f4e1@jp.xiongchumo.shop:21258?insecu
 hysteria2://870ece4c-2d40-450d-827f-de99bb71f4e1@jp.xiongchumo.shop:21787?insecure=1&sni=jp.xiongchumo.shop#JP25%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
 hysteria2://bd6d7f79-a074-4371-a8ee-251975422dd0@jp.xiongchumo.shop:21919?insecure=1&sni=jp.xiongchumo.shop#JP26%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
 hysteria2://bd6d7f79-a074-4371-a8ee-251975422dd0@jp.xiongchumo.shop:21246?insecure=1&sni=jp.xiongchumo.shop#JP27%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
-hysteria2://31701b5dca9592f9d684dae3706161ea@dd.openaccessnode.com:989?insecure=1&sni=dd.ircybersec.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-King-Reza-Pahlavi#%F0%9F%AB%A752%40oneclickvpnkeys
 hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@mg2.mangshe.xyz:2056?insecure=1&sni=mg2.mangshe.xyz#%E7%BE%8E%E5%9B%BD2
 hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xjp1.mangshe.xyz:2055?insecure=1&sni=xjp1.mangshe.xyz#%E6%96%B0%E5%8A%A0%E5%9D%A11
 hysteria2://84893bb7-c52a-4c4e-868a-3b19d55dd9b8@de1.jueduibupao.top:49490?insecure=1&sni=de1.jueduibupao.top#%E2%98%A2%EF%B8%8F3%40oneclickvpnkeys
@@ -157,6 +156,6 @@ vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@104.17.73.206:2053?allowInsecure=0&
 vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@one.dash.cloudflare.com:2053?allowInsecure=0&sni=snippet.danfeng21.ndjp.net&type=ws&host=snippet.danfeng21.ndjp.net&path=/danfengfp=chrome&security=tls#US_speednode_0051
 vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@china.embassy.gov.au:2053?allowInsecure=0&sni=snippet.danfeng.gleeze.com&type=ws&host=snippet.danfeng.gleeze.com&path=/danfengfp=chrome&security=tls#US_speednode_0052
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@147.75.237.72:443?allowInsecure=0&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=/?ed=2560security=tls#US_speednode_0053
+anytls://a2d12dc9-c111-45ac-b803-87e48f3484d8@160.16.75.254:443?security=tls&type=tcp&allowInsecure=1&sni=gw.alicdn.com&insecure=1&udp=1#JP4%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
 anytls://a2d12dc9-c111-45ac-b803-87e48f3484d8@160.16.75.254:443?security=tls&type=tcp&allowInsecure=1&udp=1&insecure=1#JP3%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
 anytls://a2d12dc9-c111-45ac-b803-87e48f3484d8@160.16.75.254:443?security=tls&type=tcp&allowInsecure=1&sni=gw.alicdn.com&fp=chrome&insecure=1&udp=1#JP2%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
-anytls://a2d12dc9-c111-45ac-b803-87e48f3484d8@160.16.75.254:443?security=tls&type=tcp&allowInsecure=1&sni=gw.alicdn.com&insecure=1&udp=1#JP4%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
