@@ -637,14 +637,6 @@ proxies:
   sni: xjp1.mangshe.xyz
   tls: false
   type: hysteria2
-- name: ☢️3@oneclickvpnkeys
-  password: 84893bb7-c52a-4c4e-868a-3b19d55dd9b8
-  port: 49490
-  server: de1.jueduibupao.top
-  skip-cert-verify: true
-  sni: de1.jueduibupao.top
-  tls: false
-  type: hysteria2
 - name: JP
   password: 95D27EEF-B7AE-4076-BA39-40FDFA3D0F61
   port: 13778
@@ -667,14 +659,6 @@ proxies:
   sni: ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com
   tls: false
   type: hysteria2
-- name: ☢️5@oneclickvpnkeys
-  password: b99a0551-c00f-4508-86a8-67388a0710c0
-  port: 42958
-  server: uk1.jueduibupao.top
-  skip-cert-verify: true
-  sni: uk1.jueduibupao.top
-  tls: false
-  type: hysteria2
 - name: SG
   password: e7965e64-e001-4e8c-8273-39c61ff4a094
   port: 30000
@@ -689,6 +673,14 @@ proxies:
   server: tw.oomz.ru
   skip-cert-verify: true
   sni: bing.com
+  tls: false
+  type: hysteria2
+- name: Config 3 - @lebertad
+  password: 2c833c5d-cbcc-4afb-89ba-d17dc39db6f0
+  port: 47974
+  server: 75.127.13.83
+  skip-cert-verify: true
+  sni: www.bing.com
   tls: false
   type: hysteria2
 - name: All_7--@V2rayAlpha
