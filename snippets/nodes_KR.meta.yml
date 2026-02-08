@@ -25,6 +25,12 @@ proxies:
   sni: kr2.miyazono-kaori.com
   tls: false
   type: hysteria2
+- cipher: aes-256-cfb
+  name: 韩国|@ripaojiedian
+  password: qwerREWQ@@
+  port: 4469
+  server: 168.126.234.247
+  type: ss
 - name: KR_speednode_0038
   password: test.+
   port: 30446
