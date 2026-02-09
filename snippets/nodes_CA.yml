@@ -1,8 +1,9 @@
 proxies:
-- name: CA1｜机房｜低风险
-  password: 63b21d86-a49c-4936-a634-0b5af3e30433
-  port: 443
-  server: tuntro006.instconn.com
+- name: CA14｜商宽｜非常安全
+  network: tcp
+  password: 5c036c72-d2dc-414d-a75d-e72b8c4ef1ab
+  port: 59025
+  server: ptxl01.xsaym.com
   skip-cert-verify: true
-  sni: torontorm1.686911.xyz
+  sni: www.volcengine.com
   type: trojan

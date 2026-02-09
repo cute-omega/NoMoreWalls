@@ -1,20 +1,87 @@
 proxies:
-- name: DE24｜机房｜低风险
-  password: 63b21d86-a49c-4936-a634-0b5af3e30433
-  port: 443
-  server: tuntro010.instconn.com
-  skip-cert-verify: true
-  sni: frankfurtrm2.686911.xyz
-  type: trojan
+- alterId: 0
+  cipher: auto
+  name: DE50｜机房｜高风险 (黑名单)
+  network: tcp
+  port: '180'
+  server: 82.198.246.97
+  tls: false
+  type: vmess
+  uuid: d13fc2f5-3e05-4795-81eb-44143a09e552
 - name: DE27｜机房｜低风险
   network: ws
-  password: f7cecc70-524e-4bea-af14-d7367fdb4080
-  port: 8443
-  server: bestcdn4.868863.xyz
+  password: 077da111-33ac-4453-a37d-69e7ccc647a0
+  port: 2096
+  server: bestcdn1.868863.xyz
   skip-cert-verify: true
-  sni: 17698511625136.206353.xyz
+  sni: 17706091711317.206353.xyz
   type: trojan
   ws-opts:
     headers:
-      Host: 17698511625590.206353.xyz
+      Host: 17706091716633.206353.xyz
     path: '%2Fagrbniuh'
+- name: DE28｜机房｜低风险
+  network: ws
+  password: 077da111-33ac-4453-a37d-69e7ccc647a0
+  port: 2087
+  server: bestcdn2.868863.xyz
+  skip-cert-verify: true
+  sni: 17706091716314.206353.xyz
+  type: trojan
+  ws-opts:
+    headers:
+      Host: 17706091717095.206353.xyz
+    path: '%2Fagrbniuh'
+- name: DE29｜机房｜低风险
+  network: ws
+  password: 077da111-33ac-4453-a37d-69e7ccc647a0
+  port: 2083
+  server: bestcdn3.868863.xyz
+  skip-cert-verify: true
+  sni: 17706091712794.206353.xyz
+  type: trojan
+  ws-opts:
+    headers:
+      Host: 17706091719622.206353.xyz
+    path: '%2Fagrbniuh'
+- name: DE30｜机房｜低风险
+  network: ws
+  password: 077da111-33ac-4453-a37d-69e7ccc647a0
+  port: 8443
+  server: bestcdn4.868863.xyz
+  skip-cert-verify: true
+  sni: 17706091712616.206353.xyz
+  type: trojan
+  ws-opts:
+    headers:
+      Host: 17706091712687.206353.xyz
+    path: '%2Fagrbniuh'
+- name: DE31｜机房｜低风险
+  network: ws
+  password: 077da111-33ac-4453-a37d-69e7ccc647a0
+  port: 2053
+  server: bestcdn5.868863.xyz
+  skip-cert-verify: true
+  sni: 17706091718618.206353.xyz
+  type: trojan
+  ws-opts:
+    headers:
+      Host: 17706091713495.206353.xyz
+    path: '%2Fagrbniuh'
+- alterId: 2
+  cipher: auto
+  name: DE41｜机房｜低风险
+  network: tcp
+  port: '30833'
+  server: v33.hdacd.com
+  tls: false
+  type: vmess
+  uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+- name: DE47｜原生/疑似家宽｜非常安全
+  network: tcp
+  password: 5c036c72-d2dc-414d-a75d-e72b8c4ef1ab
+  port: 59023
+  server: ptxl01.xsaym.com
+  skip-cert-verify: true
+  sni: www.volcengine.com
+  type: trojan

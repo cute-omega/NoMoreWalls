@@ -1,4 +1,24 @@
 proxies:
+- alpn:
+  - h3
+  congestion-controller: bbr
+  name: GB7｜机房｜低风险
+  password: 08030894-57a7-49e8-83a5-0b99d7a1b820
+  port: 1443
+  server: 185.85.242.177
+  skip-cert-verify: true
+  sni: gbr1.587458.xyz
+  type: tuic
+  udp-relay-mode: native
+  uuid: 08030894-57a7-49e8-83a5-0b99d7a1b820
+- name: GB8｜原生/疑似家宽｜非常安全
+  network: tcp
+  password: 5c036c72-d2dc-414d-a75d-e72b8c4ef1ab
+  port: 56006
+  server: ptxl01.xsaym.com
+  skip-cert-verify: true
+  sni: www.volcengine.com
+  type: trojan
 - name: GB_speednode_0022
   network: ws
   port: 2096

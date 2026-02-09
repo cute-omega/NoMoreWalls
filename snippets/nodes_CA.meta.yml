@@ -1,8 +1,18 @@
 proxies:
-- name: CA1｜机房｜低风险
-  password: 63b21d86-a49c-4936-a634-0b5af3e30433
-  port: 443
-  server: tuntro006.instconn.com
+- name: CA13｜机房｜低风险
+  obfs: salamander
+  obfs-password: ZTQxNWU5ZjUxY2Y5Y2U2Yw%3D%3D
+  password: 6a3e1be8-b837-4fd8-b452-0788466446a2
+  port: 3732
+  server: 66.55.66.152
   skip-cert-verify: true
-  sni: torontorm1.686911.xyz
+  tls: false
+  type: hysteria2
+- name: CA14｜商宽｜非常安全
+  network: tcp
+  password: 5c036c72-d2dc-414d-a75d-e72b8c4ef1ab
+  port: 59025
+  server: ptxl01.xsaym.com
+  skip-cert-verify: true
+  sni: www.volcengine.com
   type: trojan

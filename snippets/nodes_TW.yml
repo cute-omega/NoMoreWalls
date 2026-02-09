@@ -1,1 +1,33 @@
-proxies: []
+proxies:
+- name: TW1｜机房｜低风险
+  network: tcp
+  password: 27d93496-4e8a-4a1a-89ba-d3c6eab0f3dc
+  port: 41274
+  server: xiaozhu1.kkieo555.cn
+  skip-cert-verify: true
+  sni: xiaozhu1.kkieo555.cn
+  type: trojan
+- name: TW2｜机房｜低风险
+  network: tcp
+  password: 27d93496-4e8a-4a1a-89ba-d3c6eab0f3dc
+  port: 41274
+  server: xiaozhu1.kkieo555.cn
+  skip-cert-verify: true
+  sni: douyin.com
+  type: trojan
+- name: TW3｜机房｜低风险
+  network: tcp
+  password: 01b1a230-078a-45ad-8d9a-8ba7ac819681
+  port: 41274
+  server: xiaozhu1.kkieo555.cn
+  skip-cert-verify: true
+  sni: xiaozhu1.kkieo555.cn
+  type: trojan
+- name: TW4｜机房｜低风险
+  network: tcp
+  password: 70af5c09-8227-49f1-a0d4-1fa7451ae352
+  port: 41274
+  server: xiaozhu1.kkieo555.cn
+  skip-cert-verify: true
+  sni: xiaozhu1.kkieo555.cn
+  type: trojan

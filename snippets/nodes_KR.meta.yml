@@ -5,24 +5,45 @@ proxies:
   tls: false
   type: socks5
   username: Og%3D%3D
-- name: KR4｜机房｜低风险
-  obfs: salamander
-  obfs-password: MKsqfibVxwhZ3pCf
-  password: fbf28ef0-3981-4ac6-ab33-95e599afdd99
-  port: 42101
-  server: kr1.miyazono-kaori.com
+- alterId: 0
+  cipher: auto
+  name: KR5｜机房｜低风险
+  network: tcp
+  port: '52838'
+  server: 49.128.219.75
+  tls: false
+  type: vmess
+  uuid: 77bc10e1-65b0-443c-8a6d-e0a08506e056
+- name: KR8｜商宽｜非常安全
+  password: 850d5445-c320-4be9-a7a7-20feca039164
+  port: 30000
+  server: kr2.jueduibupao.top
   skip-cert-verify: true
-  sni: kr1.miyazono-kaori.com
+  sni: kr2.jueduibupao.top
   tls: false
   type: hysteria2
-- name: KR5｜机房｜低风险
-  obfs: salamander
-  obfs-password: rVYx28ncsHBinunc
-  password: fbf28ef0-3981-4ac6-ab33-95e599afdd99
-  port: 42329
-  server: kr2.miyazono-kaori.com
+- name: KR9｜商宽｜非常安全
+  password: 70223341-1c5a-4ea5-b88a-b4fc1e2f5b35
+  port: 30000
+  server: kr2.jueduibupao.top
   skip-cert-verify: true
-  sni: kr2.miyazono-kaori.com
+  sni: kr2.jueduibupao.top
+  tls: false
+  type: hysteria2
+- name: KR10｜商宽｜非常安全
+  password: 0639982f-22d4-44d9-baa8-a4a7e761a5d3
+  port: 30000
+  server: kr2.jueduibupao.top
+  skip-cert-verify: true
+  sni: kr2.jueduibupao.top
+  tls: false
+  type: hysteria2
+- name: KR11｜商宽｜非常安全
+  password: 15b5b40f-02e9-47cf-a56e-768f938cc9af
+  port: 30000
+  server: kr2.jueduibupao.top
+  skip-cert-verify: true
+  sni: kr2.jueduibupao.top
   tls: false
   type: hysteria2
 - name: KR_speednode_0038

@@ -1,13 +1,4 @@
 proxies:
-- alterId: 0
-  cipher: auto
-  name: SG1｜机房｜低风险
-  network: tcp
-  port: '8080'
-  server: 47.236.78.132
-  tls: false
-  type: vmess
-  uuid: 542f6e13-9542-470c-974a-d31c0a05a37d
 - name: 新加坡1
   password: 78c2bad7-f5f3-41f2-88cc-81de9d05040b
   port: 2055

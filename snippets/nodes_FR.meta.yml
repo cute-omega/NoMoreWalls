@@ -1,13 +1,21 @@
 proxies:
 - alterId: 2
   cipher: auto
-  name: FR6｜机房｜低风险
+  name: FR3｜机房｜低风险
   network: tcp
   port: '30835'
   server: v35.hdacd.com
   tls: false
   type: vmess
   uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+- name: FR2｜原生/疑似家宽｜非常安全
+  network: tcp
+  password: 5c036c72-d2dc-414d-a75d-e72b8c4ef1ab
+  port: 59022
+  server: ptxl01.xsaym.com
+  skip-cert-verify: true
+  sni: www.volcengine.com
+  type: trojan
 - client-fingerprint: chrome
   name: FR_speednode_0017
   network: ws

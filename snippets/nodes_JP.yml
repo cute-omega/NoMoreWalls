@@ -1,10 +1,28 @@
 proxies:
-- name: JP21｜机房｜低风险
-  password: 09e71e3b-1f9f-44ab-9a10-02e0e10e2f05
-  port: 25010
-  server: 37.202.200.19
+- alterId: 2
+  cipher: auto
+  name: JP13｜机房｜低风险
+  network: tcp
+  port: '30806'
+  server: v6.hdacd.com
+  tls: false
+  type: vmess
+  uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+- name: JP28｜机房｜低风险
+  network: tcp
+  password: dab4478d-0be0-4bdc-a440-79cd262a16f6
+  port: 41273
+  server: xiaozhu1.kkieo555.cn
   skip-cert-verify: true
-  sni: 37.202.200.19
+  sni: douyin.com
+  type: trojan
+- name: JP29｜机房｜低风险
+  network: tcp
+  password: dab4478d-0be0-4bdc-a440-79cd262a16f6
+  port: 41273
+  server: xiaozhu1.kkieo555.cn
+  skip-cert-verify: true
+  sni: xiaozhu1.kkieo555.cn
   type: trojan
 - name: 日本|@ripaojiedian
   network: tcp
