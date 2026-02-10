@@ -1156,14 +1156,12 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: ♻️53@oneclickvpnkeys
-  obfs: salamander
-  obfs-password: 3Lse3bDmcLLlEa77sdYZe0o6kywbTwII
-  password: spectrumvpn
-  port: 443
-  server: uk.spectrum.vu
+- name: Telegram:@config_proxy 💦
+  password: 0db758b4-e2ea-4716-bc9f-089bf6a1a30b
+  port: 50017
+  server: zz.9966663.xyz
   skip-cert-verify: true
-  sni: www.bing.com
+  sni: do-vnyear.9966663.xyz
   tls: false
   type: hysteria2
 - name: All_7--@V2rayAlpha
