@@ -1,4 +1,23 @@
 proxies:
+- name: SG1｜原生/疑似家宽｜非常安全
+  obfs: salamander
+  obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D
+  password: c7730b65-c3c7-44a6-b1be-9d72d36679d1
+  port: 10115
+  server: sg2.pddwdf.store
+  skip-cert-verify: true
+  sni: sg2.pddwdf.store
+  tls: false
+  type: hysteria2
+- alterId: 0
+  cipher: auto
+  name: SG4｜机房｜低风险
+  network: tcp
+  port: '19231'
+  server: jy-sg.kunlun07dns.com
+  tls: false
+  type: vmess
+  uuid: 48d361a8-e9a1-3c28-9b51-47775d62077e
 - name: 新加坡1
   password: 78c2bad7-f5f3-41f2-88cc-81de9d05040b
   port: 2055

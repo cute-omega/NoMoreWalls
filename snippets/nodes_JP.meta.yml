@@ -1,141 +1,33 @@
 proxies:
-- name: JP3｜机房｜低风险
-  password: 4a40d421-5638-40a0-b5e4-13611454ef5b
-  port: 21916
-  server: kjp.sanmaojichang.com
-  skip-cert-verify: true
-  sni: kjp.sanmaojichang.com
-  tls: false
-  type: hysteria2
-- name: JP4｜机房｜低风险
-  password: 4a40d421-5638-40a0-b5e4-13611454ef5b
-  port: 21177
-  server: kjp.sanmaojichang.com
-  skip-cert-verify: true
-  sni: kjp.sanmaojichang.com
-  tls: false
-  type: hysteria2
-- name: JP8｜机房｜低风险
-  password: 4a40d421-5638-40a0-b5e4-13611454ef5b
-  port: 21221
-  server: kjp.sanmaojichang.com
-  skip-cert-verify: true
-  sni: kjp.sanmaojichang.com
-  tls: false
-  type: hysteria2
-- name: JP9｜机房｜低风险
-  password: 4a40d421-5638-40a0-b5e4-13611454ef5b
-  port: 21002
-  server: kjp.sanmaojichang.com
-  skip-cert-verify: true
-  sni: kjp.sanmaojichang.com
-  tls: false
-  type: hysteria2
 - alterId: 2
   cipher: auto
-  name: JP13｜机房｜低风险
+  name: JP7｜机房｜低风险
   network: tcp
   port: '30806'
   server: v6.hdacd.com
   tls: false
   type: vmess
   uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-- name: JP18｜商宽｜非常安全
-  password: 15b5b40f-02e9-47cf-a56e-768f938cc9af
-  port: 30000
-  server: linjp2.jueduibupao.top
+- name: JP8｜机房｜低风险
+  obfs: salamander
+  obfs-password: MDViOWY4ZmE1MjkwYzkwOA%3D%3D
+  password: c7730b65-c3c7-44a6-b1be-9d72d36679d1
+  port: 14759
+  server: rbd.pddwdf.store
   skip-cert-verify: true
-  sni: linjp2.jueduibupao.top
+  sni: rbd.pddwdf.store
   tls: false
   type: hysteria2
-- name: JP19｜商宽｜非常安全
-  password: 850d5445-c320-4be9-a7a7-20feca039164
-  port: 30000
-  server: linjp2.jueduibupao.top
+- name: JP10｜原生/疑似家宽｜非常安全
+  obfs: salamander
+  obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D
+  password: c7730b65-c3c7-44a6-b1be-9d72d36679d1
+  port: 10269
+  server: jp7.pddwdf.store
   skip-cert-verify: true
-  sni: linjp2.jueduibupao.top
+  sni: jp7.pddwdf.store
   tls: false
   type: hysteria2
-- name: JP20｜商宽｜非常安全
-  password: 0639982f-22d4-44d9-baa8-a4a7e761a5d3
-  port: 30000
-  server: linjp2.jueduibupao.top
-  skip-cert-verify: true
-  sni: linjp2.jueduibupao.top
-  tls: false
-  type: hysteria2
-- name: JP21｜商宽｜非常安全
-  password: 850d5445-c320-4be9-a7a7-20feca039164
-  port: 40349
-  server: linjp1.jueduibupao.top
-  skip-cert-verify: true
-  sni: linjp1.jueduibupao.top
-  tls: false
-  type: hysteria2
-- name: JP22｜商宽｜非常安全
-  password: 70223341-1c5a-4ea5-b88a-b4fc1e2f5b35
-  port: 30000
-  server: linjp2.jueduibupao.top
-  skip-cert-verify: true
-  sni: linjp2.jueduibupao.top
-  tls: false
-  type: hysteria2
-- name: JP23｜商宽｜非常安全
-  password: 70223341-1c5a-4ea5-b88a-b4fc1e2f5b35
-  port: 47787
-  server: linjp1.jueduibupao.top
-  skip-cert-verify: true
-  sni: linjp1.jueduibupao.top
-  tls: false
-  type: hysteria2
-- name: JP24｜商宽｜非常安全
-  password: 15b5b40f-02e9-47cf-a56e-768f938cc9af
-  port: 45376
-  server: linjp1.jueduibupao.top
-  skip-cert-verify: true
-  sni: linjp1.jueduibupao.top
-  tls: false
-  type: hysteria2
-- name: JP25｜商宽｜非常安全
-  password: 0639982f-22d4-44d9-baa8-a4a7e761a5d3
-  port: 41390
-  server: linjp1.jueduibupao.top
-  skip-cert-verify: true
-  sni: linjp1.jueduibupao.top
-  tls: false
-  type: hysteria2
-- name: JP26｜商宽｜非常安全
-  password: 8b4c179c-d028-4e67-ba31-0ecd16062425
-  port: 30000
-  server: linjp2.jueduibupao.top
-  skip-cert-verify: true
-  sni: linjp2.jueduibupao.top
-  tls: false
-  type: hysteria2
-- name: JP27｜商宽｜非常安全
-  password: 8b4c179c-d028-4e67-ba31-0ecd16062425
-  port: 48818
-  server: linjp1.jueduibupao.top
-  skip-cert-verify: true
-  sni: linjp1.jueduibupao.top
-  tls: false
-  type: hysteria2
-- name: JP28｜机房｜低风险
-  network: tcp
-  password: dab4478d-0be0-4bdc-a440-79cd262a16f6
-  port: 41273
-  server: xiaozhu1.kkieo555.cn
-  skip-cert-verify: true
-  sni: douyin.com
-  type: trojan
-- name: JP29｜机房｜低风险
-  network: tcp
-  password: dab4478d-0be0-4bdc-a440-79cd262a16f6
-  port: 41273
-  server: xiaozhu1.kkieo555.cn
-  skip-cert-verify: true
-  sni: xiaozhu1.kkieo555.cn
-  type: trojan
 - name: JP
   password: 95D27EEF-B7AE-4076-BA39-40FDFA3D0F61
   port: 13778

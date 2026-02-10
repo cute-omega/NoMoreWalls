@@ -1,142 +1,150 @@
 proxies:
-- name: DE40｜原生/疑似家宽｜高风险 (黑名单)
-  port: 1080
-  server: 193.233.254.7
-  tls: false
-  type: socks5
-  username: VDJkQU1Ua3pMakl6TXk0eU5UUXVOem9AMTkzLjIzMy4yNTQuNzo%3D
-- name: DE35｜原生/疑似家宽｜高风险 (黑名单)
+- name: DE105｜原生/疑似家宽｜高风险 (黑名单)
   port: 1080
   server: 193.233.254.9
   tls: false
   type: socks5
   username: T2dAMTkzLjIzMy4yNTQuOTo%3D
-- name: DE54｜原生/疑似家宽｜高风险 (黑名单)
+- name: DE112｜原生/疑似家宽｜高风险 (黑名单)
   port: 1080
   server: 193.233.254.8
   tls: false
   type: socks5
   username: VDJkQU1Ua3pMakl6TXk0eU5UUXVPRHBBTVRrekxqSXpNeTR5TlRRdU9EbyUzRDo%3D
-- alterId: 0
-  cipher: auto
-  name: DE50｜机房｜高风险 (黑名单)
-  network: tcp
-  port: '180'
-  server: 82.198.246.97
+- name: DE148｜原生/疑似家宽｜高风险 (黑名单)
+  port: 1080
+  server: 193.233.254.7
   tls: false
-  type: vmess
-  uuid: d13fc2f5-3e05-4795-81eb-44143a09e552
-- alpn:
-  - h3
-  congestion-controller: bbr
-  name: DE23｜原生/疑似家宽｜非常安全
-  password: 08030894-57a7-49e8-83a5-0b99d7a1b820
-  port: 1443
-  server: 94.159.107.136
-  skip-cert-verify: true
-  sni: de2.587458.xyz
-  type: tuic
-  udp-relay-mode: native
-  uuid: 08030894-57a7-49e8-83a5-0b99d7a1b820
-- name: DE27｜机房｜低风险
-  network: ws
-  password: 077da111-33ac-4453-a37d-69e7ccc647a0
-  port: 2096
-  server: bestcdn1.868863.xyz
-  skip-cert-verify: true
-  sni: 17706091711317.206353.xyz
-  type: trojan
-  ws-opts:
-    headers:
-      Host: 17706091716633.206353.xyz
-    path: '%2Fagrbniuh'
-- name: DE28｜机房｜低风险
-  network: ws
-  password: 077da111-33ac-4453-a37d-69e7ccc647a0
-  port: 2087
-  server: bestcdn2.868863.xyz
-  skip-cert-verify: true
-  sni: 17706091716314.206353.xyz
-  type: trojan
-  ws-opts:
-    headers:
-      Host: 17706091717095.206353.xyz
-    path: '%2Fagrbniuh'
-- name: DE29｜机房｜低风险
-  network: ws
-  password: 077da111-33ac-4453-a37d-69e7ccc647a0
-  port: 2083
-  server: bestcdn3.868863.xyz
-  skip-cert-verify: true
-  sni: 17706091712794.206353.xyz
-  type: trojan
-  ws-opts:
-    headers:
-      Host: 17706091719622.206353.xyz
-    path: '%2Fagrbniuh'
-- name: DE30｜机房｜低风险
-  network: ws
-  password: 077da111-33ac-4453-a37d-69e7ccc647a0
-  port: 8443
-  server: bestcdn4.868863.xyz
-  skip-cert-verify: true
-  sni: 17706091712616.206353.xyz
-  type: trojan
-  ws-opts:
-    headers:
-      Host: 17706091712687.206353.xyz
-    path: '%2Fagrbniuh'
-- name: DE31｜机房｜低风险
-  network: ws
-  password: 077da111-33ac-4453-a37d-69e7ccc647a0
-  port: 2053
-  server: bestcdn5.868863.xyz
-  skip-cert-verify: true
-  sni: 17706091718618.206353.xyz
-  type: trojan
-  ws-opts:
-    headers:
-      Host: 17706091713495.206353.xyz
-    path: '%2Fagrbniuh'
+  type: socks5
+  username: T2dAMTkzLjIzMy4yNTQuNzo%3D
 - alterId: 2
   cipher: auto
-  name: DE41｜机房｜低风险
+  name: DE150｜机房｜低风险
   network: tcp
   port: '30833'
   server: v33.hdacd.com
   tls: false
   type: vmess
   uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-- name: DE46｜原生/疑似家宽｜非常安全
-  obfs: salamander
-  obfs-password: NDhhNmY5YTY0MGYzOTgxYQ%3D%3D
-  password: d1d81655-1466-4695-a54f-bcbb42a62d8f
-  port: 8443
-  server: 185.181.10.186
-  skip-cert-verify: true
-  tls: false
-  type: hysteria2
-- name: DE47｜原生/疑似家宽｜非常安全
+- alterId: 0
+  cipher: auto
+  name: DE110｜机房｜高风险 (黑名单)
   network: tcp
-  password: 5c036c72-d2dc-414d-a75d-e72b8c4ef1ab
-  port: 59023
-  server: ptxl01.xsaym.com
-  skip-cert-verify: true
-  sni: www.volcengine.com
-  type: trojan
-- name: DE51｜原生/疑似家宽｜非常安全
-  obfs: salamander
-  obfs-password: NDhhNmY5YTY0MGYzOTgxYQ%3D%3D
-  password: 5470f09a-8c99-4aff-9646-dc2339ac70e1
-  port: 8443
-  server: 185.181.10.186
-  skip-cert-verify: true
+  port: '180'
+  server: 82.198.246.97
   tls: false
-  type: hysteria2
-- name: DE52｜原生/疑似家宽｜非常安全
+  type: vmess
+  uuid: d13fc2f5-3e05-4795-81eb-44143a09e552
+- name: DE111｜原生/疑似家宽｜非常安全
   obfs: salamander
   obfs-password: NDhhNmY5YTY0MGYzOTgxYQ%3D%3D
   password: e5f27a79-903a-4d78-8d27-61adc1fad463
+  port: 8443
+  server: 185.181.10.186
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: DE138｜原生/疑似家宽｜非常安全
+  obfs: salamander
+  obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D
+  password: c7730b65-c3c7-44a6-b1be-9d72d36679d1
+  port: 42586
+  server: de.pddwdf.store
+  skip-cert-verify: true
+  sni: de.pddwdf.store
+  tls: false
+  type: hysteria2
+- name: DE139｜机房｜低风险
+  network: ws
+  password: 5d21ca08-7d16-4230-a20b-01edd62751f4
+  port: 2096
+  server: bestcdn1.868863.xyz
+  skip-cert-verify: true
+  sni: 17707072627877.206353.xyz
+  type: trojan
+  ws-opts:
+    headers:
+      Host: 17707072623964.206353.xyz
+    path: '%2Fagrbniuh'
+- name: DE140｜机房｜低风险
+  network: ws
+  password: 5d21ca08-7d16-4230-a20b-01edd62751f4
+  port: 2087
+  server: bestcdn2.868863.xyz
+  skip-cert-verify: true
+  sni: 17707072623862.206353.xyz
+  type: trojan
+  ws-opts:
+    headers:
+      Host: 17707072625362.206353.xyz
+    path: '%2Fagrbniuh'
+- name: DE141｜机房｜低风险
+  network: ws
+  password: 5d21ca08-7d16-4230-a20b-01edd62751f4
+  port: 2083
+  server: bestcdn3.868863.xyz
+  skip-cert-verify: true
+  sni: 17707072621507.206353.xyz
+  type: trojan
+  ws-opts:
+    headers:
+      Host: 17707072621689.206353.xyz
+    path: '%2Fagrbniuh'
+- name: DE142｜机房｜低风险
+  network: ws
+  password: 5d21ca08-7d16-4230-a20b-01edd62751f4
+  port: 8443
+  server: bestcdn4.868863.xyz
+  skip-cert-verify: true
+  sni: 17707072622231.206353.xyz
+  type: trojan
+  ws-opts:
+    headers:
+      Host: 17707072624307.206353.xyz
+    path: '%2Fagrbniuh'
+- name: DE143｜机房｜低风险
+  network: ws
+  password: 5d21ca08-7d16-4230-a20b-01edd62751f4
+  port: 2053
+  server: bestcdn5.868863.xyz
+  skip-cert-verify: true
+  sni: 17707072622347.206353.xyz
+  type: trojan
+  ws-opts:
+    headers:
+      Host: 17707072625920.206353.xyz
+    path: '%2Fagrbniuh'
+- name: DE149｜原生/疑似家宽｜非常安全
+  obfs: salamander
+  obfs-password: NDhhNmY5YTY0MGYzOTgxYQ%3D%3D
+  password: 052e929f-df99-4e77-b7da-65aab4e2f55a
+  port: 8443
+  server: 185.181.10.186
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: DE151｜原生/疑似家宽｜非常安全
+  obfs: salamander
+  obfs-password: NDhhNmY5YTY0MGYzOTgxYQ%3D%3D
+  password: 003b6a3f-4bff-46f7-a515-73c734a24dd7
+  port: 8443
+  server: 185.181.10.186
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: DE152｜原生/疑似家宽｜非常安全
+  obfs: salamander
+  obfs-password: NDhhNmY5YTY0MGYzOTgxYQ%3D%3D
+  password: ae1e9e85-bf40-427f-bb50-2623f34cc832
+  port: 8443
+  server: 185.181.10.186
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: DE153｜原生/疑似家宽｜非常安全
+  obfs: salamander
+  obfs-password: NDhhNmY5YTY0MGYzOTgxYQ%3D%3D
+  password: 5470f09a-8c99-4aff-9646-dc2339ac70e1
   port: 8443
   server: 185.181.10.186
   skip-cert-verify: true

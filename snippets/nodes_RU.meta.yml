@@ -1,12 +1,10 @@
 proxies:
-- name: RU1｜商宽｜非常安全
-  network: tcp
-  password: 5c036c72-d2dc-414d-a75d-e72b8c4ef1ab
-  port: 59032
-  server: eluosi.xsaym.com
-  skip-cert-verify: true
-  sni: www.volcengine.com
-  type: trojan
+- name: RU1｜家宽｜高风险 (黑名单)
+  port: 1080
+  server: 46.146.220.247
+  tls: false
+  type: socks5
+  username: Og%3D%3D
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
   name: RU_speednode_0062

@@ -1,9 +1,1 @@
-proxies:
-- name: CA14｜商宽｜非常安全
-  network: tcp
-  password: 5c036c72-d2dc-414d-a75d-e72b8c4ef1ab
-  port: 59025
-  server: ptxl01.xsaym.com
-  skip-cert-verify: true
-  sni: www.volcengine.com
-  type: trojan
+proxies: []
