@@ -187,5 +187,5 @@ vless://5566ef21-b44d-4f2f-9356-6664a7c611ee@fbi.gov:443?allowInsecure=0&sni=mc2
 vless://a44e0875-210f-4941-9062-89b6361a14c6@94.131.123.167:443?allowInsecure=0&sni=apple.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#US_speednode_0056
 vless://5566ef21-b44d-4f2f-9356-6664a7c611ee@8.34.146.255:2083?allowInsecure=0&sni=mc2-1rw.pages.dev&type=ws&host=mc2-1rw.pages.dev&path=/proxyip=sjc.o00o.ooofp=chrome&security=tls#US_speednode_0057
 https://c870fe5a-0729-11f0-8cf9-f23c93136cb3:c870fe5a-0729-11f0-8cf9-f23c93136cb3@c1241cd5-tacsg0-tgp57k-ddgs.seadc2.cdnbytescm.com:3443
-anytls://c7730b65-c3c7-44a6-b1be-9d72d36679d1@hk.pddwdf.store:11264?security=none&type=tcp&allowInsecure=1&sni=hk.pddwdf.store&udp=1&insecure=1#HK45%EF%BD%9C%E5%8E%9F%E7%94%9F%2F%E7%96%91%E4%BC%BC%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
 anytls://0db758b4-e2ea-4716-bc9f-089bf6a1a30b@zz.9966663.xyz:50013?security=none&type=tcp&alpn=h2&allowInsecure=1&sni=mumbai-01.oraclenat.cc&fp=chrome&udp=1&insecure=1#IN5%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
+anytls://c7730b65-c3c7-44a6-b1be-9d72d36679d1@hk.pddwdf.store:11264?security=none&type=tcp&allowInsecure=1&sni=hk.pddwdf.store&udp=1&insecure=1#HK45%EF%BD%9C%E5%8E%9F%E7%94%9F%2F%E7%96%91%E4%BC%BC%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
