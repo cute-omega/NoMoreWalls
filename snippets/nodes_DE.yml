@@ -1,81 +1,72 @@
 proxies:
-- alterId: 2
-  cipher: auto
-  name: DE150｜机房｜低风险
-  network: tcp
-  port: '30833'
-  server: v33.hdacd.com
-  tls: false
-  type: vmess
-  uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
 - alterId: 0
   cipher: auto
-  name: DE110｜机房｜高风险 (黑名单)
+  name: DE21｜机房｜高风险 (黑名单)
   network: tcp
   port: '180'
   server: 82.198.246.97
   tls: false
   type: vmess
   uuid: d13fc2f5-3e05-4795-81eb-44143a09e552
-- name: DE139｜机房｜低风险
+- name: DE12｜机房｜低风险
   network: ws
-  password: 5d21ca08-7d16-4230-a20b-01edd62751f4
+  password: 3e3df21c-9db1-4df0-9c52-60684afae25f
   port: 2096
   server: bestcdn1.868863.xyz
   skip-cert-verify: true
-  sni: 17707072627877.206353.xyz
+  sni: 17708034064699.206353.xyz
   type: trojan
   ws-opts:
     headers:
-      Host: 17707072623964.206353.xyz
+      Host: 17708034067055.206353.xyz
     path: '%2Fagrbniuh'
-- name: DE140｜机房｜低风险
+- name: DE13｜机房｜低风险
   network: ws
-  password: 5d21ca08-7d16-4230-a20b-01edd62751f4
+  password: 3e3df21c-9db1-4df0-9c52-60684afae25f
   port: 2087
   server: bestcdn2.868863.xyz
   skip-cert-verify: true
-  sni: 17707072623862.206353.xyz
+  sni: 17708034064668.206353.xyz
   type: trojan
   ws-opts:
     headers:
-      Host: 17707072625362.206353.xyz
+      Host: 17708034066836.206353.xyz
     path: '%2Fagrbniuh'
-- name: DE141｜机房｜低风险
+- name: DE14｜机房｜低风险
   network: ws
-  password: 5d21ca08-7d16-4230-a20b-01edd62751f4
+  password: 3e3df21c-9db1-4df0-9c52-60684afae25f
   port: 2083
   server: bestcdn3.868863.xyz
   skip-cert-verify: true
-  sni: 17707072621507.206353.xyz
+  sni: 17708034069357.206353.xyz
   type: trojan
   ws-opts:
     headers:
-      Host: 17707072621689.206353.xyz
+      Host: 17708034067412.206353.xyz
     path: '%2Fagrbniuh'
-- name: DE142｜机房｜低风险
+- name: DE15｜机房｜低风险
   network: ws
-  password: 5d21ca08-7d16-4230-a20b-01edd62751f4
+  password: 3e3df21c-9db1-4df0-9c52-60684afae25f
   port: 8443
   server: bestcdn4.868863.xyz
   skip-cert-verify: true
-  sni: 17707072622231.206353.xyz
+  sni: 17708034069808.206353.xyz
   type: trojan
   ws-opts:
     headers:
-      Host: 17707072624307.206353.xyz
+      Host: 17708034069343.206353.xyz
     path: '%2Fagrbniuh'
-- name: DE143｜机房｜低风险
+- name: DE16｜机房｜低风险
   network: ws
-  password: 5d21ca08-7d16-4230-a20b-01edd62751f4
+  password: 3e3df21c-9db1-4df0-9c52-60684afae25f
   port: 2053
   server: bestcdn5.868863.xyz
   skip-cert-verify: true
-  sni: 17707072622347.206353.xyz
+  sni: 17708034063909.206353.xyz
   type: trojan
   ws-opts:
     headers:
-      Host: 17707072625920.206353.xyz
+      Host: 17708034064507.206353.xyz
     path: '%2Fagrbniuh'
 - name: DE_speednode_0014
   password: telegram-id-directvpn

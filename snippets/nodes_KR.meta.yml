@@ -1,26 +1,7 @@
 proxies:
-- name: KR4｜家宽｜高风险 (黑名单)
+- name: KR3｜家宽｜高风险 (黑名单)
   port: 1090
   server: 121.169.46.116
   tls: false
   type: socks5
   username: Og%3D%3D
-- alterId: 0
-  cipher: auto
-  name: KR5｜机房｜低风险
-  network: tcp
-  port: '52838'
-  server: 49.128.219.75
-  tls: false
-  type: vmess
-  uuid: 77bc10e1-65b0-443c-8a6d-e0a08506e056
-- name: KR6｜原生/疑似家宽｜非常安全
-  obfs: salamander
-  obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D
-  password: c7730b65-c3c7-44a6-b1be-9d72d36679d1
-  port: 17526
-  server: kor-2.pddwdf.store
-  skip-cert-verify: true
-  sni: kor-2.pddwdf.store
-  tls: false
-  type: hysteria2

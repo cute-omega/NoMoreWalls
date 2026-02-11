@@ -1,33 +1,4 @@
 proxies:
-- alterId: 2
-  cipher: auto
-  name: JP7｜机房｜低风险
-  network: tcp
-  port: '30806'
-  server: v6.hdacd.com
-  tls: false
-  type: vmess
-  uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-- name: JP8｜机房｜低风险
-  obfs: salamander
-  obfs-password: MDViOWY4ZmE1MjkwYzkwOA%3D%3D
-  password: c7730b65-c3c7-44a6-b1be-9d72d36679d1
-  port: 14759
-  server: rbd.pddwdf.store
-  skip-cert-verify: true
-  sni: rbd.pddwdf.store
-  tls: false
-  type: hysteria2
-- name: JP10｜原生/疑似家宽｜非常安全
-  obfs: salamander
-  obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D
-  password: c7730b65-c3c7-44a6-b1be-9d72d36679d1
-  port: 10269
-  server: jp7.pddwdf.store
-  skip-cert-verify: true
-  sni: jp7.pddwdf.store
-  tls: false
-  type: hysteria2
 - name: JP
   password: 95D27EEF-B7AE-4076-BA39-40FDFA3D0F61
   port: 13778

@@ -1,14 +1,1 @@
-proxies:
-- alterId: 0
-  cipher: auto
-  name: TW3｜机房｜低风险
-  network: ws
-  port: '16616'
-  server: 85.211.193.182
-  tls: false
-  type: vmess
-  uuid: 4d6b968c-f407-4db3-8e7a-ae3fbde88b59
-  ws-opts:
-    headers:
-      Host: f9284851563c51e7c263e65b3776498a.mobgslb.tbcache.com
-    path: /
+proxies: []

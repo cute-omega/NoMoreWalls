@@ -1,11 +1,1 @@
-proxies:
-- name: GB154｜原生/疑似家宽｜非常安全
-  obfs: salamander
-  obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D
-  password: c7730b65-c3c7-44a6-b1be-9d72d36679d1
-  port: 36225
-  server: uk.pddwdf.store
-  skip-cert-verify: true
-  sni: uk.pddwdf.store
-  tls: false
-  type: hysteria2
+proxies: []

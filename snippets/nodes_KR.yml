@@ -1,10 +1,1 @@
-proxies:
-- alterId: 0
-  cipher: auto
-  name: KR5｜机房｜低风险
-  network: tcp
-  port: '52838'
-  server: 49.128.219.75
-  tls: false
-  type: vmess
-  uuid: 77bc10e1-65b0-443c-8a6d-e0a08506e056
+proxies: []
