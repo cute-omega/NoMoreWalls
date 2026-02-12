@@ -1,85 +1,61 @@
 proxies:
-- alterId: 0
-  cipher: auto
-  name: DE21｜机房｜高风险 (黑名单)
-  network: tcp
-  port: '180'
-  server: 82.198.246.97
-  tls: false
-  type: vmess
-  uuid: d13fc2f5-3e05-4795-81eb-44143a09e552
-- name: DE12｜机房｜低风险
+- name: DE4｜机房｜低风险
   network: ws
-  password: 3e3df21c-9db1-4df0-9c52-60684afae25f
+  password: 42714fa2-595c-4993-8b9b-83081e51c076
   port: 2096
   server: bestcdn1.868863.xyz
   skip-cert-verify: true
-  sni: 17708034064699.206353.xyz
+  sni: 17708924957050.206353.xyz
   type: trojan
   ws-opts:
     headers:
-      Host: 17708034067055.206353.xyz
+      Host: 17708924956392.206353.xyz
     path: '%2Fagrbniuh'
-- name: DE13｜机房｜低风险
+- name: DE5｜机房｜低风险
   network: ws
-  password: 3e3df21c-9db1-4df0-9c52-60684afae25f
+  password: 42714fa2-595c-4993-8b9b-83081e51c076
   port: 2087
   server: bestcdn2.868863.xyz
   skip-cert-verify: true
-  sni: 17708034064668.206353.xyz
+  sni: 17708924952960.206353.xyz
   type: trojan
   ws-opts:
     headers:
-      Host: 17708034066836.206353.xyz
+      Host: 17708924957257.206353.xyz
     path: '%2Fagrbniuh'
-- name: DE14｜机房｜低风险
+- name: DE6｜机房｜低风险
   network: ws
-  password: 3e3df21c-9db1-4df0-9c52-60684afae25f
+  password: 42714fa2-595c-4993-8b9b-83081e51c076
   port: 2083
   server: bestcdn3.868863.xyz
   skip-cert-verify: true
-  sni: 17708034069357.206353.xyz
+  sni: 17708924956712.206353.xyz
   type: trojan
   ws-opts:
     headers:
-      Host: 17708034067412.206353.xyz
+      Host: 17708924953206.206353.xyz
     path: '%2Fagrbniuh'
-- name: DE15｜机房｜低风险
+- name: DE7｜机房｜低风险
   network: ws
-  password: 3e3df21c-9db1-4df0-9c52-60684afae25f
+  password: 42714fa2-595c-4993-8b9b-83081e51c076
   port: 8443
   server: bestcdn4.868863.xyz
   skip-cert-verify: true
-  sni: 17708034069808.206353.xyz
+  sni: 17708924954983.206353.xyz
   type: trojan
   ws-opts:
     headers:
-      Host: 17708034069343.206353.xyz
+      Host: 17708924952003.206353.xyz
     path: '%2Fagrbniuh'
-- name: DE16｜机房｜低风险
+- name: DE8｜机房｜低风险
   network: ws
-  password: 3e3df21c-9db1-4df0-9c52-60684afae25f
+  password: 42714fa2-595c-4993-8b9b-83081e51c076
   port: 2053
   server: bestcdn5.868863.xyz
   skip-cert-verify: true
-  sni: 17708034063909.206353.xyz
+  sni: 17708924958661.206353.xyz
   type: trojan
   ws-opts:
     headers:
-      Host: 17708034064507.206353.xyz
+      Host: 17708924954898.206353.xyz
     path: '%2Fagrbniuh'
-- name: DE_speednode_0014
-  password: telegram-id-directvpn
-  port: 22223
-  server: 3.77.68.129
-  skip-cert-verify: true
-  sni: trojan.burgerip.co.uk
-  type: trojan
-  udp: true
-- name: DE_speednode_0016
-  password: telegram-id-directvpn
-  port: 22223
-  server: 18.195.91.205
-  skip-cert-verify: true
-  type: trojan
-  udp: true

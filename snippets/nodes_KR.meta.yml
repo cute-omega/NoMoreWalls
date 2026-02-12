@@ -1,7 +1,8 @@
 proxies:
-- name: KR3｜家宽｜高风险 (黑名单)
+- name: KR_speednode_0005
   port: 1090
   server: 121.169.46.116
   tls: false
   type: socks5
+  udp: true
   username: Og%3D%3D
