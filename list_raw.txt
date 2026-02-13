@@ -82,6 +82,7 @@ hysteria2://04c2a097-5ed8-49b6-9860-cb4667583745@mlxy2.xiaoliyu.us:2056?insecure
 hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@mg2.mangshe.xyz:2056?insecure=1&sni=mg2.mangshe.xyz#%E7%BE%8E%E5%9B%BD2
 hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xjp1.mangshe.xyz:2055?insecure=1&sni=xjp1.mangshe.xyz#%E6%96%B0%E5%8A%A0%E5%9D%A11
 hysteria2://95D27EEF-B7AE-4076-BA39-40FDFA3D0F61@jp7.dexlos.com:13778?insecure=1#JP
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%F0%9F%AA%9D24%40oneclickvpnkeys
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35200?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%F0%9F%92%AB62%40oneclickvpnkeys
 hysteria2://a084933d-0b41-4571-ae0c-7163b8c71ed1@de.eyucdn.xyz:2056?insecure=1&sni=de.eyucdn.xyz#DE
 hysteria2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com:443?sni=ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com#%F0%9F%87%AD%F0%9F%87%B0%20HK
@@ -123,5 +124,5 @@ vless://12cb9911-a48d-4147-85cc-68dd678e94c6@64.188.64.59:443?allowInsecure=0&sn
 vless://b183589d-5e32-4141-a39a-6cb747964c67@pl2.jugsenkeys4pays.su:443?allowInsecure=0&sni=pl2.jugsenkeys4pays.su&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#US_speednode_0015
 anytls://0db758b4-e2ea-4716-bc9f-089bf6a1a30b@zz.9966663.xyz:50013?security=none&type=tcp&alpn=h2&allowInsecure=1&sni=mumbai-01.oraclenat.cc&fp=chrome&udp=1&insecure=1#IN2%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
 anytls://0db758b4-e2ea-4716-bc9f-089bf6a1a30b@zz.9966663.xyz:50015?security=none&type=tcp&alpn=h2&allowInsecure=1&sni=mumbai-01.oraclenat.cc&fp=chrome&udp=1&insecure=1#IN5%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
-anytls://0db758b4-e2ea-4716-bc9f-089bf6a1a30b@zz.9966663.xyz:50011?security=none&type=tcp&alpn=h2&allowInsecure=1&sni=mumbai-01.oraclenat.cc&fp=chrome&udp=1&insecure=1#IN3%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
 anytls://0db758b4-e2ea-4716-bc9f-089bf6a1a30b@zz.9966663.xyz:50012?security=none&type=tcp&alpn=h2&allowInsecure=1&sni=mumbai-01.oraclenat.cc&fp=chrome&udp=1&insecure=1#IN4%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
+anytls://0db758b4-e2ea-4716-bc9f-089bf6a1a30b@zz.9966663.xyz:50011?security=none&type=tcp&alpn=h2&allowInsecure=1&sni=mumbai-01.oraclenat.cc&fp=chrome&udp=1&insecure=1#IN3%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
