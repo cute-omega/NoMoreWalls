@@ -1,76 +1,95 @@
 proxies:
-- name: DE4｜机房｜低风险
+- alterId: 0
+  cipher: auto
+  name: DE13｜机房｜高风险 (黑名单)
+  network: tcp
+  port: '180'
+  server: 82.198.246.97
+  tls: false
+  type: vmess
+  uuid: d13fc2f5-3e05-4795-81eb-44143a09e552
+- name: DE3｜机房｜低风险
   network: ws
-  password: 42714fa2-595c-4993-8b9b-83081e51c076
+  password: f0defe70-4c27-4d66-bada-0240e4f49880
   port: 2096
   server: bestcdn1.868863.xyz
   skip-cert-verify: true
-  sni: 17708924957050.206353.xyz
+  sni: 17710527843306.206353.xyz
   type: trojan
   ws-opts:
     headers:
-      Host: 17708924956392.206353.xyz
+      Host: 17710527849494.206353.xyz
     path: '%2Fagrbniuh'
-- name: DE5｜机房｜低风险
+- name: DE4｜机房｜低风险
   network: ws
-  password: 42714fa2-595c-4993-8b9b-83081e51c076
+  password: f0defe70-4c27-4d66-bada-0240e4f49880
   port: 2087
   server: bestcdn2.868863.xyz
   skip-cert-verify: true
-  sni: 17708924952960.206353.xyz
+  sni: 17710527843673.206353.xyz
   type: trojan
   ws-opts:
     headers:
-      Host: 17708924957257.206353.xyz
+      Host: 17710527847383.206353.xyz
     path: '%2Fagrbniuh'
-- name: DE6｜机房｜低风险
+- name: DE5｜机房｜低风险
   network: ws
-  password: 42714fa2-595c-4993-8b9b-83081e51c076
+  password: f0defe70-4c27-4d66-bada-0240e4f49880
   port: 2083
   server: bestcdn3.868863.xyz
   skip-cert-verify: true
-  sni: 17708924956712.206353.xyz
+  sni: 17710527846479.206353.xyz
   type: trojan
   ws-opts:
     headers:
-      Host: 17708924953206.206353.xyz
+      Host: 17710527846832.206353.xyz
     path: '%2Fagrbniuh'
-- name: DE7｜机房｜低风险
+- name: DE6｜机房｜低风险
   network: ws
-  password: 42714fa2-595c-4993-8b9b-83081e51c076
+  password: f0defe70-4c27-4d66-bada-0240e4f49880
   port: 8443
   server: bestcdn4.868863.xyz
   skip-cert-verify: true
-  sni: 17708924954983.206353.xyz
+  sni: 17710527849389.206353.xyz
   type: trojan
   ws-opts:
     headers:
-      Host: 17708924952003.206353.xyz
+      Host: 17710527845673.206353.xyz
     path: '%2Fagrbniuh'
-- name: DE8｜机房｜低风险
+- name: DE7｜机房｜低风险
   network: ws
-  password: 42714fa2-595c-4993-8b9b-83081e51c076
+  password: f0defe70-4c27-4d66-bada-0240e4f49880
   port: 2053
   server: bestcdn5.868863.xyz
   skip-cert-verify: true
-  sni: 17708924958661.206353.xyz
+  sni: 17710527849779.206353.xyz
   type: trojan
   ws-opts:
     headers:
-      Host: 17708924954898.206353.xyz
+      Host: 17710527847573.206353.xyz
     path: '%2Fagrbniuh'
-- name: DE13｜原生/疑似家宽｜高风险 (黑名单)
-  port: 1080
-  server: 193.233.254.9
+- alterId: 0
+  cipher: auto
+  name: DE9｜机房｜低风险
+  network: ws
+  port: '8080'
+  server: 104.19.37.10
   tls: false
-  type: socks5
-  username: T2dAMTkzLjIzMy4yNTQuOTo%3D
-- name: DE17｜原生/疑似家宽｜高风险 (黑名单)
-  port: 1080
-  server: 193.233.254.8
+  type: vmess
+  uuid: 88888888-8888-8888-8888-888888888888
+  ws-opts:
+    headers:
+      Host: nasnet-571299667.rahavard365.co
+    path: /NASNET/cdn?ed=2560
+- alterId: 2
+  cipher: auto
+  name: DE11｜机房｜低风险
+  network: tcp
+  port: '30833'
+  server: v33.hdacd.com
   tls: false
-  type: socks5
-  username: VDJkQU1Ua3pMakl6TXk0eU5UUXVPRG8lM0Q6
+  type: vmess
+  uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
 - name: DE
   password: a084933d-0b41-4571-ae0c-7163b8c71ed1
   port: 2056

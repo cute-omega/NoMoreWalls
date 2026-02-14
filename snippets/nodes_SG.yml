@@ -13,20 +13,6 @@ proxies:
     headers:
       Host: sg.dalxy.eu.org
     path: /a88a71fa-ed7c-48d3-89e0-74a00d605d88-vm
-- alterId: 0
-  cipher: auto
-  name: SG2｜商宽｜非常安全
-  network: ws
-  port: '35951'
-  server: 36.50.90.241
-  servername: sg.dalxy.eu.org
-  tls: true
-  type: vmess
-  uuid: a88a71fa-ed7c-48d3-89e0-74a00d605d88
-  ws-opts:
-    headers:
-      Host: sg.dalxy.eu.org
-    path: /a88a71fa-ed7c-48d3-89e0-74a00d605d88-vm
 - name: 新加坡|@ripaojiedian
   network: tcp
   password: 9372cb81c7b0ad903f91f2f8a4d3f02b
