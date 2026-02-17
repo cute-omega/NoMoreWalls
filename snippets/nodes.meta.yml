@@ -253,7 +253,7 @@ proxies:
   sni: 🔒
   tls: false
   type: hysteria2
-- name: '@Trick_mobil #1'
+- name: '⚡Telegram = @SOSkeyNET #5'
   password: 41aec03d-4345-4bff-9bab-69d36d80033c
   port: 2056
   server: ru.eyucdn.xyz
@@ -282,14 +282,6 @@ proxies:
   port: 13778
   server: jp7.dexlos.com
   skip-cert-verify: true
-  tls: false
-  type: hysteria2
-- name: '@Trick_mobil #5'
-  password: Telegram-->@Ln2Ray
-  port: 45000
-  server: gavazn.lnmarketplace.net
-  skip-cert-verify: true
-  sni: 🔒
   tls: false
   type: hysteria2
 - name: DE
@@ -323,12 +315,35 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 💞2@oneclickvpnkeys
-  password: zhangyang
-  port: 6443
-  server: 130.61.50.75
+- name: '⚡Telegram = @SOSkeyNET #1'
+  password: 41aec03d-4345-4bff-9bab-69d36d80033c
+  port: 2056
+  server: 94.103.3.40
   skip-cert-verify: true
-  sni: dash.cloudflare.com
+  sni: ru.eyucdn.xyz
+  tls: false
+  type: hysteria2
+- name: '⚡Telegram = @SOSkeyNET #3'
+  password: 41aec03d-4345-4bff-9bab-69d36d80033c
+  port: 2056
+  server: ru.eyucdn.xyz
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: '⚡Telegram = @SOSkeyNET #7'
+  password: 7dd10318-28fd-413f-81f0-cd0a286e4779
+  port: 2056
+  server: flkf2.mangshe.xyz
+  skip-cert-verify: true
+  sni: flkf2.mangshe.xyz
+  tls: false
+  type: hysteria2
+- name: '⚡Telegram = @SOSkeyNET #8'
+  password: 7dd10318-28fd-413f-81f0-cd0a286e4779
+  port: 2056
+  server: mg5.mangshe.xyz
+  skip-cert-verify: true
+  sni: mg5.mangshe.xyz
   tls: false
   type: hysteria2
 - name: 🟢Ṭelegram"@Filtering2020"
@@ -361,7 +376,7 @@ proxies:
   sni: gavazn.55994421.xyz
   tls: false
   type: hysteria2
-- name: '@filembad'
+- name: '@filtershekanfilm #1'
   obfs: salamander
   obfs-password: Telegram-->@Ln2Ray
   password: Telegram-->
