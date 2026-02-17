@@ -1,7 +1,7 @@
 proxies:
 - alterId: 2
   cipher: auto
-  name: JP3｜机房｜低风险
+  name: JP2｜机房｜低风险
   network: tcp
   port: '30806'
   server: v6.hdacd.com

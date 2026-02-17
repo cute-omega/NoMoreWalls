@@ -1,18 +1,4 @@
 proxies:
-- alterId: 0
-  cipher: auto
-  name: SG1｜商宽｜非常安全
-  network: ws
-  port: '47790'
-  server: 36.50.90.241
-  servername: sg.dalxy.eu.org
-  tls: true
-  type: vmess
-  uuid: a88a71fa-ed7c-48d3-89e0-74a00d605d88
-  ws-opts:
-    headers:
-      Host: sg.dalxy.eu.org
-    path: /a88a71fa-ed7c-48d3-89e0-74a00d605d88-vm
 - name: SG
   password: e7965e64-e001-4e8c-8273-39c61ff4a094
   port: 30000

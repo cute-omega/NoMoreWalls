@@ -1,7 +1,7 @@
 proxies:
 - alterId: 2
   cipher: auto
-  name: FR2｜机房｜低风险
+  name: FR5｜机房｜低风险
   network: tcp
   port: '30835'
   server: v35.hdacd.com

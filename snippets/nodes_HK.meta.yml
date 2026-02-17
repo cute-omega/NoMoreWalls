@@ -1,7 +1,7 @@
 proxies:
 - alterId: 0
   cipher: auto
-  name: HK5｜原生/疑似家宽｜非常安全
+  name: HK5｜原生/疑似家宽｜高风险 (黑名单)
   network: ws
   port: '12883'
   server: gtm1.ktmwan.net
@@ -12,26 +12,6 @@ proxies:
     headers:
       Host: gtm1.ktmwan.net
     path: /
-- name: HK4｜家宽｜非常安全
-  port: 443
-  server: a3f83f3b-t7bj40-tg010c-1r7od.hkt2.cdnhuawei.com
-  tls: false
-  type: socks5
-  username: NmQ1NjQzNmMtMTUwZC0xMWYwLWIwYzgtZjIzYzkxM2M4ZDJiOjxwYXNzd29yZD4%3D
-- name: HK11｜家宽｜非常安全
-  network: tcp
-  password: BxceQaOe
-  port: 443
-  server: 58.152.25.208
-  skip-cert-verify: true
-  sni: 58.152.25.208
-  type: trojan
-- name: HK23｜家宽｜非常安全
-  port: 443
-  server: d28b916c-t7vwg0-tcc9uq-1rnrp.hkt2.cdnhuawei.com
-  tls: false
-  type: socks5
-  username: OTg5YWE0MDYtZWE5Yi0xMWVmLTk3ZGEtZjIzYzkxY2ZiYmM5OjxwYXNzd29yZD4%3D
 - name: 🇭🇰 HK
   password: a305ac08-d136-11ee-b6db-f23c91cfbbc9
   port: 443

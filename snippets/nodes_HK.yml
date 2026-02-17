@@ -1,7 +1,7 @@
 proxies:
 - alterId: 0
   cipher: auto
-  name: HK5｜原生/疑似家宽｜非常安全
+  name: HK5｜原生/疑似家宽｜高风险 (黑名单)
   network: ws
   port: '12883'
   server: gtm1.ktmwan.net
@@ -12,14 +12,6 @@ proxies:
     headers:
       Host: gtm1.ktmwan.net
     path: /
-- name: HK11｜家宽｜非常安全
-  network: tcp
-  password: BxceQaOe
-  port: 443
-  server: 58.152.25.208
-  skip-cert-verify: true
-  sni: 58.152.25.208
-  type: trojan
 - alterId: 2
   cipher: auto
   name: 🇭🇰 香港|@ripaojiedian
