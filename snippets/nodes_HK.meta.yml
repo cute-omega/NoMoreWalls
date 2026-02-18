@@ -1,7 +1,7 @@
 proxies:
 - alterId: 0
   cipher: auto
-  name: HK5｜原生/疑似家宽｜高风险 (黑名单)
+  name: HK11｜原生/疑似家宽｜高风险 (黑名单)
   network: ws
   port: '12883'
   server: gtm1.ktmwan.net
@@ -12,6 +12,43 @@ proxies:
     headers:
       Host: gtm1.ktmwan.net
     path: /
+- alterId: 0
+  cipher: auto
+  name: HK21｜原生/疑似家宽｜高风险 (黑名单)
+  network: ws
+  port: '12883'
+  server: 183.240.138.169
+  tls: false
+  type: vmess
+  uuid: 3ac9d436-f213-421d-9644-a94686ee9fba
+  ws-opts:
+    headers:
+      Host: gtm1.ktmwan.net
+    path: /
+- name: 台湾|@ripaojiedian
+  network: tcp
+  password: 736cd94d-7b94-3e44-8106-3419f64eaf09
+  port: 3462
+  server: a12.taipeicitygovernment.org.ua
+  skip-cert-verify: true
+  sni: 45.32.28.232
+  type: trojan
+- name: HK22｜家宽｜非常安全
+  network: tcp
+  password: 736cd94d-7b94-3e44-8106-3419f64eaf09
+  port: 3462
+  server: a12.taipeicitygovernment.org.ua
+  skip-cert-verify: true
+  sni: a12.taipeicitygovernment.org.ua
+  type: trojan
+- name: HK23｜原生/疑似家宽｜高风险 (黑名单)
+  network: tcp
+  password: 0a169d7d-a30f-4d90-af1b-55f6ef6afcb7
+  port: 31103
+  server: 220.130.58.136
+  skip-cert-verify: true
+  sni: green2.cdntencentmusic.com
+  type: trojan
 - name: 🇭🇰 HK
   password: a305ac08-d136-11ee-b6db-f23c91cfbbc9
   port: 443

@@ -1,9 +1,37 @@
 proxies:
-- name: 台湾|@ripaojiedian
-  network: tcp
-  password: 736cd94d-7b94-3e44-8106-3419f64eaf09
-  port: 3462
-  server: a12.taipeicitygovernment.org.ua
+- name: TW3｜机房｜低风险
+  network: ws
+  password: 5a2c16f9
+  port: 443
+  server: 114.33.57.170
   skip-cert-verify: true
-  sni: 45.32.28.232
+  sni: 5c.hhhhh.eu.org
   type: trojan
+  ws-opts:
+    headers:
+      Host: 5c.hhhhh.eu.org
+    path: '%2F%2F114.33.57.170%3A443'
+- name: TW6｜机房｜低风险
+  network: ws
+  password: 5a2c16f9
+  port: 43
+  server: 220.128.110.108
+  skip-cert-verify: true
+  sni: 5c.hhhhh.eu.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: 5c.hhhhh.eu.org
+    path: '%2F220.128.110.108%3A43'
+- name: TW7｜机房｜低风险
+  network: ws
+  password: 5a2c16f9
+  port: 443
+  server: 114.33.57.170
+  skip-cert-verify: true
+  sni: 5c.hhhhh.eu.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: 5c.hhhhh.eu.org
+    path: '%2F114.33.57.170%3A443'

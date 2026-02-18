@@ -1,7 +1,7 @@
 proxies:
 - alterId: 2
   cipher: auto
-  name: US25｜机房｜低风险
+  name: US13｜机房｜低风险
   network: tcp
   port: '30824'
   server: v24.hdacd.com
@@ -10,7 +10,7 @@ proxies:
   uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
 - alterId: 2
   cipher: auto
-  name: US33｜机房｜低风险
+  name: US20｜机房｜低风险
   network: tcp
   port: '30804'
   server: v4.hdacd.com

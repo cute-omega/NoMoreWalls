@@ -1,7 +1,7 @@
 proxies:
 - alterId: 2
   cipher: auto
-  name: US25｜机房｜低风险
+  name: US13｜机房｜低风险
   network: tcp
   port: '30824'
   server: v24.hdacd.com
@@ -10,7 +10,7 @@ proxies:
   uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
 - alterId: 2
   cipher: auto
-  name: US33｜机房｜低风险
+  name: US20｜机房｜低风险
   network: tcp
   port: '30804'
   server: v4.hdacd.com
@@ -26,16 +26,6 @@ proxies:
   tls: false
   type: vmess
   uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-- name: US35｜机房｜低风险
-  obfs: salamander
-  obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D
-  password: c7730b65-c3c7-44a6-b1be-9d72d36679d1
-  port: 10666
-  server: mgwx.pddwdf.store
-  skip-cert-verify: true
-  sni: mgwx.pddwdf.store
-  tls: false
-  type: hysteria2
 - name: 美国|@ripaojiedian
   network: tcp
   password: 9372cb81c7b0ad903f91f2f8a4d3f02b

@@ -1,10 +1,24 @@
 proxies:
-- alterId: 2
+- alterId: 0
   cipher: auto
-  name: DE5｜机房｜低风险
+  name: DE12｜机房｜低风险
+  network: ws
+  port: '8443'
+  server: dll.avaaaal.ir
+  servername: dll.avaaaal.ir
+  tls: true
+  type: vmess
+  uuid: 725f5fcd-721d-40a0-ba6b-3c7477633110
+  ws-opts:
+    headers:
+      Host: cdge.avaaaal.ir
+    path: /
+- alterId: 0
+  cipher: auto
+  name: DE18｜机房｜高风险 (黑名单)
   network: tcp
-  port: '30833'
-  server: v33.hdacd.com
+  port: '180'
+  server: 82.198.246.97
   tls: false
   type: vmess
-  uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+  uuid: d13fc2f5-3e05-4795-81eb-44143a09e552
