@@ -1318,14 +1318,6 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 📥50@oneclickvpnkeys
-  password: dongtaiwang.com
-  port: 443
-  server: 2001:bc8:32d7:302::17
-  skip-cert-verify: true
-  sni: apple.com
-  tls: false
-  type: hysteria2
 - name: SG
   password: e7965e64-e001-4e8c-8273-39c61ff4a094
   port: 30000
@@ -1340,6 +1332,16 @@ proxies:
   server: tw.oomz.ru
   skip-cert-verify: true
   sni: bing.com
+  tls: false
+  type: hysteria2
+- name: 🌀Telegram= @vpn_openet 🌀
+  obfs: salamander
+  obfs-password: '@JavidnamanIran-Javid-SHAH-King-Reza-Pahlavi'
+  password: 75193bef8d8fe82341e02dd083dc1399
+  port: 989
+  server: dd.openaccessnode.com
+  skip-cert-verify: false
+  sni: dd.ircybersec.org
   tls: false
   type: hysteria2
 - name: ✅سرورهایبیشتردر:prrofile_purpl...
@@ -1382,7 +1384,7 @@ proxies:
   sni: jnir.pichondan.com
   tls: false
   type: hysteria2
-- name: 🇩🇪 - DE - @FreeOnlineVPN
+- name: '@V2rayBaaz'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
@@ -1412,16 +1414,6 @@ proxies:
   sni: www.azki.com
   tls: false
   type: hysteria2
-- name: 未命名
-  obfs: salamander
-  obfs-password: etXTC5FrUoTkMu2xlBradrUQrLDMgHJ
-  password: freeflyzone1
-  port: 443
-  server: 172.232.207.161
-  skip-cert-verify: true
-  sni: www.azki.com@freenettir
-  tls: false
-  type: hysteria2
 - name: '@V2rayNG3 #4'
   password: linux.do
   port: 443
@@ -1430,7 +1422,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '未命名 #1'
+- name: '@V2rayBaaz #2'
   password: zhangyang
   port: 6443
   server: 130.61.50.75
