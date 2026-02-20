@@ -533,6 +533,26 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
+- name: 🐊35@oneclickvpnkeys
+  obfs: salamander
+  obfs-password: Telegram-->@Ln2Ray
+  password: Telegram-->@Ln2Ray
+  port: 45000
+  server: 206.71.158.23
+  skip-cert-verify: true
+  sni: gavazn.55994421.xyz
+  tls: false
+  type: hysteria2
+- name: 🐊52@oneclickvpnkeys
+  obfs: salamander
+  obfs-password: Telegram-->@Ln2Ray
+  password: Telegram-->@Ln2Ray
+  port: 443
+  server: 2a14:3f87:f001:9::a
+  skip-cert-verify: true
+  sni: gavazn.55994421.xyz
+  tls: false
+  type: hysteria2
 - name: '@Trick_mobil #4'
   password: Telegram-->@Ln2Ray
   port: 45000
@@ -541,12 +561,22 @@ proxies:
   sni: 🔒
   tls: false
   type: hysteria2
-- name: HP71 (11)
+- name: '@WedBaZTel #1'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
   port: 36400
   server: 206.71.158.37
+  skip-cert-verify: true
+  sni: YAPC-1.afshin.ir
+  tls: false
+  type: hysteria2
+- name: 🐊65@oneclickvpnkeys
+  obfs: salamander
+  obfs-password: Yet-Another-Public-Config-1
+  password: Yet-Another-Public-Config-1
+  port: 443
+  server: 2a14:3f87:f001:13::a
   skip-cert-verify: true
   sni: YAPC-1.afshin.ir
   tls: false
@@ -572,6 +602,7 @@ proxies:
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
   port: 35000
   server: 206.71.158.40
+  skip-cert-verify: true
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
@@ -583,6 +614,22 @@ proxies:
   server: 206.71.158.41
   skip-cert-verify: true
   sni: api.kermanshahi.org
+  tls: false
+  type: hysteria2
+- name: 🐊34@oneclickvpnkeys
+  password: dongtaiwang.com
+  port: 443
+  server: 2001:bc8:32d7:302::11
+  skip-cert-verify: true
+  sni: apple.com
+  tls: false
+  type: hysteria2
+- name: 🐊31@oneclickvpnkeys
+  password: dongtaiwang.com
+  port: 443
+  server: 2001:bc8:32d7:302::17
+  skip-cert-verify: true
+  sni: apple.com
   tls: false
   type: hysteria2
 - name: SG
@@ -649,6 +696,16 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
+- name: '@WedBaZTel'
+  obfs: salamander
+  obfs-password: Yet-Another-Public-Config-1
+  password: Yet-Another-Public-Config-1
+  port: 36300
+  server: 206.71.158.37
+  skip-cert-verify: false
+  sni: YAPC-1.afshin.ir
+  tls: false
+  type: hysteria2
 - name: '@V2rayNG3 #2'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
@@ -659,7 +716,7 @@ proxies:
   sni: jnir.pichondan.com
   tls: false
   type: hysteria2
-- name: '@V2rayBaaz'
+- name: 🇩🇪 - DE - @FreeOnlineVPN
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
@@ -695,14 +752,6 @@ proxies:
   server: 2a01:4f9:4b:f378::1
   skip-cert-verify: true
   sni: www.bing.com
-  tls: false
-  type: hysteria2
-- name: '@V2rayBaaz #2'
-  password: zhangyang
-  port: 6443
-  server: 130.61.50.75
-  skip-cert-verify: true
-  sni: dash.cloudflare.com
   tls: false
   type: hysteria2
 - cipher: aes-256-cfb
