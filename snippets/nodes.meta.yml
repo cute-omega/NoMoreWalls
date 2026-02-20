@@ -611,6 +611,14 @@ proxies:
   sni: dd.ircybersec.org
   tls: false
   type: hysteria2
+- name: '@en_vpn/کانفیگ های بیشتر'
+  password: 80cc3426-ba58-4679-9001-f38778b1d042
+  port: 2026
+  server: us-loc01.lada.mom
+  skip-cert-verify: false
+  sni: us-loc01.lada.mom
+  tls: false
+  type: hysteria2
 - name: none
   obfs: salamander
   obfs-password: Telegram-->@Ln2Ray
