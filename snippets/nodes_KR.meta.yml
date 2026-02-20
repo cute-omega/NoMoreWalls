@@ -6,3 +6,11 @@ proxies:
   type: socks5
   udp: true
   username: Og%3D%3D
+- name: KR5｜机房｜低风险
+  password: 1fe714a1-d35e-4fb4-b3c7-6037eeef2cfc
+  port: 23001
+  server: kr3.xn--mesx36n.com
+  skip-cert-verify: true
+  sni: kr3.xn--mesx36n.com
+  tls: false
+  type: hysteria2

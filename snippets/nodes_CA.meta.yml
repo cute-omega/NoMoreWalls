@@ -1,11 +1,1 @@
-proxies:
-- name: CA2｜原生/疑似家宽｜非常安全
-  obfs: salamander
-  obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D
-  password: c7730b65-c3c7-44a6-b1be-9d72d36679d1
-  port: 10235
-  server: naone-ca.pddwdf.store
-  skip-cert-verify: true
-  sni: naone-ca.pddwdf.store
-  tls: false
-  type: hysteria2
+proxies: []

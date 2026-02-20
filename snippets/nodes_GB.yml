@@ -1,10 +1,10 @@
 proxies:
 - alterId: 2
   cipher: auto
-  name: GB22｜机房｜低风险
+  name: GB18｜机房｜低风险
   network: tcp
   port: '30836'
-  server: 151.242.183.218
+  server: v36.hdacd.com
   tls: false
   type: vmess
   uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
