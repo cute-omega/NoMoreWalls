@@ -1,4 +1,30 @@
 proxies:
+- name: TW10｜原生/疑似家宽｜非常安全
+  network: tcp
+  password: 83a4a140-c2d0-4b9a-9ed4-55594ce65709
+  port: 22231
+  server: cdnfire.xiaomispeed.com
+  skip-cert-verify: true
+  sni: cdnfire.xiaomispeed.com
+  type: trojan
+- alterId: 0
+  cipher: auto
+  name: TW12｜机房｜低风险
+  network: tcp
+  port: '43527'
+  server: faq1.lieerr222.cn
+  tls: false
+  type: vmess
+  uuid: 29211e74-1ab3-4270-aece-8e0aefc570cc
+- alterId: 0
+  cipher: auto
+  name: TW14｜机房｜低风险
+  network: tcp
+  port: '43527'
+  server: faq1.lieerr222.cn
+  tls: false
+  type: vmess
+  uuid: ae3fa211-bc04-40c4-a97e-8564c40a7739
 - alterId: 0
   cipher: auto
   name: 🇹🇼 台湾|@ripaojiedian
