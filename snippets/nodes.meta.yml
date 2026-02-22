@@ -833,6 +833,14 @@ proxies:
   sni: www.lamer.com.hk
   tls: false
   type: hysteria2
+- name: 📤88@oneclickvpnkeys
+  password: 545fb4e9-5794-4e20-be0c-e6d8689f91ac
+  port: 35000
+  server: 129.153.25.59
+  skip-cert-verify: true
+  sni: www.lamer.com.hk
+  tls: false
+  type: hysteria2
 - name: 📤57@oneclickvpnkeys
   password: 545fb4e9-5794-4e20-be0c-e6d8689f91ac
   port: 35000
@@ -841,13 +849,13 @@ proxies:
   sni: www.lamer.com.hk
   tls: false
   type: hysteria2
-- name: 🌀Telegram= @vpn_openet 🌀
+- name: 📤38@oneclickvpnkeys
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-King-Reza-Pahlavi'
   password: 75193bef8d8fe82341e02dd083dc1399
   port: 989
   server: dd.openaccessnode.com
-  skip-cert-verify: false
+  skip-cert-verify: true
   sni: dd.ircybersec.org
   tls: false
   type: hysteria2
@@ -874,7 +882,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '@Trick_mobil #5'
+- name: 🌐 Hysteria-TLS | @Express_alak...
   obfs: salamander
   obfs-password: Telegram-->@Ln2Ray
   password: Telegram-->@Ln2Ray
@@ -1031,7 +1039,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: '🔥 Telegram: @wiki_tajrobe'
+- name: 🔘 T.me/V2HUBIR | Join Now ✅️
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
