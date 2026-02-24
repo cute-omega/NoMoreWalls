@@ -25,22 +25,3 @@ proxies:
   tls: false
   type: vmess
   uuid: ae3fa211-bc04-40c4-a97e-8564c40a7739
-- alterId: 0
-  cipher: auto
-  name: 🇹🇼 台湾|@ripaojiedian
-  port: 16811
-  server: ipv6-tw03.cnddns.com
-  skip-cert-verify: false
-  tls: false
-  type: vmess
-  uuid: a8bcce43-abda-315b-8e81-e3e65bcb3d07
-- alterId: 0
-  cipher: auto
-  name: 台湾|@ripaojiedian
-  network: tcp
-  port: '16811'
-  server: ipv6-tw03.cnddns.com
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: a8bcce43-abda-315b-8e81-e3e65bcb3d07
