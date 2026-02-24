@@ -1,30 +1,31 @@
 proxies:
-- name: TW10｜原生/疑似家宽｜非常安全
-  network: tcp
-  password: 83a4a140-c2d0-4b9a-9ed4-55594ce65709
-  port: 22231
-  server: cdnfire.xiaomispeed.com
-  skip-cert-verify: true
-  sni: cdnfire.xiaomispeed.com
-  type: trojan
 - alterId: 0
   cipher: auto
-  name: TW12｜机房｜低风险
+  name: TW15｜机房｜低风险
   network: tcp
   port: '43527'
   server: faq1.lieerr222.cn
   tls: false
   type: vmess
-  uuid: 29211e74-1ab3-4270-aece-8e0aefc570cc
+  uuid: b3c52ff2-2c1e-49b7-9099-dc955d770ec8
 - alterId: 0
   cipher: auto
-  name: TW14｜机房｜低风险
+  name: TW16｜机房｜低风险
   network: tcp
   port: '43527'
   server: faq1.lieerr222.cn
   tls: false
   type: vmess
-  uuid: ae3fa211-bc04-40c4-a97e-8564c40a7739
+  uuid: 2c55b668-9e79-471d-9ae9-fe1f5b2c2924
+- alterId: 0
+  cipher: auto
+  name: TW17｜机房｜低风险
+  network: tcp
+  port: '43527'
+  server: faq1.lieerr222.cn
+  tls: false
+  type: vmess
+  uuid: 54601a40-a601-4241-bf17-2ac89a0685a7
 - name: TW
   password: e7965e64-e001-4e8c-8273-39c61ff4a094
   port: 30000

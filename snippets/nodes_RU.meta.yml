@@ -1,14 +1,4 @@
 proxies:
-- name: RU2｜机房｜低风险
-  obfs: salamander
-  obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D
-  password: 395b3e3c-5713-4852-99b8-3d4702e5a5e6
-  port: 443
-  server: wqels.wqtd.mom
-  skip-cert-verify: true
-  sni: wqels.wqtd.mom
-  tls: false
-  type: hysteria2
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
   name: RU_speednode_0011

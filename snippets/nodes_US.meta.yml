@@ -1,33 +1,283 @@
 proxies:
-- alterId: 0
-  cipher: auto
-  name: US1｜机房｜低风险
-  network: tcp
-  port: '2085'
-  server: cpannel.iranucshop.ir
-  tls: false
-  type: vmess
-  uuid: 2c72c667-093c-47a5-a108-493c93282b57
-- name: US76｜家宽｜非常安全
-  network: tcp
-  password: 6f038cee-6ba1-4941-bce5-de1969f37405
-  port: 35502
-  server: 220.130.58.136
+- name: US8｜机房｜低风险
+  network: ws
+  password: 92544946-dea2-4cd9-bd5b-32be565a5a62
+  port: 2087
+  server: bestcdn0.868863.xyz
   skip-cert-verify: true
-  sni: green2.cdntencentmusic.com
+  sni: 17718944721466.682637.xyz
   type: trojan
+  ws-opts:
+    headers:
+      Host: 17718944722777.682637.xyz
+    path: '%2Fahyrtuyjykl'
+- name: US9｜机房｜低风险
+  network: ws
+  password: 92544946-dea2-4cd9-bd5b-32be565a5a62
+  port: 2087
+  server: bestcdn0.868863.xyz
+  skip-cert-verify: true
+  sni: 17718944726529.682637.xyz
+  type: trojan
+  ws-opts:
+    headers:
+      Host: 17718944724812.682637.xyz
+    path: '%2Fahyrtuyjykl'
+- name: US10｜机房｜低风险
+  network: ws
+  password: 92544946-dea2-4cd9-bd5b-32be565a5a62
+  port: 2087
+  server: bestcdn0.868863.xyz
+  skip-cert-verify: true
+  sni: 17718944721098.682637.xyz
+  type: trojan
+  ws-opts:
+    headers:
+      Host: 17718944729339.682637.xyz
+    path: '%2Fahyrtuyjykl'
+- name: US11｜机房｜低风险
+  network: ws
+  password: 92544946-dea2-4cd9-bd5b-32be565a5a62
+  port: 2087
+  server: bestcdn0.868863.xyz
+  skip-cert-verify: true
+  sni: 17718944724341.682637.xyz
+  type: trojan
+  ws-opts:
+    headers:
+      Host: 17718944726551.682637.xyz
+    path: '%2Fahyrtuyjykl'
+- name: US12｜机房｜低风险
+  network: ws
+  password: 92544946-dea2-4cd9-bd5b-32be565a5a62
+  port: 2096
+  server: bestcdn0.868863.xyz
+  skip-cert-verify: true
+  sni: 17718944726671.682637.xyz
+  type: trojan
+  ws-opts:
+    headers:
+      Host: 17718944726804.682637.xyz
+    path: '%2Fahyrtuyjykl'
+- name: US13｜机房｜低风险
+  network: ws
+  password: 92544946-dea2-4cd9-bd5b-32be565a5a62
+  port: 8443
+  server: bestcdn0.868863.xyz
+  skip-cert-verify: true
+  sni: 17718944725958.682637.xyz
+  type: trojan
+  ws-opts:
+    headers:
+      Host: 17718944729100.682637.xyz
+    path: '%2Fahyrtuyjykl'
+- name: US14｜机房｜低风险
+  network: ws
+  password: 92544946-dea2-4cd9-bd5b-32be565a5a62
+  port: 8443
+  server: bestcdn0.868863.xyz
+  skip-cert-verify: true
+  sni: 17718944729459.682637.xyz
+  type: trojan
+  ws-opts:
+    headers:
+      Host: 17718944727836.682637.xyz
+    path: '%2Fahyrtuyjykl'
+- name: US15｜机房｜低风险
+  network: ws
+  password: 92544946-dea2-4cd9-bd5b-32be565a5a62
+  port: 2053
+  server: bestcdn0.868863.xyz
+  skip-cert-verify: true
+  sni: 17718944728586.682637.xyz
+  type: trojan
+  ws-opts:
+    headers:
+      Host: 17718944724345.682637.xyz
+    path: '%2Fahyrtuyjykl'
+- name: US16｜机房｜低风险
+  network: ws
+  password: 92544946-dea2-4cd9-bd5b-32be565a5a62
+  port: 2053
+  server: bestcdn1.868863.xyz
+  skip-cert-verify: true
+  sni: 17718944723450.206352.xyz
+  type: trojan
+  ws-opts:
+    headers:
+      Host: 17718944724815.206352.xyz
+    path: '%2Fagraeabtegrrh'
+- name: US17｜机房｜低风险
+  network: ws
+  password: 92544946-dea2-4cd9-bd5b-32be565a5a62
+  port: 2087
+  server: bestcdn1.868863.xyz
+  skip-cert-verify: true
+  sni: 17718944722688.206355.xyz
+  type: trojan
+  ws-opts:
+    headers:
+      Host: 17718944725580.206355.xyz
+    path: '%2Fvideomuaawe'
+- name: US18｜机房｜低风险
+  network: ws
+  password: 92544946-dea2-4cd9-bd5b-32be565a5a62
+  port: 2087
+  server: bestcdn1.868863.xyz
+  skip-cert-verify: true
+  sni: 17718944723315.206356.xyz
+  type: trojan
+  ws-opts:
+    headers:
+      Host: 17718944724863.206356.xyz
+    path: '%2Fdmusicmuaawe'
+- name: US19｜机房｜低风险
+  network: ws
+  password: 92544946-dea2-4cd9-bd5b-32be565a5a62
+  port: 2083
+  server: bestcdn2.868863.xyz
+  skip-cert-verify: true
+  sni: 17718944722849.206352.xyz
+  type: trojan
+  ws-opts:
+    headers:
+      Host: 17718944722923.206352.xyz
+    path: '%2Fagraeabtegrrh'
+- name: US20｜机房｜低风险
+  network: ws
+  password: 92544946-dea2-4cd9-bd5b-32be565a5a62
+  port: 2096
+  server: bestcdn2.868863.xyz
+  skip-cert-verify: true
+  sni: 17718944727146.206355.xyz
+  type: trojan
+  ws-opts:
+    headers:
+      Host: 17718944729883.206355.xyz
+    path: '%2Fvideomuaawe'
+- name: US21｜机房｜低风险
+  network: ws
+  password: 92544946-dea2-4cd9-bd5b-32be565a5a62
+  port: 2096
+  server: bestcdn2.868863.xyz
+  skip-cert-verify: true
+  sni: 17718944723287.206356.xyz
+  type: trojan
+  ws-opts:
+    headers:
+      Host: 17718944723854.206356.xyz
+    path: '%2Fdmusicmuaawe'
+- name: US22｜机房｜低风险
+  network: ws
+  password: 92544946-dea2-4cd9-bd5b-32be565a5a62
+  port: 2087
+  server: bestcdn3.868863.xyz
+  skip-cert-verify: true
+  sni: 17718944723080.206352.xyz
+  type: trojan
+  ws-opts:
+    headers:
+      Host: 17718944725979.206352.xyz
+    path: '%2Fagraeabtegrrh'
+- name: US23｜机房｜低风险
+  network: ws
+  password: 92544946-dea2-4cd9-bd5b-32be565a5a62
+  port: 2053
+  server: bestcdn3.868863.xyz
+  skip-cert-verify: true
+  sni: 17718944725869.206355.xyz
+  type: trojan
+  ws-opts:
+    headers:
+      Host: 17718944725659.206355.xyz
+    path: '%2Fvideomuaawe'
+- name: US24｜机房｜低风险
+  network: ws
+  password: 92544946-dea2-4cd9-bd5b-32be565a5a62
+  port: 2053
+  server: bestcdn3.868863.xyz
+  skip-cert-verify: true
+  sni: 17718944725600.206356.xyz
+  type: trojan
+  ws-opts:
+    headers:
+      Host: 17718944724929.206356.xyz
+    path: '%2Fdmusicmuaawe'
+- name: US25｜机房｜低风险
+  network: ws
+  password: 92544946-dea2-4cd9-bd5b-32be565a5a62
+  port: 2096
+  server: bestcdn4.868863.xyz
+  skip-cert-verify: true
+  sni: 17718944726542.206352.xyz
+  type: trojan
+  ws-opts:
+    headers:
+      Host: 17718944728864.206352.xyz
+    path: '%2Fagraeabtegrrh'
+- name: US26｜机房｜低风险
+  network: ws
+  password: 92544946-dea2-4cd9-bd5b-32be565a5a62
+  port: 2083
+  server: bestcdn4.868863.xyz
+  skip-cert-verify: true
+  sni: 17718944728199.206355.xyz
+  type: trojan
+  ws-opts:
+    headers:
+      Host: 17718944728768.206355.xyz
+    path: '%2Fvideomuaawe'
+- name: US27｜机房｜低风险
+  network: ws
+  password: 92544946-dea2-4cd9-bd5b-32be565a5a62
+  port: 2083
+  server: bestcdn4.868863.xyz
+  skip-cert-verify: true
+  sni: 17718944729226.206356.xyz
+  type: trojan
+  ws-opts:
+    headers:
+      Host: 17718944721390.206356.xyz
+    path: '%2Fdmusicmuaawe'
+- name: US28｜机房｜低风险
+  network: ws
+  password: 92544946-dea2-4cd9-bd5b-32be565a5a62
+  port: 8443
+  server: bestcdn5.868863.xyz
+  skip-cert-verify: true
+  sni: 17718944729591.206352.xyz
+  type: trojan
+  ws-opts:
+    headers:
+      Host: 17718944723768.206352.xyz
+    path: '%2Fagraeabtegrrh'
+- name: US29｜机房｜低风险
+  network: ws
+  password: 92544946-dea2-4cd9-bd5b-32be565a5a62
+  port: 8443
+  server: bestcdn5.868863.xyz
+  skip-cert-verify: true
+  sni: 17718944729178.206355.xyz
+  type: trojan
+  ws-opts:
+    headers:
+      Host: 17718944726363.206355.xyz
+    path: '%2Fvideomuaawe'
+- name: US30｜机房｜低风险
+  network: ws
+  password: 92544946-dea2-4cd9-bd5b-32be565a5a62
+  port: 8443
+  server: bestcdn5.868863.xyz
+  skip-cert-verify: true
+  sni: 17718944728120.206356.xyz
+  type: trojan
+  ws-opts:
+    headers:
+      Host: 17718944721277.206356.xyz
+    path: '%2Fdmusicmuaawe'
 - alterId: 2
   cipher: auto
-  name: US15｜机房｜低风险
-  network: tcp
-  port: '30829'
-  server: v29.hdacd.com
-  tls: false
-  type: vmess
-  uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-- alterId: 2
-  cipher: auto
-  name: US16｜机房｜低风险
+  name: US31｜机房｜低风险
   network: tcp
   port: '30809'
   server: v9.hdacd.com
@@ -36,259 +286,78 @@ proxies:
   uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
 - alterId: 2
   cipher: auto
-  name: US41｜机房｜低风险
+  name: US49｜机房｜低风险
   network: tcp
   port: '30804'
   server: v4.hdacd.com
   tls: false
   type: vmess
   uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-- name: US89｜家宽｜非常安全
-  network: tcp
-  password: fe040a20-827e-42eb-994f-ec16d4ae5aa4
-  port: 35501
-  server: green2.cdntencentmusic.com
-  skip-cert-verify: true
-  sni: green2.cdntencentmusic.com
-  type: trojan
-- name: US90｜家宽｜非常安全
-  network: tcp
-  password: 04e5b584-1850-483d-a844-9ad624a4ca8e
-  port: 35501
-  server: green2.cdntencentmusic.com
-  skip-cert-verify: true
-  sni: green2.cdntencentmusic.com
-  type: trojan
-- name: US67｜家宽｜非常安全
-  network: tcp
-  password: ba222255-00e9-434d-88f0-e0c22ac529f4
-  port: 35501
-  server: green2.cdntencentmusic.com
-  skip-cert-verify: true
-  sni: green2.cdntencentmusic.com
-  type: trojan
-- name: US68｜家宽｜非常安全
-  network: tcp
-  password: 47d9af53-24a8-4593-a439-a73b88ad53ae
-  port: 35501
-  server: green2.cdntencentmusic.com
-  skip-cert-verify: true
-  sni: green2.cdntencentmusic.com
-  type: trojan
-- alpn:
-  - http/1.1
-  name: US114｜机房｜低风险
-  network: ws
-  password: '!!str 123456'
-  port: 8443
-  server: bpbg.anguswen.top
-  skip-cert-verify: true
-  sni: BpBg.ANGusWeN.top
-  type: trojan
-  ws-opts:
-    headers:
-      Host: BpBg.ANGusWeN.top
-    path: '%2FeyJqdW5rIjoiTUp4VFNoMTRLbSIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbImJwYi55b3VzZWYuaXNlZ2Fyby5jb20iXX0%3D'
-- alterId: 2
+- alterId: 0
   cipher: auto
-  name: US80｜机房｜低风险
+  name: US84｜原生/疑似家宽｜非常安全
   network: tcp
-  port: '30824'
-  server: v24.hdacd.com
+  port: '17356'
+  server: freedom.vipgsmteam.info
   tls: false
   type: vmess
-  uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-- name: US75｜机房｜高风险 (黑名单)
-  network: ws
-  password: '!!str 123456'
-  port: 8443
-  server: bpbg.anguswen.top
-  skip-cert-verify: true
-  sni: BpBg.ANGusWeN.top
-  type: trojan
-  ws-opts:
-    headers:
-      Host: BpBg.ANGusWeN.top
-    path: '%2FeyJqdW5rIjoiTUp4VFNoMTRLbSIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbImJwYi55b3VzZWYuaXNlZ2Fyby5jb20iXX0%3D%3Fed%3D2560'
-- name: US77｜家宽｜非常安全
-  network: tcp
-  password: 26635779-8ce6-4c07-ae5d-f3769ec95ddd
-  port: 35502
-  server: green2.cdntencentmusic.com
-  skip-cert-verify: true
-  sni: green2.cdntencentmusic.com
-  type: trojan
-- name: US78｜家宽｜非常安全
-  network: tcp
-  password: 4250b3bb-d1ae-4e77-bf71-4069e0d2c383
-  port: 35502
-  server: green2.cdntencentmusic.com
-  skip-cert-verify: true
-  sni: green2.cdntencentmusic.com
-  type: trojan
-- name: US79｜家宽｜非常安全
-  network: tcp
-  password: 415e1712-0170-42dd-a4cd-5e95bef256db
-  port: 35502
-  server: green2.cdntencentmusic.com
-  skip-cert-verify: true
-  sni: green2.cdntencentmusic.com
-  type: trojan
-- name: US82｜机房｜低风险
-  obfs: salamander
-  obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D
-  password: c7730b65-c3c7-44a6-b1be-9d72d36679d1
-  port: 10666
-  server: mgwx.pddwdf.store
-  skip-cert-verify: true
-  sni: mgwx.pddwdf.store
-  tls: false
-  type: hysteria2
-- name: US84｜家宽｜非常安全
-  network: tcp
-  password: bbde1e79-49d4-448a-a81d-38bfbba3480d
-  port: 35501
-  server: green2.cdntencentmusic.com
-  skip-cert-verify: true
-  sni: green2.cdntencentmusic.com
-  type: trojan
-- name: US85｜家宽｜非常安全
-  network: tcp
-  password: f976ac58-b52a-4a54-9c8e-3d49fd365232
-  port: 35501
-  server: 220.130.58.136
-  skip-cert-verify: true
-  sni: 220.130.58.136
-  type: trojan
-- name: US86｜家宽｜非常安全
-  network: tcp
-  password: 92953fc6-f497-43af-9d6d-f3b5589df318
-  port: 35501
-  server: 220.130.58.136
-  skip-cert-verify: true
-  sni: 220.130.58.136
-  type: trojan
-- name: US87｜家宽｜非常安全
-  network: tcp
-  password: 11cfbea5-eae4-4654-8aa9-a9481f38dc42
-  port: 35501
-  server: green2.cdntencentmusic.com
-  skip-cert-verify: true
-  sni: green2.cdntencentmusic.com
-  type: trojan
-- name: US88｜家宽｜非常安全
-  network: tcp
-  password: a1a00c82-5356-4a49-8944-1cd0f94168bb
-  port: 35501
-  server: 220.130.58.136
-  skip-cert-verify: true
-  sni: 220.130.58.136
-  type: trojan
-- name: US91｜家宽｜非常安全
-  network: tcp
-  password: 0a169d7d-a30f-4d90-af1b-55f6ef6afcb7
-  port: 35501
-  server: green2.cdntencentmusic.com
-  skip-cert-verify: true
-  sni: green2.cdntencentmusic.com
-  type: trojan
-- name: US129｜机房｜高风险 (黑名单)
-  network: ws
-  password: 2bcfbfba-b446-4ad5-93ad-72af9e008f61
-  port: 443
-  server: blackshadow.dpdns.org
-  skip-cert-verify: true
-  sni: blackshadow.dpdns.org
-  type: trojan
-  ws-opts:
-    headers:
-      Host: blackshadow.dpdns.org
-    path: '%2F195.123.218.174-443'
-- name: US97｜家宽｜非常安全
-  network: tcp
-  password: 4250b3bb-d1ae-4e77-bf71-4069e0d2c383
-  port: 35501
-  server: green2.cdntencentmusic.com
-  skip-cert-verify: true
-  sni: green2.cdntencentmusic.com
-  type: trojan
-- name: US98｜家宽｜非常安全
-  network: tcp
-  password: 36325a98-46a4-4770-977a-9a9570e0bcc6
-  port: 35501
-  server: green2.cdntencentmusic.com
-  skip-cert-verify: true
-  sni: green2.cdntencentmusic.com
-  type: trojan
-- name: US99｜家宽｜非常安全
-  network: tcp
-  password: e3492f89-0cee-4034-8074-22b23ca9a3f4
-  port: 35501
-  server: green2.cdntencentmusic.com
-  skip-cert-verify: true
-  sni: green2.cdntencentmusic.com
-  type: trojan
-- name: US100｜家宽｜非常安全
-  network: tcp
-  password: c18f286e-372a-49ab-947c-0888bce67b91
-  port: 35501
-  server: green2.cdntencentmusic.com
-  skip-cert-verify: true
-  sni: green2.cdntencentmusic.com
-  type: trojan
+  uuid: f95cb5ae-1b06-4a57-aba0-30afe12d23ed
 - alpn:
   - http/1.1
-  name: US113｜机房｜低风险
+  name: US94｜机房｜低风险
   network: ws
-  password: '!!str 123456'
-  port: 8443
-  server: bpbg.anguswen.top
-  skip-cert-verify: true
-  sni: BpBg.ANGusWeN.top
-  type: trojan
-  ws-opts:
-    path: '%2FeyJqdW5rIjoiTUp4VFNoMTRLbSIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbImJwYi55b3VzZWYuaXNlZ2Fyby5jb20iXX0%3D'
-- name: US130｜机房｜高风险 (黑名单)
-  network: ws
-  password: 2bcfbfba-b446-4ad5-93ad-72af9e008f61
+  password: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d
   port: 443
-  server: blackshadow.dpdns.org
+  server: mkii.1x4.indevs.in
   skip-cert-verify: true
-  sni: blackshadow.dpdns.org
+  sni: mkii.1x4.indevs.in
   type: trojan
   ws-opts:
-    path: '%2F195.123.218.174-443'
-- name: US140｜家宽｜非常安全
+    headers:
+      Host: mkii.1x4.indevs.in
+    path: '%2Fy1moM5CyNvYMZlzsYHmsMrnO'
+- alterId: 0
+  cipher: auto
+  name: US117｜机房｜低风险
+  network: ws
+  port: '80'
+  server: jnm.1x2.indevs.in
+  tls: false
+  type: vmess
+  uuid: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d
+  ws-opts:
+    headers:
+      Host: jnm.1x2.indevs.in
+    path: /iSRWSKUJKNuXvVzsYHmsMrnO
+- alterId: 0
+  cipher: auto
+  name: US109｜机房｜低风险
+  network: ws
+  port: '443'
+  server: 199.34.230.199
+  servername: ous3.dean52.top
+  tls: true
+  type: vmess
+  uuid: f08369d1-5ee7-4b16-d786-30bce12fc33c
+  ws-opts:
+    headers:
+      Host: ous3.dean52.top
+    path: /f08369d1-5ee7-4b16-d786-30bce12fc33c
+- name: US111｜机房｜低风险
   network: tcp
-  password: 3f7a5195-4708-4e23-8ec5-ff514c784c54
-  port: 35501
-  server: green2.cdntencentmusic.com
+  password: dbde715e-42f6-45dd-bdee-aa0cd284002b
+  port: 43533
+  server: faq1.lieerr222.cn
   skip-cert-verify: true
-  sni: green2.cdntencentmusic.com
+  sni: faq1.lieerr222.cn
   type: trojan
-- name: US141｜家宽｜非常安全
+- name: US112｜机房｜低风险
   network: tcp
-  password: 6f038cee-6ba1-4941-bce5-de1969f37405
-  port: 35501
-  server: green2.cdntencentmusic.com
+  password: dbde715e-42f6-45dd-bdee-aa0cd284002b
+  port: 43533
+  server: faq1.lieerr222.cn
   skip-cert-verify: true
-  sni: green2.cdntencentmusic.com
-  type: trojan
-- name: US142｜家宽｜非常安全
-  network: tcp
-  password: 9e410848-a58b-4e0f-b913-c46629b45f6b
-  port: 35501
-  server: green2.cdntencentmusic.com
-  skip-cert-verify: true
-  sni: green2.cdntencentmusic.com
-  type: trojan
-- name: US143｜家宽｜非常安全
-  network: tcp
-  password: 6b7745ef-30c1-40d7-b0fd-c2d8a171c450
-  port: 35501
-  server: green2.cdntencentmusic.com
-  skip-cert-verify: true
-  sni: green2.cdntencentmusic.com
+  sni: douyin.com
   type: trojan
 - name: 美国2
   password: 78c2bad7-f5f3-41f2-88cc-81de9d05040b
