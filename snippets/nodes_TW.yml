@@ -1,28 +1,51 @@
 proxies:
 - alterId: 0
   cipher: auto
-  name: TW15｜机房｜低风险
+  name: TW8｜机房｜低风险
   network: tcp
   port: '43527'
   server: faq1.lieerr222.cn
   tls: false
   type: vmess
-  uuid: b3c52ff2-2c1e-49b7-9099-dc955d770ec8
+  uuid: 29661c0b-171a-42b3-84ab-a0bbb98a6c7c
 - alterId: 0
   cipher: auto
-  name: TW16｜机房｜低风险
+  name: TW7｜机房｜低风险
   network: tcp
   port: '43527'
   server: faq1.lieerr222.cn
   tls: false
   type: vmess
-  uuid: 2c55b668-9e79-471d-9ae9-fe1f5b2c2924
+  uuid: ead487b0-9ef9-4dd5-a833-cdbb40295e09
 - alterId: 0
   cipher: auto
-  name: TW17｜机房｜低风险
+  name: TW9｜机房｜低风险
   network: tcp
   port: '43527'
   server: faq1.lieerr222.cn
   tls: false
   type: vmess
-  uuid: 54601a40-a601-4241-bf17-2ac89a0685a7
+  uuid: 37ede67c-a557-407d-8d00-dfaac7e07db0
+- alterId: 0
+  cipher: auto
+  name: TW10｜机房｜低风险
+  network: tcp
+  port: '43527'
+  server: faq1.lieerr222.cn
+  tls: false
+  type: vmess
+  uuid: 1ed9426d-5600-414a-be67-646597ee7145
+- alterId: 0
+  cipher: auto
+  name: TW11｜机房｜低风险
+  network: ws
+  port: '2053'
+  server: youxuan.513514.xyz
+  servername: afeitw.54141528.xyz
+  tls: true
+  type: vmess
+  uuid: de0c4b78-82d5-4f30-8d57-5302748b6af9
+  ws-opts:
+    headers:
+      Host: afeitw.54141528.xyz
+    path: /tw

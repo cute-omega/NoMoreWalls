@@ -1,1 +1,15 @@
-proxies: []
+proxies:
+- alterId: 0
+  cipher: auto
+  name: CA1｜机房｜低风险
+  network: ws
+  port: '2083'
+  server: youxuan.513514.xyz
+  servername: afeicloudca.54141528.xyz
+  tls: true
+  type: vmess
+  uuid: de0c4b78-82d5-4f30-8d57-5302748b6af9
+  ws-opts:
+    headers:
+      Host: afeicloudca.54141528.xyz
+    path: /ca

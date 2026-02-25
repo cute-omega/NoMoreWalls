@@ -1,12 +1,32 @@
 proxies:
-- name: JP1｜机房｜低风险
-  network: tcp
-  password: 736cd94d-7b94-3e44-8106-3419f64eaf09
-  port: 2053
-  server: 05.tokyometropolis.kiev.ua
-  skip-cert-verify: true
-  sni: 05.tokyometropolis.kiev.ua
-  type: trojan
+- alterId: 0
+  cipher: auto
+  name: JP36｜机房｜低风险
+  network: ws
+  port: '2053'
+  server: youxuan.513514.xyz
+  servername: afeiosaka.54141528.xyz
+  tls: true
+  type: vmess
+  uuid: de0c4b78-82d5-4f30-8d57-5302748b6af9
+  ws-opts:
+    headers:
+      Host: afeiosaka.54141528.xyz
+    path: /jp
+- alterId: 0
+  cipher: auto
+  name: JP39｜机房｜低风险
+  network: ws
+  port: '8443'
+  server: t1.620720.xyz
+  servername: t1.620720.xyz
+  tls: true
+  type: vmess
+  uuid: 516d8a7a-3f0b-41d3-bad0-246116381516
+  ws-opts:
+    headers:
+      Host: t1.620720.xyz
+    path: /
 - name: 日本|@ripaojiedian
   network: tcp
   password: BxceQaOe

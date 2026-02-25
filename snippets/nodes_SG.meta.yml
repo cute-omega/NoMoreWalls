@@ -1,4 +1,14 @@
 proxies:
+- name: SG8｜机房｜低风险
+  obfs: salamander
+  obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D
+  password: de0c4b78-82d5-4f30-8d57-5302748b6af9
+  port: 36588
+  server: afeioraclesg.54141528.xyz
+  skip-cert-verify: true
+  sni: afeioraclesg.54141528.xyz
+  tls: false
+  type: hysteria2
 - name: 新加坡1
   password: 78c2bad7-f5f3-41f2-88cc-81de9d05040b
   port: 2055

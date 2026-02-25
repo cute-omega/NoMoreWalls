@@ -1,10 +1,23 @@
 proxies:
-- alterId: 2
+- alterId: 0
   cipher: auto
-  name: FR8｜机房｜低风险
-  network: tcp
-  port: '30835'
-  server: v35.hdacd.com
-  tls: false
+  name: FR3｜机房｜低风险
+  network: ws
+  port: '2053'
+  server: youxuan.513514.xyz
+  servername: afeifr.54141528.xyz
+  tls: true
   type: vmess
-  uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+  uuid: de0c4b78-82d5-4f30-8d57-5302748b6af9
+  ws-opts:
+    headers:
+      Host: afeifr.54141528.xyz
+    path: /fr
+- name: FR4｜机房｜低风险
+  network: tcp
+  password: af4b064a9c39472fb34ad8b113acdc6b
+  port: 443
+  server: 162.19.10.218
+  skip-cert-verify: true
+  sni: 162.19.10.218
+  type: trojan
