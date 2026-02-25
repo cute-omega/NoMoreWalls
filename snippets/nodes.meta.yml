@@ -1110,14 +1110,6 @@ proxies:
   sni: 🔒
   tls: false
   type: hysteria2
-- name: '@Trick_mobil #2'
-  password: 1y4HweESOT
-  port: 27995
-  server: sss.ikun6.dpdns.org
-  skip-cert-verify: true
-  sni: azure.microsoft.com
-  tls: false
-  type: hysteria2
 - name: 🥾59@oneclickvpnkeys
   obfs: salamander
   obfs-password: 2g7feub2
@@ -1236,21 +1228,33 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
+- name: 🐲1@oneclickvpnkeys
+  password: zhangyang
+  port: 6443
+  server: 130.61.50.75
+  tls: false
+  type: hysteria2
+- name: ⚡Telegram = @SOSkeyNET
+  password: 4d5018bf-0e8b-4087-8b8a-bfa51ae86f5c
+  port: 35789
+  server: 160.16.137.28
+  skip-cert-verify: false
+  sni: iij.mggl.wang
+  tls: false
+  type: hysteria2
+- name: '⚡Telegram = @SOSkeyNET #1'
+  password: 5046SHWqk6
+  port: 844
+  server: 91.132.51.160
+  skip-cert-verify: true
+  sni: www.refersion.com
+  tls: false
+  type: hysteria2
 - name: All_7--@V2rayAlpha
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
   port: 35000
-  server: 206.71.158.37
-  skip-cert-verify: true
-  sni: YAPC-1.afshin.ir
-  tls: false
-  type: hysteria2
-- name: Kia_Net
-  obfs: salamander
-  obfs-password: Yet-Another-Public-Config-1
-  password: Yet-Another-Public-Config-1
-  port: 35200
   server: 206.71.158.37
   skip-cert-verify: true
   sni: YAPC-1.afshin.ir
@@ -1276,7 +1280,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: 'Kia_Net #2'
+- name: 'Channel id: @Argo_VPN1 🌟'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -1284,14 +1288,6 @@ proxies:
   server: 206.71.158.37
   skip-cert-verify: true
   sni: YAPC-1.afshin.ir
-  tls: false
-  type: hysteria2
-- name: '@Spartan_YT'
-  password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
-  port: 35000
-  server: 206.71.158.41
-  skip-cert-verify: true
-  sni: api.kermanshahi.org
   tls: false
   type: hysteria2
 - name: '🔥 Telegram: @wiki_tajrobe'
@@ -1302,6 +1298,17 @@ proxies:
   server: 206.71.158.41
   skip-cert-verify: true
   sni: jnir.pichondan.com
+  tls: false
+  type: hysteria2
+- alpn:
+  - h3
+  name: '@Free_World2'
+  obfs: salamander
+  obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
+  password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
+  port: 35000
+  server: 5.175.249.174
+  sni: api.kermanshahi.org
   tls: false
   type: hysteria2
 - name: 'کانال تلگرام : Free_VPN_CH@ #1'
@@ -1324,16 +1331,6 @@ proxies:
   sni: api.kermanshahi.org@freenettir
   tls: false
   type: hysteria2
-- name: '@FarazV2ray #1'
-  obfs: salamander
-  obfs-password: '@i'
-  password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
-  port: 35000
-  server: 5.175.249.174
-  skip-cert-verify: false
-  sni: api.kermanshahi.org
-  tls: false
-  type: hysteria2
 - name: '@V2rayNG3 #3'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
@@ -1344,7 +1341,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: '@Hddify #3'
+- name: 'بیا تا قطع نشی @proxy_v2ray_me... #1'
   obfs: salamander
   obfs-password: etXTC5FrUoTkMu2xlBradrUQrLDMgHJ
   password: freeflyzone1
@@ -1352,6 +1349,14 @@ proxies:
   server: 172.232.207.161
   skip-cert-verify: true
   sni: www.azki.com
+  tls: false
+  type: hysteria2
+- name: '@Golestan_VPN - 🎁'
+  password: germany_hysteria2_fastlane_5devbouui
+  port: 443
+  server: 150.241.79.106
+  skip-cert-verify: true
+  sni: de2.h.fastlanehosting.ru
   tls: false
   type: hysteria2
 - name: '@V2rayNG3 #4'
