@@ -1,10 +1,10 @@
 proxies:
-- name: KR160｜家宽｜高风险 (黑名单)
+- name: KR265｜家宽｜高风险 (代理/黑名单)
   port: 1090
   server: 121.169.46.116
   tls: false
   type: socks5
-  username: T2clM0QlM0Q6
+  username: Og%3D%3D
 - name: KR_speednode_0011
   password: test.+
   port: 30446

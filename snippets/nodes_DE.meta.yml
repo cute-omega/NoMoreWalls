@@ -1,16 +1,7 @@
 proxies:
-- alterId: 0
-  cipher: auto
-  name: DE14｜机房｜高风险 (黑名单)
-  network: tcp
-  port: '180'
-  server: 82.198.246.97
-  tls: false
-  type: vmess
-  uuid: d13fc2f5-3e05-4795-81eb-44143a09e552
 - alterId: 2
   cipher: auto
-  name: DE13｜机房｜低风险
+  name: DE7｜机房｜低风险
   network: tcp
   port: '30833'
   server: v33.hdacd.com
@@ -19,60 +10,49 @@ proxies:
   uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
 - name: DE9｜机房｜低风险
   network: ws
-  password: 8be1f222-92fc-4e84-a6e9-26c74713e3d3
-  port: 2096
-  server: bestcdn1.868863.xyz
-  skip-cert-verify: true
-  sni: 17720002264197.206353.xyz
-  type: trojan
-  ws-opts:
-    headers:
-      Host: 17720002265289.206353.xyz
-    path: '%2Fagrbniuh'
-- name: DE10｜机房｜低风险
-  network: ws
-  password: 8be1f222-92fc-4e84-a6e9-26c74713e3d3
+  password: 45bdac08-8e04-4ed5-86bc-a092a745d459
   port: 2087
   server: bestcdn2.868863.xyz
   skip-cert-verify: true
-  sni: 17720002262511.206353.xyz
+  sni: 17720802365476.206353.xyz
   type: trojan
   ws-opts:
     headers:
-      Host: 17720002265968.206353.xyz
+      Host: 17720802362493.206353.xyz
     path: '%2Fagrbniuh'
-- name: DE11｜机房｜低风险
+- name: DE10｜机房｜低风险
   network: ws
-  password: 8be1f222-92fc-4e84-a6e9-26c74713e3d3
+  password: 45bdac08-8e04-4ed5-86bc-a092a745d459
   port: 2083
   server: bestcdn3.868863.xyz
   skip-cert-verify: true
-  sni: 17720002267806.206353.xyz
+  sni: 17720802369353.206353.xyz
   type: trojan
   ws-opts:
     headers:
-      Host: 17720002264893.206353.xyz
+      Host: 17720802364207.206353.xyz
     path: '%2Fagrbniuh'
-- name: DE12｜机房｜低风险
+- name: DE11｜机房｜低风险
   network: ws
-  password: 8be1f222-92fc-4e84-a6e9-26c74713e3d3
+  password: 45bdac08-8e04-4ed5-86bc-a092a745d459
   port: 8443
   server: bestcdn4.868863.xyz
   skip-cert-verify: true
-  sni: 17720002268807.206353.xyz
+  sni: 17720802363564.206353.xyz
   type: trojan
   ws-opts:
     headers:
-      Host: 17720002261418.206353.xyz
+      Host: 17720802366278.206353.xyz
     path: '%2Fagrbniuh'
-- name: DE15｜机房｜低风险
-  password: b5f85b3e-9211-4989-ae50-5a3fd510f9ba
-  port: 8080
-  server: de.892622.xyz
-  skip-cert-verify: true
-  sni: de.892622.xyz
+- alterId: 0
+  cipher: auto
+  name: DE22｜机房｜高风险 (黑名单)
+  network: tcp
+  port: '180'
+  server: 82.198.246.97
   tls: false
-  type: hysteria2
+  type: vmess
+  uuid: d13fc2f5-3e05-4795-81eb-44143a09e552
 - name: DE
   password: a084933d-0b41-4571-ae0c-7163b8c71ed1
   port: 2056

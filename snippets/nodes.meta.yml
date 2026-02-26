@@ -89,377 +89,459 @@ proxies:
   tls: false
   type: vmess
   uuid: 88888888-8888-8888-8888-888888888888
-- name: IN3｜机房｜高风险 (黑名单)
-  port: 1080
-  server: 167.71.226.135
+- alterId: 0
+  cipher: auto
+  name: HK18｜家宽｜非常安全
+  network: ws
+  port: '39569'
+  server: 120.198.71.128
   tls: false
-  type: socks5
-  username: Og%3D%3D
-- name: KR160｜家宽｜高风险 (黑名单)
+  type: vmess
+  uuid: dcdcb14e-8c34-3c0f-9801-01457dcf25f5
+  ws-opts:
+    headers:
+      Host: jike1-linode10.bilibili.com
+    path: /04235e8c-cea8-4f16-8934-b704a89b40cb.live238.m3u8
+- name: SG7｜机房｜低风险
+  network: tcp
+  password: 984c7793-1447-4af5-9200-d514ad6fe329
+  port: 45005
+  server: sg05.stimaysmhy8.com
+  skip-cert-verify: true
+  sni: jsygouer.weixin-baidu-qq.com
+  type: trojan
+- alterId: 0
+  cipher: auto
+  name: SG10｜机房｜低风险
+  network: ws
+  port: '31873'
+  server: 120.198.71.128
+  tls: false
+  type: vmess
+  uuid: dcdcb14e-8c34-3c0f-9801-01457dcf25f5
+  ws-opts:
+    headers:
+      Host: jike1-sgovh02.bilibili.com
+    path: /8858d045-66fe-441a-8d35-1507216fbb2f.live238.m3u8
+- name: HK14｜家宽｜非常安全
+  network: tcp
+  password: 984c7793-1447-4af5-9200-d514ad6fe329
+  port: 14011
+  server: bgp1.stimaysmhy8.com
+  skip-cert-verify: true
+  sni: jsygouer.weixin-baidu-qq.com
+  type: trojan
+- name: KR265｜家宽｜高风险 (代理/黑名单)
   port: 1090
   server: 121.169.46.116
   tls: false
   type: socks5
-  username: T2clM0QlM0Q6
-- alterId: 0
-  cipher: auto
-  name: DE14｜机房｜高风险 (黑名单)
-  network: tcp
-  port: '180'
-  server: 82.198.246.97
-  tls: false
-  type: vmess
-  uuid: d13fc2f5-3e05-4795-81eb-44143a09e552
+  username: Og%3D%3D
 - alterId: 2
   cipher: auto
-  name: DE13｜机房｜低风险
+  name: GB6｜机房｜低风险
+  network: tcp
+  port: '30836'
+  server: v36.hdacd.com
+  tls: false
+  type: vmess
+  uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+- alterId: 2
+  cipher: auto
+  name: DE7｜机房｜低风险
   network: tcp
   port: '30833'
   server: v33.hdacd.com
   tls: false
   type: vmess
   uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-- alterId: 0
-  cipher: auto
-  name: US82｜机房｜低风险
+- name: US149｜机房｜低风险
   network: ws
-  port: '80'
-  server: jnm.1x2.indevs.in
-  tls: false
-  type: vmess
-  uuid: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d
-  ws-opts:
-    headers:
-      Host: jnm.1x2.indevs.in
-    path: /iSRWSKUJKNuXvVzsYHmsMrnO
-- alterId: 0
-  cipher: auto
-  name: IN5｜机房｜低风险
-  network: ws
-  port: '12887'
-  server: 85.211.242.85
-  tls: false
-  type: vmess
-  uuid: 421bb038-91ff-4a55-bfd4-36f36331ecda
-  ws-opts:
-    headers:
-      Host: baidu.com
-    path: /
-- name: US131｜机房｜低风险
-  network: ws
-  password: 8be1f222-92fc-4e84-a6e9-26c74713e3d3
+  password: 45bdac08-8e04-4ed5-86bc-a092a745d459
   port: 2087
   server: bestcdn0.868863.xyz
   skip-cert-verify: true
-  sni: 17720002269286.682637.xyz
+  sni: 17720802361875.682637.xyz
   type: trojan
   ws-opts:
     headers:
-      Host: 17720002268705.682637.xyz
+      Host: 17720802364177.682637.xyz
     path: '%2Fahyrtuyjykl'
-- name: US132｜机房｜低风险
+- name: US150｜机房｜低风险
   network: ws
-  password: 8be1f222-92fc-4e84-a6e9-26c74713e3d3
+  password: 45bdac08-8e04-4ed5-86bc-a092a745d459
   port: 2087
   server: bestcdn0.868863.xyz
   skip-cert-verify: true
-  sni: 17720002269050.682637.xyz
+  sni: 17720802369099.682637.xyz
   type: trojan
   ws-opts:
     headers:
-      Host: 17720002267647.682637.xyz
+      Host: 17720802366401.682637.xyz
     path: '%2Fahyrtuyjykl'
-- name: US133｜机房｜低风险
+- name: US151｜机房｜低风险
   network: ws
-  password: 8be1f222-92fc-4e84-a6e9-26c74713e3d3
+  password: 45bdac08-8e04-4ed5-86bc-a092a745d459
   port: 2087
   server: bestcdn0.868863.xyz
   skip-cert-verify: true
-  sni: 17720002265466.682637.xyz
+  sni: 17720802369866.682637.xyz
   type: trojan
   ws-opts:
     headers:
-      Host: 17720002269151.682637.xyz
+      Host: 17720802367348.682637.xyz
     path: '%2Fahyrtuyjykl'
-- name: US134｜机房｜低风险
+- name: US152｜机房｜低风险
   network: ws
-  password: 8be1f222-92fc-4e84-a6e9-26c74713e3d3
+  password: 45bdac08-8e04-4ed5-86bc-a092a745d459
+  port: 2087
+  server: bestcdn0.868863.xyz
+  skip-cert-verify: true
+  sni: 17720802365313.682637.xyz
+  type: trojan
+  ws-opts:
+    headers:
+      Host: 17720802369760.682637.xyz
+    path: '%2Fahyrtuyjykl'
+- name: US153｜机房｜低风险
+  network: ws
+  password: 45bdac08-8e04-4ed5-86bc-a092a745d459
   port: 2096
   server: bestcdn0.868863.xyz
   skip-cert-verify: true
-  sni: 17720002261812.682637.xyz
+  sni: 17720802363365.682637.xyz
   type: trojan
   ws-opts:
     headers:
-      Host: 17720002261484.682637.xyz
+      Host: 17720802361820.682637.xyz
     path: '%2Fahyrtuyjykl'
-- name: US135｜机房｜低风险
+- name: US154｜机房｜低风险
   network: ws
-  password: 8be1f222-92fc-4e84-a6e9-26c74713e3d3
+  password: 45bdac08-8e04-4ed5-86bc-a092a745d459
   port: 8443
   server: bestcdn0.868863.xyz
   skip-cert-verify: true
-  sni: 17720002266565.682637.xyz
+  sni: 17720802365453.682637.xyz
   type: trojan
   ws-opts:
     headers:
-      Host: 17720002265061.682637.xyz
+      Host: 17720802364233.682637.xyz
     path: '%2Fahyrtuyjykl'
-- name: US136｜机房｜低风险
+- name: US155｜机房｜低风险
   network: ws
-  password: 8be1f222-92fc-4e84-a6e9-26c74713e3d3
+  password: 45bdac08-8e04-4ed5-86bc-a092a745d459
+  port: 8443
+  server: bestcdn0.868863.xyz
+  skip-cert-verify: true
+  sni: 17720802362450.682637.xyz
+  type: trojan
+  ws-opts:
+    headers:
+      Host: 17720802365187.682637.xyz
+    path: '%2Fahyrtuyjykl'
+- name: US156｜机房｜低风险
+  network: ws
+  password: 45bdac08-8e04-4ed5-86bc-a092a745d459
   port: 2053
   server: bestcdn0.868863.xyz
   skip-cert-verify: true
-  sni: 17720002266969.682637.xyz
+  sni: 17720802367389.682637.xyz
   type: trojan
   ws-opts:
     headers:
-      Host: 17720002261693.682637.xyz
+      Host: 17720802367525.682637.xyz
     path: '%2Fahyrtuyjykl'
-- name: US137｜机房｜低风险
+- name: US157｜机房｜低风险
   network: ws
-  password: 8be1f222-92fc-4e84-a6e9-26c74713e3d3
+  password: 45bdac08-8e04-4ed5-86bc-a092a745d459
   port: 2053
   server: bestcdn1.868863.xyz
   skip-cert-verify: true
-  sni: 17720002269723.206352.xyz
+  sni: 17720802362598.206352.xyz
   type: trojan
   ws-opts:
     headers:
-      Host: 17720002265184.206352.xyz
+      Host: 17720802366962.206352.xyz
+    path: '%2Fagraeabtegrrh'
+- name: US158｜机房｜低风险
+  network: ws
+  password: 45bdac08-8e04-4ed5-86bc-a092a745d459
+  port: 2087
+  server: bestcdn1.868863.xyz
+  skip-cert-verify: true
+  sni: 17720802365620.206355.xyz
+  type: trojan
+  ws-opts:
+    headers:
+      Host: 17720802364877.206355.xyz
+    path: '%2Fvideomuaawe'
+- name: US159｜机房｜低风险
+  network: ws
+  password: 45bdac08-8e04-4ed5-86bc-a092a745d459
+  port: 2087
+  server: bestcdn1.868863.xyz
+  skip-cert-verify: true
+  sni: 17720802367624.206356.xyz
+  type: trojan
+  ws-opts:
+    headers:
+      Host: 17720802363848.206356.xyz
+    path: '%2Fdmusicmuaawe'
+- name: US160｜机房｜低风险
+  network: ws
+  password: 45bdac08-8e04-4ed5-86bc-a092a745d459
+  port: 2087
+  server: bestcdn1.868863.xyz
+  skip-cert-verify: true
+  sni: 17720802366321.168381.xyz
+  type: trojan
+  ws-opts:
+    headers:
+      Host: 17720802367116.168381.xyz
+    path: '%2Ftianboephth'
+- name: US161｜机房｜低风险
+  network: ws
+  password: 45bdac08-8e04-4ed5-86bc-a092a745d459
+  port: 2083
+  server: bestcdn2.868863.xyz
+  skip-cert-verify: true
+  sni: 17720802367311.206352.xyz
+  type: trojan
+  ws-opts:
+    headers:
+      Host: 17720802366546.206352.xyz
     path: '%2Fagraeabtegrrh'
 - name: DE9｜机房｜低风险
   network: ws
-  password: 8be1f222-92fc-4e84-a6e9-26c74713e3d3
-  port: 2096
-  server: bestcdn1.868863.xyz
-  skip-cert-verify: true
-  sni: 17720002264197.206353.xyz
-  type: trojan
-  ws-opts:
-    headers:
-      Host: 17720002265289.206353.xyz
-    path: '%2Fagrbniuh'
-- name: US138｜机房｜低风险
-  network: ws
-  password: 8be1f222-92fc-4e84-a6e9-26c74713e3d3
+  password: 45bdac08-8e04-4ed5-86bc-a092a745d459
   port: 2087
-  server: bestcdn1.868863.xyz
-  skip-cert-verify: true
-  sni: 17720002266194.206355.xyz
-  type: trojan
-  ws-opts:
-    headers:
-      Host: 17720002269209.206355.xyz
-    path: '%2Fvideomuaawe'
-- name: US139｜机房｜低风险
-  network: ws
-  password: 8be1f222-92fc-4e84-a6e9-26c74713e3d3
-  port: 2087
-  server: bestcdn1.868863.xyz
-  skip-cert-verify: true
-  sni: 17720002261850.206356.xyz
-  type: trojan
-  ws-opts:
-    headers:
-      Host: 17720002268499.206356.xyz
-    path: '%2Fdmusicmuaawe'
-- name: US140｜机房｜低风险
-  network: ws
-  password: 8be1f222-92fc-4e84-a6e9-26c74713e3d3
-  port: 2087
-  server: bestcdn1.868863.xyz
-  skip-cert-verify: true
-  sni: 17720002269574.168381.xyz
-  type: trojan
-  ws-opts:
-    headers:
-      Host: 17720002263177.168381.xyz
-    path: '%2Ftianboephth'
-- name: US141｜机房｜低风险
-  network: ws
-  password: 8be1f222-92fc-4e84-a6e9-26c74713e3d3
-  port: 2083
   server: bestcdn2.868863.xyz
   skip-cert-verify: true
-  sni: 17720002264812.206352.xyz
+  sni: 17720802365476.206353.xyz
   type: trojan
   ws-opts:
     headers:
-      Host: 17720002265663.206352.xyz
+      Host: 17720802362493.206353.xyz
+    path: '%2Fagrbniuh'
+- name: US162｜机房｜低风险
+  network: ws
+  password: 45bdac08-8e04-4ed5-86bc-a092a745d459
+  port: 2096
+  server: bestcdn2.868863.xyz
+  skip-cert-verify: true
+  sni: 17720802368767.206355.xyz
+  type: trojan
+  ws-opts:
+    headers:
+      Host: 17720802367317.206355.xyz
+    path: '%2Fvideomuaawe'
+- name: US163｜机房｜低风险
+  network: ws
+  password: 45bdac08-8e04-4ed5-86bc-a092a745d459
+  port: 2096
+  server: bestcdn2.868863.xyz
+  skip-cert-verify: true
+  sni: 17720802364641.206356.xyz
+  type: trojan
+  ws-opts:
+    headers:
+      Host: 17720802368489.206356.xyz
+    path: '%2Fdmusicmuaawe'
+- name: US164｜机房｜低风险
+  network: ws
+  password: 45bdac08-8e04-4ed5-86bc-a092a745d459
+  port: 2096
+  server: bestcdn2.868863.xyz
+  skip-cert-verify: true
+  sni: 17720802362079.168381.xyz
+  type: trojan
+  ws-opts:
+    headers:
+      Host: 17720802362239.168381.xyz
+    path: '%2Ftianboephth'
+- name: US165｜机房｜低风险
+  network: ws
+  password: 45bdac08-8e04-4ed5-86bc-a092a745d459
+  port: 2087
+  server: bestcdn3.868863.xyz
+  skip-cert-verify: true
+  sni: 17720802369084.206352.xyz
+  type: trojan
+  ws-opts:
+    headers:
+      Host: 17720802362214.206352.xyz
     path: '%2Fagraeabtegrrh'
 - name: DE10｜机房｜低风险
   network: ws
-  password: 8be1f222-92fc-4e84-a6e9-26c74713e3d3
-  port: 2087
-  server: bestcdn2.868863.xyz
-  skip-cert-verify: true
-  sni: 17720002262511.206353.xyz
-  type: trojan
-  ws-opts:
-    headers:
-      Host: 17720002265968.206353.xyz
-    path: '%2Fagrbniuh'
-- name: US142｜机房｜低风险
-  network: ws
-  password: 8be1f222-92fc-4e84-a6e9-26c74713e3d3
-  port: 2096
-  server: bestcdn2.868863.xyz
-  skip-cert-verify: true
-  sni: 17720002264347.206355.xyz
-  type: trojan
-  ws-opts:
-    headers:
-      Host: 17720002268920.206355.xyz
-    path: '%2Fvideomuaawe'
-- name: US143｜机房｜低风险
-  network: ws
-  password: 8be1f222-92fc-4e84-a6e9-26c74713e3d3
-  port: 2096
-  server: bestcdn2.868863.xyz
-  skip-cert-verify: true
-  sni: 17720002262258.206356.xyz
-  type: trojan
-  ws-opts:
-    headers:
-      Host: 17720002266082.206356.xyz
-    path: '%2Fdmusicmuaawe'
-- name: US144｜机房｜低风险
-  network: ws
-  password: 8be1f222-92fc-4e84-a6e9-26c74713e3d3
-  port: 2096
-  server: bestcdn2.868863.xyz
-  skip-cert-verify: true
-  sni: 17720002265220.168381.xyz
-  type: trojan
-  ws-opts:
-    headers:
-      Host: 17720002264097.168381.xyz
-    path: '%2Ftianboephth'
-- name: US145｜机房｜低风险
-  network: ws
-  password: 8be1f222-92fc-4e84-a6e9-26c74713e3d3
-  port: 2087
+  password: 45bdac08-8e04-4ed5-86bc-a092a745d459
+  port: 2083
   server: bestcdn3.868863.xyz
   skip-cert-verify: true
-  sni: 17720002269501.206352.xyz
+  sni: 17720802369353.206353.xyz
   type: trojan
   ws-opts:
     headers:
-      Host: 17720002266707.206352.xyz
+      Host: 17720802364207.206353.xyz
+    path: '%2Fagrbniuh'
+- name: US166｜机房｜低风险
+  network: ws
+  password: 45bdac08-8e04-4ed5-86bc-a092a745d459
+  port: 2053
+  server: bestcdn3.868863.xyz
+  skip-cert-verify: true
+  sni: 17720802363787.206355.xyz
+  type: trojan
+  ws-opts:
+    headers:
+      Host: 17720802366325.206355.xyz
+    path: '%2Fvideomuaawe'
+- name: US167｜机房｜低风险
+  network: ws
+  password: 45bdac08-8e04-4ed5-86bc-a092a745d459
+  port: 2053
+  server: bestcdn3.868863.xyz
+  skip-cert-verify: true
+  sni: 17720802364719.206356.xyz
+  type: trojan
+  ws-opts:
+    headers:
+      Host: 17720802361260.206356.xyz
+    path: '%2Fdmusicmuaawe'
+- name: US168｜机房｜低风险
+  network: ws
+  password: 45bdac08-8e04-4ed5-86bc-a092a745d459
+  port: 2053
+  server: bestcdn3.868863.xyz
+  skip-cert-verify: true
+  sni: 17720802362771.168381.xyz
+  type: trojan
+  ws-opts:
+    headers:
+      Host: 17720802367990.168381.xyz
+    path: '%2Ftianboephth'
+- name: US169｜机房｜低风险
+  network: ws
+  password: 45bdac08-8e04-4ed5-86bc-a092a745d459
+  port: 2096
+  server: bestcdn4.868863.xyz
+  skip-cert-verify: true
+  sni: 17720802367837.206352.xyz
+  type: trojan
+  ws-opts:
+    headers:
+      Host: 17720802364438.206352.xyz
     path: '%2Fagraeabtegrrh'
 - name: DE11｜机房｜低风险
   network: ws
-  password: 8be1f222-92fc-4e84-a6e9-26c74713e3d3
-  port: 2083
-  server: bestcdn3.868863.xyz
-  skip-cert-verify: true
-  sni: 17720002267806.206353.xyz
-  type: trojan
-  ws-opts:
-    headers:
-      Host: 17720002264893.206353.xyz
-    path: '%2Fagrbniuh'
-- name: US146｜机房｜低风险
-  network: ws
-  password: 8be1f222-92fc-4e84-a6e9-26c74713e3d3
-  port: 2053
-  server: bestcdn3.868863.xyz
-  skip-cert-verify: true
-  sni: 17720002265454.206355.xyz
-  type: trojan
-  ws-opts:
-    headers:
-      Host: 17720002268808.206355.xyz
-    path: '%2Fvideomuaawe'
-- name: US147｜机房｜低风险
-  network: ws
-  password: 8be1f222-92fc-4e84-a6e9-26c74713e3d3
-  port: 2053
-  server: bestcdn3.868863.xyz
-  skip-cert-verify: true
-  sni: 17720002266952.206356.xyz
-  type: trojan
-  ws-opts:
-    headers:
-      Host: 17720002268919.206356.xyz
-    path: '%2Fdmusicmuaawe'
-- name: US148｜机房｜低风险
-  network: ws
-  password: 8be1f222-92fc-4e84-a6e9-26c74713e3d3
-  port: 2053
-  server: bestcdn3.868863.xyz
-  skip-cert-verify: true
-  sni: 17720002262231.168381.xyz
-  type: trojan
-  ws-opts:
-    headers:
-      Host: 17720002267750.168381.xyz
-    path: '%2Ftianboephth'
-- name: US149｜机房｜低风险
-  network: ws
-  password: 8be1f222-92fc-4e84-a6e9-26c74713e3d3
-  port: 2096
-  server: bestcdn4.868863.xyz
-  skip-cert-verify: true
-  sni: 17720002261980.206352.xyz
-  type: trojan
-  ws-opts:
-    headers:
-      Host: 17720002267030.206352.xyz
-    path: '%2Fagraeabtegrrh'
-- name: DE12｜机房｜低风险
-  network: ws
-  password: 8be1f222-92fc-4e84-a6e9-26c74713e3d3
+  password: 45bdac08-8e04-4ed5-86bc-a092a745d459
   port: 8443
   server: bestcdn4.868863.xyz
   skip-cert-verify: true
-  sni: 17720002268807.206353.xyz
+  sni: 17720802363564.206353.xyz
   type: trojan
   ws-opts:
     headers:
-      Host: 17720002261418.206353.xyz
+      Host: 17720802366278.206353.xyz
     path: '%2Fagrbniuh'
-- name: US150｜机房｜低风险
+- name: US170｜机房｜低风险
   network: ws
-  password: 8be1f222-92fc-4e84-a6e9-26c74713e3d3
+  password: 45bdac08-8e04-4ed5-86bc-a092a745d459
   port: 2083
   server: bestcdn4.868863.xyz
   skip-cert-verify: true
-  sni: 17720002262112.206355.xyz
+  sni: 17720802368262.206355.xyz
   type: trojan
   ws-opts:
     headers:
-      Host: 17720002269748.206355.xyz
+      Host: 17720802367995.206355.xyz
     path: '%2Fvideomuaawe'
-- name: US151｜机房｜低风险
+- name: US171｜机房｜低风险
   network: ws
-  password: 8be1f222-92fc-4e84-a6e9-26c74713e3d3
+  password: 45bdac08-8e04-4ed5-86bc-a092a745d459
   port: 2083
   server: bestcdn4.868863.xyz
   skip-cert-verify: true
-  sni: 17720002268522.206356.xyz
+  sni: 17720802365018.206356.xyz
   type: trojan
   ws-opts:
     headers:
-      Host: 17720002266342.206356.xyz
+      Host: 17720802364340.206356.xyz
     path: '%2Fdmusicmuaawe'
-- name: US152｜机房｜低风险
+- name: US172｜机房｜低风险
   network: ws
-  password: 8be1f222-92fc-4e84-a6e9-26c74713e3d3
+  password: 45bdac08-8e04-4ed5-86bc-a092a745d459
   port: 2083
   server: bestcdn4.868863.xyz
   skip-cert-verify: true
-  sni: 17720002265667.168381.xyz
+  sni: 17720802368377.168381.xyz
   type: trojan
   ws-opts:
     headers:
-      Host: 17720002266610.168381.xyz
+      Host: 17720802365470.168381.xyz
     path: '%2Ftianboephth'
-- alpn:
-  - http/1.1
-  name: US165｜机房｜低风险
+- alterId: 0
+  cipher: auto
+  name: HK17｜家宽｜非常安全
+  network: ws
+  port: '39571'
+  server: 120.198.71.128
+  tls: false
+  type: vmess
+  uuid: dcdcb14e-8c34-3c0f-9801-01457dcf25f5
+  ws-opts:
+    headers:
+      Host: jike1-linode11.bilibili.com
+    path: /8858d045-66fe-441a-8d35-1507216fbb2f.live238.m3u8
+- name: GR1｜原生/疑似家宽｜非常安全
+  password: cd7e0971-4b98-41fc-9ecb-1267a2b0e4f4
+  port: 8443
+  server: hkbgp.jjxcloud.xyz
+  skip-cert-verify: true
+  sni: hkbgp.jjxcloud.xyz
+  tls: false
+  type: hysteria2
+- alterId: 2
+  cipher: auto
+  name: US190｜机房｜低风险
+  network: tcp
+  port: '30804'
+  server: v4.hdacd.com
+  tls: false
+  type: vmess
+  uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+- alterId: 0
+  cipher: auto
+  name: DE22｜机房｜高风险 (黑名单)
+  network: tcp
+  port: '180'
+  server: 82.198.246.97
+  tls: false
+  type: vmess
+  uuid: d13fc2f5-3e05-4795-81eb-44143a09e552
+- alterId: 0
+  cipher: auto
+  name: TR1｜商宽｜非常安全
+  network: ws
+  port: '80'
+  server: TM_AZARBAYJAB1.SERV.9.pagES.DEV
+  tls: false
+  type: vmess
+  uuid: 43dcdce1-3cea-4193-bc8d-90b92071d779
+  ws-opts:
+    headers:
+      Host: tr1-smart.adelping.com
+    path: /?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1/?de=2560
+- name: HK27｜原生/疑似家宽｜非常安全
+  obfs: salamander
+  obfs-password: ZWI4MWQ5YmMzOWY2NzlhMA%3D%3D
+  password: 6dfbef3b-f718-4053-806f-c9657e2fd943
+  port: 12344
+  server: hkfree.jljd.xyz
+  skip-cert-verify: true
+  sni: hkfree.jljd.xyz
+  tls: false
+  type: hysteria2
+- name: US207｜机房｜低风险
   network: ws
   password: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d
   port: 443
@@ -471,30 +553,28 @@ proxies:
     headers:
       Host: bgt.1x2.indevs.in
     path: '%2Fy1moM5CyNvYMZlzsYHmsMrnO'
-- name: HK18｜家宽｜非常安全
+- alterId: 0
+  cipher: auto
+  name: US208｜机房｜低风险
+  network: ws
+  port: '443'
+  server: 199.34.230.199
+  servername: ous3.dean52.top
+  tls: true
+  type: vmess
+  uuid: f08369d1-5ee7-4b16-d786-30bce12fc33c
+  ws-opts:
+    headers:
+      Host: ous3.dean52.top
+    path: /f08369d1-5ee7-4b16-d786-30bce12fc33c
+- name: IN5｜机房｜低风险
   network: tcp
-  password: 736cd94d-7b94-3e44-8106-3419f64eaf09
-  port: 3462
-  server: a12.taipeicitygovernment.org.ua
+  password: M7v%w11Se*
+  port: 443
+  server: tttyder.wsone.icu
   skip-cert-verify: true
-  sni: a12.taipeicitygovernment.org.ua
+  sni: tttyder.wsone.icu
   type: trojan
-- name: FR2｜原生/疑似家宽｜非常安全
-  obfs: salamander
-  obfs-password: ZjlmNDQ0MzAwNDgwMTUxMQ%3D%3D
-  password: c7730b65-c3c7-44a6-b1be-9d72d36679d1
-  port: 26399
-  server: fr.pddwdf.store
-  skip-cert-verify: true
-  sni: fr.pddwdf.store
-  tls: false
-  type: hysteria2
-- name: RU1｜家宽｜高风险 (代理)
-  port: 1080
-  server: 46.146.220.247
-  tls: false
-  type: socks5
-  username: Og%3D%3D
 - alterId: 0
   cipher: auto
   name: VN17｜商宽｜非常安全
@@ -503,133 +583,7 @@ proxies:
   server: faq1.lieerr222.cn
   tls: false
   type: vmess
-  uuid: 38cba758-a831-4869-a4b5-e1410a798c16
-- alterId: 0
-  cipher: auto
-  name: TW8｜机房｜低风险
-  network: tcp
-  port: '43527'
-  server: faq1.lieerr222.cn
-  tls: false
-  type: vmess
-  uuid: 29661c0b-171a-42b3-84ab-a0bbb98a6c7c
-- alterId: 0
-  cipher: auto
-  name: HK21｜机房｜低风险
-  network: tcp
-  port: '43525'
-  server: faq1.lieerr222.cn
-  tls: false
-  type: vmess
-  uuid: 18f07b44-75c4-49c3-ba38-ed1bcba80391
-- alterId: 0
-  cipher: auto
-  name: HK30｜机房｜低风险
-  network: tcp
-  port: '43525'
-  server: faq1.lieerr222.cn
-  tls: false
-  type: vmess
-  uuid: e849e73f-83f1-46a7-96e0-63ff6db5d8e8
-- alterId: 0
-  cipher: auto
-  name: VN16｜商宽｜非常安全
-  network: tcp
-  port: '43528'
-  server: faq1.lieerr222.cn
-  tls: false
-  type: vmess
-  uuid: 1d6816a7-02ba-4f57-a47d-50500f5b624b
-- alterId: 0
-  cipher: auto
-  name: HK29｜机房｜低风险
-  network: tcp
-  port: '43521'
-  server: faq1.lieerr222.cn
-  tls: false
-  type: vmess
-  uuid: 5c652f97-ad0d-4575-ac46-e8fad22dda49
-- alterId: 0
-  cipher: auto
-  name: VN18｜商宽｜非常安全
-  network: tcp
-  port: '43528'
-  server: faq1.lieerr222.cn
-  tls: false
-  type: vmess
-  uuid: 8423ff01-01e4-4b6f-82a5-6f077d4e1755
-- alterId: 0
-  cipher: auto
-  name: HK24｜机房｜低风险
-  network: tcp
-  port: '43521'
-  server: faq1.lieerr222.cn
-  tls: false
-  type: vmess
-  uuid: cded16d1-67c4-4b91-acfb-3f7cb79542f2
-- alterId: 0
-  cipher: auto
-  name: HK25｜机房｜低风险
-  network: tcp
-  port: '43522'
-  server: faq1.lieerr222.cn
-  tls: false
-  type: vmess
-  uuid: 1af5f983-069b-4052-99b5-1ac0137fbf07
-- alterId: 0
-  cipher: auto
-  name: HK26｜机房｜低风险
-  network: tcp
-  port: '43521'
-  server: faq1.lieerr222.cn
-  tls: false
-  type: vmess
-  uuid: 2d856c13-2091-4cf1-8392-26db807a3c89
-- alterId: 0
-  cipher: auto
-  name: HK27｜机房｜低风险
-  network: tcp
-  port: '43521'
-  server: faq1.lieerr222.cn
-  tls: false
-  type: vmess
-  uuid: 48b2b37c-11a6-4cd9-b9e6-bbbcd8466316
-- alterId: 0
-  cipher: auto
-  name: HK28｜机房｜低风险
-  network: tcp
-  port: '43522'
-  server: faq1.lieerr222.cn
-  tls: false
-  type: vmess
-  uuid: fe5ca431-07b8-4928-b1e1-146199a8d512
-- alterId: 0
-  cipher: auto
-  name: TW7｜机房｜低风险
-  network: tcp
-  port: '43527'
-  server: faq1.lieerr222.cn
-  tls: false
-  type: vmess
-  uuid: ead487b0-9ef9-4dd5-a833-cdbb40295e09
-- alterId: 0
-  cipher: auto
-  name: CY1｜商宽｜非常安全
-  network: tcp
-  port: '43530'
-  server: faq1.lieerr222.cn
-  tls: false
-  type: vmess
-  uuid: 78372d6e-1232-40c0-af26-2868a0e1c43d
-- alterId: 0
-  cipher: auto
-  name: TW9｜机房｜低风险
-  network: tcp
-  port: '43527'
-  server: faq1.lieerr222.cn
-  tls: false
-  type: vmess
-  uuid: 37ede67c-a557-407d-8d00-dfaac7e07db0
+  uuid: e404a24f-cb43-4cec-abf1-7b7783ce8316
 - alterId: 0
   cipher: auto
   name: TW10｜机房｜低风险
@@ -638,462 +592,108 @@ proxies:
   server: faq1.lieerr222.cn
   tls: false
   type: vmess
-  uuid: 1ed9426d-5600-414a-be67-646597ee7145
+  uuid: 9616280a-4502-4601-8923-a0f46fb0df47
+- name: US217｜机房｜低风险
+  network: tcp
+  password: 685343f2-49e1-41f8-a7fc-5d0993afb6c6
+  port: 43533
+  server: faq1.lieerr222.cn
+  skip-cert-verify: true
+  sni: faq1.lieerr222.cn
+  type: trojan
+- name: US216｜机房｜低风险
+  network: tcp
+  password: 58ea18cc-9009-4835-ad5e-8e01c603d797
+  port: 43534
+  server: faq1.lieerr222.cn
+  skip-cert-verify: true
+  sni: faq1.lieerr222.cn
+  type: trojan
+- name: US218｜机房｜低风险
+  network: tcp
+  password: 5c98781d-1f21-4a8d-901c-c5e958b8060f
+  port: 43533
+  server: faq1.lieerr222.cn
+  skip-cert-verify: true
+  sni: faq1.lieerr222.cn
+  type: trojan
+- name: US219｜机房｜低风险
+  network: tcp
+  password: 81c62fb0-2580-46d9-9c9d-690e5d6a1354
+  port: 43534
+  server: faq1.lieerr222.cn
+  skip-cert-verify: true
+  sni: faq1.lieerr222.cn
+  type: trojan
 - alterId: 0
   cipher: auto
-  name: HK31｜机房｜低风险
+  name: HK42｜机房｜低风险
   network: tcp
   port: '43525'
   server: faq1.lieerr222.cn
   tls: false
   type: vmess
-  uuid: d4c5665e-6b0a-4d01-859a-abf1b95c2d36
+  uuid: 7740455a-87d7-4749-b142-f6f5cc4ed4ea
+- name: US220｜机房｜低风险
+  network: tcp
+  password: 23424d8c-4123-4307-be27-c7cadbd7980c
+  port: 43535
+  server: faq1.lieerr222.cn
+  skip-cert-verify: true
+  sni: faq1.lieerr222.cn
+  type: trojan
+- name: US221｜机房｜低风险
+  network: tcp
+  password: 58ea18cc-9009-4835-ad5e-8e01c603d797
+  port: 43534
+  server: faq1.lieerr222.cn
+  skip-cert-verify: true
+  sni: douyin.com
+  type: trojan
+- name: US222｜机房｜低风险
+  network: tcp
+  password: 5c98781d-1f21-4a8d-901c-c5e958b8060f
+  port: 43533
+  server: faq1.lieerr222.cn
+  skip-cert-verify: true
+  sni: douyin.com
+  type: trojan
 - alterId: 0
   cipher: auto
-  name: HK32｜机房｜低风险
+  name: TW13｜机房｜低风险
   network: tcp
-  port: '43522'
+  port: '43527'
   server: faq1.lieerr222.cn
   tls: false
   type: vmess
-  uuid: ddf9f6cf-1cba-421e-b093-3f2dac397120
+  uuid: 9cd93d25-d829-4ba9-8dd5-cc1486213ca7
 - alterId: 0
   cipher: auto
-  name: HK33｜机房｜低风险
+  name: HK46｜机房｜低风险
   network: tcp
   port: '43525'
   server: faq1.lieerr222.cn
   tls: false
   type: vmess
-  uuid: 69d4d990-22ce-4344-977d-6dbc738d3ef0
+  uuid: b67d4455-d21e-4585-becc-7db23e08a4f8
 - alterId: 0
   cipher: auto
-  name: CY2｜商宽｜非常安全
+  name: TW14｜机房｜低风险
   network: tcp
-  port: '43530'
+  port: '43527'
   server: faq1.lieerr222.cn
   tls: false
   type: vmess
-  uuid: 093e674f-d72e-4b8e-ae10-48ca25187905
+  uuid: 4fcaee3c-590a-4d6f-917b-bd61bcda2673
 - alterId: 0
   cipher: auto
-  name: HK34｜机房｜低风险
+  name: HK47｜机房｜低风险
   network: tcp
-  port: '43522'
+  port: '43525'
   server: faq1.lieerr222.cn
   tls: false
   type: vmess
-  uuid: 6e33ce8b-79d0-4d56-b2fd-c1b9e1f7028e
-- alterId: 0
-  cipher: auto
-  name: HK35｜机房｜低风险
-  network: ws
-  port: '2053'
-  server: youxuan.513514.xyz
-  servername: afeicloudhk.54141528.xyz
-  tls: true
-  type: vmess
-  uuid: de0c4b78-82d5-4f30-8d57-5302748b6af9
-  ws-opts:
-    headers:
-      Host: afeicloudhk.54141528.xyz
-    path: /hk
-- alterId: 0
-  cipher: auto
-  name: HK36｜机房｜低风险
-  network: ws
-  port: '2083'
-  server: youxuan.513514.xyz
-  servername: afeihk2.54141528.xyz
-  tls: true
-  type: vmess
-  uuid: de0c4b78-82d5-4f30-8d57-5302748b6af9
-  ws-opts:
-    headers:
-      Host: afeihk2.54141528.xyz
-    path: /hk2
-- alterId: 0
-  cipher: auto
-  name: HK37｜原生/疑似家宽｜非常安全
-  network: ws
-  port: '2053'
-  server: youxuan.513514.xyz
-  servername: afeihk3.54141528.xyz
-  tls: true
-  type: vmess
-  uuid: de0c4b78-82d5-4f30-8d57-5302748b6af9
-  ws-opts:
-    headers:
-      Host: afeihk3.54141528.xyz
-    path: /hk3
-- alterId: 0
-  cipher: auto
-  name: HK38｜原生/疑似家宽｜非常安全
-  network: ws
-  port: '2083'
-  server: youxuan.513514.xyz
-  servername: afeihk5.54141528.xyz
-  tls: true
-  type: vmess
-  uuid: de0c4b78-82d5-4f30-8d57-5302748b6af9
-  ws-opts:
-    headers:
-      Host: afeihk5.54141528.xyz
-    path: /hk5
-- alterId: 0
-  cipher: auto
-  name: HK39｜机房｜低风险
-  network: ws
-  port: '2053'
-  server: youxuan.513514.xyz
-  servername: afeihk6.54141528.xyz
-  tls: true
-  type: vmess
-  uuid: de0c4b78-82d5-4f30-8d57-5302748b6af9
-  ws-opts:
-    headers:
-      Host: afeihk6.54141528.xyz
-    path: /hk6
-- alterId: 0
-  cipher: auto
-  name: HK40｜机房｜高风险 (黑名单)
-  network: ws
-  port: '2053'
-  server: youxuan.513514.xyz
-  servername: afeicloudhk8.54141528.xyz
-  tls: true
-  type: vmess
-  uuid: de0c4b78-82d5-4f30-8d57-5302748b6af9
-  ws-opts:
-    headers:
-      Host: afeicloudhk8.54141528.xyz
-    path: /hk8
-- alterId: 0
-  cipher: auto
-  name: HK41｜原生/疑似家宽｜非常安全
-  network: ws
-  port: '2083'
-  server: youxuan.513514.xyz
-  servername: afeicloud9.54141528.xyz
-  tls: true
-  type: vmess
-  uuid: de0c4b78-82d5-4f30-8d57-5302748b6af9
-  ws-opts:
-    headers:
-      Host: afeicloud9.54141528.xyz
-    path: /hk9
-- alterId: 0
-  cipher: auto
-  name: HK42｜机房｜高风险 (黑名单)
-  network: ws
-  port: '2083'
-  server: youxuan.513514.xyz
-  servername: afeihk10.54141528.xyz
-  tls: true
-  type: vmess
-  uuid: de0c4b78-82d5-4f30-8d57-5302748b6af9
-  ws-opts:
-    headers:
-      Host: afeihk10.54141528.xyz
-    path: /hk10
-- alterId: 0
-  cipher: auto
-  name: US171｜机房｜低风险
-  network: ws
-  port: '2053'
-  server: youxuan.513514.xyz
-  servername: afeila.54141528.xyz
-  tls: true
-  type: vmess
-  uuid: de0c4b78-82d5-4f30-8d57-5302748b6af9
-  ws-opts:
-    headers:
-      Host: afeila.54141528.xyz
-    path: /la
-- alterId: 0
-  cipher: auto
-  name: US172｜机房｜低风险
-  network: ws
-  port: '2053'
-  server: youxuan.513514.xyz
-  servername: afeila2.54141528.xyz
-  tls: true
-  type: vmess
-  uuid: de0c4b78-82d5-4f30-8d57-5302748b6af9
-  ws-opts:
-    headers:
-      Host: afeila2.54141528.xyz
-    path: /la2
-- alterId: 0
-  cipher: auto
-  name: US173｜机房｜低风险
-  network: ws
-  port: '2053'
-  server: youxuan.513514.xyz
-  servername: afeila3.54141528.xyz
-  tls: true
-  type: vmess
-  uuid: de0c4b78-82d5-4f30-8d57-5302748b6af9
-  ws-opts:
-    headers:
-      Host: afeila3.54141528.xyz
-    path: /la3
-- alterId: 0
-  cipher: auto
-  name: US174｜机房｜低风险
-  network: ws
-  port: '2083'
-  server: youxuan.513514.xyz
-  servername: afeicloudsj.54141528.xyz
-  tls: true
-  type: vmess
-  uuid: de0c4b78-82d5-4f30-8d57-5302748b6af9
-  ws-opts:
-    headers:
-      Host: afeicloudsj.54141528.xyz
-    path: /sj
-- alterId: 0
-  cipher: auto
-  name: US175｜机房｜低风险
-  network: ws
-  port: '2053'
-  server: youxuan.513514.xyz
-  servername: afeiny.54141528.xyz
-  tls: true
-  type: vmess
-  uuid: de0c4b78-82d5-4f30-8d57-5302748b6af9
-  ws-opts:
-    headers:
-      Host: afeiny.54141528.xyz
-    path: /ny
-- alterId: 0
-  cipher: auto
-  name: US176｜机房｜高风险 (黑名单)
-  network: ws
-  port: '2053'
-  server: youxuan.513514.xyz
-  servername: afeikck.54141528.xyz
-  tls: true
-  type: vmess
-  uuid: de0c4b78-82d5-4f30-8d57-5302748b6af9
-  ws-opts:
-    headers:
-      Host: afeikck.54141528.xyz
-    path: /kck
-- alterId: 0
-  cipher: auto
-  name: CA1｜机房｜低风险
-  network: ws
-  port: '2083'
-  server: youxuan.513514.xyz
-  servername: afeicloudca.54141528.xyz
-  tls: true
-  type: vmess
-  uuid: de0c4b78-82d5-4f30-8d57-5302748b6af9
-  ws-opts:
-    headers:
-      Host: afeicloudca.54141528.xyz
-    path: /ca
-- alterId: 0
-  cipher: auto
-  name: NL30｜机房｜低风险
-  network: ws
-  port: '2053'
-  server: youxuan.513514.xyz
-  servername: afeiams.19910306.xyz
-  tls: true
-  type: vmess
-  uuid: de0c4b78-82d5-4f30-8d57-5302748b6af9
-  ws-opts:
-    headers:
-      Host: afeiams.19910306.xyz
-    path: /ams
-- alterId: 0
-  cipher: auto
-  name: FR3｜机房｜低风险
-  network: ws
-  port: '2053'
-  server: youxuan.513514.xyz
-  servername: afeifr.54141528.xyz
-  tls: true
-  type: vmess
-  uuid: de0c4b78-82d5-4f30-8d57-5302748b6af9
-  ws-opts:
-    headers:
-      Host: afeifr.54141528.xyz
-    path: /fr
-- alterId: 0
-  cipher: auto
-  name: PL1｜机房｜低风险
-  network: ws
-  port: '2083'
-  server: youxuan.513514.xyz
-  servername: afeipol.54141528.xyz
-  tls: true
-  type: vmess
-  uuid: de0c4b78-82d5-4f30-8d57-5302748b6af9
-  ws-opts:
-    headers:
-      Host: afeipol.54141528.xyz
-    path: /pol
-- alterId: 0
-  cipher: auto
-  name: FI11｜机房｜低风险
-  network: ws
-  port: '2053'
-  server: youxuan.513514.xyz
-  servername: afeifi.54141528.xyz
-  tls: true
-  type: vmess
-  uuid: de0c4b78-82d5-4f30-8d57-5302748b6af9
-  ws-opts:
-    headers:
-      Host: afeifi.54141528.xyz
-    path: /fi
-- alterId: 0
-  cipher: auto
-  name: TW11｜机房｜低风险
-  network: ws
-  port: '2053'
-  server: youxuan.513514.xyz
-  servername: afeitw.54141528.xyz
-  tls: true
-  type: vmess
-  uuid: de0c4b78-82d5-4f30-8d57-5302748b6af9
-  ws-opts:
-    headers:
-      Host: afeitw.54141528.xyz
-    path: /tw
-- alterId: 0
-  cipher: auto
-  name: JP36｜机房｜低风险
-  network: ws
-  port: '2053'
-  server: youxuan.513514.xyz
-  servername: afeiosaka.54141528.xyz
-  tls: true
-  type: vmess
-  uuid: de0c4b78-82d5-4f30-8d57-5302748b6af9
-  ws-opts:
-    headers:
-      Host: afeiosaka.54141528.xyz
-    path: /jp
-- name: SG8｜机房｜低风险
-  obfs: salamander
-  obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D
-  password: de0c4b78-82d5-4f30-8d57-5302748b6af9
-  port: 36588
-  server: afeioraclesg.54141528.xyz
-  skip-cert-verify: true
-  sni: afeioraclesg.54141528.xyz
-  tls: false
-  type: hysteria2
-- name: US178｜机房｜低风险
-  obfs: salamander
-  obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D
-  password: de0c4b78-82d5-4f30-8d57-5302748b6af9
-  port: 36545
-  server: afeila.54141528.xyz
-  skip-cert-verify: true
-  sni: afeila.54141528.xyz
-  tls: false
-  type: hysteria2
-- name: JP38｜机房｜低风险
-  obfs: salamander
-  obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D
-  password: de0c4b78-82d5-4f30-8d57-5302748b6af9
-  port: 35685
-  server: afeiosaka.54141528.xyz
-  skip-cert-verify: true
-  sni: afeiosaka.54141528.xyz
-  tls: false
-  type: hysteria2
-- alterId: 2
-  cipher: auto
-  name: HK43｜家宽｜非常安全
-  network: ws
-  port: '80'
-  server: cedba343-t94cg0-t9lm1q-1p1b.hkt.gotochinatown.net
-  tls: false
-  type: vmess
-  uuid: 279b8588-616b-11ed-a8bf-f23c91cfbbc9
-  ws-opts:
-    headers:
-      Host: broadcastlv.chat.bilibili.com
-    path: /
-- alterId: 0
-  cipher: auto
-  name: AU1｜机房｜低风险
-  network: ws
-  port: '443'
-  server: sy4.620720.xyz
-  servername: sy4.620720.xyz
-  tls: true
-  type: vmess
-  uuid: 516d8a7a-3f0b-41d3-bad0-246116381516
-  ws-opts:
-    headers:
-      Host: sy4.620720.xyz
-    path: /
-- alterId: 0
-  cipher: auto
-  name: JP39｜机房｜低风险
-  network: ws
-  port: '8443'
-  server: t1.620720.xyz
-  servername: t1.620720.xyz
-  tls: true
-  type: vmess
-  uuid: 516d8a7a-3f0b-41d3-bad0-246116381516
-  ws-opts:
-    headers:
-      Host: t1.620720.xyz
-    path: /
-- alterId: 2
-  cipher: auto
-  name: HK44｜家宽｜非常安全
-  network: ws
-  port: '80'
-  server: e3c7f60e-t8pj40-t9b2j8-11p9g.hkt.gotochinatown.net
-  tls: false
-  type: vmess
-  uuid: 384d1b42-655f-11ed-a8bf-f23c91cfbbc9
-  ws-opts:
-    headers:
-      Host: broadcastlv.chat.bilibili.com
-    path: /
-- name: FR4｜机房｜低风险
-  network: tcp
-  password: af4b064a9c39472fb34ad8b113acdc6b
-  port: 443
-  server: 162.19.10.218
-  skip-cert-verify: true
-  sni: 162.19.10.218
-  type: trojan
-- name: NL31｜机房｜低风险
-  network: tcp
-  password: af4b064a9c39472fb34ad8b113acdc6b
-  port: 443
-  server: 5.180.79.168
-  skip-cert-verify: true
-  sni: 5.180.79.168
-  type: trojan
-- name: LU1｜商宽｜非常安全
-  network: tcp
-  password: af4b064a9c39472fb34ad8b113acdc6b
-  port: 443
-  server: 45.12.144.61
-  skip-cert-verify: true
-  sni: 45.12.144.61
-  type: trojan
-- name: DE15｜机房｜低风险
-  password: b5f85b3e-9211-4989-ae50-5a3fd510f9ba
-  port: 8080
-  server: de.892622.xyz
-  skip-cert-verify: true
-  sni: de.892622.xyz
-  tls: false
-  type: hysteria2
+  uuid: 65482777-4fbd-4a11-a65d-cd1c5fdf96cb
 - name: 🥾65@oneclickvpnkeys
   password: 0b8a288c
   port: 65160
@@ -1286,16 +886,7 @@ proxies:
   type: hysteria2
 - alpn:
   - h3
-  name: '@Free_World2'
-  obfs: salamander
-  obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
-  password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
-  port: 35000
-  server: 5.175.249.174
-  sni: api.kermanshahi.org
-  tls: false
-  type: hysteria2
-- name: 'کانال تلگرام : Free_VPN_CH@ #1'
+  name: 'کانال تلگرام : Free_VPN_CH@ #1'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
@@ -1306,6 +897,16 @@ proxies:
   tls: false
   type: hysteria2
 - name: 'کانال تلگرام : Free_VPN_CH@ #2'
+  obfs: salamander
+  obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
+  password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
+  port: 35000
+  server: 5.175.249.174
+  skip-cert-verify: false
+  sni: api.kermanshahi.org
+  tls: false
+  type: hysteria2
+- name: 'کانال تلگرام : Free_VPN_CH@ #3'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad

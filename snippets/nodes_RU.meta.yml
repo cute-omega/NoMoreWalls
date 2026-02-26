@@ -1,10 +1,4 @@
 proxies:
-- name: RU1｜家宽｜高风险 (代理)
-  port: 1080
-  server: 46.146.220.247
-  tls: false
-  type: socks5
-  username: Og%3D%3D
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
   name: RU_speednode_0012

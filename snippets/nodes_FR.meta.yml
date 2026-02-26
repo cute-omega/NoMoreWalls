@@ -1,36 +1,4 @@
 proxies:
-- name: FR2｜原生/疑似家宽｜非常安全
-  obfs: salamander
-  obfs-password: ZjlmNDQ0MzAwNDgwMTUxMQ%3D%3D
-  password: c7730b65-c3c7-44a6-b1be-9d72d36679d1
-  port: 26399
-  server: fr.pddwdf.store
-  skip-cert-verify: true
-  sni: fr.pddwdf.store
-  tls: false
-  type: hysteria2
-- alterId: 0
-  cipher: auto
-  name: FR3｜机房｜低风险
-  network: ws
-  port: '2053'
-  server: youxuan.513514.xyz
-  servername: afeifr.54141528.xyz
-  tls: true
-  type: vmess
-  uuid: de0c4b78-82d5-4f30-8d57-5302748b6af9
-  ws-opts:
-    headers:
-      Host: afeifr.54141528.xyz
-    path: /fr
-- name: FR4｜机房｜低风险
-  network: tcp
-  password: af4b064a9c39472fb34ad8b113acdc6b
-  port: 443
-  server: 162.19.10.218
-  skip-cert-verify: true
-  sni: 162.19.10.218
-  type: trojan
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
   name: FR_speednode_0005
