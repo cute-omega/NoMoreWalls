@@ -1,31 +1,4 @@
 proxies:
-- alterId: 0
-  cipher: auto
-  name: TW10｜机房｜低风险
-  network: tcp
-  port: '43527'
-  server: faq1.lieerr222.cn
-  tls: false
-  type: vmess
-  uuid: 9616280a-4502-4601-8923-a0f46fb0df47
-- alterId: 0
-  cipher: auto
-  name: TW13｜机房｜低风险
-  network: tcp
-  port: '43527'
-  server: faq1.lieerr222.cn
-  tls: false
-  type: vmess
-  uuid: 9cd93d25-d829-4ba9-8dd5-cc1486213ca7
-- alterId: 0
-  cipher: auto
-  name: TW14｜机房｜低风险
-  network: tcp
-  port: '43527'
-  server: faq1.lieerr222.cn
-  tls: false
-  type: vmess
-  uuid: 4fcaee3c-590a-4d6f-917b-bd61bcda2673
 - name: TW
   password: e7965e64-e001-4e8c-8273-39c61ff4a094
   port: 30000
@@ -34,3 +7,18 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
+- client-fingerprint: chrome
+  name: TW_speednode_0022
+  network: ws
+  port: 10443
+  server: 114.34.106.124
+  servername: 63.hhhhh.eu.org
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: 3e974f9e-f568-4c2a-a4db-e9b666b4ea9e
+  ws-opts:
+    headers:
+      Host: 63.hhhhh.eu.org
+    path: /114.34.106.124:10443

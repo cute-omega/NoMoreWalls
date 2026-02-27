@@ -1,18 +1,5 @@
 proxies:
-- alterId: 0
-  cipher: auto
-  name: HK18｜家宽｜非常安全
-  network: ws
-  port: '39569'
-  server: 120.198.71.128
-  tls: false
-  type: vmess
-  uuid: dcdcb14e-8c34-3c0f-9801-01457dcf25f5
-  ws-opts:
-    headers:
-      Host: jike1-linode10.bilibili.com
-    path: /04235e8c-cea8-4f16-8934-b704a89b40cb.live238.m3u8
-- name: HK14｜家宽｜非常安全
+- name: HK17｜家宽｜非常安全
   network: tcp
   password: 984c7793-1447-4af5-9200-d514ad6fe329
   port: 14011
@@ -20,46 +7,40 @@ proxies:
   skip-cert-verify: true
   sni: jsygouer.weixin-baidu-qq.com
   type: trojan
-- alterId: 0
+- alterId: 2
   cipher: auto
-  name: HK17｜家宽｜非常安全
+  name: HK9｜家宽｜非常安全
   network: ws
-  port: '39571'
-  server: 120.198.71.128
+  port: '80'
+  server: 8c0d4a37-tb89s0-tu0ezx-1m7l4.hkt.gotochinatown.net
   tls: false
   type: vmess
-  uuid: dcdcb14e-8c34-3c0f-9801-01457dcf25f5
+  uuid: bd515574-3b10-11ee-ac14-f23c9164ca5d
   ws-opts:
     headers:
-      Host: jike1-linode11.bilibili.com
-    path: /8858d045-66fe-441a-8d35-1507216fbb2f.live238.m3u8
-- alterId: 0
-  cipher: auto
-  name: HK42｜机房｜低风险
+      Host: broadcastlv.chat.bilibili.com
+    path: /
+- name: HK25｜家宽｜非常安全
   network: tcp
-  port: '43525'
-  server: faq1.lieerr222.cn
+  password: af4b064a9c39472fb34ad8b113acdc6b
+  port: 443
+  server: 183.179.43.253
+  skip-cert-verify: true
+  sni: 183.179.43.253
+  type: trojan
+- alterId: 2
+  cipher: auto
+  name: HK26｜家宽｜非常安全
+  network: ws
+  port: '80'
+  server: 317e22e6-t94cg0-tcmken-19les.hkt.gotochinatown.net
   tls: false
   type: vmess
-  uuid: 7740455a-87d7-4749-b142-f6f5cc4ed4ea
-- alterId: 0
-  cipher: auto
-  name: HK46｜机房｜低风险
-  network: tcp
-  port: '43525'
-  server: faq1.lieerr222.cn
-  tls: false
-  type: vmess
-  uuid: b67d4455-d21e-4585-becc-7db23e08a4f8
-- alterId: 0
-  cipher: auto
-  name: HK47｜机房｜低风险
-  network: tcp
-  port: '43525'
-  server: faq1.lieerr222.cn
-  tls: false
-  type: vmess
-  uuid: 65482777-4fbd-4a11-a65d-cd1c5fdf96cb
+  uuid: d095ecc6-7b69-11eb-b77b-f23c913c8d2b
+  ws-opts:
+    headers:
+      Host: broadcastlv.chat.bilibili.com
+    path: /
 - alterId: 2
   cipher: auto
   name: 🇭🇰 香港|@ripaojiedian
