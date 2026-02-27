@@ -130,5 +130,5 @@ vless://5a4abb78-ecd7-4d68-ab2a-c11a3842f261@198.62.62.248:443?allowInsecure=0&s
 https://bd515574-3b10-11ee-ac14-f23c9164ca5d:bd515574-3b10-11ee-ac14-f23c9164ca5d@2334761b-tb89s0-tu0ezx-1m7l4.de.oshuawei.com:443
 vless://e43dd231-7c75-4606-80ec-50fbb8335ce7@132.226.85.167:443?allowInsecure=0&sni=www.microsoft.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#US_speednode_0028
 vless://e384913f-8863-47b4-8858-a84b68abb4a6@144.31.130.59:23335?allowInsecure=0&sni=icloud.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#US_speednode_0029
-anytls://bc4d55c1-38df-43e6-8df7-3733e84d9399@iijjp.mggl.wang:35791?security=none&type=tcp&alpn=h2&allowInsecure=1&sni=iijjp.mggl.wang&udp=1&insecure=1#JP3%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
 anytls://ae74dd32-c336-4be4-9c15-f6108292b3e5@us1.anliangjifei.top:12053?security=none&type=tcp&allowInsecure=1&sni=us1.anliangjifei.top&udp=1&insecure=1#US175%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
+anytls://bc4d55c1-38df-43e6-8df7-3733e84d9399@iijjp.mggl.wang:35791?security=none&type=tcp&alpn=h2&allowInsecure=1&sni=iijjp.mggl.wang&udp=1&insecure=1#JP3%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
