@@ -32,6 +32,16 @@ proxies:
   sni: www.microsoft.com
   tls: false
   type: hysteria2
+- name: 🇬🇧 T.Me/V2RayyNGvpn 🇬🇧
+  obfs: salamander
+  obfs-password: V2RayyNGvpn$KroukyGod
+  password: qLLWHkBP8O
+  port: 443
+  server: 212.74.39.26
+  skip-cert-verify: true
+  sni: www.refersion.com
+  tls: false
+  type: hysteria2
 - client-fingerprint: chrome
   name: GB_speednode_0006
   port: 443
