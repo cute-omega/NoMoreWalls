@@ -1,5 +1,5 @@
 proxies:
-- name: KR168｜家宽｜高风险 (代理/黑名单)
+- name: KR162｜家宽｜高风险 (黑名单)
   port: 1090
   server: 121.169.46.116
   tls: false

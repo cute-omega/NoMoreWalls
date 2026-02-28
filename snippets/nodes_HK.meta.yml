@@ -1,5 +1,5 @@
 proxies:
-- name: HK17｜家宽｜非常安全
+- name: HK13｜家宽｜非常安全
   network: tcp
   password: 984c7793-1447-4af5-9200-d514ad6fe329
   port: 14011
@@ -7,48 +7,22 @@ proxies:
   skip-cert-verify: true
   sni: jsygouer.weixin-baidu-qq.com
   type: trojan
-- alterId: 2
-  cipher: auto
-  name: HK9｜家宽｜非常安全
-  network: ws
-  port: '80'
-  server: 8c0d4a37-tb89s0-tu0ezx-1m7l4.hkt.gotochinatown.net
-  tls: false
-  type: vmess
-  uuid: bd515574-3b10-11ee-ac14-f23c9164ca5d
-  ws-opts:
-    headers:
-      Host: broadcastlv.chat.bilibili.com
-    path: /
-- name: HK12｜机房｜低风险
-  password: cac966c1-b596-48ff-ab7c-6d58f8d6ca04
-  port: 50000
-  server: 103.197.71.119
-  skip-cert-verify: true
-  sni: www.hoyoverse.com
-  tls: false
-  type: hysteria2
-- name: HK25｜家宽｜非常安全
+- name: HK36｜原生/疑似家宽｜非常安全
   network: tcp
-  password: af4b064a9c39472fb34ad8b113acdc6b
-  port: 443
-  server: 183.179.43.253
+  password: 5f6ded93-4ab8-4a99-9c84-b19b9993f27c
+  port: 31101
+  server: green2.cdntencentmusic.com
   skip-cert-verify: true
-  sni: 183.179.43.253
+  sni: green2.cdntencentmusic.com
   type: trojan
-- alterId: 2
-  cipher: auto
-  name: HK26｜家宽｜非常安全
-  network: ws
-  port: '80'
-  server: 317e22e6-t94cg0-tcmken-19les.hkt.gotochinatown.net
-  tls: false
-  type: vmess
-  uuid: d095ecc6-7b69-11eb-b77b-f23c913c8d2b
-  ws-opts:
-    headers:
-      Host: broadcastlv.chat.bilibili.com
-    path: /
+- name: HK37｜原生/疑似家宽｜非常安全
+  network: tcp
+  password: 125f929b-dbde-43b9-b498-695f1cd45d68
+  port: 31101
+  server: 220.130.58.136
+  skip-cert-verify: true
+  sni: 220.130.58.136
+  type: trojan
 - name: 🇭🇰 HK
   password: a305ac08-d136-11ee-b6db-f23c91cfbbc9
   port: 443

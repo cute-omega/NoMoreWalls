@@ -1,5 +1,5 @@
 proxies:
-- name: SG6｜机房｜低风险
+- name: SG7｜机房｜低风险
   network: tcp
   password: 984c7793-1447-4af5-9200-d514ad6fe329
   port: 45005
@@ -7,6 +7,15 @@ proxies:
   skip-cert-verify: true
   sni: jsygouer.weixin-baidu-qq.com
   type: trojan
+- alterId: 0
+  cipher: auto
+  name: SG14｜机房｜低风险
+  network: tcp
+  port: '17229'
+  server: 151.242.183.239
+  tls: false
+  type: vmess
+  uuid: 4d178008-8f7c-4b4b-b425-87d6117f1c87
 - name: SG
   password: e7965e64-e001-4e8c-8273-39c61ff4a094
   port: 30000

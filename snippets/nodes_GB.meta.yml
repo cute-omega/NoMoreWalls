@@ -1,29 +1,4 @@
 proxies:
-- alterId: 2
-  cipher: auto
-  name: GB4｜机房｜低风险
-  network: tcp
-  port: '30836'
-  server: v36.hdacd.com
-  tls: false
-  type: vmess
-  uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-- name: GB6｜机房｜低风险
-  password: cac966c1-b596-48ff-ab7c-6d58f8d6ca04
-  port: 65535
-  server: 132.145.52.10
-  skip-cert-verify: true
-  sni: www.microsoft.com
-  tls: false
-  type: hysteria2
-- name: GB8｜机房｜低风险
-  password: cac966c1-b596-48ff-ab7c-6d58f8d6ca04
-  port: 65535
-  server: 132.145.28.17
-  skip-cert-verify: true
-  sni: www.microsoft.com
-  tls: false
-  type: hysteria2
 - name: 🇬🇧/@en_vpn/کانفیگ های بیشتر
   password: ad49d6ea-c453-4a2e-b36a-2b71a3e0ed12
   port: 65535
