@@ -777,16 +777,6 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 'کانال تلگرام : Free_VPN_CH@ #3'
-  obfs: salamander
-  obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
-  password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
-  port: 35000
-  server: 5.175.249.174
-  skip-cert-verify: false
-  sni: api.kermanshahi.org@freenettir
-  tls: false
-  type: hysteria2
 - alpn:
   - h3
   name: 'کانال تلگرام : Free_VPN_CH@ #1'
@@ -797,6 +787,16 @@ proxies:
   server: 5.175.249.174
   skip-cert-verify: false
   sni: api.kermanshahi.org
+  tls: false
+  type: hysteria2
+- name: 'کانال تلگرام : Free_VPN_CH@ #3'
+  obfs: salamander
+  obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
+  password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
+  port: 35000
+  server: 5.175.249.174
+  skip-cert-verify: false
+  sni: api.kermanshahi.org@freenettir
   tls: false
   type: hysteria2
 - name: '@V2rayNG3 #3'
@@ -835,6 +835,16 @@ proxies:
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
   port: 443
   server: 2a14:3f87:f001:1a::a
+  skip-cert-verify: true
+  sni: api.kermanshahi.org
+  tls: false
+  type: hysteria2
+- name: 🌱6@oneclickvpnkeys
+  obfs: salamander
+  obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
+  password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
+  port: 35000
+  server: api.kermanshahi.org
   skip-cert-verify: true
   sni: api.kermanshahi.org
   tls: false
