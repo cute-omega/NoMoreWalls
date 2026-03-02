@@ -1,9 +1,10 @@
 proxies:
-- name: FR4｜机房｜低风险
-  password: dc6a6c45-b13c-4f1d-8729-19b4d8bba4aa
-  port: 443
-  server: 129.151.251.122
-  skip-cert-verify: true
-  sni: www.lamer.com.hk
+- alterId: 2
+  cipher: auto
+  name: FR11｜机房｜低风险
+  network: tcp
+  port: '30835'
+  server: v35.hdacd.com
   tls: false
-  type: hysteria2
+  type: vmess
+  uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484

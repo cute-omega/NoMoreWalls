@@ -1,13 +1,4 @@
 proxies:
-- alterId: 0
-  cipher: auto
-  name: JP29｜机房｜低风险
-  network: tcp
-  port: '28429'
-  server: 151.242.183.239
-  tls: false
-  type: vmess
-  uuid: 4d178008-8f7c-4b4b-b425-87d6117f1c87
 - name: JP
   password: 95D27EEF-B7AE-4076-BA39-40FDFA3D0F61
   port: 13778

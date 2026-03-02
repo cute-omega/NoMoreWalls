@@ -1,34 +1,46 @@
 proxies:
+- name: DE11｜机房｜低风险
+  network: ws
+  password: 08f7246f-182a-4e04-a84b-d30094a2442b
+  port: 2087
+  server: bestcdn2.868863.xyz
+  skip-cert-verify: true
+  sni: 17724352329422.206353.xyz
+  type: trojan
+  ws-opts:
+    headers:
+      Host: 17724352322839.206353.xyz
+    path: '%2Fagrbniuh'
+- name: DE12｜机房｜低风险
+  network: ws
+  password: 08f7246f-182a-4e04-a84b-d30094a2442b
+  port: 2083
+  server: bestcdn3.868863.xyz
+  skip-cert-verify: true
+  sni: 17724352328530.206353.xyz
+  type: trojan
+  ws-opts:
+    headers:
+      Host: 17724352322338.206353.xyz
+    path: '%2Fagrbniuh'
+- name: DE13｜机房｜低风险
+  network: ws
+  password: 08f7246f-182a-4e04-a84b-d30094a2442b
+  port: 8443
+  server: bestcdn4.868863.xyz
+  skip-cert-verify: true
+  sni: 17724352329463.206353.xyz
+  type: trojan
+  ws-opts:
+    headers:
+      Host: 17724352322146.206353.xyz
+    path: '%2Fagrbniuh'
 - alterId: 0
   cipher: auto
-  name: DE19｜机房｜高风险 (黑名单)
+  name: DE23｜机房｜高风险 (黑名单)
   network: tcp
   port: '180'
   server: 82.198.246.97
   tls: false
   type: vmess
   uuid: d13fc2f5-3e05-4795-81eb-44143a09e552
-- name: DE12｜机房｜低风险
-  network: ws
-  password: e4b6a49c-c806-499d-87ef-977a5c92758e
-  port: 2087
-  server: bestcdn2.868863.xyz
-  skip-cert-verify: true
-  sni: 17722563344998.206353.xyz
-  type: trojan
-  ws-opts:
-    headers:
-      Host: 17722563346712.206353.xyz
-    path: '%2Fagrbniuh'
-- name: DE13｜机房｜低风险
-  network: ws
-  password: e4b6a49c-c806-499d-87ef-977a5c92758e
-  port: 8443
-  server: bestcdn4.868863.xyz
-  skip-cert-verify: true
-  sni: 17722563349478.206353.xyz
-  type: trojan
-  ws-opts:
-    headers:
-      Host: 17722563345611.206353.xyz
-    path: '%2Fagrbniuh'

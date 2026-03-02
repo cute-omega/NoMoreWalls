@@ -1,1 +1,25 @@
-proxies: []
+proxies:
+- name: CA3｜商宽｜非常安全
+  network: ws
+  password: f95eeec4-01fd-44a7-9e12-b217f41af26e
+  port: 443
+  server: 141.193.213.60
+  skip-cert-verify: true
+  sni: 5qfg26y3xj2zjlmr.catimecsgo.xyz
+  type: trojan
+  ws-opts:
+    headers:
+      Host: 5qfg26y3xj2zjlmr.catimecsgo.xyz
+    path: '%2Fimages'
+- name: CA4｜商宽｜非常安全
+  network: ws
+  password: f95eeec4-01fd-44a7-9e12-b217f41af26e
+  port: 443
+  server: cloudflare.182682.xyz
+  skip-cert-verify: true
+  sni: 5qfg26y3xj2zjlmr.catimecsgo.xyz
+  type: trojan
+  ws-opts:
+    headers:
+      Host: 5qfg26y3xj2zjlmr.catimecsgo.xyz
+    path: '%2Fimages'
