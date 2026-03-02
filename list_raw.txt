@@ -135,5 +135,5 @@ vless://1c4aceb6-bff7-4737-8c5d-43afb3dc350b@77.92.145.192:443?allowInsecure=0&s
 vless://e43dd231-7c75-4606-80ec-50fbb8335ce7@132.226.85.167:443?allowInsecure=0&sni=www.microsoft.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#US_speednode_0014
 vless://be70763e-ab0a-4f8d-87aa-b8ae86495cca@165.154.235.194:30001?allowInsecure=0&sni=www.cloudflare.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#US_speednode_0015
 anytls://d1a8458f-5569-40cd-8520-256cae1dae31@jpgs.xn--99-c72c.top:443?security=none&type=tcp&allowInsecure=1&sni=gw.alicdn.com&udp=1&insecure=1#JP19%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
-anytls://d1a8458f-5569-40cd-8520-256cae1dae31@us.xn--99-c72c.top:18444?security=none&type=tcp&allowInsecure=1&sni=gw.alicdn.com&udp=1&insecure=1#US160%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
 anytls://d1a8458f-5569-40cd-8520-256cae1dae31@jp.xn--99-c72c.top:18443?security=none&type=tcp&allowInsecure=1&sni=gw.alicdn.com&udp=1&insecure=1#JP20%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
+anytls://d1a8458f-5569-40cd-8520-256cae1dae31@us.xn--99-c72c.top:18444?security=none&type=tcp&allowInsecure=1&sni=gw.alicdn.com&udp=1&insecure=1#US160%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
