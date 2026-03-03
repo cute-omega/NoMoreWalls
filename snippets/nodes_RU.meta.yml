@@ -1,4 +1,12 @@
 proxies:
+- name: RU2｜机房｜低风险
+  password: 1bfe8d6f-6545-4215-a8a1-35f1d4393bac
+  port: 16666
+  server: mosike.zuomomo.top
+  skip-cert-verify: true
+  sni: mosike.zuomomo.top
+  tls: false
+  type: hysteria2
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
   name: RU_speednode_0011

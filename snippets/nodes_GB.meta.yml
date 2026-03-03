@@ -1,13 +1,10 @@
 proxies:
-- alpn:
-  - h3
-  congestion-controller: bbr
-  name: GB26｜机房｜低风险
-  password: 08030894-57a7-49e8-83a5-0b99d7a1b820
-  port: 1443
-  server: 185.85.242.177
-  skip-cert-verify: true
-  sni: gbr1.587458.xyz
-  type: tuic
-  udp-relay-mode: native
-  uuid: 08030894-57a7-49e8-83a5-0b99d7a1b820
+- alterId: 2
+  cipher: auto
+  name: GB10｜机房｜低风险
+  network: tcp
+  port: '30836'
+  server: v36.hdacd.com
+  tls: false
+  type: vmess
+  uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484

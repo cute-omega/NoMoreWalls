@@ -1,25 +1,15 @@
 proxies:
-- name: CA3｜商宽｜非常安全
+- alterId: 0
+  cipher: none
+  name: CA1｜机房｜低风险
   network: ws
-  password: f95eeec4-01fd-44a7-9e12-b217f41af26e
-  port: 443
-  server: 141.193.213.60
-  skip-cert-verify: true
-  sni: 5qfg26y3xj2zjlmr.catimecsgo.xyz
-  type: trojan
+  port: '443'
+  server: ca2.xvmess.site
+  servername: '6777'
+  tls: true
+  type: vmess
+  uuid: 88888888-8888-8888-8888-888888888888
   ws-opts:
     headers:
-      Host: 5qfg26y3xj2zjlmr.catimecsgo.xyz
-    path: '%2Fimages'
-- name: CA4｜商宽｜非常安全
-  network: ws
-  password: f95eeec4-01fd-44a7-9e12-b217f41af26e
-  port: 443
-  server: cloudflare.182682.xyz
-  skip-cert-verify: true
-  sni: 5qfg26y3xj2zjlmr.catimecsgo.xyz
-  type: trojan
-  ws-opts:
-    headers:
-      Host: 5qfg26y3xj2zjlmr.catimecsgo.xyz
-    path: '%2Fimages'
+      Host: ca2.xvmess.site
+    path: /vmess#DONT-FORGET-TO-SUPPORT-SSHMAX.COM-TO-KEEP-THIS-SERVER-ALIVE

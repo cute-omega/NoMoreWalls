@@ -1,25 +1,13 @@
 proxies:
 - alterId: 0
   cipher: auto
-  name: SG11｜机房｜高风险 (黑名单)
-  network: ws
-  port: '12901'
-  server: 85.211.242.85
+  name: SG31｜机房｜低风险
+  network: tcp
+  port: '30812'
+  server: v12.hdacd.com
   tls: false
   type: vmess
-  uuid: cd99e4a6-912e-49f1-9fec-9dc0b3fb4fa3
-  ws-opts:
-    headers:
-      Host: baidu.com
-    path: /
-- name: SG13｜机房｜低风险
-  password: f95eeec4-01fd-44a7-9e12-b217f41af26e
-  port: 51747
-  server: 5.180.78.153
-  skip-cert-verify: true
-  sni: api.push.apple.com
-  tls: false
-  type: hysteria2
+  uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
 - name: SG
   password: e7965e64-e001-4e8c-8273-39c61ff4a094
   port: 30000

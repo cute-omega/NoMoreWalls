@@ -1,16 +1,32 @@
 proxies:
-- name: HK34｜商宽｜非常安全
+- alpn:
+  - h3%2Ch2%2Chttp%2F1.1
+  name: HK57｜机房｜低风险
   network: ws
-  password: f95eeec4-01fd-44a7-9e12-b217f41af26e
+  password: 823cbccd-3a71-4248-ac3c-3c460de1552d
   port: 443
-  server: 23.227.38.178
+  server: 108.162.198.96
   skip-cert-verify: true
-  sni: q6clkp794liy3y90.hktimecsgo.xyz
+  sni: sg680.pages.dev
   type: trojan
   ws-opts:
     headers:
-      Host: q6clkp794liy3y90.hktimecsgo.xyz
-    path: '%2Fimages'
+      Host: sg680.pages.dev
+    path: '%2F'
+- alpn:
+  - h3%2Ch2%2Chttp%2F1.1
+  name: HK62｜机房｜低风险
+  network: ws
+  password: 823cbccd-3a71-4248-ac3c-3c460de1552d
+  port: 443
+  server: 104.16.158.249
+  skip-cert-verify: true
+  sni: sg680.pages.dev
+  type: trojan
+  ws-opts:
+    headers:
+      Host: sg680.pages.dev
+    path: '%2F'
 - alterId: 2
   cipher: auto
   name: 🇭🇰 香港|@ripaojiedian
