@@ -1,1 +1,69 @@
-proxies: []
+proxies:
+- alterId: 0
+  cipher: auto
+  name: CN1｜商宽｜非常安全
+  network: ws
+  port: '80'
+  server: hn.xn--wlqw1swrj04ju56d.com
+  tls: false
+  type: vmess
+  uuid: f9ddefc5-d121-486f-9e2f-0c2cd1a3decc
+  ws-opts:
+    headers:
+      Host: tms.dingtalk.com
+    path: /
+- alterId: 0
+  cipher: auto
+  name: CN2｜商宽｜非常安全
+  network: ws
+  port: '80'
+  server: hn.xn--wlqw1swrj04ju56d.com
+  tls: false
+  type: vmess
+  uuid: f9ddefc5-d121-486f-9e2f-0c2cd1a3decc
+  ws-opts:
+    headers:
+      Host: hn.xn--wlqw1swrj04ju56d.com
+    path: /
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: CN_speednode_0002
+  port: 25642
+  reality-opts:
+    public-key: VoA8WXthSh6CroV4pHK7V6L5gYUw8MHTo2kIVknTXSE
+    short-id: '!!str 693b25e06841ac7f'
+  server: cdn.jp2.cocoduck.org
+  servername: www.apple.com
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: 6a62060e-3f1f-4254-8faa-2c2f4f0fa28b
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: CN_speednode_0003
+  port: 30398
+  reality-opts:
+    public-key: VoA8WXthSh6CroV4pHK7V6L5gYUw8MHTo2kIVknTXSE
+    short-id: '!!str 693b25e06841ac7f'
+  server: cdn.hk8.cocoduck.org
+  servername: www.apple.com
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: 6a62060e-3f1f-4254-8faa-2c2f4f0fa28b
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: CN_speednode_0004
+  port: 41191
+  reality-opts:
+    public-key: VoA8WXthSh6CroV4pHK7V6L5gYUw8MHTo2kIVknTXSE
+    short-id: '!!str 693b25e06841ac7f'
+  server: cdn.tw4.cocoduck.org
+  servername: www.apple.com
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: 6a62060e-3f1f-4254-8faa-2c2f4f0fa28b

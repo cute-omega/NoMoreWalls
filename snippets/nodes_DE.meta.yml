@@ -1,61 +1,13 @@
 proxies:
 - alterId: 0
   cipher: auto
-  name: DE29｜机房｜高风险 (黑名单)
+  name: DE28｜机房｜高风险 (黑名单)
   network: tcp
   port: '180'
   server: 82.198.246.97
   tls: false
   type: vmess
   uuid: d13fc2f5-3e05-4795-81eb-44143a09e552
-- name: DE18｜机房｜低风险
-  network: ws
-  password: 89d646c5-8e96-4702-bdd4-4ac4ca41c645
-  port: 2096
-  server: bestcdn1.868863.xyz
-  skip-cert-verify: true
-  sni: 17725215603866.206353.xyz
-  type: trojan
-  ws-opts:
-    headers:
-      Host: 17725215608498.206353.xyz
-    path: '%2Fagrbniuh'
-- name: DE19｜机房｜低风险
-  network: ws
-  password: 89d646c5-8e96-4702-bdd4-4ac4ca41c645
-  port: 2087
-  server: bestcdn2.868863.xyz
-  skip-cert-verify: true
-  sni: 17725215607467.206353.xyz
-  type: trojan
-  ws-opts:
-    headers:
-      Host: 17725215608933.206353.xyz
-    path: '%2Fagrbniuh'
-- name: DE20｜机房｜低风险
-  network: ws
-  password: 89d646c5-8e96-4702-bdd4-4ac4ca41c645
-  port: 2083
-  server: bestcdn3.868863.xyz
-  skip-cert-verify: true
-  sni: 17725215602903.206353.xyz
-  type: trojan
-  ws-opts:
-    headers:
-      Host: 17725215602520.206353.xyz
-    path: '%2Fagrbniuh'
-- name: DE21｜机房｜低风险
-  network: ws
-  password: 89d646c5-8e96-4702-bdd4-4ac4ca41c645
-  port: 8443
-  server: bestcdn4.868863.xyz
-  skip-cert-verify: true
-  sni: 17725215601176.206353.xyz
-  type: trojan
-  ws-opts:
-    headers:
-      Host: 17725215603496.206353.xyz
-    path: '%2Fagrbniuh'
 - name: DE
   password: a084933d-0b41-4571-ae0c-7163b8c71ed1
   port: 2056
@@ -74,3 +26,18 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
+- client-fingerprint: random
+  name: DE_speednode_0005
+  network: ws
+  port: 8443
+  server: 136.244.95.103
+  servername: lirpeuijr.chinav.indevs.in
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: 26524cce-d514-4014-a426-365fb266a14d
+  ws-opts:
+    headers:
+      Host: lirpeuijr.chinav.indevs.in
+    path: /danfeng
