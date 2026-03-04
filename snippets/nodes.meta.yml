@@ -6339,7 +6339,7 @@ proxies:
   sni: jp.sanmaojichang.com
   tls: false
   type: hysteria2
-- name: ⚡Telegram = @SOSkeyNET
+- name: '@Trick_mobil'
   password: 0b8a288c
   port: 65160
   server: 107.174.181.241
