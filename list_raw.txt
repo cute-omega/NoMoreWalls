@@ -57,7 +57,7 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiVVM4N++9nOacuuaIv++9nOS9jumjjumZqSIsICJhZGQiOiAi
 vmess://eyJ2IjogIjIiLCAicHMiOiAiSlAxNu+9nOacuuaIv++9nOS9jumjjumZqSIsICJhZGQiOiAidDEuNjIwNzIwLnh5eiIsICJwb3J0IjogIjg0NDMiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogInRscyIsICJpZCI6ICI1MTZkOGE3YS0zZjBiLTQxZDMtYmFkMC0yNDYxMTYzODE1MTYiLCAic25pIjogInQxLjYyMDcyMC54eXoiLCAiaG9zdCI6ICJ0MS42MjA3MjAueHl6IiwgInBhdGgiOiAiLyJ9
 vmess://eyJ2IjogIjIiLCAicHMiOiAiQ04x772c5ZWG5a69772c6Z2e5bi45a6J5YWoIiwgImFkZCI6ICJobi54bi0td2xxdzFzd3JqMDRqdTU2ZC5jb20iLCAicG9ydCI6ICI4MCIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImY5ZGRlZmM1LWQxMjEtNDg2Zi05ZTJmLTBjMmNkMWEzZGVjYyIsICJob3N0IjogInRtcy5kaW5ndGFsay5jb20iLCAicGF0aCI6ICIvIn0=
 vmess://eyJ2IjogIjIiLCAicHMiOiAiQ04y772c5ZWG5a69772c6Z2e5bi45a6J5YWoIiwgImFkZCI6ICJobi54bi0td2xxdzFzd3JqMDRqdTU2ZC5jb20iLCAicG9ydCI6ICI4MCIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImY5ZGRlZmM1LWQxMjEtNDg2Zi05ZTJmLTBjMmNkMWEzZGVjYyIsICJob3N0IjogImhuLnhuLS13bHF3MXN3cmowNGp1NTZkLmNvbSIsICJwYXRoIjogIi8ifQ==
-hysteria2://0b8a288c@107.174.181.241:65160?insecure=1&sni=en.snu.ac.kr#%40Trick_mobil
+hysteria2://0b8a288c@107.174.181.241:65160?insecure=1&sni=en.snu.ac.kr#%E2%9A%A1Telegram%20%3D%20%40SOSkeyNET
 hysteria2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743?insecure=1&sni=🔒#%40Trick_mobil%20%231
 hysteria2://5046SHWqk6@91.132.51.160:844?#%40Trick_mobil%20%232
 hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@mg2.mangshe.xyz:2056?insecure=1&sni=mg2.mangshe.xyz#%E7%BE%8E%E5%9B%BD2
@@ -77,7 +77,6 @@ hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?insecure=0&
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?insecure=0&alpn=h3&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%3A%20Free_VPN_CH%40%20%231
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?insecure=0&sni=api.kermanshahi.org@freenettir&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%3A%20Free_VPN_CH%40%20%233
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%40V2rayNG3%20%233
-hysteria2://edd0d9b9-d2ef-40a0-af10-0dca357351e3@132.145.52.10:65535?insecure=1&sni=www.microsoft.com#%F0%9F%93%806%40oneclickvpnkeys
 hysteria2://linux.do@[2a01:4f9:4b:f378::1]:443?insecure=1&sni=www.bing.com#%40V2rayNG3%20%234
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@63.180.254.10:443#tg%E9%A2%91%E9%81%93%3A%40ripaojiedian%20%231
 vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HrfCfh7Ag6aaZ5rivfEByaXBhb2ppZWRpYW4iLCAiYWRkIjogInYxMC5oZGFjZC5jb20iLCAicG9ydCI6IDMwODA3LCAiYWlkIjogMiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0In0=
@@ -112,7 +111,7 @@ vless://9e59f6bb-27b9-49b8-ba44-3f23afd367ca@109.120.181.190:8443?allowInsecure=
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@143.20.236.51:443?allowInsecure=0&sni=yahoo.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#US_speednode_0017
 vless://26524cce-d514-4014-a426-365fb266a14d@67.209.183.236:443?allowInsecure=0&sni=lirpeuijr.chinav.indevs.in&type=ws&host=lirpeuijr.chinav.indevs.in&path=/danfengfp=random&security=tls#US_speednode_0018
 https://8d0ec7cc-eefa-11ee-9b59-f23c91cfbbc9:8d0ec7cc-eefa-11ee-9b59-f23c91cfbbc9@79b073c7-tbbz40-tvb36r-1qwom.de.oshuawei.com:443
-anytls://b2ca8061-cf93-403f-a150-c26fb26610f7@46.17.40.31:25741?security=none&type=tcp&allowInsecure=1&udp=1&insecure=1#RU2%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
 anytls://ae74dd32-c336-4be4-9c15-f6108292b3e5@us1.anliangjifei.top:12053?security=none&type=tcp&allowInsecure=1&sni=us1.anliangjifei.top&udp=1&insecure=1#US37%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
-anytls://ae74dd32-c336-4be4-9c15-f6108292b3e5@us1.anliangjifei.top:12053?security=none&type=tcp&allowInsecure=1&sni=us1.anliangjifei.top&insecure=1&udp=1#US60%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
 anytls://ae74dd32-c336-4be4-9c15-f6108292b3e5@us1.anliangjifei.top:12053?security=none&type=tcp&allowInsecure=1&sni=us1.anliangjifei.top&udp=1&insecure=1#US24%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
+anytls://ae74dd32-c336-4be4-9c15-f6108292b3e5@us1.anliangjifei.top:12053?security=none&type=tcp&allowInsecure=1&sni=us1.anliangjifei.top&insecure=1&udp=1#US60%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
+anytls://b2ca8061-cf93-403f-a150-c26fb26610f7@46.17.40.31:25741?security=none&type=tcp&allowInsecure=1&udp=1&insecure=1#RU2%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
