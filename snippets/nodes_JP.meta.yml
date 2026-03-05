@@ -1,26 +1,4 @@
 proxies:
-- name: JP9｜机房｜低风险
-  password: 1bfe8d6f-6545-4215-a8a1-35f1d4393bac
-  port: 16667
-  server: jpry.zuomomo.top
-  skip-cert-verify: true
-  sni: jpry.zuomomo.top
-  tls: false
-  type: hysteria2
-- alterId: 0
-  cipher: auto
-  name: JP16｜机房｜低风险
-  network: ws
-  port: '8443'
-  server: t1.620720.xyz
-  servername: t1.620720.xyz
-  tls: true
-  type: vmess
-  uuid: 516d8a7a-3f0b-41d3-bad0-246116381516
-  ws-opts:
-    headers:
-      Host: t1.620720.xyz
-    path: /
 - name: 日本|@ripaojiedian
   network: tcp
   password: BxceQaOe
