@@ -1,4 +1,29 @@
 proxies:
+- alterId: 2
+  cipher: auto
+  name: HK29｜家宽｜非常安全
+  network: ws
+  port: '80'
+  server: d7d6992d-t5bb40-tdvaex-1ixuf.hkt.gotochinatown.net
+  tls: false
+  type: vmess
+  uuid: dcbaee4d-2204-11ed-b659-f23c91cfbbc9
+  ws-opts:
+    headers:
+      Host: broadcastlv.chat.bilibili.com
+    path: /
+- alterId: 0
+  cipher: auto
+  grpc-opts:
+    grpc-service-name: '12306'
+  name: HK41｜家宽｜非常安全
+  network: grpc
+  port: '443'
+  server: hk02.653ebeeb-5f60-4be5-958d-7bf4839cdccd.ef6616fd-5b06-482f-9d64-183745659cbf.byteprivatelink.com
+  servername: www.12306.cn
+  tls: true
+  type: vmess
+  uuid: d5359b9e-4f4f-49e4-ab8b-f6a0d19bce28
 - name: 🇭🇰 HK
   password: a305ac08-d136-11ee-b6db-f23c91cfbbc9
   port: 443

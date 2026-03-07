@@ -1,4 +1,13 @@
 proxies:
+- alterId: 0
+  cipher: auto
+  name: JP3｜家宽｜非常安全
+  network: tcp
+  port: '8443'
+  server: 31.58.223.134
+  tls: false
+  type: vmess
+  uuid: 78cdc6b7-8b14-47d6-bf09-3167bc5124fb
 - name: 日本|@ripaojiedian
   network: tcp
   password: BxceQaOe
