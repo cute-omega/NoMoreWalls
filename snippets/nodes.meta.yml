@@ -336,6 +336,13 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
+- name: '@filembad'
+  password: 862dc140-a973-4ed2-b5fe-c1831f62a086
+  port: 21412
+  server: hk.xn--ehqa22b.site
+  sni: hk.xn--ehqa22b.site
+  tls: false
+  type: hysteria2
 - name: 🩵+@Azarakhsh_Proxy+🩷
   obfs: salamander
   obfs-password: KevinZakarian
