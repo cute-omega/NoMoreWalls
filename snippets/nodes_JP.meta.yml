@@ -1,13 +1,13 @@
 proxies:
-- alterId: 0
+- alterId: 2
   cipher: auto
-  name: JP3｜家宽｜非常安全
+  name: JP9｜机房｜低风险
   network: tcp
-  port: '8443'
-  server: 31.58.223.134
+  port: '30806'
+  server: v6.hdacd.com
   tls: false
   type: vmess
-  uuid: 78cdc6b7-8b14-47d6-bf09-3167bc5124fb
+  uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
 - name: 日本|@ripaojiedian
   network: tcp
   password: BxceQaOe
