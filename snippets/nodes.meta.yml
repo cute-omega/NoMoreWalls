@@ -416,14 +416,6 @@ proxies:
   sni: www.microsoft.com
   tls: false
   type: hysteria2
-- name: 8⚛️@oneclickvpnkeys
-  password: ilikecs123!
-  port: 443
-  server: 66.154.127.121
-  skip-cert-verify: true
-  sni: cloudcone.wolfmoss.top
-  tls: false
-  type: hysteria2
 - name: '@V2rayNG3 #4'
   password: linux.do
   port: 443
