@@ -35,6 +35,7 @@ hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?insecure=0&
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?insecure=0&sni=api.kermanshahi.org@freenettir&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%3A%20Free_VPN_CH%40%20%233
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%40V2rayNG3%20%233
 hysteria2://dongtaiwang.com@62.210.124.146:22000?insecure=1&sni=www.microsoft.com#%F0%9F%AA%B417%40oneclickvpnkeys
+hysteria2://hysteria2_fastlane_qdx4o19um@150.241.79.106:443?insecure=1&sni=de2.h.fastlanehosting.ru#%F0%9F%8C%BC13%40oneclickvpnkeys
 hysteria2://linux.do@[2a01:4f9:4b:f378::1]:443?insecure=1&sni=www.bing.com#%40V2rayNG3%20%234
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@63.180.254.10:443#tg%E9%A2%91%E9%81%93%3A%40ripaojiedian%20%231
 vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HrfCfh7Ag6aaZ5rivfEByaXBhb2ppZWRpYW4iLCAiYWRkIjogInYxMC5oZGFjZC5jb20iLCAicG9ydCI6IDMwODA3LCAiYWlkIjogMiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0In0=
@@ -93,9 +94,9 @@ vless://716a8171-09d1-4b5c-b816-34e6537b60ae@144.31.63.7:443?allowInsecure=0&sni
 vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@68.64.179.243:443?allowInsecure=0&sni=ylnhh.cc.cd&type=ws&host=ylnhh.cc.cd&path=/Telegram🇨🇳@WangCai2security=tls#US_speednode_0043
 vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@68.64.179.250:443?allowInsecure=0&sni=ylnhh.cc.cd&type=ws&host=ylnhh.cc.cd&path=/Telegram🇨🇳@WangCai2security=tls#US_speednode_0044
 vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@68.64.179.96:443?allowInsecure=0&sni=ylnhh.cc.cd&type=ws&host=ylnhh.cc.cd&path=/Telegram🇨🇳@WangCai2security=tls#US_speednode_0045
-anytls://ae74dd32-c336-4be4-9c15-f6108292b3e5@us1.anliangjifei.top:12053?security=none&type=tcp&allowInsecure=1&sni=us1.anliangjifei.top&udp=1&insecure=1#US31%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
-anytls://cfa11107-9329-46af-bdad-739141710d97@us-sje.baipiao0721-dns78655.eu:18443?security=none&type=tcp&alpn=h2&allowInsecure=1&sni=us-sje.baipiao0721-dns78655.eu&udp=1&insecure=1#US34%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
-anytls://ae74dd32-c336-4be4-9c15-f6108292b3e5@us1.anliangjifei.top:12053?security=none&type=tcp&allowInsecure=1&sni=us1.anliangjifei.top&insecure=1&udp=1#US1%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
 anytls://787cf4f9-d6a1-457f-a101-bfd012cdac37@us-sje.baipiao0721-dns78655.eu:18443?security=none&type=tcp&alpn=h2&allowInsecure=1&sni=us-sje.baipiao0721-dns78655.eu&udp=1&insecure=1#US29%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
-anytls://ae74dd32-c336-4be4-9c15-f6108292b3e5@us1.anliangjifei.top:12053?security=none&type=tcp&allowInsecure=1&sni=us1.anliangjifei.top&udp=1&insecure=1#US32%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
+anytls://cfa11107-9329-46af-bdad-739141710d97@us-sje.baipiao0721-dns78655.eu:18443?security=none&type=tcp&alpn=h2&allowInsecure=1&sni=us-sje.baipiao0721-dns78655.eu&udp=1&insecure=1#US34%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
 anytls://bc4d55c1-38df-43e6-8df7-3733e84d9399@iijjp.mggl.wang:35791?security=none&type=tcp&alpn=h2&allowInsecure=1&sni=iijjp.mggl.wang&udp=1&insecure=1#JP2%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
+anytls://ae74dd32-c336-4be4-9c15-f6108292b3e5@us1.anliangjifei.top:12053?security=none&type=tcp&allowInsecure=1&sni=us1.anliangjifei.top&udp=1&insecure=1#US32%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
+anytls://ae74dd32-c336-4be4-9c15-f6108292b3e5@us1.anliangjifei.top:12053?security=none&type=tcp&allowInsecure=1&sni=us1.anliangjifei.top&udp=1&insecure=1#US31%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
+anytls://ae74dd32-c336-4be4-9c15-f6108292b3e5@us1.anliangjifei.top:12053?security=none&type=tcp&allowInsecure=1&sni=us1.anliangjifei.top&insecure=1&udp=1#US1%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
