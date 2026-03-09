@@ -1,1 +1,9 @@
-proxies: []
+proxies:
+- name: SE2｜机房｜低风险
+  network: tcp
+  password: af4b064a9c39472fb34ad8b113acdc6b
+  port: 443
+  server: 45.145.154.8
+  skip-cert-verify: true
+  sni: 45.145.154.8
+  type: trojan
