@@ -1,19 +1,10 @@
 proxies:
 - alterId: 0
   cipher: auto
-  name: SG7｜机房｜低风险
+  name: SG13｜机房｜低风险
   network: tcp
   port: '30812'
   server: v12.hdacd.com
-  tls: false
-  type: vmess
-  uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-- alterId: 2
-  cipher: auto
-  name: SG8｜机房｜低风险
-  network: tcp
-  port: '30845'
-  server: v45.hdacd.com
   tls: false
   type: vmess
   uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
