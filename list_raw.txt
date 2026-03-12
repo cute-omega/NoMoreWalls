@@ -40,7 +40,9 @@ hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?insecure=0&
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?insecure=0&alpn=h3&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%3A%20Free_VPN_CH%40%20%231
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?insecure=0&sni=api.kermanshahi.org@freenettir&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%3A%20Free_VPN_CH%40%20%233
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%40V2rayNG3%20%233
+hysteria2://bd470fb8-73fd-455b-b8ae-e0fc9f44258b@tr.xn--ehqa22b.site:21150?insecure=1&sni=tr.xn--ehqa22b.site#%F0%9F%93%BB93%40oneclickvpnkeys
 hysteria2://linux.do@[2a01:4f9:4b:f378::1]:443?insecure=1&sni=www.bing.com#%40V2rayNG3%20%234
+hysteria2://usa_hysteria2_fastlane_8f058mdni@138.124.183.9:443?insecure=1&sni=us1.h.smartaisupport.ru#%F0%9F%93%BB87%40oneclickvpnkeys
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@63.180.254.10:443#tg%E9%A2%91%E9%81%93%3A%40ripaojiedian%20%231
 vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HrfCfh7Ag6aaZ5rivfEByaXBhb2ppZWRpYW4iLCAiYWRkIjogInYxMC5oZGFjZC5jb20iLCAicG9ydCI6IDMwODA3LCAiYWlkIjogMiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0In0=
 trojan://f389ed926e512e15f382dc3804029474@54.178.24.255:921?allowInsecure=0&sni=www.nintendogames.net#%E9%A6%99%E6%B8%AF3%7C%40ripaojiedian
@@ -81,9 +83,9 @@ vless://420a0e21-08c6-4e94-a965-41226b38b674@proxy.darknet.run:443?allowInsecure
 vless://7f37b28b-cfcb-4c2a-ae41-8f2ddc9325dd@144.31.234.7:4546?allowInsecure=0&sni=enterprise.api-maps.yandex.ru&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#US_speednode_0029
 vless://b52989b9-09dc-4ca0-b722-e6fe3e8a0313@144.31.234.7:4546?allowInsecure=0&sni=enterprise.api-maps.yandex.ru&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#US_speednode_0030
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@192.0.63.91:443?allowInsecure=0&sni=snippet.fgfw.indevs.in&type=ws&host=snippet.fgfw.indevs.in&path=/danfengsecurity=tls#US_speednode_0031
-anytls://ae74dd32-c336-4be4-9c15-f6108292b3e5@us1.anliangjifei.top:12053?security=none&type=tcp&allowInsecure=1&sni=us1.anliangjifei.top&udp=1&insecure=1#US13%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
-anytls://93e3b6b8-209f-487a-b977-3bd50b94953a@mf-ovhus.sw8.pw:20001?security=none&type=tcp&allowInsecure=1&sni=127.0.0.1&udp=1&insecure=1#US2%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
-anytls://93e3b6b8-209f-487a-b977-3bd50b94953a@mf-hkt.sw8.pw:20001?security=none&type=tcp&allowInsecure=1&sni=127.0.0.1&udp=1&insecure=1#HK3%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
-anytls://ae74dd32-c336-4be4-9c15-f6108292b3e5@us1.anliangjifei.top:12053?security=none&type=tcp&allowInsecure=1&sni=us1.anliangjifei.top&insecure=1&udp=1#US4%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
-anytls://93e3b6b8-209f-487a-b977-3bd50b94953a@mf-th.sw8.pw:20001?security=none&type=tcp&allowInsecure=1&sni=127.0.0.1&udp=1&insecure=1#TH1%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
 anytls://ae74dd32-c336-4be4-9c15-f6108292b3e5@us1.anliangjifei.top:12053?security=none&type=tcp&allowInsecure=1&sni=us1.anliangjifei.top&udp=1&insecure=1#US14%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
+anytls://ae74dd32-c336-4be4-9c15-f6108292b3e5@us1.anliangjifei.top:12053?security=none&type=tcp&allowInsecure=1&sni=us1.anliangjifei.top&udp=1&insecure=1#US13%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
+anytls://93e3b6b8-209f-487a-b977-3bd50b94953a@mf-th.sw8.pw:20001?security=none&type=tcp&allowInsecure=1&sni=127.0.0.1&udp=1&insecure=1#TH1%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
+anytls://93e3b6b8-209f-487a-b977-3bd50b94953a@mf-hkt.sw8.pw:20001?security=none&type=tcp&allowInsecure=1&sni=127.0.0.1&udp=1&insecure=1#HK3%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
+anytls://93e3b6b8-209f-487a-b977-3bd50b94953a@mf-ovhus.sw8.pw:20001?security=none&type=tcp&allowInsecure=1&sni=127.0.0.1&udp=1&insecure=1#US2%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
+anytls://ae74dd32-c336-4be4-9c15-f6108292b3e5@us1.anliangjifei.top:12053?security=none&type=tcp&allowInsecure=1&sni=us1.anliangjifei.top&insecure=1&udp=1#US4%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
