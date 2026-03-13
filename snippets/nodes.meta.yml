@@ -89,7 +89,259 @@ proxies:
   tls: false
   type: vmess
   uuid: 88888888-8888-8888-8888-888888888888
-- name: KR9｜家宽｜高风险 (黑名单)
+- name: DE1｜机房｜低风险
+  password: aa98121d-728a-437c-a84f-99feb82a467f
+  port: 21118
+  server: de.xn--ehqa22b.site
+  skip-cert-verify: true
+  sni: de.xn--ehqa22b.site
+  tls: false
+  type: hysteria2
+- name: DE2｜机房｜低风险
+  password: 6e8aaa7f-56e4-451e-bb31-a9b2f8c8b38e
+  port: 21816
+  server: de.xn--ehqa22b.site
+  skip-cert-verify: true
+  sni: de.xn--ehqa22b.site
+  tls: false
+  type: hysteria2
+- name: DE3｜机房｜低风险
+  password: 9cf5c4ba-6939-40b2-a78a-98a582e233bc
+  port: 21378
+  server: de.xn--ehqa22b.site
+  skip-cert-verify: true
+  sni: de.xn--ehqa22b.site
+  tls: false
+  type: hysteria2
+- name: MY1｜机房｜低风险
+  password: e998e2a0-ce11-4475-bf5f-2de6e3dad046
+  port: 21369
+  server: my.xn--ehqa22b.site
+  skip-cert-verify: true
+  sni: my.xn--ehqa22b.site
+  tls: false
+  type: hysteria2
+- name: DE4｜机房｜低风险
+  password: e998e2a0-ce11-4475-bf5f-2de6e3dad046
+  port: 21737
+  server: de.xn--ehqa22b.site
+  skip-cert-verify: true
+  sni: de.xn--ehqa22b.site
+  tls: false
+  type: hysteria2
+- name: MY2｜机房｜低风险
+  password: e998e2a0-ce11-4475-bf5f-2de6e3dad046
+  port: 21142
+  server: my.xn--ehqa22b.site
+  skip-cert-verify: true
+  sni: my.xn--ehqa22b.site
+  tls: false
+  type: hysteria2
+- name: DE5｜机房｜低风险
+  password: 727cd454-2df4-4ae9-9ad1-78f7d9823d30
+  port: 21475
+  server: de.xn--ehqa22b.site
+  skip-cert-verify: true
+  sni: de.xn--ehqa22b.site
+  tls: false
+  type: hysteria2
+- name: DE6｜机房｜低风险
+  password: f593def0-fa12-4ff7-8857-85894fedcb5a
+  port: 21731
+  server: de.xn--ehqa22b.site
+  skip-cert-verify: true
+  sni: de.xn--ehqa22b.site
+  tls: false
+  type: hysteria2
+- name: MY3｜机房｜低风险
+  password: f593def0-fa12-4ff7-8857-85894fedcb5a
+  port: 21786
+  server: my.xn--ehqa22b.site
+  skip-cert-verify: true
+  sni: my.xn--ehqa22b.site
+  tls: false
+  type: hysteria2
+- name: DE7｜机房｜低风险
+  password: 727cd454-2df4-4ae9-9ad1-78f7d9823d30
+  port: 21077
+  server: de.xn--ehqa22b.site
+  skip-cert-verify: true
+  sni: de.xn--ehqa22b.site
+  tls: false
+  type: hysteria2
+- name: MY4｜机房｜低风险
+  password: 727cd454-2df4-4ae9-9ad1-78f7d9823d30
+  port: 21735
+  server: my.xn--ehqa22b.site
+  skip-cert-verify: true
+  sni: my.xn--ehqa22b.site
+  tls: false
+  type: hysteria2
+- name: MY5｜机房｜低风险
+  password: f593def0-fa12-4ff7-8857-85894fedcb5a
+  port: 21317
+  server: my.xn--ehqa22b.site
+  skip-cert-verify: true
+  sni: my.xn--ehqa22b.site
+  tls: false
+  type: hysteria2
+- name: MY6｜机房｜低风险
+  password: e02ff406-4865-48d0-ad5d-40d6bd27014e
+  port: 21238
+  server: my.xn--ehqa22b.site
+  skip-cert-verify: true
+  sni: my.xn--ehqa22b.site
+  tls: false
+  type: hysteria2
+- alpn:
+  - h3
+  congestion-controller: bbr
+  name: NL1｜机房｜低风险
+  password: 2bed923d-0204-4993-ae38-59281c98bfd9
+  port: 1443
+  server: 87.229.95.140
+  skip-cert-verify: true
+  sni: dk1.587458.xyz
+  type: tuic
+  udp-relay-mode: native
+  uuid: 2bed923d-0204-4993-ae38-59281c98bfd9
+- name: DE8｜机房｜低风险
+  password: e02ff406-4865-48d0-ad5d-40d6bd27014e
+  port: 21412
+  server: de.xn--ehqa22b.site
+  skip-cert-verify: true
+  sni: de.xn--ehqa22b.site
+  tls: false
+  type: hysteria2
+- name: DE9｜机房｜低风险
+  password: b18a8d38-0005-415e-ad3a-fbdeaa7407c8
+  port: 21356
+  server: de.xn--ehqa22b.site
+  skip-cert-verify: true
+  sni: de.xn--ehqa22b.site
+  tls: false
+  type: hysteria2
+- name: JP2｜机房｜低风险
+  password: b18a8d38-0005-415e-ad3a-fbdeaa7407c8
+  port: 21920
+  server: jp.xn--ehqa22b.site
+  skip-cert-verify: true
+  sni: jp.xn--ehqa22b.site
+  tls: false
+  type: hysteria2
+- name: MY7｜机房｜低风险
+  password: b18a8d38-0005-415e-ad3a-fbdeaa7407c8
+  port: 21869
+  server: my.xn--ehqa22b.site
+  skip-cert-verify: true
+  sni: my.xn--ehqa22b.site
+  tls: false
+  type: hysteria2
+- name: DE10｜机房｜低风险
+  password: ff7393c0-e88a-4f93-afef-6e8151ebad53
+  port: 21053
+  server: de.xn--ehqa22b.site
+  skip-cert-verify: true
+  sni: de.xn--ehqa22b.site
+  tls: false
+  type: hysteria2
+- name: JP3｜机房｜低风险
+  password: ff7393c0-e88a-4f93-afef-6e8151ebad53
+  port: 21804
+  server: jp.xn--ehqa22b.site
+  skip-cert-verify: true
+  sni: jp.xn--ehqa22b.site
+  tls: false
+  type: hysteria2
+- name: MY8｜机房｜低风险
+  password: ff7393c0-e88a-4f93-afef-6e8151ebad53
+  port: 21503
+  server: my.xn--ehqa22b.site
+  skip-cert-verify: true
+  sni: my.xn--ehqa22b.site
+  tls: false
+  type: hysteria2
+- name: JP4｜机房｜低风险
+  password: b18a8d38-0005-415e-ad3a-fbdeaa7407c8
+  port: 21340
+  server: jp.xn--ehqa22b.site
+  skip-cert-verify: true
+  sni: jp.xn--ehqa22b.site
+  tls: false
+  type: hysteria2
+- name: MY9｜机房｜低风险
+  password: b18a8d38-0005-415e-ad3a-fbdeaa7407c8
+  port: 21594
+  server: my.xn--ehqa22b.site
+  skip-cert-verify: true
+  sni: my.xn--ehqa22b.site
+  tls: false
+  type: hysteria2
+- name: JP5｜机房｜低风险
+  password: ff7393c0-e88a-4f93-afef-6e8151ebad53
+  port: 21520
+  server: jp.xn--ehqa22b.site
+  skip-cert-verify: true
+  sni: jp.xn--ehqa22b.site
+  tls: false
+  type: hysteria2
+- name: MY10｜机房｜低风险
+  password: ff7393c0-e88a-4f93-afef-6e8151ebad53
+  port: 21733
+  server: my.xn--ehqa22b.site
+  skip-cert-verify: true
+  sni: my.xn--ehqa22b.site
+  tls: false
+  type: hysteria2
+- name: JP6｜机房｜低风险
+  password: 6e8aaa7f-56e4-451e-bb31-a9b2f8c8b38e
+  port: 21556
+  server: jp.xn--ehqa22b.site
+  skip-cert-verify: true
+  sni: jp.xn--ehqa22b.site
+  tls: false
+  type: hysteria2
+- name: MY11｜机房｜低风险
+  password: 6e8aaa7f-56e4-451e-bb31-a9b2f8c8b38e
+  port: 21268
+  server: my.xn--ehqa22b.site
+  skip-cert-verify: true
+  sni: my.xn--ehqa22b.site
+  tls: false
+  type: hysteria2
+- name: DE11｜机房｜低风险
+  password: aa98121d-728a-437c-a84f-99feb82a467f
+  port: 21297
+  server: de.xn--ehqa22b.site
+  skip-cert-verify: true
+  sni: de.xn--ehqa22b.site
+  tls: false
+  type: hysteria2
+- name: JP7｜机房｜低风险
+  password: aa98121d-728a-437c-a84f-99feb82a467f
+  port: 21108
+  server: jp.xn--ehqa22b.site
+  skip-cert-verify: true
+  sni: jp.xn--ehqa22b.site
+  tls: false
+  type: hysteria2
+- name: MY12｜机房｜低风险
+  password: aa98121d-728a-437c-a84f-99feb82a467f
+  port: 21552
+  server: my.xn--ehqa22b.site
+  skip-cert-verify: true
+  sni: my.xn--ehqa22b.site
+  tls: false
+  type: hysteria2
+- name: DE12｜机房｜低风险
+  password: bd470fb8-73fd-455b-b8ae-e0fc9f44258b
+  port: 21137
+  server: de.xn--ehqa22b.site
+  skip-cert-verify: true
+  sni: de.xn--ehqa22b.site
+  tls: false
+  type: hysteria2
+- name: KR5｜家宽｜高风险 (代理/黑名单)
   port: 1090
   server: 121.169.46.116
   tls: false
@@ -97,91 +349,416 @@ proxies:
   username: T2clM0QlM0Q6
 - alterId: 0
   cipher: auto
-  name: DE29｜机房｜高风险 (黑名单)
+  name: DE41｜机房｜高风险 (黑名单)
   network: tcp
   port: '180'
   server: 82.198.246.97
   tls: false
   type: vmess
   uuid: d13fc2f5-3e05-4795-81eb-44143a09e552
-- alterId: 0
+- name: JP8｜机房｜低风险
+  password: 1f3a8f7a-ce7d-4005-81ba-44e03a0022aa
+  port: 21844
+  server: jp.xn--ehqa22b.site
+  skip-cert-verify: true
+  sni: jp.xn--ehqa22b.site
+  tls: false
+  type: hysteria2
+- name: DE26｜机房｜低风险
+  password: 9cf5c4ba-6939-40b2-a78a-98a582e233bc
+  port: 21078
+  server: de.xn--ehqa22b.site
+  skip-cert-verify: true
+  sni: de.xn--ehqa22b.site
+  tls: false
+  type: hysteria2
+- name: JP9｜机房｜低风险
+  password: 9cf5c4ba-6939-40b2-a78a-98a582e233bc
+  port: 21118
+  server: jp.xn--ehqa22b.site
+  skip-cert-verify: true
+  sni: jp.xn--ehqa22b.site
+  tls: false
+  type: hysteria2
+- name: JP10｜机房｜低风险
+  password: e998e2a0-ce11-4475-bf5f-2de6e3dad046
+  port: 21761
+  server: jp.xn--ehqa22b.site
+  skip-cert-verify: true
+  sni: jp.xn--ehqa22b.site
+  tls: false
+  type: hysteria2
+- name: DE27｜机房｜低风险
+  password: f593def0-fa12-4ff7-8857-85894fedcb5a
+  port: 21830
+  server: de.xn--ehqa22b.site
+  skip-cert-verify: true
+  sni: de.xn--ehqa22b.site
+  tls: false
+  type: hysteria2
+- name: JP11｜机房｜低风险
+  password: f593def0-fa12-4ff7-8857-85894fedcb5a
+  port: 21407
+  server: jp.xn--ehqa22b.site
+  skip-cert-verify: true
+  sni: jp.xn--ehqa22b.site
+  tls: false
+  type: hysteria2
+- name: DE28｜机房｜低风险
+  password: 727cd454-2df4-4ae9-9ad1-78f7d9823d30
+  port: 21606
+  server: de.xn--ehqa22b.site
+  skip-cert-verify: true
+  sni: de.xn--ehqa22b.site
+  tls: false
+  type: hysteria2
+- name: JP12｜机房｜低风险
+  password: 727cd454-2df4-4ae9-9ad1-78f7d9823d30
+  port: 21522
+  server: jp.xn--ehqa22b.site
+  skip-cert-verify: true
+  sni: jp.xn--ehqa22b.site
+  tls: false
+  type: hysteria2
+- name: MY13｜机房｜低风险
+  password: 727cd454-2df4-4ae9-9ad1-78f7d9823d30
+  port: 21902
+  server: my.xn--ehqa22b.site
+  skip-cert-verify: true
+  sni: my.xn--ehqa22b.site
+  tls: false
+  type: hysteria2
+- name: MY14｜机房｜低风险
+  password: e02ff406-4865-48d0-ad5d-40d6bd27014e
+  port: 21747
+  server: my.xn--ehqa22b.site
+  skip-cert-verify: true
+  sni: my.xn--ehqa22b.site
+  tls: false
+  type: hysteria2
+- name: MY15｜机房｜低风险
+  password: b18a8d38-0005-415e-ad3a-fbdeaa7407c8
+  port: 21260
+  server: my.xn--ehqa22b.site
+  skip-cert-verify: true
+  sni: my.xn--ehqa22b.site
+  tls: false
+  type: hysteria2
+- name: DE29｜机房｜低风险
+  password: ff7393c0-e88a-4f93-afef-6e8151ebad53
+  port: 21963
+  server: de.xn--ehqa22b.site
+  skip-cert-verify: true
+  sni: de.xn--ehqa22b.site
+  tls: false
+  type: hysteria2
+- name: MY16｜机房｜低风险
+  password: ff7393c0-e88a-4f93-afef-6e8151ebad53
+  port: 21821
+  server: my.xn--ehqa22b.site
+  skip-cert-verify: true
+  sni: my.xn--ehqa22b.site
+  tls: false
+  type: hysteria2
+- alterId: 64
   cipher: auto
-  name: AU3｜机房｜低风险
-  network: ws
-  port: '12889'
-  server: 85.211.242.85
+  name: US74｜机房｜低风险
+  network: tcp
+  port: '34114'
+  server: 103.181.164.237
   tls: false
   type: vmess
-  uuid: 37c67a5e-2b2a-49b2-a197-889e80b28bee
+  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+- alpn:
+  - h3%2Ch2%2Chttp%2F1.1
+  name: US80｜机房｜低风险
+  network: ws
+  password: 823cbccd-3a71-4248-ac3c-3c460de1552d
+  port: 443
+  server: 172.64.53.190
+  skip-cert-verify: true
+  sni: snll667.pages.dev
+  type: trojan
   ws-opts:
     headers:
-      Host: baidu.com
-    path: /
+      Host: snll667.pages.dev
+    path: '%2F'
+- alpn:
+  - h3%2Ch2%2Chttp%2F1.1
+  name: TW3｜机房｜低风险
+  network: ws
+  password: 823cbccd-3a71-4248-ac3c-3c460de1552d
+  port: 14147
+  server: 203.69.248.40
+  skip-cert-verify: true
+  sni: snll667.pages.dev
+  type: trojan
+  ws-opts:
+    headers:
+      Host: snll667.pages.dev
+    path: '%2F'
 - alterId: 0
   cipher: auto
-  name: SG13｜机房｜低风险
-  network: tcp
-  port: '30812'
-  server: v12.hdacd.com
-  tls: false
+  name: ID5｜家宽｜非常安全
+  network: ws
+  port: '443'
+  server: 8.223.63.150
+  servername: mn1ray.jagoanvip.xyz
+  tls: true
   type: vmess
-  uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-- alterId: 2
+  uuid: 462d9694-62b5-4781-a287-61a422b920e8
+  ws-opts:
+    headers:
+      Host: mn1ray.jagoanvip.xyz
+    path: /vvip
+- alterId: 0
   cipher: auto
-  name: JP4｜机房｜低风险
-  network: tcp
-  port: '30806'
-  server: v6.hdacd.com
-  tls: false
+  name: ID6｜家宽｜非常安全
+  network: ws
+  port: '443'
+  server: 34.143.159.175
+  servername: mn1ray.jagoanvip.xyz
+  tls: true
   type: vmess
-  uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-- name: HK19｜家宽｜非常安全
-  port: 443
-  server: a3f83f3b-t7bj40-tg010c-1r7od.hkt2.cdnhuawei.com
-  tls: false
-  type: socks5
-  username: NmQ1NjQzNmMtMTUwZC0xMWYwLWIwYzgtZjIzYzkxM2M4ZDJiOjxwYXNzd29yZD4%3D
-- name: HK20｜家宽｜非常安全
-  port: 443
-  server: d28b916c-t7vwg0-tcc9uq-1rnrp.hkt2.cdnhuawei.com
-  tls: false
-  type: socks5
-  username: OTg5YWE0MDYtZWE5Yi0xMWVmLTk3ZGEtZjIzYzkxY2ZiYmM5OjxwYXNzd29yZD4%3D
-- alterId: 2
-  cipher: auto
-  name: US70｜机房｜低风险
-  network: tcp
-  port: '30829'
-  server: v29.hdacd.com
-  tls: false
-  type: vmess
-  uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-- alterId: 2
-  cipher: auto
-  name: HK21｜机房｜低风险
-  network: tcp
-  port: '30809'
-  server: v9.hdacd.com
-  tls: false
-  type: vmess
-  uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-- name: HK23｜家宽｜非常安全
+  uuid: 462d9694-62b5-4781-a287-61a422b920e8
+  ws-opts:
+    headers:
+      Host: mn1ray.jagoanvip.xyz
+    path: /vvip
+- name: PE2｜机房｜低风险
   network: tcp
   password: af4b064a9c39472fb34ad8b113acdc6b
   port: 443
-  server: 183.179.43.254
+  server: 38.180.173.150
   skip-cert-verify: true
-  sni: 183.179.43.254
+  sni: 38.180.173.150
   type: trojan
-- alterId: 2
+- alpn:
+  - h3%2Ch2%2Chttp%2F1.1
+  name: HK67｜机房｜低风险
+  network: ws
+  password: 823cbccd-3a71-4248-ac3c-3c460de1552d
+  port: 443
+  server: cf.877774.xyz
+  skip-cert-verify: true
+  sni: snll667.pages.dev
+  type: trojan
+  ws-opts:
+    headers:
+      Host: snll667.pages.dev
+    path: '%2F'
+- alpn:
+  - h3%2Ch2%2Chttp%2F1.1
+  name: HK68｜机房｜低风险
+  network: ws
+  password: 823cbccd-3a71-4248-ac3c-3c460de1552d
+  port: 443
+  server: 95.40.61.115
+  skip-cert-verify: true
+  sni: snll667.pages.dev
+  type: trojan
+  ws-opts:
+    headers:
+      Host: snll667.pages.dev
+    path: '%2F'
+- alterId: 0
   cipher: auto
-  name: US76｜机房｜低风险
-  network: tcp
-  port: '30808'
-  server: v8.hdacd.com
-  tls: false
+  name: ID17｜家宽｜非常安全
+  network: ws
+  port: '443'
+  server: 83.229.121.113
+  servername: mn1ray.jagoanvip.xyz
+  tls: true
   type: vmess
-  uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+  uuid: 462d9694-62b5-4781-a287-61a422b920e8
+  ws-opts:
+    headers:
+      Host: mn1ray.jagoanvip.xyz
+    path: /vvip
+- alterId: 0
+  cipher: auto
+  name: ID24｜家宽｜非常安全
+  network: ws
+  port: '443'
+  server: 47.76.218.163
+  servername: mn1ray.jagoanvip.xyz
+  tls: true
+  type: vmess
+  uuid: 462d9694-62b5-4781-a287-61a422b920e8
+  ws-opts:
+    headers:
+      Host: mn1ray.jagoanvip.xyz
+    path: /vvip
+- alterId: 0
+  cipher: auto
+  name: ID10｜家宽｜非常安全
+  network: ws
+  port: '2087'
+  server: 103.224.80.7
+  servername: mn1ray.jagoanvip.xyz
+  tls: true
+  type: vmess
+  uuid: 462d9694-62b5-4781-a287-61a422b920e8
+  ws-opts:
+    headers:
+      Host: mn1ray.jagoanvip.xyz
+    path: /vvip
+- alterId: 0
+  cipher: auto
+  name: ID16｜家宽｜非常安全
+  network: ws
+  port: '443'
+  server: 38.55.194.138
+  servername: mn1ray.jagoanvip.xyz
+  tls: true
+  type: vmess
+  uuid: 462d9694-62b5-4781-a287-61a422b920e8
+  ws-opts:
+    headers:
+      Host: mn1ray.jagoanvip.xyz
+    path: /vvip
+- alterId: 0
+  cipher: auto
+  name: ID21｜家宽｜非常安全
+  network: ws
+  port: '443'
+  server: 149.104.31.55
+  servername: mn1ray.jagoanvip.xyz
+  tls: true
+  type: vmess
+  uuid: 462d9694-62b5-4781-a287-61a422b920e8
+  ws-opts:
+    headers:
+      Host: mn1ray.jagoanvip.xyz
+    path: /vvip
+- alterId: 0
+  cipher: auto
+  name: ID22｜家宽｜非常安全
+  network: ws
+  port: '443'
+  server: 38.55.193.19
+  servername: mn1ray.jagoanvip.xyz
+  tls: true
+  type: vmess
+  uuid: 462d9694-62b5-4781-a287-61a422b920e8
+  ws-opts:
+    headers:
+      Host: mn1ray.jagoanvip.xyz
+    path: /vvip
+- alterId: 0
+  cipher: auto
+  name: ID25｜家宽｜非常安全
+  network: ws
+  port: '443'
+  server: 43.134.87.15
+  servername: mn1ray.jagoanvip.xyz
+  tls: true
+  type: vmess
+  uuid: 462d9694-62b5-4781-a287-61a422b920e8
+  ws-opts:
+    headers:
+      Host: mn1ray.jagoanvip.xyz
+    path: /vvip
+- alterId: 0
+  cipher: auto
+  name: ID23｜家宽｜非常安全
+  network: ws
+  port: '443'
+  server: 38.55.193.78
+  servername: mn1ray.jagoanvip.xyz
+  tls: true
+  type: vmess
+  uuid: 462d9694-62b5-4781-a287-61a422b920e8
+  ws-opts:
+    headers:
+      Host: mn1ray.jagoanvip.xyz
+    path: /vvip
+- name: US145｜机房｜低风险
+  port: 1080
+  server: 174.138.61.184
+  tls: false
+  type: socks5
+  username: Og%3D%3D
+- name: HK74｜家宽｜非常安全
+  password: 31676725-b0fd-fed2-c857-2da8ce5a6e4f
+  port: 443
+  server: 079c035a-t5bb40-t6tn6w-jjv2.hk1.hyhuawei.com
+  skip-cert-verify: true
+  sni: 079c035a-t5bb40-t6tn6w-jjv2.hk1.hyhuawei.com
+  tls: false
+  type: hysteria2
+- name: IN1｜机房｜低风险
+  network: tcp
+  password: af4b064a9c39472fb34ad8b113acdc6b
+  port: 443
+  server: 139.84.133.199
+  skip-cert-verify: true
+  sni: 139.84.133.199
+  type: trojan
+- name: US146｜机房｜低风险
+  network: tcp
+  password: af4b064a9c39472fb34ad8b113acdc6b
+  port: 443
+  server: 194.33.45.157
+  skip-cert-verify: true
+  sni: 194.33.45.157
+  type: trojan
+- name: SG6｜机房｜高风险 (黑名单)
+  network: tcp
+  password: af4b064a9c39472fb34ad8b113acdc6b
+  port: 443
+  server: 5.180.78.22
+  skip-cert-verify: true
+  sni: 5.180.78.22
+  type: trojan
+- name: MY17｜机房｜低风险
+  password: 46a64503-b76f-45b4-9948-6bac86e8d29e
+  port: 21587
+  server: my.xn--ehqa22b.site
+  skip-cert-verify: true
+  sni: my.xn--ehqa22b.site
+  tls: false
+  type: hysteria2
+- name: JP20｜机房｜低风险
+  password: 46a64503-b76f-45b4-9948-6bac86e8d29e
+  port: 21476
+  server: jp.xn--ehqa22b.site
+  skip-cert-verify: true
+  sni: jp.xn--ehqa22b.site
+  tls: false
+  type: hysteria2
+- name: MY18｜机房｜低风险
+  password: 46a64503-b76f-45b4-9948-6bac86e8d29e
+  port: 21897
+  server: my.xn--ehqa22b.site
+  skip-cert-verify: true
+  sni: my.xn--ehqa22b.site
+  tls: false
+  type: hysteria2
+- name: DE43｜机房｜低风险
+  password: 46a64503-b76f-45b4-9948-6bac86e8d29e
+  port: 21927
+  server: de.xn--ehqa22b.site
+  skip-cert-verify: true
+  sni: de.xn--ehqa22b.site
+  tls: false
+  type: hysteria2
+- name: JP21｜机房｜低风险
+  password: 46a64503-b76f-45b4-9948-6bac86e8d29e
+  port: 21949
+  server: jp.xn--ehqa22b.site
+  skip-cert-verify: true
+  sni: jp.xn--ehqa22b.site
+  tls: false
+  type: hysteria2
+- name: MY19｜机房｜低风险
+  password: 46a64503-b76f-45b4-9948-6bac86e8d29e
+  port: 21695
+  server: my.xn--ehqa22b.site
+  skip-cert-verify: true
+  sni: my.xn--ehqa22b.site
+  tls: false
+  type: hysteria2
 - name: '@Trick_mobil'
   password: 17cdeb6c-f046-11ee-bdac-f23c93141fad
   port: 1743
@@ -287,14 +864,33 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: ⚡Telegram = @SOSkeyNET
-  obfs: salamander
-  obfs-password: pGBT2RES32Gr7S8DQx
-  password: 00a40f88-0900-4c29-9555-cf053a23071b
-  port: 11801
-  server: 167.86.100.40
+- name: Telegram:@config_proxy 😍
+  password: 1ae9f3fa-46a3-4ccf-ac29-990ec9673022
+  port: 8080
+  server: svt1.fq.ito8.com
+  sni: svt1.fq.ito8.com
+  tls: false
+  type: hysteria2
+- name: 'Telegram:@config_proxy 😍 #1'
+  password: 43ddfbea-3378-4780-a01a-e8801a88b547
+  port: 21332
+  server: tr.xn--ehqa22b.site
+  sni: tr.xn--ehqa22b.site
+  tls: false
+  type: hysteria2
+- name: 'Telegram:@config_proxy 😍 #2'
+  password: 9cf5c4ba-6939-40b2-a78a-98a582e233bc
+  port: 21946
+  server: tr.xn--ehqa22b.site
+  sni: tr.xn--ehqa22b.site
+  tls: false
+  type: hysteria2
+- name: 'Telegram:@config_proxy 😍 #3'
+  password: 9f305c80-0134-4938-86a4-2674386add43
+  port: 20000
+  server: us02zl.poke-mon.xyz
   skip-cert-verify: true
-  sni: 167.86.100.40
+  sni: bing.com
   tls: false
   type: hysteria2
 - name: 🩵+@Azarakhsh_Proxy+🩷

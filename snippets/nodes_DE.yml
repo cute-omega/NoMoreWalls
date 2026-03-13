@@ -1,7 +1,7 @@
 proxies:
 - alterId: 0
   cipher: auto
-  name: DE29｜机房｜高风险 (黑名单)
+  name: DE41｜机房｜高风险 (黑名单)
   network: tcp
   port: '180'
   server: 82.198.246.97
