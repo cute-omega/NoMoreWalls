@@ -773,7 +773,7 @@ proxies:
   server: 91.132.51.160
   tls: false
   type: hysteria2
-- name: 美国2
+- name: '@Trick_mobil #2'
   password: 78c2bad7-f5f3-41f2-88cc-81de9d05040b
   port: 2056
   server: mg2.mangshe.xyz
@@ -781,7 +781,7 @@ proxies:
   sni: mg2.mangshe.xyz
   tls: false
   type: hysteria2
-- name: 新加坡1
+- name: '@Trick_mobil #3'
   password: 78c2bad7-f5f3-41f2-88cc-81de9d05040b
   port: 2055
   server: xjp1.mangshe.xyz
@@ -789,7 +789,7 @@ proxies:
   sni: xjp1.mangshe.xyz
   tls: false
   type: hysteria2
-- name: JP
+- name: '@Trick_mobil #4'
   password: 95D27EEF-B7AE-4076-BA39-40FDFA3D0F61
   port: 13778
   server: jp7.dexlos.com
@@ -804,19 +804,14 @@ proxies:
   sni: 🔒
   tls: false
   type: hysteria2
-- name: DE
-  password: a084933d-0b41-4571-ae0c-7163b8c71ed1
-  port: 2056
-  server: de.eyucdn.xyz
-  skip-cert-verify: true
-  sni: de.eyucdn.xyz
-  tls: false
-  type: hysteria2
-- name: 🇭🇰 HK
-  password: a305ac08-d136-11ee-b6db-f23c91cfbbc9
+- name: '@DALTON_PING'
+  obfs: salamander
+  obfs-password: SalamanderKey2024!
+  password: VpnPass2024!
   port: 443
-  server: ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com
-  sni: ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com
+  server: 181.215.205.39
+  skip-cert-verify: true
+  sni: www.digikala.com
   tls: false
   type: hysteria2
 - name: 'کانال تلگرام : Free_VPN_CH@'
@@ -827,70 +822,6 @@ proxies:
   server: 181.214.99.162
   skip-cert-verify: false
   sni: api.kermanshahi.org
-  tls: false
-  type: hysteria2
-- name: HP71 (5)
-  obfs: salamander
-  obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
-  password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
-  port: 35000
-  server: 206.71.158.40
-  sni: api.kermanshahi.org
-  tls: false
-  type: hysteria2
-- name: '@V2rayNG3 #1'
-  obfs: salamander
-  obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
-  password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
-  port: 35000
-  server: 206.71.158.41
-  skip-cert-verify: true
-  sni: api.kermanshahi.org
-  tls: false
-  type: hysteria2
-- name: SG
-  password: e7965e64-e001-4e8c-8273-39c61ff4a094
-  port: 30000
-  server: sg3.oomz.ru
-  skip-cert-verify: true
-  sni: bing.com
-  tls: false
-  type: hysteria2
-- name: TW
-  password: e7965e64-e001-4e8c-8273-39c61ff4a094
-  port: 30000
-  server: tw.oomz.ru
-  skip-cert-verify: true
-  sni: bing.com
-  tls: false
-  type: hysteria2
-- name: Telegram:@config_proxy 😍
-  password: 1ae9f3fa-46a3-4ccf-ac29-990ec9673022
-  port: 8080
-  server: svt1.fq.ito8.com
-  sni: svt1.fq.ito8.com
-  tls: false
-  type: hysteria2
-- name: 'Telegram:@config_proxy 😍 #1'
-  password: 43ddfbea-3378-4780-a01a-e8801a88b547
-  port: 21332
-  server: tr.xn--ehqa22b.site
-  sni: tr.xn--ehqa22b.site
-  tls: false
-  type: hysteria2
-- name: 'Telegram:@config_proxy 😍 #2'
-  password: 9cf5c4ba-6939-40b2-a78a-98a582e233bc
-  port: 21946
-  server: tr.xn--ehqa22b.site
-  sni: tr.xn--ehqa22b.site
-  tls: false
-  type: hysteria2
-- name: 'Telegram:@config_proxy 😍 #3'
-  password: 9f305c80-0134-4938-86a4-2674386add43
-  port: 20000
-  server: us02zl.poke-mon.xyz
-  skip-cert-verify: true
-  sni: bing.com
   tls: false
   type: hysteria2
 - name: 🩵+@Azarakhsh_Proxy+🩷
@@ -911,6 +842,16 @@ proxies:
   server: 206.71.158.37
   skip-cert-verify: true
   sni: YAPC-1.afshin.ir
+  tls: false
+  type: hysteria2
+- name: '@V2rayNG3 #1'
+  obfs: salamander
+  obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
+  password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
+  port: 35000
+  server: 206.71.158.41
+  skip-cert-verify: true
+  sni: api.kermanshahi.org
   tls: false
   type: hysteria2
 - name: '@V2rayNG3 #2'
@@ -970,6 +911,13 @@ proxies:
   port: 21150
   server: tr.xn--ehqa22b.site
   skip-cert-verify: true
+  sni: tr.xn--ehqa22b.site
+  tls: false
+  type: hysteria2
+- name: ⚡Telegram = @SOSkeyNET
+  password: e998e2a0-ce11-4475-bf5f-2de6e3dad046
+  port: 21677
+  server: tr.xn--ehqa22b.site
   sni: tr.xn--ehqa22b.site
   tls: false
   type: hysteria2
