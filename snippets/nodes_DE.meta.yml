@@ -31,7 +31,7 @@ proxies:
   sni: de.xn--ehqa22b.site
   tls: false
   type: hysteria2
-- name: DE5｜机房｜低风险
+- name: '⚡Telegram = @SOSkeyNET #6'
   password: 727cd454-2df4-4ae9-9ad1-78f7d9823d30
   port: 21475
   server: de.xn--ehqa22b.site
@@ -71,7 +71,7 @@ proxies:
   sni: de.xn--ehqa22b.site
   tls: false
   type: hysteria2
-- name: DE10｜机房｜低风险
+- name: '⚡Telegram = @SOSkeyNET #9'
   password: ff7393c0-e88a-4f93-afef-6e8151ebad53
   port: 21053
   server: de.xn--ehqa22b.site
@@ -120,7 +120,7 @@ proxies:
   sni: de.xn--ehqa22b.site
   tls: false
   type: hysteria2
-- name: DE28｜机房｜低风险
+- name: 'Telegram:@config_proxy 😍 #1'
   password: 727cd454-2df4-4ae9-9ad1-78f7d9823d30
   port: 21606
   server: de.xn--ehqa22b.site
@@ -152,5 +152,13 @@ proxies:
   server: 181.214.99.162
   skip-cert-verify: false
   sni: api.kermanshahi.org
+  tls: false
+  type: hysteria2
+- name: '@GozargahAzad|🇩🇪'
+  password: 727cd454-2df4-4ae9-9ad1-78f7d9823d30
+  port: 21475
+  server: de.xn--ehqa22b.site
+  skip-cert-verify: true
+  sni: ''
   tls: false
   type: hysteria2

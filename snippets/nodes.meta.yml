@@ -137,7 +137,7 @@ proxies:
   sni: my.xn--ehqa22b.site
   tls: false
   type: hysteria2
-- name: DE5｜机房｜低风险
+- name: '⚡Telegram = @SOSkeyNET #6'
   password: 727cd454-2df4-4ae9-9ad1-78f7d9823d30
   port: 21475
   server: de.xn--ehqa22b.site
@@ -237,7 +237,7 @@ proxies:
   sni: my.xn--ehqa22b.site
   tls: false
   type: hysteria2
-- name: DE10｜机房｜低风险
+- name: '⚡Telegram = @SOSkeyNET #9'
   password: ff7393c0-e88a-4f93-afef-6e8151ebad53
   port: 21053
   server: de.xn--ehqa22b.site
@@ -404,7 +404,7 @@ proxies:
   sni: jp.xn--ehqa22b.site
   tls: false
   type: hysteria2
-- name: DE28｜机房｜低风险
+- name: 'Telegram:@config_proxy 😍 #1'
   password: 727cd454-2df4-4ae9-9ad1-78f7d9823d30
   port: 21606
   server: de.xn--ehqa22b.site
@@ -804,16 +804,6 @@ proxies:
   sni: 🔒
   tls: false
   type: hysteria2
-- name: '@DALTON_PING'
-  obfs: salamander
-  obfs-password: SalamanderKey2024!
-  password: VpnPass2024!
-  port: 443
-  server: 181.215.205.39
-  skip-cert-verify: true
-  sni: www.digikala.com
-  tls: false
-  type: hysteria2
 - name: 'کانال تلگرام : Free_VPN_CH@'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
@@ -822,6 +812,49 @@ proxies:
   server: 181.214.99.162
   skip-cert-verify: false
   sni: api.kermanshahi.org
+  tls: false
+  type: hysteria2
+- name: ⚡Telegram = @SOSkeyNET
+  password: 1f3a8f7a-ce7d-4005-81ba-44e03a0022aa
+  port: 21312
+  server: de.xn--ehqa22b.site
+  sni: de.xn--ehqa22b.site
+  tls: false
+  type: hysteria2
+- name: '⚡Telegram = @SOSkeyNET #2'
+  password: 3b31792b-59ec-498c-bb1b-a93061d1f0dd
+  port: 21087
+  server: de.xn--ehqa22b.site
+  sni: de.xn--ehqa22b.site
+  tls: false
+  type: hysteria2
+- name: '⚡Telegram = @SOSkeyNET #3'
+  password: 3b31792b-59ec-498c-bb1b-a93061d1f0dd
+  port: 21731
+  server: tr.xn--ehqa22b.site
+  sni: tr.xn--ehqa22b.site
+  tls: false
+  type: hysteria2
+- name: '⚡Telegram = @SOSkeyNET #4'
+  password: 43ddfbea-3378-4780-a01a-e8801a88b547
+  port: 21314
+  server: tr.xn--ehqa22b.site
+  sni: tr.xn--ehqa22b.site
+  tls: false
+  type: hysteria2
+- name: '⚡Telegram = @SOSkeyNET #5'
+  password: 46a64503-b76f-45b4-9948-6bac86e8d29e
+  port: 21051
+  server: de.xn--ehqa22b.site
+  sni: de.xn--ehqa22b.site
+  tls: false
+  type: hysteria2
+- name: '@GozargahAzad|🇩🇪'
+  password: 727cd454-2df4-4ae9-9ad1-78f7d9823d30
+  port: 21475
+  server: de.xn--ehqa22b.site
+  skip-cert-verify: true
+  sni: ''
   tls: false
   type: hysteria2
 - name: 🩵+@Azarakhsh_Proxy+🩷
@@ -914,7 +947,14 @@ proxies:
   sni: tr.xn--ehqa22b.site
   tls: false
   type: hysteria2
-- name: ⚡Telegram = @SOSkeyNET
+- name: '⚡Telegram = @SOSkeyNET #7'
+  password: e998e2a0-ce11-4475-bf5f-2de6e3dad046
+  port: 21270
+  server: tr.xn--ehqa22b.site
+  sni: tr.xn--ehqa22b.site
+  tls: false
+  type: hysteria2
+- name: '⚡Telegram = @SOSkeyNET #8'
   password: e998e2a0-ce11-4475-bf5f-2de6e3dad046
   port: 21677
   server: tr.xn--ehqa22b.site
