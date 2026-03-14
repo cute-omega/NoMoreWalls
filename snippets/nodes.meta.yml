@@ -767,15 +767,14 @@ proxies:
   sni: 🔒
   tls: false
   type: hysteria2
-- name: ⚡Telegram = @SOSkeyNET
+- name: '@Trick_mobil #1'
   password: 5046SHWqk6
   port: 844
   server: 91.132.51.160
-  skip-cert-verify: true
   tls: false
   type: hysteria2
 - name: '@Trick_mobil #2'
-  password: Telegram--&gt;@Ln2Ray
+  password: Telegram-->@Ln2Ray
   port: 45000
   server: 206.71.158.23
   skip-cert-verify: true
@@ -785,20 +784,12 @@ proxies:
 - name: '@Trick_mobil #3'
   password: Telegram-->@Ln2Ray
   port: 45000
-  server: 206.71.158.23
-  skip-cert-verify: true
-  sni: 🔒
-  tls: false
-  type: hysteria2
-- name: '@Trick_mobil #4'
-  password: Telegram-->@Ln2Ray
-  port: 45000
   server: gavazn.lnmarketplace.net
   skip-cert-verify: true
   sni: 🔒
   tls: false
   type: hysteria2
-- name: '@Trick_mobil #5'
+- name: '@Trick_mobil #4'
   password: Yet-Another-Public-Config-1
   port: 36400
   server: 206.71.158.37
@@ -816,7 +807,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: '@harfbzaniiim'
+- name: '@V2HUBIR'
   obfs: salamander
   obfs-password: pGBT2RES32Gr7S8DQx
   password: 00a40f88-0900-4c29-9555-cf053a23071b
@@ -824,13 +815,6 @@ proxies:
   server: 167.86.100.40
   skip-cert-verify: true
   sni: 167.86.100.40
-  tls: false
-  type: hysteria2
-- name: Telegram:@config_proxy 😍
-  password: 43ddfbea-3378-4780-a01a-e8801a88b547
-  port: 21314
-  server: tr.xn--ehqa22b.site
-  sni: tr.xn--ehqa22b.site
   tls: false
   type: hysteria2
 - name: 🩵+@Azarakhsh_Proxy+🩷
