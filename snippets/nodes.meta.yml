@@ -817,31 +817,11 @@ proxies:
   tls: false
   type: hysteria2
 - name: '@V2HUBIR'
-  obfs: salamander
-  obfs-password: pGBT2RES32Gr7S8DQx
-  password: 00a40f88-0900-4c29-9555-cf053a23071b
-  port: 11801
-  server: 167.86.100.40
-  skip-cert-verify: true
-  sni: 167.86.100.40
-  tls: false
-  type: hysteria2
-- name: '@V2HUBIR #1'
   password: 2c833c5d-cbcc-4afb-89ba-d17dc39db6f0
   port: 47974
   server: 75.127.13.83
   skip-cert-verify: true
   sni: www.bing.com
-  tls: false
-  type: hysteria2
-- name: 🧿19@oneclickvpnkeys
-  obfs: salamander
-  obfs-password: YxNSWNJUQkeKDiPc
-  password: 86bfdc9d-64b0-447b-9316-2e3cc8712690
-  port: 65001
-  server: uk01.nekocloud.top
-  skip-cert-verify: true
-  sni: buylite.music.apple.com
   tls: false
   type: hysteria2
 - name: 🩵+@Azarakhsh_Proxy+🩷
@@ -862,16 +842,6 @@ proxies:
   server: 206.71.158.37
   skip-cert-verify: true
   sni: YAPC-1.afshin.ir
-  tls: false
-  type: hysteria2
-- name: Telegram:@config_proxy 😍
-  obfs: salamander
-  obfs-password: ZTBjNDA0YTVhNTFkMzFlOQ==
-  password: a48d9102-3eb4-4576-8de7-482e58bc1a39
-  port: 60000
-  server: jp03.344233.cc
-  skip-cert-verify: false
-  sni: jp03.344233.cc
   tls: false
   type: hysteria2
 - name: '@V2rayNG3 #1'
@@ -936,32 +906,12 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 'Telegram:@config_proxy 😍 #1'
-  obfs: salamander
-  obfs-password: ZTBjNDA0YTVhNTFkMzFlOQ==
-  password: cfa36789-94aa-4c4c-ad06-ab35a8eb9312
-  port: 60000
-  server: jp03.344233.cc
-  skip-cert-verify: false
-  sni: jp03.344233.cc
-  tls: false
-  type: hysteria2
-- name: '@V2HUBIR #2'
+- name: '@V2HUBIR #1'
   password: dongtaiwang.com
   port: 22000
   server: 62.210.124.146
   skip-cert-verify: true
   sni: www.microsoft.com
-  tls: false
-  type: hysteria2
-- name: 'Telegram:@config_proxy 😍 #2'
-  obfs: salamander
-  obfs-password: GRxFC3OtWF8F8f7M
-  password: fa220328-e905-4b67-a4f0-7fec43eac048
-  port: 443
-  server: us-loc03.lada.mom
-  skip-cert-verify: false
-  sni: us-loc03.lada.mom
   tls: false
   type: hysteria2
 - name: '@V2rayNG3 #4'
