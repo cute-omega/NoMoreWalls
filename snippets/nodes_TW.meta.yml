@@ -13,3 +13,11 @@ proxies:
     headers:
       Host: snll667.pages.dev
     path: '%2F'
+- name: TW_speednode_0040
+  password: exaxgqkKkd0TAMrCxeonWg==
+  port: 1443
+  server: twmoon1-cdn-route.couldflare-cdn.com
+  tls: true
+  type: http
+  udp: true
+  username: mrwdfNTD8M79LCukCieldrqZWqs=
