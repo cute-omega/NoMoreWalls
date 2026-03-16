@@ -145,12 +145,12 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: '@V2HUBIR'
-  password: 2c833c5d-cbcc-4afb-89ba-d17dc39db6f0
-  port: 47974
-  server: 75.127.13.83
+- name: 🚜8@oneclickvpnkeys
+  password: 46a64503-b76f-45b4-9948-6bac86e8d29e
+  port: 21927
+  server: de.xn--ehqa22b.site
   skip-cert-verify: true
-  sni: www.bing.com
+  sni: de.xn--ehqa22b.site
   tls: false
   type: hysteria2
 - name: 🩵+@Azarakhsh_Proxy+🩷
@@ -235,26 +235,26 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: Telegram:@config_proxy 😍
+- name: 'Telegram:@config_proxy 😍 #1'
   password: c05cbe97-937e-46bf-a12a-ba6c303ac85a
   port: 443
-  server: 2001:e42:102:1806:160:16:208:254
+  server: 2a13:edc0:21:c79e:6046:5ac5:d2a1:f453
   skip-cert-verify: true
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 'Telegram:@config_proxy 😍 #1'
-  password: c6a8e7b7-bc39-4e7c-8cf2-ac4ba9d46929
-  port: 443
-  server: 138.2.68.68
-  skip-cert-verify: false
-  sni: zone.231230.xyz
+- name: 🚜7@oneclickvpnkeys
+  password: da231013-aef8-4c83-abfd-8d844545fe3a
+  port: 65535
+  server: 132.145.28.17
+  skip-cert-verify: true
+  sni: www.microsoft.com
   tls: false
   type: hysteria2
-- name: '@V2HUBIR #1'
-  password: dongtaiwang.com
-  port: 22000
-  server: 62.210.124.146
+- name: 🚜15@oneclickvpnkeys
+  password: da231013-aef8-4c83-abfd-8d844545fe3a
+  port: 65535
+  server: 132.145.52.10
   skip-cert-verify: true
   sni: www.microsoft.com
   tls: false
