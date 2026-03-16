@@ -2,10 +2,8 @@ proxies:
 - name: KR_speednode_0022
   port: 1090
   server: 121.169.46.116
-  tls: false
   type: socks5
   udp: true
-  username: T2clM0QlM0Q6
 - name: KR_speednode_0023
   network: ws
   port: 10973

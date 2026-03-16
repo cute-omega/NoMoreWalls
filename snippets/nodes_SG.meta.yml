@@ -1,12 +1,4 @@
 proxies:
-- name: SG6｜机房｜高风险 (黑名单)
-  network: tcp
-  password: af4b064a9c39472fb34ad8b113acdc6b
-  port: 443
-  server: 5.180.78.22
-  skip-cert-verify: true
-  sni: 5.180.78.22
-  type: trojan
 - name: 新加坡|@ripaojiedian
   network: tcp
   password: f7dbed8b1ca85124e793ba6c0bcfd0db

@@ -1,35 +1,4 @@
 proxies:
-- alterId: 64
-  cipher: auto
-  name: US74｜机房｜低风险
-  network: tcp
-  port: '34114'
-  server: 103.181.164.237
-  tls: false
-  type: vmess
-  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-- alpn:
-  - h3%2Ch2%2Chttp%2F1.1
-  name: US80｜机房｜低风险
-  network: ws
-  password: 823cbccd-3a71-4248-ac3c-3c460de1552d
-  port: 443
-  server: 172.64.53.190
-  skip-cert-verify: true
-  sni: snll667.pages.dev
-  type: trojan
-  ws-opts:
-    headers:
-      Host: snll667.pages.dev
-    path: '%2F'
-- name: US146｜机房｜低风险
-  network: tcp
-  password: af4b064a9c39472fb34ad8b113acdc6b
-  port: 443
-  server: 194.33.45.157
-  skip-cert-verify: true
-  sni: 194.33.45.157
-  type: trojan
 - name: 美国|@ripaojiedian
   network: tcp
   password: f389ed926e512e15f382dc3804029474
