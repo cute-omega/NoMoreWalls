@@ -235,14 +235,6 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 'Telegram:@config_proxy 😍 #1'
-  password: c05cbe97-937e-46bf-a12a-ba6c303ac85a
-  port: 443
-  server: 2a13:edc0:21:c79e:6046:5ac5:d2a1:f453
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
 - name: 🚜7@oneclickvpnkeys
   password: da231013-aef8-4c83-abfd-8d844545fe3a
   port: 65535
@@ -257,6 +249,14 @@ proxies:
   server: 132.145.52.10
   skip-cert-verify: true
   sni: www.microsoft.com
+  tls: false
+  type: hysteria2
+- name: Telegram:@config_proxy 😍
+  password: fe0fda62-79ff-467e-bef4-983322c1d21b
+  port: 56309
+  server: hkt.ccwink.cc
+  skip-cert-verify: true
+  sni: hkt.ccwink.cc
   tls: false
   type: hysteria2
 - name: '@V2rayNG3 #4'
