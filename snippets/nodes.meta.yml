@@ -153,6 +153,14 @@ proxies:
   sni: de.xn--ehqa22b.site
   tls: false
   type: hysteria2
+- name: Telegram:@config_proxy 😍
+  password: 6fc421a8-cd84-432c-86b8-b1bbe488733b
+  port: 20000
+  server: us02zl.poke-mon.xyz
+  skip-cert-verify: true
+  sni: bing.com
+  tls: false
+  type: hysteria2
 - name: 🩵+@Azarakhsh_Proxy+🩷
   obfs: salamander
   obfs-password: KevinZakarian
@@ -249,14 +257,6 @@ proxies:
   server: 132.145.52.10
   skip-cert-verify: true
   sni: www.microsoft.com
-  tls: false
-  type: hysteria2
-- name: Telegram:@config_proxy 😍
-  password: fe0fda62-79ff-467e-bef4-983322c1d21b
-  port: 56309
-  server: hkt.ccwink.cc
-  skip-cert-verify: true
-  sni: hkt.ccwink.cc
   tls: false
   type: hysteria2
 - name: '@V2rayNG3 #4'
