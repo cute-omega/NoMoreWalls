@@ -179,6 +179,14 @@ proxies:
   sni: apple.com
   tls: false
   type: hysteria2
+- name: 👁️‍🗨️47@oneclickvpnkeys
+  password: dongtaiwang.com
+  port: 7583
+  server: 2a14:7583:295c::a
+  skip-cert-verify: true
+  sni: www.microsoft.com
+  tls: false
+  type: hysteria2
 - name: a@oneclickvpnkeys
   password: zhangyang
   port: 6443
@@ -215,16 +223,6 @@ proxies:
   server: de2.oomz.ru
   skip-cert-verify: true
   sni: bing.com
-  tls: false
-  type: hysteria2
-- name: 🧿19@oneclickvpnkeys
-  obfs: salamander
-  obfs-password: YxNSWNJUQkeKDiPc
-  password: 86bfdc9d-64b0-447b-9316-2e3cc8712690
-  port: 65001
-  server: uk01.nekocloud.top
-  skip-cert-verify: true
-  sni: buylite.music.apple.com
   tls: false
   type: hysteria2
 - name: 🩵+@Azarakhsh_Proxy+🩷
@@ -309,16 +307,6 @@ proxies:
 - name: 'کانال تلگرام : Free_VPN_CH@ #6'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
-  password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
-  port: 35000
-  server: 5.175.249.174
-  skip-cert-verify: false
-  sni: api.kermanshahi.org
-  tls: false
-  type: hysteria2
-- name: '@FooTNooD'
-  obfs: salamander
-  obfs-password: '@AliXTso-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
   port: 35000
   server: 5.175.249.174
