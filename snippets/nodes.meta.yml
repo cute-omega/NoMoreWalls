@@ -89,6 +89,58 @@ proxies:
   tls: false
   type: vmess
   uuid: 88888888-8888-8888-8888-888888888888
+- name: g@oneclickvpnkeys
+  password: 123456789StrongPass
+  port: 443
+  server: 144.31.224.14
+  skip-cert-verify: true
+  sni: www.cloudflare.com
+  tls: false
+  type: hysteria2
+- name: k@oneclickvpnkeys
+  password: 1fe714a1-d35e-4fb4-b3c7-6037eeef2cfc
+  port: 23001
+  server: 130.162.146.2
+  skip-cert-verify: true
+  sni: kr3.xn--mesx36n.com
+  tls: false
+  type: hysteria2
+- name: j@oneclickvpnkeys
+  password: 1fe714a1-d35e-4fb4-b3c7-6037eeef2cfc
+  port: 23001
+  server: 138.2.61.63
+  skip-cert-verify: true
+  sni: jp1.xn--mesx36n.com
+  tls: false
+  type: hysteria2
+- name: h@oneclickvpnkeys
+  password: 9c23940e-efd8-4763-bfb5-54739b50893d
+  port: 8443
+  server: 156.226.173.8
+  skip-cert-verify: true
+  sni: hy5.hy2yydsapi.top
+  tls: false
+  type: hysteria2
+- name: e@oneclickvpnkeys
+  obfs: salamander
+  obfs-password: Telegram-->@Ln2Ray
+  password: Telegram-->@Ln2Ray
+  port: 45000
+  server: 206.71.158.23
+  skip-cert-verify: true
+  sni: gavazn.55994421.xyz
+  tls: false
+  type: hysteria2
+- name: b@oneclickvpnkeys
+  obfs: salamander
+  obfs-password: Telegram-->@Ln2Ray
+  password: Telegram-->@Ln2Ray
+  port: 443
+  server: 2a14:3f87:f001:9::a
+  skip-cert-verify: true
+  sni: gavazn.55994421.xyz
+  tls: false
+  type: hysteria2
 - name: 'کانال تلگرام : ConfigV2RayNG@'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
@@ -99,6 +151,55 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
+- name: IR-@V2rayAlpha--5
+  obfs: salamander
+  obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
+  password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
+  port: 35000
+  server: 206.71.158.40
+  skip-cert-verify: true
+  sni: api.kermanshahi.org
+  tls: false
+  type: hysteria2
+- name: 'telegram » mainv𝟮ray #1'
+  obfs: salamander
+  obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
+  password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
+  port: 35000
+  server: 206.71.158.41
+  skip-cert-verify: true
+  sni: api.kermanshahi.org
+  tls: false
+  type: hysteria2
+- name: f@oneclickvpnkeys
+  password: dongtaiwang.com
+  port: 443
+  server: 2001:bc8:32d7:302::11
+  skip-cert-verify: true
+  sni: apple.com
+  tls: false
+  type: hysteria2
+- name: a@oneclickvpnkeys
+  password: zhangyang
+  port: 6443
+  server: 130.61.50.75
+  tls: false
+  type: hysteria2
+- name: telegram » mainv𝟮ray¹
+  password: 338ce171-d764-4610-8fd5-6688b0d321f0
+  port: 30102
+  server: 144.24.101.176
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: 🚜8@oneclickvpnkeys
+  password: 46a64503-b76f-45b4-9948-6bac86e8d29e
+  port: 21927
+  server: de.xn--ehqa22b.site
+  skip-cert-verify: true
+  sni: de.xn--ehqa22b.site
+  tls: false
+  type: hysteria2
 - name: '@V2rayBaaz #1'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-King-Reza-Pahlavi'
@@ -106,6 +207,24 @@ proxies:
   port: 989
   server: dd.openaccessnode.com
   sni: dd.ircybersec.org
+  tls: false
+  type: hysteria2
+- name: telegram » mainv𝟮ray³
+  password: 7b5cbc6a-90a1-4b6e-994e-4c198b85f80b
+  port: 30000
+  server: de2.oomz.ru
+  skip-cert-verify: true
+  sni: bing.com
+  tls: false
+  type: hysteria2
+- name: 🧿19@oneclickvpnkeys
+  obfs: salamander
+  obfs-password: YxNSWNJUQkeKDiPc
+  password: 86bfdc9d-64b0-447b-9316-2e3cc8712690
+  port: 65001
+  server: uk01.nekocloud.top
+  skip-cert-verify: true
+  sni: buylite.music.apple.com
   tls: false
   type: hysteria2
 - name: 🇳🇱 - NL - @FreeOnlineVPN
@@ -129,16 +248,6 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: IR-@V2rayAlpha--5
-  obfs: salamander
-  obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
-  password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
-  port: 35000
-  server: 206.71.158.40
-  skip-cert-verify: true
-  sni: api.kermanshahi.org
-  tls: false
-  type: hysteria2
 - name: 'ConfigV2RayNG #1'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
@@ -157,6 +266,58 @@ proxies:
   server: 5.175.249.174
   skip-cert-verify: false
   sni: api.kermanshahi.org
+  tls: false
+  type: hysteria2
+- name: 'telegram » mainv𝟮ray #2'
+  obfs: salamander
+  obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
+  password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
+  port: 35000
+  server: 77.90.41.197
+  skip-cert-verify: true
+  sni: api.kermanshahi.org
+  tls: false
+  type: hysteria2
+- name: 'telegram » mainv𝟮ray¹ #1'
+  password: c3dc8d26-ab2b-11ec-a8bf-f23c91cfbbc9
+  port: 443
+  server: 72b99e3a-t6pb40-t8wh4m-1hpo0.hk1.hyhuawei.com
+  skip-cert-verify: false
+  sni: 72b99e3a-t6pb40-t8wh4m-1hpo0.hk1.hyhuawei.com
+  tls: false
+  type: hysteria2
+- name: 🚜7@oneclickvpnkeys
+  password: da231013-aef8-4c83-abfd-8d844545fe3a
+  port: 65535
+  server: 132.145.28.17
+  skip-cert-verify: true
+  sni: www.microsoft.com
+  tls: false
+  type: hysteria2
+- name: 🚜15@oneclickvpnkeys
+  password: da231013-aef8-4c83-abfd-8d844545fe3a
+  port: 65535
+  server: 132.145.52.10
+  skip-cert-verify: true
+  sni: www.microsoft.com
+  tls: false
+  type: hysteria2
+- name: telegram » mainv𝟮ray²
+  obfs: salamander
+  obfs-password: '&O#28YB5qK!5t#U'
+  password: freehomesvpnchannel3
+  port: 46914
+  server: channel1.saghetalaie.homes
+  skip-cert-verify: true
+  sni: nalog.ru
+  tls: false
+  type: hysteria2
+- name: 'telegram » mainv𝟮ray¹ #2'
+  password: linux.do
+  port: 443
+  server: 2a01:4f9:4b:f378::1
+  skip-cert-verify: true
+  sni: www.bing.com
   tls: false
   type: hysteria2
 - cipher: aes-256-cfb
