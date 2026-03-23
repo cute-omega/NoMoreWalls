@@ -161,6 +161,14 @@ proxies:
   sni: api.kermanshahi.org@freenettir
   tls: false
   type: hysteria2
+- name: ⛽️12@oneclickvpnkeys
+  password: dongtaiwang.com
+  port: 22000
+  server: 62.210.124.146
+  skip-cert-verify: true
+  sni: www.microsoft.com
+  tls: false
+  type: hysteria2
 - cipher: aes-256-cfb
   name: 'tg频道:@ripaojiedian #1'
   password: amazonskr05
