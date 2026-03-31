@@ -89,14 +89,6 @@ proxies:
   tls: false
   type: vmess
   uuid: 88888888-8888-8888-8888-888888888888
-- name: ✊97@oneclickvpnkeys
-  password: bb7d8763-4afa-465f-b066-35786781ced2
-  port: 49930
-  server: 216.236.26.19
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
 - name: 🦔93@oneclickvpnkeys
   password: zhangyang
   port: 6443
