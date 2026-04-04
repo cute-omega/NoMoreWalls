@@ -11,6 +11,7 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAi6Ziy6IyD5aKD5aSW5Yq/5Yqb5riX6YCPICM5IiwgImFkZCI6
 hysteria2://71504eaf-29ac-4190-89d1-dd9ce2c9ee14@[2001:bc8:1640:50eb:dc00:ff:fe57:dd6f]:443?insecure=1&sni=Ab.ac&obfs=salamander&obfs-password=FnFgQIckcMRtKq7i#%F0%9F%8F%8694%40oneclickvpnkeys
 hysteria2://Telegram--%3E%40Ln2Ray@206.71.158.23:45000?insecure=1&sni=gavazn.55994421.xyz&obfs=salamander&obfs-password=Telegram-->@Ln2Ray#%F0%9F%8F%8621%40oneclickvpnkeys
 hysteria2://Telegram--%3E%40Ln2Ray@[2a14:3f87:f001:9::a]:443?insecure=1&sni=gavazn.55994421.xyz&obfs=salamander&obfs-password=Telegram-->@Ln2Ray#%F0%9F%8F%865%40oneclickvpnkeys
+hysteria2://dongtaiwang.com@62.210.25.116:40022?insecure=1&sni=www.microsoft.com#%F0%9F%A4%9621%40oneclickvpnkeys
 hysteria2://dongtaiwang.com@[2001:bc8:32d7:302::11]:443?insecure=1&sni=apple.com#%F0%9F%8F%8614%40oneclickvpnkeys
 hysteria2://rstnnl@reddeadfan.rd-team.ru:443?insecure=1&sni=reddeadfan.rd-team.ru&obfs=salamander&obfs-password=FxZylbqClUqVqAs2nezW9kPyFb2edZ2#%F0%9F%8F%8641%40oneclickvpnkeys
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@63.180.254.10:443#tg%E9%A2%91%E9%81%93%3A%40ripaojiedian%20%231
