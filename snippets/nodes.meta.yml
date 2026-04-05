@@ -89,6 +89,30 @@ proxies:
   tls: false
   type: vmess
   uuid: 88888888-8888-8888-8888-888888888888
+- name: 🧸92@oneclickvpnkeys
+  password: 0f771058-7892-4d46-b77e-a69e811b9cbc
+  port: 443
+  server: 84.200.91.118
+  skip-cert-verify: true
+  sni: hls-svod.itunes.apple.com
+  tls: false
+  type: hysteria2
+- name: 🧸91@oneclickvpnkeys
+  password: 0f771058-7892-4d46-b77e-a69e811b9cbc
+  port: 443
+  server: 84.201.25.156
+  skip-cert-verify: true
+  sni: hls-svod.itunes.apple.com
+  tls: false
+  type: hysteria2
+- name: 🧸98@oneclickvpnkeys
+  password: 0f771058-7892-4d46-b77e-a69e811b9cbc
+  port: 443
+  server: 89.124.73.31
+  skip-cert-verify: true
+  sni: hls-svod.itunes.apple.com
+  tls: false
+  type: hysteria2
 - cipher: aes-256-cfb
   name: 'tg频道:@ripaojiedian #1'
   password: amazonskr05
