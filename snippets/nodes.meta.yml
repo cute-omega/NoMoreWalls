@@ -117,6 +117,14 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
+- name: 🚀22@oneclickvpnkeys
+  password: hysteria2_fastlane_qszb6rkh0
+  port: 443
+  server: 144.31.134.98
+  skip-cert-verify: true
+  sni: nl1.h.smartaisupport.ru
+  tls: false
+  type: hysteria2
 - name: 🥮97@oneclickvpnkeys
   obfs: salamander
   obfs-password: CvxXZnSth1bVJKGFP2cof4rI52ifHJ2W
@@ -143,16 +151,6 @@ proxies:
   password: strong-secret-pass-777
   port: 444
   server: 103.231.73.181
-  skip-cert-verify: true
-  sni: www.microsoft.com
-  tls: false
-  type: hysteria2
-- name: 🪺18@oneclickvpnkeys
-  obfs: salamander
-  obfs-password: cry_me_a_r1ver_2026
-  password: strong-secret-pass-777
-  port: 444
-  server: 94.131.105.125
   skip-cert-verify: true
   sni: www.microsoft.com
   tls: false
