@@ -89,6 +89,22 @@ proxies:
   tls: false
   type: vmess
   uuid: 88888888-8888-8888-8888-888888888888
+- name: 🪺1@oneclickvpnkeys
+  password: 7151e6b8-0d8e-4548-a9f2-af52ccc2cdfe
+  port: 4433
+  server: 89.23.107.251
+  skip-cert-verify: true
+  sni: nl1.xiaoliyu.cyou
+  tls: false
+  type: hysteria2
+- name: 🚀22@oneclickvpnkeys
+  password: hysteria2_fastlane_qszb6rkh0
+  port: 443
+  server: 144.31.134.98
+  skip-cert-verify: true
+  sni: nl1.h.smartaisupport.ru
+  tls: false
+  type: hysteria2
 - cipher: aes-256-cfb
   name: 'tg频道:@ripaojiedian #1'
   password: amazonskr05
