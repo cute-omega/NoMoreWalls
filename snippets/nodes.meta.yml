@@ -97,6 +97,14 @@ proxies:
   sni: flkf.mangshe.xyz
   tls: false
   type: hysteria2
+- name: 'telegram: @hupivpn'
+  password: zhangyang
+  port: 6443
+  server: 130.61.50.75
+  skip-cert-verify: true
+  sni: dash.cloudflare.com
+  tls: false
+  type: hysteria2
 - cipher: aes-256-cfb
   name: 'tg频道:@ripaojiedian #1'
   password: amazonskr05
