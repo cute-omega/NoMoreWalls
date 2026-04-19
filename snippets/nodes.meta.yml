@@ -89,29 +89,6 @@ proxies:
   tls: false
   type: vmess
   uuid: 88888888-8888-8888-8888-888888888888
-- name: '@anonymouskeys'
-  password: 3780fcbcddd107f7d7c727eb18e28f4c
-  port: 8443
-  server: 20.230.191.53
-  skip-cert-verify: true
-  tls: false
-  type: hysteria2
-- name: 🍎5@oneclickvpnkeys
-  password: ad49d6ea-c453-4a2e-b36a-2b71a3e0ed12
-  port: 65535
-  server: 132.145.28.17
-  skip-cert-verify: true
-  sni: www.microsoft.com
-  tls: false
-  type: hysteria2
-- name: 🍎7@oneclickvpnkeys
-  password: ad49d6ea-c453-4a2e-b36a-2b71a3e0ed12
-  port: 65535
-  server: 132.145.52.10
-  skip-cert-verify: true
-  sni: www.microsoft.com
-  tls: false
-  type: hysteria2
 - name: 'Telegram : @V2ynpv'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
