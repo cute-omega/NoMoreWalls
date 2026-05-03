@@ -89,7 +89,7 @@ proxies:
   tls: false
   type: vmess
   uuid: 88888888-8888-8888-8888-888888888888
-- name: v2rayRoom
+- name: ترکیبی | @vpnbaz
   password: DBUklcvOyH
   port: 443
   server: 45.81.19.251
