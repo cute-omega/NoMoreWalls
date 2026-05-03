@@ -97,6 +97,14 @@ proxies:
   sni: web.bale.ai
   tls: false
   type: hysteria2
+- name: '@VIPV2rayNGNP لینک آموزش  🦋 Ch...'
+  password: DBUklcvOyH
+  port: 443
+  server: 45.81.19.251
+  skip-cert-verify: true
+  sni: web.bale.ai#@VIPV2rayNGNP socks://Og@185.79.96.94:1070
+  tls: false
+  type: hysteria2
 - name: 'Telegram : @V2ynpv'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
