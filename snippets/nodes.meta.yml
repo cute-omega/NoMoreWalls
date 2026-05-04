@@ -89,7 +89,17 @@ proxies:
   tls: false
   type: vmess
   uuid: 88888888-8888-8888-8888-888888888888
-- name: '🔵 @Bluefilter_org | تلگراممون ... #1'
+- alpn:
+  - h3
+  fingerprint: chrome
+  name: '[@saministamm]-🚩P24'
+  password: DBUklcvOyH
+  port: 443
+  server: 45.81.19.251
+  sni: web.bale.ai
+  tls: false
+  type: hysteria2
+- name: 🔵 @Pirimod_org | تلگراممون 🔵
   password: DBUklcvOyH
   port: 443
   server: 45.81.19.251
@@ -97,17 +107,7 @@ proxies:
   sni: web.bale.ai
   tls: false
   type: hysteria2
-- name: '@GozargahAzad|🇮🇷'
-  obfs: salamander
-  obfs-password: kish-data
-  password: Fa3JN012u2
-  port: 443
-  server: x.kishonline.online
-  skip-cert-verify: false
-  sni: ''
-  tls: false
-  type: hysteria2
-- name: 'https://t.me/themecherie #1'
+- name: https://t.me/crayingroom
   obfs: salamander
   obfs-password: kish-data
   password: Fa3JN012u2
