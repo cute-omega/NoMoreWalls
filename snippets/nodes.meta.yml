@@ -97,6 +97,16 @@ proxies:
   sni: web.bale.ai
   tls: false
   type: hysteria2
+- name: '@GozargahAzad|🇮🇷'
+  obfs: salamander
+  obfs-password: kish-data
+  password: Fa3JN012u2
+  port: 443
+  server: x.kishonline.online
+  skip-cert-verify: false
+  sni: ''
+  tls: false
+  type: hysteria2
 - name: 'https://t.me/themecherie #1'
   obfs: salamander
   obfs-password: kish-data
