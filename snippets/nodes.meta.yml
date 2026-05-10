@@ -97,16 +97,6 @@ proxies:
   sni: web.bale.ai
   tls: false
   type: hysteria2
-- name: TEL;Father_vpn³
-  obfs: salamander
-  obfs-password: kish-data-center
-  password: Kz0JGcGICb
-  port: 443
-  server: srm.kishonline.online
-  skip-cert-verify: false
-  sni: srm.kishonline.online
-  tls: false
-  type: hysteria2
 - name: 'Telegram : @V2ynpv'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
