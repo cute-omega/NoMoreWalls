@@ -89,10 +89,10 @@ proxies:
   tls: false
   type: vmess
   uuid: 88888888-8888-8888-8888-888888888888
-- name: 🇮🇳IN_@WangCai_8
+- name: 🇨🇳TW_@WangCai_8
   password: qQe1z5kU8kN6SlKnDt9Ru3Qp
   port: 443
-  server: 13.233.132.27
+  server: 160.187.100.109
   skip-cert-verify: true
   sni: https://t.me/WangCai2🇨🇳
   tls: false
@@ -100,7 +100,15 @@ proxies:
 - name: 🇭🇰HK_@WangCai_8
   password: qQe1z5kU8kN6SlKnDt9Ru3Qp
   port: 443
-  server: 202.146.222.30
+  server: 202.146.222.86
+  skip-cert-verify: true
+  sni: https://t.me/WangCai2🇨🇳
+  tls: false
+  type: hysteria2
+- name: '🇭🇰HK_@WangCai_8 #1'
+  password: qQe1z5kU8kN6SlKnDt9Ru3Qp
+  port: 443
+  server: 202.146.222.89
   skip-cert-verify: true
   sni: https://t.me/WangCai2🇨🇳
   tls: false
