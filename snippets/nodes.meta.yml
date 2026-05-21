@@ -165,16 +165,6 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 🇮🇷26743 | ⚡️Telegram = t.me/SO...
-  obfs: salamander
-  obfs-password: kish-data-center
-  password: cZ5R384SxB
-  port: 443
-  server: srm.kishonline.online
-  skip-cert-verify: false
-  sni: srm.kishonline.online
-  tls: false
-  type: hysteria2
 - name: 🧃59@oneclickvpnkeys
   password: jOIItw1h4D
   port: 8443
