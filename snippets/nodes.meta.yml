@@ -131,6 +131,13 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
+- name: 🪲31@oneclickvpnkeys
+  password: hysteria2_fastlane_210pha9tw
+  port: 443
+  server: 150.241.79.106
+  sni: de2.h.fastlanehosting.ru
+  tls: false
+  type: hysteria2
 - cipher: aes-256-cfb
   name: 'tg频道:@ripaojiedian #1'
   password: amazonskr05
