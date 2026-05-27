@@ -9,10 +9,12 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAi6Ziy6IyD5aKD5aSW5Yq/5Yqb5riX6YCPICM3IiwgImFkZCI6
 vmess://eyJ2IjogIjIiLCAicHMiOiAi6Ziy6IyD5aKD5aSW5Yq/5Yqb5riX6YCPICM4IiwgImFkZCI6ICIxMjcuMC4wLjUzIiwgInBvcnQiOiAiODgiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiODg4ODg4ODgtODg4OC04ODg4LTg4ODgtODg4ODg4ODg4ODg4In0=
 vmess://eyJ2IjogIjIiLCAicHMiOiAi6Ziy6IyD5aKD5aSW5Yq/5Yqb5riX6YCPICM5IiwgImFkZCI6ICIxMjcuMC4wLjUzIiwgInBvcnQiOiAiODkiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiODg4ODg4ODgtODg4OC04ODg4LTg4ODgtODg4ODg4ODg4ODg4In0=
 hysteria2://9994536d-4824-45f9-bdc9-ccde0443f3fa@assgzl.hhwyy.xyz:35561?insecure=1&sni=assgzl.hhwyy.xyz#%E2%9B%B346%40oneclickvpnkeys
+hysteria2://auth@49.12.142.89:443?insecure=1&alpn=h3&sni=www.microsoft.com#outline_ir
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?insecure=0&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#Telegram%20%3A%20%40V2ynpv
 hysteria2://de72b066a61a39af@204.12.170.168:443?insecure=1&sni=claude.ai&obfs=salamander&obfs-password=726c9c641a068d74#%E2%9B%B349%40oneclickvpnkeys
 hysteria2://fe9b17e8-41e1-4d1b-b588-93a23665724f@136.0.42.119:2056?insecure=1&sni=mg5.mangshe.xyz#%E2%9B%B348%40oneclickvpnkeys
 hysteria2://fe9b17e8-41e1-4d1b-b588-93a23665724f@166.88.142.205:2056?insecure=1&sni=mg6.mangshe.xyz#%E2%9B%B347%40oneclickvpnkeys
+hysteria2://zhangyang@130.61.50.75:6443?insecure=1&sni=dash.cloudflare.com#%F0%9F%90%8F80%40oneclickvpnkeys
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@63.180.254.10:443#tg%E9%A2%91%E9%81%93%3A%40ripaojiedian%20%231
 vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HrfCfh7Ag6aaZ5rivfEByaXBhb2ppZWRpYW4iLCAiYWRkIjogInYxMC5oZGFjZC5jb20iLCAicG9ydCI6IDMwODA3LCAiYWlkIjogMiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0In0=
 trojan://f6d3aa07a52dbcedcb4731029e2fb6ae@3.112.12.209:2008?allowInsecure=0&sni=www.nintendogames.net#%E9%A6%99%E6%B8%AF3%7C%40ripaojiedian
