@@ -99,7 +99,7 @@ proxies:
   sni: www.microsoft.com
   tls: false
   type: hysteria2
-- name: 🇩🇪33557 | ⚡️Telegram = t.me/SO...
+- name: '@KAFING_2'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
@@ -109,7 +109,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 🇩🇪33559 | ⚡️Telegram = t.me/SO...
+- name: '@KAFING_2 #2'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
@@ -117,6 +117,14 @@ proxies:
   server: 5.175.249.174
   skip-cert-verify: true
   sni: api.kermanshahi.org
+  tls: false
+  type: hysteria2
+- name: 🫜41@oneclickvpnkeys
+  password: qQe1z5kU8kN6SlKnDt9Ru3Qp
+  port: 443
+  server: vpn-de-002.fastervpn.world
+  skip-cert-verify: true
+  sni: vpn-de-002.fastervpn.world
   tls: false
   type: hysteria2
 - name: 🐏80@oneclickvpnkeys
