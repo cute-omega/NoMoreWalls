@@ -89,16 +89,6 @@ proxies:
   tls: false
   type: vmess
   uuid: 88888888-8888-8888-8888-888888888888
-- name: 🌝44@oneclickvpnkeys
-  obfs: salamander
-  obfs-password: welovegod
-  password: BMmGlfFVF7
-  port: 46425
-  server: speedtest.mozit.site
-  skip-cert-verify: true
-  sni: mci.ir
-  tls: false
-  type: hysteria2
 - name: '@KAFING_2'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
