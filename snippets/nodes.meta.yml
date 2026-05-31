@@ -99,6 +99,56 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
+- name: IPv4.@Vasl_b
+  obfs: salamander
+  obfs-password: OzJ10Bk1Z9MfaTDFAgDX0HldGsMiI7C2
+  password: t8667063839
+  port: 443
+  server: vids.jibijij.top
+  skip-cert-verify: true
+  sni: bts.com
+  tls: false
+  type: hysteria2
+- name: '@filembad'
+  obfs: salamander
+  obfs-password: Masir_Sefid
+  password: Masir_Sefid
+  port: 8880
+  server: 18.157.100.78
+  skip-cert-verify: false
+  sni: qus.masir-sefid.shop
+  tls: false
+  type: hysteria2
+- name: 🇩🇪40071 | ⚡️Telegram = t.me/SO...
+  obfs: salamander
+  obfs-password: Masir_Sefid
+  password: Masir_Sefid
+  port: 443
+  server: 18.159.104.97
+  skip-cert-verify: false
+  sni: qus.masir-sefid.shop
+  tls: false
+  type: hysteria2
+- name: '@filembad #1'
+  obfs: salamander
+  obfs-password: Masir_Sefid
+  password: Masir_Sefid
+  port: 54040
+  server: 18.159.104.97
+  skip-cert-verify: false
+  sni: qus.masir-sefid.shop
+  tls: false
+  type: hysteria2
+- name: 🇩🇪40070 | ⚡️Telegram = t.me/SO...
+  obfs: salamander
+  obfs-password: Masir_Sefid
+  password: Masir_Sefid
+  port: 8880
+  server: 18.159.104.97
+  skip-cert-verify: false
+  sni: qus.masir-sefid.shop
+  tls: false
+  type: hysteria2
 - name: 🇳🇱 - NL - @FreeOnlineVPN
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
@@ -119,7 +169,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: '@hi_proxy_iran :👈کانال تلگرام'
+- name: '@filtershekan_channel |8'
   password: bce6c821-200d-421f-bf3d-7159e5246ea0
   port: 33333
   server: hy2.123266.xyz
