@@ -1,12 +1,4 @@
 proxies:
-- name: 🇭🇰43621 | ⚡️Telegram = t.me/SO...
-  password: IG9Sundefinedvx6RJ
-  port: 58771
-  server: 47.76.94.197
-  skip-cert-verify: true
-  sni: go.microsoft.com
-  tls: false
-  type: hysteria2
 - alterId: 2
   cipher: auto
   name: 🇭🇰 香港|@ripaojiedian
