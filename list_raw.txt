@@ -8,7 +8,9 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAi6Ziy6IyD5aKD5aSW5Yq/5Yqb5riX6YCPICM2IiwgImFkZCI6
 vmess://eyJ2IjogIjIiLCAicHMiOiAi6Ziy6IyD5aKD5aSW5Yq/5Yqb5riX6YCPICM3IiwgImFkZCI6ICIxMjcuMC4wLjUzIiwgInBvcnQiOiAiODciLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiODg4ODg4ODgtODg4OC04ODg4LTg4ODgtODg4ODg4ODg4ODg4In0=
 vmess://eyJ2IjogIjIiLCAicHMiOiAi6Ziy6IyD5aKD5aSW5Yq/5Yqb5riX6YCPICM4IiwgImFkZCI6ICIxMjcuMC4wLjUzIiwgInBvcnQiOiAiODgiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiODg4ODg4ODgtODg4OC04ODg4LTg4ODgtODg4ODg4ODg4ODg4In0=
 vmess://eyJ2IjogIjIiLCAicHMiOiAi6Ziy6IyD5aKD5aSW5Yq/5Yqb5riX6YCPICM5IiwgImFkZCI6ICIxMjcuMC4wLjUzIiwgInBvcnQiOiAiODkiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiODg4ODg4ODgtODg4OC04ODg4LTg4ODgtODg4ODg4ODg4ODg4In0=
+hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@185.228.139.247:4433?insecure=1&sni=de2.xiaoliyu.cyou#%F0%9F%87%A9%F0%9F%87%AA49134%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/SO...
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%40KAFING_2
+hysteria2://rstnnl2705@musicclips.videolinks.ru:443?insecure=1&sni=musicclips.videolinks.ru&obfs=salamander&obfs-password=hH0l2Acqz3RtodoSCNCpNJqDSZtp4Qw#%F0%9F%87%AB%F0%9F%87%AE49164%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/SO...
 hysteria2://Masir_Sefid@18.157.222.169:1040?insecure=0&sni=free.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#%40internet_azad_2026
 hysteria2://Masir_Sefid@18.157.222.169:4040?insecure=0&sni=free.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#%40internet_azad_2026%F0%9F%87%A9%F0%9F%87%AA
 hysteria2://Masir_Sefid@18.157.222.169:44044?insecure=0&sni=free.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#%40internet_azad_2026%20%232
@@ -34,11 +36,11 @@ hysteria2://Masir_Sefid@65.109.216.181:4040?insecure=0&sni=qs.masir-sefid.shop&o
 hysteria2://Masir_Sefid@65.109.216.181:444?insecure=0&sni=qs.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#DALTON%20PING%20%232
 hysteria2://Masir_Sefid@65.109.216.181:54040?insecure=0&sni=qs.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#DALTON%20PING%20%233
 hysteria2://Masir_Sefid@65.109.216.181:8880?insecure=0&sni=qs.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#DALTON%20PING%20%234
-hysteria2://Masir_Sefid@84.234.29.71:443?insecure=0&sni=free2.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#%F0%9F%87%A8%F0%9F%87%AD48608%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/SO...
-hysteria2://Masir_Sefid@84.234.29.71:8880?insecure=0&sni=free2.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#%F0%9F%87%A8%F0%9F%87%AD48609%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/SO...
+hysteria2://Masir_Sefid@84.234.29.71:443?insecure=0&sni=free2.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#%40internet_azad_2026%F0%9F%87%A9%F0%9F%87%B0%281%29
+hysteria2://Masir_Sefid@84.234.29.71:8880?insecure=0&sni=free2.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#%40internet_azad_2026%F0%9F%87%A9%F0%9F%87%B0%283%29
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%F0%9F%87%B3%F0%9F%87%B1%20-%20NL%20-%20%40FreeOnlineVPN
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%40KAFING_2%20%232
-hysteria2://masir_sefid@3.121.136.75:443?insecure=0&sni=content.masir-sefid.shop&obfs=salamander&obfs-password=masir_sefid#%F0%9F%87%A9%F0%9F%87%AADE-%F0%9F%9A%80%40VPNine1
+hysteria2://masir_sefid@3.121.136.75:443?insecure=0&sni=content.masir-sefid.shop&obfs=salamander&obfs-password=masir_sefid#%40V2Ray_Hub1200
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@63.180.254.10:443#tg%E9%A2%91%E9%81%93%3A%40ripaojiedian%20%231
 vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HrfCfh7Ag6aaZ5rivfEByaXBhb2ppZWRpYW4iLCAiYWRkIjogInYxMC5oZGFjZC5jb20iLCAicG9ydCI6IDMwODA3LCAiYWlkIjogMiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0In0=
 trojan://d84665c37878196ecf983cf6910e3b44@18.167.173.1:53018?allowInsecure=1&sni=www.nintendogames.net#%E9%A6%99%E6%B8%AF3%7C%40ripaojiedian
