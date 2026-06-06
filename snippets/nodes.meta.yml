@@ -430,16 +430,6 @@ proxies:
   sni: free.ma.none.shop
   tls: false
   type: hysteria2
-- name: 🇩🇪53280 | ⚡️Telegram = t.me/SO...
-  obfs: salamander
-  obfs-password: FxZylbqClUqVqAs2nezW9kPyFb2edZ2
-  password: rstnnl2705
-  port: 443
-  server: reddeadfan.rd-team.ru
-  skip-cert-verify: true
-  sni: reddeadfan.rd-team.ru
-  tls: false
-  type: hysteria2
 - name: 📀87@oneclickvpnkeys
   obfs: salamander
   obfs-password: CvxXZnSth1bVJKGFP2cof4rI52ifHJ2W
