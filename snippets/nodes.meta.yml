@@ -413,6 +413,16 @@ proxies:
   sni: content.masir-sefid.shop
   tls: false
   type: hysteria2
+- name: '@NoxTunnel hmrah'
+  obfs: salamander
+  obfs-password: masir_sefid
+  password: masir_sefid
+  port: 443
+  server: 18.194.63.255
+  skip-cert-verify: false
+  sni: content.masir-sefid.shop
+  tls: false
+  type: hysteria2
 - cipher: aes-256-cfb
   name: 'tg频道:@ripaojiedian #1'
   password: amazonskr05
