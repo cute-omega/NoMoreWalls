@@ -153,7 +153,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: telegram @mtmvpn
+- name: '@meliproxyy'
   obfs: salamander
   obfs-password: https://speed.cloudflare.com
   password: 0xver2tkqad4kvr4
@@ -161,6 +161,16 @@ proxies:
   server: 134.122.86.55
   skip-cert-verify: false
   sni: xuipanel.akgoldvip.shop
+  tls: false
+  type: hysteria2
+- name: 🇩🇪55183 | ⚡️Telegram = t.me/SO...
+  obfs: salamander
+  obfs-password: Masir_Sefid
+  password: '@Express_freevpn'
+  port: 4040
+  server: 18.157.222.169
+  skip-cert-verify: false
+  sni: free.masir-sefid.shop
   tls: false
   type: hysteria2
 - name: '@meliproxyy #1'
@@ -253,7 +263,7 @@ proxies:
   sni: free.masir-sefid.shop
   tls: false
   type: hysteria2
-- name: '@internet_azad_2026 #7'
+- name: ⚫ 01 • @spotfyhits ❤4
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
@@ -273,7 +283,7 @@ proxies:
   sni: free.masir-sefid.shop
   tls: false
   type: hysteria2
-- name: '@internet_azad_2026 #9'
+- name: ⚫ 03 • @spotfyhits ❤
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
@@ -343,7 +353,7 @@ proxies:
   sni: free2.masir-sefid-1.my
   tls: false
   type: hysteria2
-- name: '@internet_azad_2026 #13'
+- name: '@internet_azad_2026 #11'
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
@@ -353,7 +363,7 @@ proxies:
   sni: free3.masir-sefid-1.my
   tls: false
   type: hysteria2
-- name: '@internet_azad_2026 #14'
+- name: '@internet_azad_2026 #12'
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
@@ -363,7 +373,7 @@ proxies:
   sni: free3.masir-sefid-1.my
   tls: false
   type: hysteria2
-- name: '@internet_azad_2026 #15'
+- name: '@internet_azad_2026 #13'
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
@@ -373,7 +383,7 @@ proxies:
   sni: free3.masir-sefid-1.my
   tls: false
   type: hysteria2
-- name: '@internet_azad_2026 #16'
+- name: '@internet_azad_2026 #14'
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid

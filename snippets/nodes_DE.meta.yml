@@ -17,6 +17,16 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
+- name: 🇩🇪55183 | ⚡️Telegram = t.me/SO...
+  obfs: salamander
+  obfs-password: Masir_Sefid
+  password: '@Express_freevpn'
+  port: 4040
+  server: 18.157.222.169
+  skip-cert-verify: false
+  sni: free.masir-sefid.shop
+  tls: false
+  type: hysteria2
 - name: DE_speednode_0011
   password: LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu
   port: 9443
