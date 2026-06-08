@@ -17,14 +17,12 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: '🇩🇪@FreakConfig #2'
-  obfs: salamander
-  obfs-password: Masir_Sefid
-  password: '@Masir_Sefid'
-  port: 54040
-  server: 18.157.222.169
-  skip-cert-verify: false
-  sni: free.masir-sefid.shop
+- name: 🇩🇪56839 | ⚡️Telegram = t.me/SO...
+  password: 18cf8030-1ceb-4b7d-8c0c-c036413c144e
+  port: 4433
+  server: 185.228.139.247
+  skip-cert-verify: true
+  sni: de2.xiaoliyu.cyou
   tls: false
   type: hysteria2
 - name: '@NoxTunnel hmrah'
@@ -37,11 +35,17 @@ proxies:
   sni: content.masir-sefid.shop
   tls: false
   type: hysteria2
-- name: DE_speednode_0011
-  password: LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu
-  port: 9443
-  server: de-1.hysteria.ltd
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: DE_speednode_0005
+  port: 443
+  reality-opts:
+    public-key: gch4w4OXSvfllKqDfUuk4S-waCqmPfKvLaqnu0qKkiI
+    short-id: '!!str 5eb59ee7bbb4b114'
+  server: 213.202.223.72
+  servername: www.booking.com
   skip-cert-verify: false
-  sni: de-1.hysteria.ltd
-  type: trojan
+  tls: true
+  type: vless
   udp: true
+  uuid: 43488128-319e-f480-64ea-0acdc712e2a8
