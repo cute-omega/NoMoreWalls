@@ -163,7 +163,17 @@ proxies:
   sni: xuipanel.akgoldvip.shop
   tls: false
   type: hysteria2
-- name: '@meliproxyy'
+- name: برای اتصال دائمی جوین شو🏵 Tele...
+  obfs: salamander
+  obfs-password: Express_freevpn
+  password: '@Express_freevpn'
+  port: 54040
+  server: 18.157.222.169
+  skip-cert-verify: false
+  sni: free.masir-sefid.shop
+  tls: false
+  type: hysteria2
+- name: '@internet_azad_2026'
   obfs: salamander
   obfs-password: Masir_Sefid
   password: '@Masir_Sefid'
@@ -193,7 +203,7 @@ proxies:
   sni: free.masir-sefid.shop
   tls: false
   type: hysteria2
-- name: '@filembad #1'
+- name: https://t.me/FREE_VPN02
   obfs: salamander
   obfs-password: Masir_Sefid
   password: '@Masir_Sefid'
@@ -203,7 +213,7 @@ proxies:
   sni: free.masir-sefid.shop
   tls: false
   type: hysteria2
-- name: '@filembad #2'
+- name: https://t.me/AarazV2ray
   obfs: salamander
   obfs-password: Masir_Sefid
   password: '@Masir_Sefid'
@@ -223,7 +233,7 @@ proxies:
   sni: free.masir-sefid.shop
   tls: false
   type: hysteria2
-- name: '@meliproxyy #5'
+- name: '@internet_azad_2026 #5'
   obfs: salamander
   obfs-password: Masir_Sefid
   password: '@Masir_Sefid'
@@ -373,7 +383,7 @@ proxies:
   sni: sg2.yuntong.click
   tls: false
   type: hysteria2
-- name: '@filembad #5'
+- name: https://t.me/@FREE_VPN02
   obfs: salamander
   obfs-password: masir_sefid
   password: masir_sefid
@@ -391,6 +401,26 @@ proxies:
   server: 18.194.63.255
   skip-cert-verify: false
   sni: content.masir-sefid.shop
+  tls: false
+  type: hysteria2
+- name: 🔔30@oneclickvpnkeys
+  obfs: salamander
+  obfs-password: rG07s3COMIEvdnQipRyWzx_H_2xygNC3
+  password: p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR
+  port: 443
+  server: 130.49.161.70
+  skip-cert-verify: true
+  sni: hy2.aspidnet.xyz
+  tls: false
+  type: hysteria2
+- name: '🇦🇪AE-🚀@VPNine1 #1'
+  obfs: salamander
+  obfs-password: rG07s3COMIEvdnQipRyWzx_H_2xygNC3
+  password: p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR
+  port: 443
+  server: hy2.aspidnet.xyz
+  skip-cert-verify: false
+  sni: ''
   tls: false
   type: hysteria2
 - name: '🤍: @SIMSEFYD'

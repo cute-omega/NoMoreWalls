@@ -17,6 +17,16 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
+- name: '🇩🇪@FreakConfig #2'
+  obfs: salamander
+  obfs-password: Masir_Sefid
+  password: '@Masir_Sefid'
+  port: 54040
+  server: 18.157.222.169
+  skip-cert-verify: false
+  sni: free.masir-sefid.shop
+  tls: false
+  type: hysteria2
 - name: '@NoxTunnel hmrah'
   obfs: salamander
   obfs-password: masir_sefid
