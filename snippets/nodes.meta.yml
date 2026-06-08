@@ -163,12 +163,28 @@ proxies:
   sni: xuipanel.akgoldvip.shop
   tls: false
   type: hysteria2
-- name: 🇩🇪56839 | ⚡️Telegram = t.me/SO...
-  password: 18cf8030-1ceb-4b7d-8c0c-c036413c144e
-  port: 4433
-  server: 185.228.139.247
-  skip-cert-verify: true
-  sni: de2.xiaoliyu.cyou
+- alpn:
+  - h2
+  - http/1.1
+  - h3
+  fingerprint: chrome
+  name: 🇺🇸57237 | ⚡️Telegram = t.me/SO...
+  obfs: salamander
+  obfs-password: hnig8m946a2rl0ll
+  password: 1g4quompn4f49wn9
+  port: 8443
+  server: 104.253.25.160
+  sni: 104.253.25.160
+  tls: false
+  type: hysteria2
+- name: kurdconfig
+  obfs: salamander
+  obfs-password: eNM/NfxTsBqQIKcN0ezARS1z0f5mIxRd9GSwhVsyJlo=
+  password: 25cccf16-5693-4c6e-9bb9-0e38da7d4475
+  port: 443
+  server: 38.54.4.57
+  skip-cert-verify: false
+  sni: kh2.yuntong.click
   tls: false
   type: hysteria2
 - name: برای اتصال دائمی جوین شو🏵 Tele...
@@ -261,7 +277,7 @@ proxies:
   sni: 179.61.132.96
   tls: false
   type: hysteria2
-- name: ✅  @vistav2ray  👈👈کانال ما ✅
+- name: 🇩🇪57233 | ⚡️Telegram = t.me/SO...
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
@@ -271,7 +287,7 @@ proxies:
   sni: free.masir-sefid.shop
   tls: false
   type: hysteria2
-- name: '⚡@V2ray_official #1'
+- name: 🇩🇪57234 | ⚡️Telegram = t.me/SO...
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
@@ -281,7 +297,7 @@ proxies:
   sni: free.masir-sefid.shop
   tls: false
   type: hysteria2
-- name: '⚡@V2ray_official #2'
+- name: 🇩🇪57235 | ⚡️Telegram = t.me/SO...
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid

@@ -17,14 +17,6 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 🇩🇪56839 | ⚡️Telegram = t.me/SO...
-  password: 18cf8030-1ceb-4b7d-8c0c-c036413c144e
-  port: 4433
-  server: 185.228.139.247
-  skip-cert-verify: true
-  sni: de2.xiaoliyu.cyou
-  tls: false
-  type: hysteria2
 - name: '@NoxTunnel hmrah'
   obfs: salamander
   obfs-password: masir_sefid

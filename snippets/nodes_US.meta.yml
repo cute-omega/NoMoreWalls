@@ -7,6 +7,20 @@ proxies:
   sni: mg2.mangshe.xyz
   tls: false
   type: hysteria2
+- alpn:
+  - h2
+  - http/1.1
+  - h3
+  fingerprint: chrome
+  name: 🇺🇸57237 | ⚡️Telegram = t.me/SO...
+  obfs: salamander
+  obfs-password: hnig8m946a2rl0ll
+  password: 1g4quompn4f49wn9
+  port: 8443
+  server: 104.253.25.160
+  sni: 104.253.25.160
+  tls: false
+  type: hysteria2
 - name: 美国|@ripaojiedian
   network: tcp
   password: d02e3bb7e6b3333e818d36866d40de6e
