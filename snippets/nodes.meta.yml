@@ -120,7 +120,7 @@ proxies:
   sni: de.eyucdn.xyz
   tls: false
   type: hysteria2
-- name: 🇭🇰 HK
+- name: 🇭🇰58435 | ⚡️Telegram = t.me/SO...
   password: a305ac08-d136-11ee-b6db-f23c91cfbbc9
   port: 443
   server: ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com
@@ -163,14 +163,18 @@ proxies:
   sni: xuipanel.akgoldvip.shop
   tls: false
   type: hysteria2
-- name: kurdconfig
+- alpn:
+  - h2
+  - http/1.1
+  - h3
+  fingerprint: chrome
+  name: 🇫🇮58543 | ⚡️Telegram = t.me/SO...
   obfs: salamander
-  obfs-password: eNM/NfxTsBqQIKcN0ezARS1z0f5mIxRd9GSwhVsyJlo=
-  password: 25cccf16-5693-4c6e-9bb9-0e38da7d4475
-  port: 443
-  server: 38.54.4.57
-  skip-cert-verify: false
-  sni: kh2.yuntong.click
+  obfs-password: 3y1p0k44cwzaa3zd
+  password: 2czgzikbgor99ad2
+  port: 33120
+  server: markazi.kidshop.dpdns.org
+  sni: ''
   tls: false
   type: hysteria2
 - name: برای اتصال دائمی جوین شو🏵 Tele...
@@ -323,26 +327,6 @@ proxies:
   sni: content.masir-sefid.shop
   tls: false
   type: hysteria2
-- name: '@NoxTunnel hmrah'
-  obfs: salamander
-  obfs-password: masir_sefid
-  password: masir_sefid
-  port: 443
-  server: 18.194.63.255
-  skip-cert-verify: false
-  sni: content.masir-sefid.shop
-  tls: false
-  type: hysteria2
-- name: 🔔30@oneclickvpnkeys
-  obfs: salamander
-  obfs-password: rG07s3COMIEvdnQipRyWzx_H_2xygNC3
-  password: p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR
-  port: 443
-  server: 130.49.161.70
-  skip-cert-verify: true
-  sni: hy2.aspidnet.xyz
-  tls: false
-  type: hysteria2
 - name: ⚫ 12 • @spotfyhits ❤
   obfs: salamander
   obfs-password: rG07s3COMIEvdnQipRyWzx_H_2xygNC3
@@ -352,7 +336,7 @@ proxies:
   skip-cert-verify: false
   tls: false
   type: hysteria2
-- name: 👉🆔@freenettir📡🇳🇱®️The Netherla...
+- name: '@vmesskhodam'
   obfs: salamander
   obfs-password: rG07s3COMIEvdnQipRyWzx_H_2xygNC3
   password: p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR
