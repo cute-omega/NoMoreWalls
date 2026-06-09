@@ -153,64 +153,6 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: '@mehrosaboran'
-  obfs: salamander
-  obfs-password: https://speed.cloudflare.com
-  password: 0xver2tkqad4kvr4
-  port: 443
-  server: 134.122.86.55
-  skip-cert-verify: false
-  sni: xuipanel.akgoldvip.shop
-  tls: false
-  type: hysteria2
-- name: 🇯🇵JP-🚀@VPNine1
-  password: 573402b7-156e-4141-8c3b-f01b6ebedf05
-  port: 10085
-  server: hk01.jgpy.help
-  skip-cert-verify: true
-  sni: apple.com
-  tls: false
-  type: hysteria2
-- name: '🇯🇵JP-🚀@VPNine1 #1'
-  password: 573402b7-156e-4141-8c3b-f01b6ebedf05
-  port: 10089
-  server: hk03.jgpy.help
-  skip-cert-verify: true
-  sni: apple.com
-  tls: false
-  type: hysteria2
-- name: 🇺🇸US-🚀@VPNine1
-  password: 573402b7-156e-4141-8c3b-f01b6ebedf05
-  port: 10078
-  server: us01.jgpy.help
-  skip-cert-verify: true
-  sni: apple.com
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
-  - http/1.1
-  - h2
-  fingerprint: chrome
-  name: 🇺🇸59409 | ⚡️Telegram = t.me/SO...
-  obfs: salamander
-  obfs-password: dlxmzvxvcp3i6v0e
-  password: 5z15av99psrlhdqp
-  port: 39150
-  server: 32.195.51.20
-  sni: 32.195.51.20
-  tls: false
-  type: hysteria2
-- name: برای اتصال دائمی جوین شو🏵 Tele...
-  obfs: salamander
-  obfs-password: Express_freevpn
-  password: '@Express_freevpn'
-  port: 54040
-  server: 18.157.222.169
-  skip-cert-verify: false
-  sni: free.masir-sefid.shop
-  tls: false
-  type: hysteria2
 - name: 🇩🇪@FreakConfig
   obfs: salamander
   obfs-password: Masir_Sefid
@@ -281,7 +223,7 @@ proxies:
   sni: 179.61.132.96
   tls: false
   type: hysteria2
-- name: ⚡@V2ray_official
+- name: '@confiig_hub #3'
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
@@ -291,17 +233,7 @@ proxies:
   sni: free.masir-sefid.shop
   tls: false
   type: hysteria2
-- name: '⚡@V2ray_official #1'
-  obfs: salamander
-  obfs-password: Masir_Sefid
-  password: Masir_Sefid
-  port: 444
-  server: 18.157.222.169
-  skip-cert-verify: false
-  sni: free.masir-sefid.shop
-  tls: false
-  type: hysteria2
-- name: '⚡@V2ray_official #2'
+- name: '@confiig_hub #4'
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
