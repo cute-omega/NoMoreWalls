@@ -7,18 +7,12 @@ proxies:
   sni: mg2.mangshe.xyz
   tls: false
   type: hysteria2
-- alpn:
-  - h3
-  - http/1.1
-  - h2
-  fingerprint: chrome
-  name: '@GozargahAzad|🇺🇸'
-  obfs: salamander
-  obfs-password: dlxmzvxvcp3i6v0e
-  password: 5z15av99psrlhdqp
-  port: 39150
-  server: 32.195.51.20
-  sni: ''
+- name: 🇺🇸US-🚀@VPNine1
+  password: 573402b7-156e-4141-8c3b-f01b6ebedf05
+  port: 10078
+  server: us01.jgpy.help
+  skip-cert-verify: true
+  sni: apple.com
   tls: false
   type: hysteria2
 - alpn:
