@@ -153,7 +153,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 🇩🇪@FreakConfig
+- name: '@mehrosaboran'
   obfs: salamander
   obfs-password: Masir_Sefid
   password: '@Masir_Sefid'
@@ -163,7 +163,7 @@ proxies:
   sni: free.masir-sefid.shop
   tls: false
   type: hysteria2
-- name: '🇩🇪@FreakConfig #1'
+- name: '@mehrosaboran #1'
   obfs: salamander
   obfs-password: Masir_Sefid
   password: '@Masir_Sefid'
@@ -193,7 +193,7 @@ proxies:
   sni: free.masir-sefid.shop
   tls: false
   type: hysteria2
-- name: '🇩🇪@FreakConfig #2'
+- name: '@mehrosaboran #2'
   obfs: salamander
   obfs-password: Masir_Sefid
   password: '@Masir_Sefid'
@@ -343,6 +343,16 @@ proxies:
   sni: sg2.yuntong.click
   tls: false
   type: hysteria2
+- name: 🇩🇪62695 | ⚡️Telegram = t.me/SO...
+  obfs: salamander
+  obfs-password: ct7igvlhkkvuvyto
+  password: go6a426v10ckcl75
+  port: 37620
+  server: tb.zibayeman.com
+  skip-cert-verify: false
+  sni: tb.zibayeman.com
+  tls: false
+  type: hysteria2
 - name: https://t.me/@FREE_VPN02
   obfs: salamander
   obfs-password: masir_sefid
@@ -368,198 +378,6 @@ proxies:
   port: 443
   server: hy2.aspidnet.xyz
   skip-cert-verify: false
-  tls: false
-  type: hysteria2
-- name: 🇯🇵JP-🚀@VPNine1
-  password: sI0wl1bvYlSXu2RsMSAtAIMM
-  port: 20443
-  server: starlink-jp1.mfa.cat
-  skip-cert-verify: true
-  sni: www.cloudflare.com
-  tls: false
-  type: hysteria2
-- name: '🇯🇵JP-🚀@VPNine1 #1'
-  password: sI0wl1bvYlSXu2RsMSAtAIMM
-  port: 20443
-  server: starlink-jp2.mfa.cat
-  skip-cert-verify: true
-  sni: www.cloudflare.com
-  tls: false
-  type: hysteria2
-- name: '🇯🇵JP-🚀@VPNine1 #2'
-  password: sI0wl1bvYlSXu2RsMSAtAIMM
-  port: 20443
-  server: starlink-jp3.mfa.cat
-  skip-cert-verify: true
-  sni: www.cloudflare.com
-  tls: false
-  type: hysteria2
-- name: '🇯🇵JP-🚀@VPNine1 #3'
-  password: sI0wl1bvYlSXu2RsMSAtAIMM
-  port: 20443
-  server: starlink-jp4.mfa.cat
-  skip-cert-verify: true
-  sni: www.cloudflare.com
-  tls: false
-  type: hysteria2
-- name: '🇯🇵JP-🚀@VPNine1 #4'
-  password: sI0wl1bvYlSXu2RsMSAtAIMM
-  port: 20443
-  server: starlink-jp5.mfa.cat
-  skip-cert-verify: true
-  sni: www.cloudflare.com
-  tls: false
-  type: hysteria2
-- name: '🇯🇵JP-🚀@VPNine1 #5'
-  password: sI0wl1bvYlSXu2RsMSAtAIMM
-  port: 20443
-  server: starlink-jp6.mfa.cat
-  skip-cert-verify: true
-  sni: www.cloudflare.com
-  tls: false
-  type: hysteria2
-- name: 🇰🇷KR-🚀@VPNine1
-  password: sI0wl1bvYlSXu2RsMSAtAIMM
-  port: 443
-  server: starlink-kr1.mfa.cat
-  skip-cert-verify: true
-  sni: www.cloudflare.com
-  tls: false
-  type: hysteria2
-- name: 🇸🇬SG-🚀@VPNine1
-  password: sI0wl1bvYlSXu2RsMSAtAIMM
-  port: 443
-  server: starlink-sg3.mfa.cat
-  skip-cert-verify: true
-  sni: www.cloudflare.com
-  tls: false
-  type: hysteria2
-- name: '🇸🇬SG-🚀@VPNine1 #1'
-  password: sI0wl1bvYlSXu2RsMSAtAIMM
-  port: 443
-  server: starlink-sg4.mfa.cat
-  skip-cert-verify: true
-  sni: www.cloudflare.com
-  tls: false
-  type: hysteria2
-- name: '🇸🇬SG-🚀@VPNine1 #2'
-  password: sI0wl1bvYlSXu2RsMSAtAIMM
-  port: 443
-  server: starlink-sg5.mfa.cat
-  skip-cert-verify: true
-  sni: www.cloudflare.com
-  tls: false
-  type: hysteria2
-- name: '🇸🇬SG-🚀@VPNine1 #3'
-  password: sI0wl1bvYlSXu2RsMSAtAIMM
-  port: 443
-  server: starlink-sg6.mfa.cat
-  skip-cert-verify: true
-  sni: www.cloudflare.com
-  tls: false
-  type: hysteria2
-- name: 🇹🇼TW-🚀@VPNine1
-  password: sI0wl1bvYlSXu2RsMSAtAIMM
-  port: 12401
-  server: starlink-tw1.mfa.cat
-  skip-cert-verify: true
-  sni: www.cloudflare.com
-  tls: false
-  type: hysteria2
-- name: '🇹🇼TW-🚀@VPNine1 #1'
-  password: sI0wl1bvYlSXu2RsMSAtAIMM
-  port: 12405
-  server: starlink-tw5.mfa.cat
-  skip-cert-verify: true
-  sni: www.cloudflare.com
-  tls: false
-  type: hysteria2
-- name: 🇺🇸US-🚀@VPNine1
-  password: sI0wl1bvYlSXu2RsMSAtAIMM
-  port: 443
-  server: starlink-us1.mfa.cat
-  skip-cert-verify: true
-  sni: www.cloudflare.com
-  tls: false
-  type: hysteria2
-- name: '🇺🇸US-🚀@VPNine1 #1'
-  password: sI0wl1bvYlSXu2RsMSAtAIMM
-  port: 443
-  server: starlink-us2.mfa.cat
-  skip-cert-verify: true
-  sni: www.cloudflare.com
-  tls: false
-  type: hysteria2
-- name: '🇺🇸US-🚀@VPNine1 #2'
-  password: sI0wl1bvYlSXu2RsMSAtAIMM
-  port: 443
-  server: starlink-us3.mfa.cat
-  skip-cert-verify: true
-  sni: www.cloudflare.com
-  tls: false
-  type: hysteria2
-- name: '🇺🇸US-🚀@VPNine1 #3'
-  password: sI0wl1bvYlSXu2RsMSAtAIMM
-  port: 443
-  server: starlink-us4.mfa.cat
-  skip-cert-verify: true
-  sni: www.cloudflare.com
-  tls: false
-  type: hysteria2
-- name: '🇺🇸US-🚀@VPNine1 #4'
-  password: sI0wl1bvYlSXu2RsMSAtAIMM
-  port: 443
-  server: starlink-us6.mfa.cat
-  skip-cert-verify: true
-  sni: www.cloudflare.com
-  tls: false
-  type: hysteria2
-- name: '🇺🇸US-🚀@VPNine1 #5'
-  password: sI0wl1bvYlSXu2RsMSAtAIMM
-  port: 443
-  server: starlink-us7.mfa.cat
-  skip-cert-verify: true
-  sni: www.cloudflare.com
-  tls: false
-  type: hysteria2
-- name: 🪭63@oneclickvpnkeys
-  password: zhangyang
-  port: 6443
-  server: 130.61.50.75
-  skip-cert-verify: true
-  sni: dash.cloudflare.com
-  tls: false
-  type: hysteria2
-- name: 🇧🇷BR-🚀@VPNine1
-  password: 升级订阅解锁全部节点
-  port: 30000
-  server: starlink-br.mfa.cat
-  skip-cert-verify: true
-  sni: www.cloudflare.com
-  tls: false
-  type: hysteria2
-- name: 🇨🇦CA-🚀@VPNine1
-  password: 升级订阅解锁全部节点
-  port: 20000
-  server: starlink-ca.mfa.cat
-  skip-cert-verify: true
-  sni: www.cloudflare.com
-  tls: false
-  type: hysteria2
-- name: '🇨🇦CA-🚀@VPNine1 #1'
-  password: 升级订阅解锁全部节点
-  port: 443
-  server: starlink-ca.mfa.cat
-  skip-cert-verify: true
-  sni: www.cloudflare.com
-  tls: false
-  type: hysteria2
-- name: '🇨🇦CA-🚀@VPNine1 #2'
-  password: 升级订阅解锁全部节点
-  port: 443
-  server: starlink-mx.mfa.cat
-  skip-cert-verify: true
-  sni: www.cloudflare.com
   tls: false
   type: hysteria2
 - cipher: aes-256-cfb
