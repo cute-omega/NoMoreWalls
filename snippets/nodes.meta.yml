@@ -153,6 +153,16 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
+- name: 🇰🇭KH-🚀@VPNine1
+  obfs: salamander
+  obfs-password: eNM/NfxTsBqQIKcN0ezARS1z0f5mIxRd9GSwhVsyJlo=
+  password: 25cccf16-5693-4c6e-9bb9-0e38da7d4475
+  port: 443
+  server: 38.54.4.57
+  skip-cert-verify: false
+  sni: kh2.yuntong.click
+  tls: false
+  type: hysteria2
 - name: 🩵+@Azarakhsh_Proxy+🩷
   obfs: salamander
   obfs-password: KevinZakarian
@@ -183,41 +193,11 @@ proxies:
   sni: Api1.masir-sefid-1.my
   tls: false
   type: hysteria2
-- name: '@internet_azad_2026 #1'
-  obfs: salamander
-  obfs-password: Masir_Sefid
-  password: Masir_Sefid
-  port: 2087
-  server: 206.189.58.246
-  skip-cert-verify: false
-  sni: Api1.masir-sefid-1.my
-  tls: false
-  type: hysteria2
-- name: '@internet_azad_2026 #2'
-  obfs: salamander
-  obfs-password: Masir_Sefid
-  password: Masir_Sefid
-  port: 4040
-  server: 206.189.58.246
-  skip-cert-verify: false
-  sni: Api1.masir-sefid-1.my
-  tls: false
-  type: hysteria2
 - name: ⚫ 19 • @spotfyhits ❤
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
   port: 443
-  server: 206.189.58.246
-  skip-cert-verify: false
-  sni: Api1.masir-sefid-1.my
-  tls: false
-  type: hysteria2
-- name: '@internet_azad_2026 #3'
-  obfs: salamander
-  obfs-password: Masir_Sefid
-  password: Masir_Sefid
-  port: 54040
   server: 206.189.58.246
   skip-cert-verify: false
   sni: Api1.masir-sefid-1.my
@@ -243,7 +223,7 @@ proxies:
   sni: Api.masir-sefid-1.my
   tls: false
   type: hysteria2
-- name: '@vmesskhodam'
+- name: '@internet_azad_2026'
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
@@ -253,7 +233,7 @@ proxies:
   sni: api.masir-sefid-1.my
   tls: false
   type: hysteria2
-- name: '@internet_azad_2026 #6'
+- name: '@internet_azad_2026 #1'
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
@@ -263,7 +243,7 @@ proxies:
   sni: Api.masir-sefid-1.my
   tls: false
   type: hysteria2
-- name: '@internet_azad_2026 #7'
+- name: '@internet_azad_2026 #2'
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
