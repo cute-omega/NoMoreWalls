@@ -1,1 +1,8 @@
-proxies: []
+proxies:
+- name: 🇷🇺RU-🚀@VPNine1
+  password: 71b0bd15-a03a-481e-a52d-74042c8db157
+  port: 8443
+  server: 103.88.241.133
+  sni: slopllex.app
+  tls: false
+  type: hysteria2

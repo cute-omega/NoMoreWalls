@@ -161,6 +161,13 @@ proxies:
   sni: de1.xiaoliyu.cyou
   tls: false
   type: hysteria2
+- name: 🇷🇺RU-🚀@VPNine1
+  password: 71b0bd15-a03a-481e-a52d-74042c8db157
+  port: 8443
+  server: 103.88.241.133
+  sni: slopllex.app
+  tls: false
+  type: hysteria2
 - name: 🩵+@Azarakhsh_Proxy+🩷
   obfs: salamander
   obfs-password: KevinZakarian
@@ -269,6 +276,29 @@ proxies:
   server: 5.175.249.174
   skip-cert-verify: true
   sni: api.kermanshahi.org
+  tls: false
+  type: hysteria2
+- alpn:
+  - h2
+  - h3
+  fingerprint: chrome
+  name: 🇩🇪68981 | ⚡️Telegram = t.me/SO...
+  obfs: salamander
+  obfs-password: xdbc2u01v1j9fhvv
+  password: dfbxu5tmmnmf23u5
+  port: 2087
+  server: ger1.riziro.ir
+  sni: ger1.riziro.ir
+  tls: false
+  type: hysteria2
+- alpn:
+  - h3
+  fingerprint: chrome
+  name: 🇩🇪68978 | ⚡️Telegram = t.me/SO...
+  password: dfbxu5tmmnmf23u5
+  port: 4526
+  server: panel.riziro.ir
+  sni: ger1.riziro.ir
   tls: false
   type: hysteria2
 - cipher: aes-256-cfb
