@@ -17,6 +17,16 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
+- name: 🇩🇪70493 | ⚡️Telegram = t.me/SO...
+  obfs: salamander
+  obfs-password: c1b4086fea89914496c7e10967a419216566
+  password: QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s
+  port: 443
+  server: hy2-new.aspidnet.xyz
+  skip-cert-verify: true
+  sni: hy2-new.aspidnet.xyz
+  tls: false
+  type: hysteria2
 - name: DE_speednode_0001
   password: LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu
   port: 9443
