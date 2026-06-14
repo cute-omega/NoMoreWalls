@@ -153,6 +153,14 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
+- name: 🇮🇳70942 | ⚡️Telegram = t.me/SO...
+  password: 940f51d6-e0a4-4add-b96b-328e4a84b642
+  port: 51000
+  server: 140.245.27.220
+  skip-cert-verify: true
+  sni: cn.cremedelamer.com
+  tls: false
+  type: hysteria2
 - name: ✅  @vistav2ray  👈👈کانال ما ✅
   obfs: salamander
   obfs-password: EsimObfs_9mK2x7
@@ -221,16 +229,6 @@ proxies:
   server: 207.154.242.160
   skip-cert-verify: false
   sni: Api.masir-sefid-1.my
-  tls: false
-  type: hysteria2
-- name: 🇩🇪70493 | ⚡️Telegram = t.me/SO...
-  obfs: salamander
-  obfs-password: c1b4086fea89914496c7e10967a419216566
-  password: QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s
-  port: 443
-  server: hy2-new.aspidnet.xyz
-  skip-cert-verify: true
-  sni: hy2-new.aspidnet.xyz
   tls: false
   type: hysteria2
 - name: 🇳🇱 - NL - @FreeOnlineVPN
