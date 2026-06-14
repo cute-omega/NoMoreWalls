@@ -153,12 +153,14 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 🐊44@v2ray_configs_pools
-  password: 18cf8030-1ceb-4b7d-8c0c-c036413c144e
-  port: 4433
-  server: 202.61.205.86
-  skip-cert-verify: true
-  sni: de1.xiaoliyu.cyou
+- name: 🇸🇪 @rayhub_ir 0614-6
+  obfs: salamander
+  obfs-password: EsimObfs_9mK2x7
+  password: EsimHy2Game_7xK9mPq2
+  port: 443
+  server: 31.22.91.243
+  skip-cert-verify: false
+  sni: se.esimpson.org
   tls: false
   type: hysteria2
 - name: 🩵+@Azarakhsh_Proxy+🩷
@@ -171,7 +173,7 @@ proxies:
   sni: 179.61.132.96
   tls: false
   type: hysteria2
-- name: '@prrofile_purple  ♥️👈 تلگرام'
+- name: '@prrofile_purple  ♥️👈 تلگرام #1'
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
@@ -181,7 +183,7 @@ proxies:
   sni: Api1.masir-sefid-1.my
   tls: false
   type: hysteria2
-- name: '@prrofile_purple  ♥️👈 تلگرام #1'
+- name: '@prrofile_purple  ♥️👈 تلگرام #2'
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
@@ -201,7 +203,7 @@ proxies:
   sni: Api1.masir-sefid-1.my
   tls: false
   type: hysteria2
-- name: '@prrofile_purple  ♥️👈 تلگرام #2'
+- name: '@prrofile_purple  ♥️👈 تلگرام #3'
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
@@ -219,16 +221,6 @@ proxies:
   server: 207.154.242.160
   skip-cert-verify: false
   sni: Api.masir-sefid-1.my
-  tls: false
-  type: hysteria2
-- name: '@internet_azad_2026'
-  obfs: salamander
-  obfs-password: Masir_Sefid
-  password: Masir_Sefid
-  port: 443
-  server: 37.156.46.29
-  skip-cert-verify: false
-  sni: api.masir-sefid-1.my
   tls: false
   type: hysteria2
 - name: 🇳🇱 - NL - @FreeOnlineVPN
