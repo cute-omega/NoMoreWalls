@@ -161,20 +161,6 @@ proxies:
   sni: de1.xiaoliyu.cyou
   tls: false
   type: hysteria2
-- alpn:
-  - h3
-  - h2
-  - http/1.1
-  name: 🇹🇷69428 | ⚡️Telegram = t.me/SO...
-  obfs: salamander
-  obfs-password: sjkdtjyv7gnxhg9f
-  password: 90h5qo8tmd4xg6a9
-  port: 37030
-  server: tr.iranfastspeed.com.tr
-  skip-cert-verify: true
-  sni: 77.83.245.253
-  tls: false
-  type: hysteria2
 - name: 🩵+@Azarakhsh_Proxy+🩷
   obfs: salamander
   obfs-password: KevinZakarian
