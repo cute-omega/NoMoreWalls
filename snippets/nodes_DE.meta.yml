@@ -17,16 +17,6 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 🇩🇪73619 | ⚡️Telegram = t.me/SO...
-  obfs: salamander
-  obfs-password: hg26zdlxvw7bj6pd
-  password: 0djglvgv7lh45uz9
-  port: 32254
-  server: 91.107.137.0
-  skip-cert-verify: false
-  sni: saeed.saeedposivip.ir
-  tls: false
-  type: hysteria2
 - alpn:
   - h3
   - h2
