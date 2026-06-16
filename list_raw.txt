@@ -26,7 +26,7 @@ hysteria2://Masir_Sefid@207.154.242.160:4040?insecure=0&sni=Api.masir-sefid-1.my
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%F0%9F%87%B3%F0%9F%87%B1%20-%20NL%20-%20%40FreeOnlineVPN
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%40KAFING_2%20%232
 hysteria2://dongtaiwang.com@62.210.10.108:22000?insecure=1&sni=www.microsoft.com#%E2%8F%B064%40oneclickvpnkeys
-hysteria2://rs2mR3g9bZiMloftx6lZQ59Um1Ld@80.66.81.78:9443?insecure=0&sni=tunel1.washing.help&obfs=salamander&obfs-password=oMgvuBy5Lj5kYM57sGsnjpjNcSEQ#%E2%99%BE%EF%B8%8FJoin-%3E%F0%9F%86%94%EF%B8%8F%40ATLAS_V2VPN%F0%9F%86%93%EF%B8%8F%F0%9F%9B%9C%F0%9F%94%B7%EF%B8%8F405...
+hysteria2://rs2mR3g9bZiMloftx6lZQ59Um1Ld@80.66.81.78:9443?insecure=0&sni=tunel1.washing.help&obfs=salamander&obfs-password=oMgvuBy5Lj5kYM57sGsnjpjNcSEQ#%F0%9F%87%B7%F0%9F%87%BA73309%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/SO...
 hysteria2://zZlPDO5jYeaE9rYtNnjlBI0igvbIdjRX@endpoint.neoservers.ir:30781?alpn=h3%2Ch2%2Chttp/1.1&fp=chrome&sni=www.microsoft.com&obfs=salamander&obfs-password=8s7t1sNDH36vU8_Ixd7MckIY#%F0%9F%87%A9%F0%9F%87%AA%20%20Germany%E3%80%8E%20%F0%9F%9A%80%20%E3%80%8F
 hysteria2://zZlPDO5jYeaE9rYtNnjlBI0igvbIdjRX@endpoint.neoservers.ir:30781?insecure=0&sni=www.microsoft.com&obfs=salamander&obfs-password=8s7t1sNDH36vU8_Ixd7MckIY#MiX--%40V2rayAlpha--20
 hysteria2://zhangyang@130.61.50.75:6443?insecure=1&sni=dash.cloudflare.com#%E2%8F%B047%40oneclickvpnkeys
