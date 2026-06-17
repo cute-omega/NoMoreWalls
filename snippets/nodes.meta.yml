@@ -153,6 +153,16 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
+- name: 🇹🇷@V2RayyNGvpn🇹🇷⚡
+  obfs: salamander
+  obfs-password: V2RayyNGvpn$miracle$krouky
+  password: '@V2RayyNGvpn'
+  port: 443
+  server: 213.156.152.76
+  skip-cert-verify: true
+  sni: www.wordreference.com
+  tls: false
+  type: hysteria2
 - name: ✅  @vistav2ray  👈👈کانال ما ✅
   obfs: salamander
   obfs-password: EsimObfs_9mK2x7
@@ -193,16 +203,6 @@ proxies:
   sni: Api1.masir-sefid-1.my
   tls: false
   type: hysteria2
-- name: ⚫ 19 • @spotfyhits ❤
-  obfs: salamander
-  obfs-password: Masir_Sefid
-  password: Masir_Sefid
-  port: 443
-  server: 206.189.58.246
-  skip-cert-verify: false
-  sni: Api1.masir-sefid-1.my
-  tls: false
-  type: hysteria2
 - name: '@prrofile_purple  ♥️👈 تلگرام #3'
   obfs: salamander
   obfs-password: Masir_Sefid
@@ -233,7 +233,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 🇦🇪AE-🚀@VPNine1
+- name: telegram @mtmvpn
   obfs: salamander
   obfs-password: rG07s3COMIEvdnQipRyWzx_H_2xygNC3
   password: p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR
@@ -296,7 +296,7 @@ proxies:
   network: tcp
   password: e0195c73018d597b1c2f0ea89d8676ae
   port: 53018
-  server: 43.207.198.215
+  server: 54.199.232.104
   skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
@@ -304,7 +304,7 @@ proxies:
   network: tcp
   password: BxceQaOe
   port: 11035
-  server: 18.163.84.233
+  server: 16.162.109.208
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
@@ -312,7 +312,7 @@ proxies:
   network: tcp
   password: BxceQaOe
   port: 11035
-  server: 16.163.107.220
+  server: 43.199.65.165
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
@@ -320,23 +320,23 @@ proxies:
   network: tcp
   password: BxceQaOe
   port: 4099
-  server: 18.181.78.148
+  server: 13.158.2.187
   skip-cert-verify: true
   sni: t.me%252Fripaojiedian
   type: trojan
 - name: 日本2|@ripaojiedian
   network: tcp
   password: e0195c73018d597b1c2f0ea89d8676ae
-  port: 37973
-  server: 35.75.4.144
+  port: 5701
+  server: 18.163.33.247
   skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
 - name: 日本3|@ripaojiedian
   network: tcp
   password: e0195c73018d597b1c2f0ea89d8676ae
-  port: 5701
-  server: 95.40.125.63
+  port: 37973
+  server: 52.195.19.90
   skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
@@ -344,59 +344,50 @@ proxies:
   network: tcp
   password: e0195c73018d597b1c2f0ea89d8676ae
   port: 6357
-  server: 95.40.125.63
+  server: 16.162.88.46
   skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
 - name: 新加坡2|@ripaojiedian
   network: tcp
   password: e0195c73018d597b1c2f0ea89d8676ae
-  port: 29642
-  server: 95.40.125.63
+  port: 48738
+  server: 16.162.88.46
   skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
 - name: 新加坡3|@ripaojiedian
   network: tcp
   password: BxceQaOe
-  port: 9149
-  server: 18.163.84.233
+  port: 41421
+  server: 18.163.84.26
   skip-cert-verify: true
   sni: t.me%252Fripaojiedian
   type: trojan
 - name: 美国|@ripaojiedian
   network: tcp
   password: e0195c73018d597b1c2f0ea89d8676ae
-  port: 17005
-  server: 43.198.107.157
+  port: 49277
+  server: 18.163.33.247
   skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
 - name: 美国2|@ripaojiedian
   network: tcp
   password: e0195c73018d597b1c2f0ea89d8676ae
-  port: 49277
-  server: 43.207.198.215
+  port: 17005
+  server: 52.195.19.90
   skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
 - name: 美国3|@ripaojiedian
   network: tcp
   password: BxceQaOe
-  port: 41889
-  server: 18.162.213.254
+  port: 22057
+  server: 54.46.123.9
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
-- alterId: 0
-  cipher: auto
-  name: 🇺🇸 美国4|@ripaojiedian
-  port: 180
-  server: 82.198.246.250
-  skip-cert-verify: false
-  tls: false
-  type: vmess
-  uuid: d13fc2f5-3e05-4795-81eb-44143a09e552
 - alterId: 2
   cipher: auto
   name: 香港|@ripaojiedian
@@ -407,16 +398,6 @@ proxies:
   tls: false
   type: vmess
   uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-- alterId: 0
-  cipher: auto
-  name: 美国4|@ripaojiedian
-  network: tcp
-  port: '180'
-  server: 82.198.246.250
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: d13fc2f5-3e05-4795-81eb-44143a09e552
 - name: DE_speednode_0001
   password: LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu
   port: 9443
