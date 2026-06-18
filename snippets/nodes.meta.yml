@@ -240,18 +240,6 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- alpn:
-  - h3
-  name: '@Vpn_jet7'
-  obfs: salamander
-  obfs-password: '@JynMarket'
-  password: odnvqb4ihg396e5z
-  port: 54040
-  server: 104.252.19.102
-  skip-cert-verify: false
-  sni: 104.252.19.102
-  tls: false
-  type: hysteria2
 - name: 🇳🇱@FreakConfig
   obfs: salamander
   obfs-password: rG07s3COMIEvdnQipRyWzx_H_2xygNC3
