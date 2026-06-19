@@ -1,4 +1,10 @@
 proxies:
+- name: KR5｜家宽｜高风险 (代理/黑名单)
+  port: 1090
+  server: 121.169.46.116
+  tls: false
+  type: socks5
+  username: T2clM0QlM0Q6
 - client-fingerprint: chrome
   name: KR_speednode_0003
   network: ws
