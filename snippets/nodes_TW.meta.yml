@@ -13,6 +13,14 @@ proxies:
     headers:
       Host: snll667.pages.dev
     path: '%2F'
+- name: 🇨🇳TW_@WangCai_8
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 103.115.109.49
+  skip-cert-verify: true
+  sni: https://t.me/WangCai2🇨🇳
+  tls: false
+  type: hysteria2
 - name: TW
   password: e7965e64-e001-4e8c-8273-39c61ff4a094
   port: 30000
