@@ -110,6 +110,22 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
+- name: 🇯🇵JP_@WangCai_8
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 13.231.108.76
+  skip-cert-verify: true
+  sni: https://t.me/WangCai2🇨🇳
+  tls: false
+  type: hysteria2
+- name: 🇯🇵JP_@QiangLieTuiJian
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: hy3.466688.xyz
+  skip-cert-verify: true
+  sni: https://t.me/QiangLieTuiJian
+  tls: false
+  type: hysteria2
 - name: 日本|@ripaojiedian
   network: tcp
   password: BxceQaOe
