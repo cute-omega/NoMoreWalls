@@ -799,20 +799,20 @@ proxies:
   sni: https://t.me/oneclickvpnkeys
   tls: false
   type: hysteria2
+- name: 🇸🇬SG_@WangCai_8
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 13.212.100.129
+  skip-cert-verify: true
+  sni: https://t.me/WangCai2🇨🇳
+  tls: false
+  type: hysteria2
 - name: 🐙61@oneclickvpnkeys
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: 443
   server: 202.146.222.174
   skip-cert-verify: true
   sni: https://t.me/oneclickvpnkeys
-  tls: false
-  type: hysteria2
-- name: 🇺🇸US_@WangCai_8
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: 443
-  server: 3.144.118.75
-  skip-cert-verify: true
-  sni: https://t.me/WangCai2🇨🇳
   tls: false
   type: hysteria2
 - name: 🐙68@oneclickvpnkeys
@@ -922,30 +922,6 @@ proxies:
   sni: se.esimpson.org
   tls: false
   type: hysteria2
-- name: 🇯🇵JP_@QiangLieTuiJian
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: 443
-  server: hy3.466688.xyz
-  skip-cert-verify: true
-  sni: https://t.me/QiangLieTuiJian
-  tls: false
-  type: hysteria2
-- name: 🇺🇸US_@QiangLieTuiJian
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: 443
-  server: hy4.466688.xyz
-  skip-cert-verify: true
-  sni: https://t.me/QiangLieTuiJian
-  tls: false
-  type: hysteria2
-- name: '🇺🇸US_@QiangLieTuiJian #1'
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: 443
-  server: hy5.466688.xyz
-  skip-cert-verify: true
-  sni: https://t.me/WangCai2🇨🇳
-  tls: false
-  type: hysteria2
 - name: 🩵+@Azarakhsh_Proxy+🩷
   obfs: salamander
   obfs-password: KevinZakarian
@@ -966,6 +942,16 @@ proxies:
   sni: www.wordreference.com
   tls: false
   type: hysteria2
+- name: '🇩🇪@V2RayyNGvpn🇩🇪 #1'
+  obfs: salamander
+  obfs-password: T.me/V2RayyNGvpn
+  password: T-Me-V2RayyNGvpn
+  port: 443
+  server: 185.250.41.245
+  skip-cert-verify: true
+  sni: www.wordreference.com
+  tls: false
+  type: hysteria2
 - name: 🇳🇱 - NL - @FreeOnlineVPN
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
@@ -976,7 +962,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '🇩🇪@V2RayyNGvpn🇩🇪 #1'
+- name: '🇩🇪@V2RayyNGvpn🇩🇪 #2'
   obfs: salamander
   obfs-password: T.me/V2RayyNGvpn
   password: Z7MFGgpuzh
@@ -1005,7 +991,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '🇩🇪@V2RayyNGvpn🇩🇪 #2'
+- name: '🇩🇪@V2RayyNGvpn🇩🇪 #3'
   obfs: salamander
   obfs-password: T.me/V2RayyNGvpn
   password: dJtElQSz4v
@@ -1015,7 +1001,7 @@ proxies:
   sni: www.wordreference.com
   tls: false
   type: hysteria2
-- name: '🇩🇪@V2RayyNGvpn🇩🇪 #3'
+- name: '🇩🇪@V2RayyNGvpn🇩🇪 #4'
   obfs: salamander
   obfs-password: T.me/V2RayyNGvpn
   password: ockdTdb3vU

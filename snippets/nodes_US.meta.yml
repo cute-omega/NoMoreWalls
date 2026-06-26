@@ -44,30 +44,6 @@ proxies:
   sni: mg2.mangshe.xyz
   tls: false
   type: hysteria2
-- name: 🇺🇸US_@WangCai_8
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: 443
-  server: 3.144.118.75
-  skip-cert-verify: true
-  sni: https://t.me/WangCai2🇨🇳
-  tls: false
-  type: hysteria2
-- name: 🇺🇸US_@QiangLieTuiJian
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: 443
-  server: hy4.466688.xyz
-  skip-cert-verify: true
-  sni: https://t.me/QiangLieTuiJian
-  tls: false
-  type: hysteria2
-- name: '🇺🇸US_@QiangLieTuiJian #1'
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: 443
-  server: hy5.466688.xyz
-  skip-cert-verify: true
-  sni: https://t.me/WangCai2🇨🇳
-  tls: false
-  type: hysteria2
 - name: 美国2|@ripaojiedian
   network: tcp
   password: 333967de4411e1e833244ba4becc20bf
