@@ -182,6 +182,16 @@ proxies:
   sni: www.wordreference.com
   tls: false
   type: hysteria2
+- name: 🇩🇪@FreakConfig
+  obfs: salamander
+  obfs-password: T.me/V2RayyNGvpn
+  password: Z7MFGgpuzh
+  port: 443
+  server: 185.250.41.245
+  skip-cert-verify: true
+  sni: www.wordreference.com
+  tls: false
+  type: hysteria2
 - name: '🇩🇪@V2RayyNGvpn🇩🇪 #2'
   obfs: salamander
   obfs-password: T.me/V2RayyNGvpn
