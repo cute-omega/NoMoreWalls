@@ -182,7 +182,7 @@ proxies:
   sni: www.wordreference.com
   tls: false
   type: hysteria2
-- name: 🇩🇪@FreakConfig
+- name: 🇩🇪@irconfiig
   obfs: salamander
   obfs-password: T.me/V2RayyNGvpn
   password: Z7MFGgpuzh
