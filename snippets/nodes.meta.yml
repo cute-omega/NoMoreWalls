@@ -914,15 +914,6 @@ proxies:
   sni: tunel1.washing.help
   tls: false
   type: hysteria2
-- name: '@bored_vpn'
-  obfs: salamander
-  obfs-password: lmzo7ebpr6m8theh
-  password: 3xkqzhpnfhaahx0q
-  port: 5426
-  server: atts5vkx96ec.dxdx5.com
-  skip-cert-verify: false
-  tls: false
-  type: hysteria2
 - name: 🩵+@Azarakhsh_Proxy+🩷
   obfs: salamander
   obfs-password: KevinZakarian
@@ -972,16 +963,6 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '@filembad'
-  obfs: salamander
-  obfs-password: 2a7e8084206388f4
-  password: gdubbi2zb6gdp0c8
-  port: 443
-  server: 103.251.167.168
-  skip-cert-verify: false
-  sni: gettestin.xxee.ru
-  tls: false
-  type: hysteria2
 - name: '@prrofile_purple  ♥️👈 تلگرام #1'
   obfs: salamander
   obfs-password: rG07s3COMIEvdnQipRyWzx_H_2xygNC3
@@ -1015,6 +996,16 @@ proxies:
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
   password: t-me-V2RayyNGvpn
+  port: 443
+  server: 65.109.177.191
+  skip-cert-verify: true
+  sni: www.oracle.com
+  tls: false
+  type: hysteria2
+- name: 🇫🇮@FreakConfig
+  obfs: salamander
+  obfs-password: t-me-V2RayyNGvpn
+  password: t-me-v2rayyngvpn
   port: 443
   server: 65.109.177.191
   skip-cert-verify: true
