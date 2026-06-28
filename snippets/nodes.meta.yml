@@ -759,6 +759,14 @@ proxies:
   sni: my.xn--ehqa22b.site
   tls: false
   type: hysteria2
+- name: 🇩🇪DE_@WangCai_8
+  password: 2bed923d-0204-4993-ae38-59281c98bfd9
+  port: 4142
+  server: 2a0b:4142:a86::2
+  skip-cert-verify: true
+  sni: c9a0c4942b7edk1v6.587458.xyz
+  tls: false
+  type: hysteria2
 - name: 🏇64@oneclickvpnkeys
   obfs: salamander
   obfs-password: 8zzng75tz4tf82pj
@@ -798,14 +806,6 @@ proxies:
   port: 13778
   server: jp7.dexlos.com
   skip-cert-verify: true
-  tls: false
-  type: hysteria2
-- name: 🇩🇪DE_@WangCai_8
-  password: 9947b194-85ed-4128-965c-a1007ec88bf0
-  port: 4142
-  server: 2a0b:4142:a86::2
-  skip-cert-verify: true
-  sni: c9a0c4942b7edk1v6.587458.xyz
   tls: false
   type: hysteria2
 - name: 🏇63@oneclickvpnkeys
@@ -970,6 +970,16 @@ proxies:
   port: 443
   server: 185.250.41.245
   skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: '@filembad'
+  obfs: salamander
+  obfs-password: 2a7e8084206388f4
+  password: gdubbi2zb6gdp0c8
+  port: 443
+  server: 103.251.167.168
+  skip-cert-verify: false
+  sni: gettestin.xxee.ru
   tls: false
   type: hysteria2
 - name: '@prrofile_purple  ♥️👈 تلگرام #1'
