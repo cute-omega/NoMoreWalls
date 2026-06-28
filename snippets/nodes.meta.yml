@@ -768,7 +768,7 @@ proxies:
   sni: musicclips.videolinks.ru
   tls: false
   type: hysteria2
-- name: 🏇68@oneclickvpnkeys
+- name: '🏇68@oneclickvpnkeys #1'
   obfs: salamander
   obfs-password: 3sv5vpdl9xr84lyb
   password: 653m8mmiy7048p0f
@@ -800,11 +800,43 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
+- name: 🇩🇪DE_@WangCai_8
+  password: 9947b194-85ed-4128-965c-a1007ec88bf0
+  port: 4142
+  server: 2a0b:4142:a86::2
+  skip-cert-verify: true
+  sni: c9a0c4942b7edk1v6.587458.xyz
+  tls: false
+  type: hysteria2
 - name: 🏇63@oneclickvpnkeys
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: 443
   server: 13.231.108.76
   skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: 🇸🇬SG_@WangCai_8
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 18.143.178.20
+  skip-cert-verify: true
+  sni: https://t.me/WangCai2🇨🇳
+  tls: false
+  type: hysteria2
+- name: 🇰🇷KR_@WangCai_8
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 43.202.60.234
+  skip-cert-verify: true
+  sni: https://t.me/WangCai2🇨🇳
+  tls: false
+  type: hysteria2
+- name: '🇸🇬SG_@WangCai_8 #1'
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 54.179.158.79
+  skip-cert-verify: true
+  sni: https://t.me/WangCai2🇨🇳
   tls: false
   type: hysteria2
 - name: DE
@@ -901,7 +933,7 @@ proxies:
   sni: 179.61.132.96
   tls: false
   type: hysteria2
-- name: 🇫🇮@V2RayyNGvpn🇫🇮
+- name: 'کانال تلگرام : MTMVPN'
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
   password: V2RayyNgvpn
@@ -919,16 +951,6 @@ proxies:
   server: 206.71.158.37
   skip-cert-verify: true
   sni: YAPC-1.afshin.ir
-  tls: false
-  type: hysteria2
-- name: 🇩🇪@irconfiig
-  obfs: salamander
-  obfs-password: T.me/V2RayyNGvpn
-  password: Z7MFGgpuzh
-  port: 443
-  server: 185.250.41.245
-  skip-cert-verify: true
-  sni: www.wordreference.com
   tls: false
   type: hysteria2
 - name: '@KAFING_2 #2'
@@ -950,16 +972,6 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: 🇳🇱 @rayhub_ir 0626-7
-  obfs: salamander
-  obfs-password: 2a7e8084206388f4
-  password: gdubbi2zb6gdp0c8
-  port: 443
-  server: 103.251.167.168
-  skip-cert-verify: false
-  sni: gettestin.xxee.ru
-  tls: false
-  type: hysteria2
 - name: '@prrofile_purple  ♥️👈 تلگرام #1'
   obfs: salamander
   obfs-password: rG07s3COMIEvdnQipRyWzx_H_2xygNC3
@@ -979,10 +991,20 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: 🇫🇮 Finland hy2🇫🇮 🔐بزنید تو هید...
+- name: 🇫🇮Finland⚡🇫🇮
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
-  password: t-me-v2rayyngvpn
+  password: s0e9dylundefinedundefinedn
+  port: 443
+  server: 65.109.177.191
+  skip-cert-verify: true
+  sni: www.oracle.com
+  tls: false
+  type: hysteria2
+- name: 🇫🇮فنلاند 🇫🇮
+  obfs: salamander
+  obfs-password: t-me-V2RayyNGvpn
+  password: t-me-V2RayyNGvpn
   port: 443
   server: 65.109.177.191
   skip-cert-verify: true

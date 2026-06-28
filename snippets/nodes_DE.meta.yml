@@ -144,6 +144,14 @@ proxies:
   sni: de.xn--ehqa22b.site
   tls: false
   type: hysteria2
+- name: 🇩🇪DE_@WangCai_8
+  password: 9947b194-85ed-4128-965c-a1007ec88bf0
+  port: 4142
+  server: 2a0b:4142:a86::2
+  skip-cert-verify: true
+  sni: c9a0c4942b7edk1v6.587458.xyz
+  tls: false
+  type: hysteria2
 - name: DE
   password: a084933d-0b41-4571-ae0c-7163b8c71ed1
   port: 2056
@@ -160,15 +168,5 @@ proxies:
   server: 181.214.99.162
   skip-cert-verify: true
   sni: api.kermanshahi.org
-  tls: false
-  type: hysteria2
-- name: 🇩🇪@irconfiig
-  obfs: salamander
-  obfs-password: T.me/V2RayyNGvpn
-  password: Z7MFGgpuzh
-  port: 443
-  server: 185.250.41.245
-  skip-cert-verify: true
-  sni: www.wordreference.com
   tls: false
   type: hysteria2
