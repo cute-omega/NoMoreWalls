@@ -759,7 +759,7 @@ proxies:
   sni: my.xn--ehqa22b.site
   tls: false
   type: hysteria2
-- name: 🇩🇪DE_@WangCai_8
+- name: 🦖10@oneclickvpnkeys
   password: 2bed923d-0204-4993-ae38-59281c98bfd9
   port: 4142
   server: 2a0b:4142:a86::2
@@ -790,10 +790,26 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
+- name: 🇰🇷KR_@WangCai_8
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 13.125.209.199
+  skip-cert-verify: true
+  sni: https://t.me/WangCai2🇨🇳
+  tls: false
+  type: hysteria2
+- name: '🇰🇷KR_@WangCai_8 #1'
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 3.34.49.205
+  skip-cert-verify: true
+  sni: https://t.me/WangCai2🇨🇳
+  tls: false
+  type: hysteria2
 - name: 🇸🇬SG_@WangCai_8
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: 443
-  server: 18.143.178.20
+  server: 56.10.11.159
   skip-cert-verify: true
   sni: https://t.me/WangCai2🇨🇳
   tls: false
