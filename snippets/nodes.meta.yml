@@ -882,12 +882,21 @@ proxies:
   sni: tunel1.washing.help
   tls: false
   type: hysteria2
-- name: 🦖10@oneclickvpnkeys
+- name: 🦖10@NetFlowTools
   password: 2bed923d-0204-4993-ae38-59281c98bfd9
   port: 4142
   server: 2a0b:4142:a86::2
   skip-cert-verify: true
   sni: c9a0c4942b7edk1v6.587458.xyz
+  tls: false
+  type: hysteria2
+- name: 💙18@oneclickvpnkeys
+  obfs: salamander
+  obfs-password: 3sv5vpdl9xr84lyb
+  password: 653m8mmiy7048p0f
+  port: 443
+  server: 2.26.49.16
+  sni: social.klipp.su
   tls: false
   type: hysteria2
 - name: 🩵+@Azarakhsh_Proxy+🩷

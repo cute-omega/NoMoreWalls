@@ -96,7 +96,8 @@ hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@18.143.117.69:443?insecure=1&sni=vpn-sg-001
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@18.143.165.76:443?insecure=1&sni=vpn-sg-001.fastervpn.world#%F0%9F%8F%8770%40NetFlowTools
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.131.248.82:443?insecure=1&sni=vpn-sg-001.fastervpn.world#%F0%9F%8F%8769%40NetFlowTools
 hysteria2://rs2mR3g9bZiMloftx6lZQ59Um1Ld@80.66.81.78:9443?insecure=0&sni=tunel1.washing.help&obfs=salamander&obfs-password=oMgvuBy5Lj5kYM57sGsnjpjNcSEQ#%E2%9C%85%20%20%40vistav2ray%20%20%F0%9F%91%88%F0%9F%91%88%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%E2%9C%85%20%231
-hysteria2://2bed923d-0204-4993-ae38-59281c98bfd9@[2a0b:4142:a86::2]:4142?insecure=1&sni=c9a0c4942b7edk1v6.587458.xyz#%F0%9F%A6%9610%40oneclickvpnkeys
+hysteria2://2bed923d-0204-4993-ae38-59281c98bfd9@[2a0b:4142:a86::2]:4142?insecure=1&sni=c9a0c4942b7edk1v6.587458.xyz#%F0%9F%A6%9610%40NetFlowTools
+hysteria2://653m8mmiy7048p0f@2.26.49.16:443?sni=social.klipp.su&obfs=salamander&obfs-password=3sv5vpdl9xr84lyb#%F0%9F%92%9918%40oneclickvpnkeys
 hysteria2://KevinZakarian@179.61.132.96:8443?insecure=1&sni=179.61.132.96&obfs=salamander&obfs-password=KevinZakarian#%F0%9F%A9%B5%2B%40Azarakhsh_Proxy%2B%F0%9F%A9%B7
 hysteria2://V2RayyNgvpn@65.109.177.191:443?insecure=1&sni=www.oracle.com&obfs=salamander&obfs-password=t-me-V2RayyNGvpn#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%3A%20MTMVPN
 hysteria2://V2rayyNGvpn@65.20.114.95:443?insecure=1&sni=www.oracle.com&obfs=salamander&obfs-password=t-me-v2rayyngvpn#%F0%9F%87%B8%F0%9F%87%AASweeden%20%F0%9F%87%B8%F0%9F%87%AA2
@@ -184,8 +185,8 @@ https://25b2699a-e18e-11ec-8e69-f23c91cfbbc9:25b2699a-e18e-11ec-8e69-f23c91cfbbc
 https://25b2699a-e18e-11ec-8e69-f23c91cfbbc9:25b2699a-e18e-11ec-8e69-f23c91cfbbc9@786f666d-t9zts0-tatrrz-yjq0.sjc.oshuawei.com:443
 https://2b57ec48-0da4-11ef-8f35-f23c913c8d2b:2b57ec48-0da4-11ef-8f35-f23c913c8d2b@d6a15dd2-tegxs0-tejxhc-1rdqg.se.oshuawei.com:443
 trojan://Mitivpn@iranpoems.ir:443?allowInsecure=0&sni=www.gamingdll.ir&type=ws&host=www.gamingdll.ir&path=/usa=mitivpn#US_speednode_0063
-anytls://be8cc8f6-0c6a-11f0-a5a3-f23c93141fad@ec1c1972-t9lmo0-ta37qp-b4pt.hkt.east.wctype.com:8300?security=none&type=tcp&allowInsecure=1&sni=ec1c1972-t9lmo0-ta37qp-b4pt.hkt.east.wctype.com&fp=chrome&udp=1&insecure=1#HK70%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
+anytls://fd5473ae-4119-4e68-acf5-f0df386c1758@jp.iij.sakura.baipiao0721-dns78655.eu:8443?security=none&type=tcp&alpn=h2&allowInsecure=1&sni=gw.alicdn.com&fp=chrome&udp=1&insecure=1#JP1%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
 anytls://fd5473ae-4119-4e68-acf5-f0df386c1758@us-sje.baipiao0721-dns78655.eu:18443?security=none&type=tcp&alpn=h2&allowInsecure=1&sni=gw.alicdn.com&fp=chrome&udp=1&insecure=1#US1%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
 anytls://ae74dd32-c336-4be4-9c15-f6108292b3e5@us1.anliangjifei.top:12053?security=none&type=tcp&allowInsecure=1&sni=us1.anliangjifei.top&insecure=1&udp=1#US10%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
-anytls://fd5473ae-4119-4e68-acf5-f0df386c1758@jp.iij.sakura.baipiao0721-dns78655.eu:8443?security=none&type=tcp&alpn=h2&allowInsecure=1&sni=gw.alicdn.com&fp=chrome&udp=1&insecure=1#JP1%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
 anytls://fd5473ae-4119-4e68-acf5-f0df386c1758@hkt-ddns.baipiao0721-dns78655.eu:18443?security=none&type=tcp&alpn=h2&allowInsecure=1&sni=gw.alicdn.com&fp=chrome&udp=1&insecure=1#HK1%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
+anytls://be8cc8f6-0c6a-11f0-a5a3-f23c93141fad@ec1c1972-t9lmo0-ta37qp-b4pt.hkt.east.wctype.com:8300?security=none&type=tcp&allowInsecure=1&sni=ec1c1972-t9lmo0-ta37qp-b4pt.hkt.east.wctype.com&fp=chrome&udp=1&insecure=1#HK70%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
