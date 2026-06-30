@@ -800,11 +800,27 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
+- name: 🇸🇬SG_@WangCai_8
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 13.229.94.221
+  skip-cert-verify: true
+  sni: https://t.me/WangCai2🇨🇳
+  tls: false
+  type: hysteria2
 - name: 🏇63@NetFlowTools
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: 443
   server: 13.231.108.76
   skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: '🇸🇬SG_@WangCai_8 #1'
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 47.128.242.210
+  skip-cert-verify: true
+  sni: https://t.me/WangCai2🇨🇳
   tls: false
   type: hysteria2
 - name: DE
@@ -939,6 +955,14 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
+- name: 🇩🇪DE_@WangCai_8
+  password: b1be3c3c-5cb7-4b5b-8dbc-a407eb0d63b7
+  port: 4142
+  server: 2a0b:4142:a86::2
+  skip-cert-verify: true
+  sni: c9a0c4942b7edk1v6.587458.xyz
+  tls: false
+  type: hysteria2
 - name: '@KAFING_2 #2'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
@@ -968,6 +992,29 @@ proxies:
   sni: gettestin.xxee.ru
   tls: false
   type: hysteria2
+- alpn:
+  - h2
+  - h3
+  fingerprint: chrome
+  name: 🇩🇪💎hysteria2-@hollowcon
+  obfs: salamander
+  obfs-password: xdbc2u01v1j9fhvv
+  password: hk6ah4vgb0qp2koh
+  port: 2087
+  server: ger1.riziro.ir
+  sni: ger1.riziro.ir
+  tls: false
+  type: hysteria2
+- alpn:
+  - h3
+  fingerprint: chrome
+  name: 🇩🇪💎hysteria-@hollowcon
+  password: hk6ah4vgb0qp2koh
+  port: 4526
+  server: panel.riziro.ir
+  sni: ger1.riziro.ir
+  tls: false
+  type: hysteria2
 - name: '@prrofile_purple  ♥️👈 تلگرام #1'
   obfs: salamander
   obfs-password: rG07s3COMIEvdnQipRyWzx_H_2xygNC3
@@ -987,14 +1034,16 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: 🇫🇮Finland⚡🇫🇮
+- alpn:
+  - h3
+  fingerprint: chrome
+  name: 🇱🇻hysteria
   obfs: salamander
-  obfs-password: t-me-V2RayyNGvpn
-  password: s0e9dylundefinedundefinedn
-  port: 443
-  server: 65.109.177.191
-  skip-cert-verify: true
-  sni: www.oracle.com
+  obfs-password: 2gg0tx9d2etug8n9
+  password: rjj39jg8iphgd06h
+  port: 44100
+  server: pro2.riziro.ir
+  sni: pro2.riziro.ir
   tls: false
   type: hysteria2
 - name: 2🇩🇪آلمان اوشاخلاری 🇩🇪

@@ -162,6 +162,37 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
+- name: 🇩🇪DE_@WangCai_8
+  password: b1be3c3c-5cb7-4b5b-8dbc-a407eb0d63b7
+  port: 4142
+  server: 2a0b:4142:a86::2
+  skip-cert-verify: true
+  sni: c9a0c4942b7edk1v6.587458.xyz
+  tls: false
+  type: hysteria2
+- alpn:
+  - h2
+  - h3
+  fingerprint: chrome
+  name: 🇩🇪💎hysteria2-@hollowcon
+  obfs: salamander
+  obfs-password: xdbc2u01v1j9fhvv
+  password: hk6ah4vgb0qp2koh
+  port: 2087
+  server: ger1.riziro.ir
+  sni: ger1.riziro.ir
+  tls: false
+  type: hysteria2
+- alpn:
+  - h3
+  fingerprint: chrome
+  name: 🇩🇪💎hysteria-@hollowcon
+  password: hk6ah4vgb0qp2koh
+  port: 4526
+  server: panel.riziro.ir
+  sni: ger1.riziro.ir
+  tls: false
+  type: hysteria2
 - name: 2🇩🇪آلمان اوشاخلاری 🇩🇪
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
