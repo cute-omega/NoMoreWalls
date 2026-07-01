@@ -1,1 +1,15 @@
-proxies: []
+proxies:
+- name: KR5｜家宽｜高风险 (代理/黑名单)
+  port: 1090
+  server: 121.169.46.116
+  tls: false
+  type: socks5
+  username: T2clM0QlM0Q6
+- name: KR_speednode_0014
+  password: 2b57ec48-0da4-11ef-8f35-f23c913c8d2b
+  port: 31433
+  server: 701489ed-t9zts0-tan99f-1rdqg.kr.oshuawei.com
+  tls: true
+  type: http
+  udp: true
+  username: 2b57ec48-0da4-11ef-8f35-f23c913c8d2b
