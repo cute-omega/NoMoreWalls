@@ -900,16 +900,6 @@ proxies:
   sni: www.oracle.com
   tls: false
   type: hysteria2
-- name: 🇸🇪Sweeden
-  obfs: salamander
-  obfs-password: t-me-v2rayyngvpn
-  password: V2rayyNGvpn
-  port: 443
-  server: 65.20.114.95
-  skip-cert-verify: true
-  sni: www.oracle.com
-  tls: false
-  type: hysteria2
 - name: 🇳🇱 - NL - @FreeOnlineVPN
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
@@ -939,15 +929,6 @@ proxies:
   tls: false
   type: hysteria2
 - name: telegram @mtmvpn
-  obfs: salamander
-  obfs-password: T.me/V2RayyNGvpn
-  password: cFihfSrWtH
-  port: 443
-  server: 185.250.41.245
-  skip-cert-verify: true
-  tls: false
-  type: hysteria2
-- name: 'telegram @mtmvpn #1'
   obfs: salamander
   obfs-password: 2a7e8084206388f4
   password: gdubbi2zb6gdp0c8
@@ -990,7 +971,7 @@ proxies:
   sni: hy2.aspidnet.xyz
   tls: false
   type: hysteria2
-- name: 'telegram @mtmvpn #3'
+- name: 'telegram @mtmvpn #2'
   obfs: salamander
   obfs-password: T.me/V2RayyNGvpn
   password: rQRuZ8nFbC
@@ -1039,16 +1020,6 @@ proxies:
   server: 57.128.108.123
   skip-cert-verify: true
   sni: www.wordreference.com
-  tls: false
-  type: hysteria2
-- name: '@filembad'
-  obfs: salamander
-  obfs-password: 60wvbymjlc9zw3gk
-  password: zru63dr6vokx56iy
-  port: 52067
-  server: tr-1.metsima.com
-  skip-cert-verify: false
-  sni: tr-1.metsima.com
   tls: false
   type: hysteria2
 - cipher: aes-256-cfb
