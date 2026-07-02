@@ -44,6 +44,22 @@ proxies:
   sni: mg2.mangshe.xyz
   tls: false
   type: hysteria2
+- alpn:
+  - h3
+  name: 🇺🇸US-🚀@VPNine1
+  password: 9794d18f-9280-3553-a7a5-a23da75aca76
+  port: 443
+  server: 185.106.96.231
+  sni: u691611us849.ccgfw.top
+  tls: false
+  type: hysteria2
+- name: '🇺🇸US-🚀@VPNine1 #1'
+  password: 9794d18f-9280-3553-a7a5-a23da75aca76
+  port: 443
+  server: 23.166.40.27
+  sni: u691611u2e827823s79.sspcccdn.xyz
+  tls: false
+  type: hysteria2
 - name: 美国|@ripaojiedian
   network: tcp
   password: b8494776252056a1b62e77c4ff6a6d61

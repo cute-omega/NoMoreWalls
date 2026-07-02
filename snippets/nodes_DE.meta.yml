@@ -163,14 +163,6 @@ proxies:
   tls: false
   type: hysteria2
 - name: 🇩🇪DE_@WangCai_8
-  password: afa31ea7-0b97-4bc9-b043-daaeca4aef70
-  port: 4142
-  server: 2a0b:4142:a86::2
-  skip-cert-verify: true
-  sni: c9a0c4942b7edk1v6.587458.xyz
-  tls: false
-  type: hysteria2
-- name: '🇩🇪DE_@WangCai_8 #1'
   password: f80fadf1-4f90-40e2-891f-e9a10146d960
   port: 4142
   server: 2a0b:4142:a86::2
