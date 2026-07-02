@@ -185,13 +185,3 @@ proxies:
   sni: ger1.riziro.ir
   tls: false
   type: hysteria2
-- name: 2🇩🇪آلمان اوشاخلاری 🇩🇪
-  obfs: salamander
-  obfs-password: t-me-V2RayyNGvpn
-  password: t-me-V2RayyNGvpn
-  port: 443
-  server: 143.14.59.229
-  skip-cert-verify: true
-  sni: www.oracle.com
-  tls: false
-  type: hysteria2
