@@ -838,20 +838,6 @@ proxies:
   sni: fta.fontanvpn.com
   tls: false
   type: hysteria2
-- alpn:
-  - h2
-  - http/1.1
-  - h3
-  fingerprint: chrome
-  name: best_internet_iran
-  obfs: salamander
-  obfs-password: 4u5lx2ldqk5oeo7y
-  password: 5xsgx28bxlhd7oc4
-  port: 38787
-  server: rx.easyiran.org
-  sni: rx.easyiran.org
-  tls: false
-  type: hysteria2
 - name: ♾️Join->🆔️@ATLAS_V2VPN🆓️🛜🔷️432...
   obfs: salamander
   obfs-password: 3sv5vpdl9xr84lyb
@@ -918,6 +904,21 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
+- name: 🏠42@oneclickvpnkeys
+  password: dongtaiwang.com
+  port: 13377
+  server: www.838491.xyz
+  sni: www.838491.xyz
+  tls: false
+  type: hysteria2
+- name: '🇩🇪DE_@WangCai_8 #1'
+  password: f80fadf1-4f90-40e2-891f-e9a10146d960
+  port: 4142
+  server: 2a0b:4142:a86::2
+  skip-cert-verify: true
+  sni: c9a0c4942b7edk1v6.587458.xyz
+  tls: false
+  type: hysteria2
 - name: telegram @mtmvpn
   obfs: salamander
   obfs-password: 2a7e8084206388f4
@@ -951,7 +952,7 @@ proxies:
   sni: ger1.riziro.ir
   tls: false
   type: hysteria2
-- name: '@prrofile_purple  ♥️👈 تلگرام #1'
+- name: 'تلگرام : MTMVPN'
   obfs: salamander
   obfs-password: rG07s3COMIEvdnQipRyWzx_H_2xygNC3
   password: p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR
