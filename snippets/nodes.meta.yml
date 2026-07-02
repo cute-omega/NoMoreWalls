@@ -785,15 +785,7 @@ proxies:
 - name: 🇸🇬SG_@WangCai_8
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: 443
-  server: 13.229.51.19
-  skip-cert-verify: true
-  sni: https://t.me/WangCai2🇨🇳
-  tls: false
-  type: hysteria2
-- name: '🇸🇬SG_@WangCai_8 #1'
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: 443
-  server: 54.179.149.169
+  server: 47.129.160.62
   skip-cert-verify: true
   sni: https://t.me/WangCai2🇨🇳
   tls: false
@@ -870,15 +862,6 @@ proxies:
   sni: social.klipp.su
   tls: false
   type: hysteria2
-- name: 💙95@oneclickvpnkeys
-  obfs: salamander
-  obfs-password: lhfl2z9mjngb7csh
-  password: 653m8mmiy7048p0f
-  port: 1935
-  server: nrealistic.nn-foto.ru
-  sni: nrealistic.nn-foto.ru
-  tls: false
-  type: hysteria2
 - name: 🩵+@Azarakhsh_Proxy+🩷
   obfs: salamander
   obfs-password: KevinZakarian
@@ -910,6 +893,14 @@ proxies:
   tls: false
   type: hysteria2
 - name: 🇩🇪DE_@WangCai_8
+  password: afa31ea7-0b97-4bc9-b043-daaeca4aef70
+  port: 4142
+  server: 2a0b:4142:a86::2
+  skip-cert-verify: true
+  sni: c9a0c4942b7edk1v6.587458.xyz
+  tls: false
+  type: hysteria2
+- name: ⛳18@oneclickvpnkeys
   password: b1be3c3c-5cb7-4b5b-8dbc-a407eb0d63b7
   port: 4142
   server: 2a0b:4142:a86::2
@@ -990,6 +981,14 @@ proxies:
   server: 80.66.81.78
   skip-cert-verify: false
   sni: tunel1.washing.help
+  tls: false
+  type: hysteria2
+- name: 🇩🇪@V2raybazi
+  password: zhangyang
+  port: 6443
+  server: 130.61.50.75
+  skip-cert-verify: true
+  sni: https://www.calmloud.com
   tls: false
   type: hysteria2
 - cipher: aes-256-cfb
