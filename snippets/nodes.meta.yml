@@ -743,13 +743,6 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: ⛳86@oneclickvpnkeys
-  password: 00dcd873-9211-4d61-ad35-87999906e5c8
-  port: 443
-  server: 185.75.135.220
-  sni: fta.fontanvpn.com
-  tls: false
-  type: hysteria2
 - name: 🏠68@oneclickvpnkeys
   password: 00dcd873-9211-4d61-ad35-87999906e5c8
   port: 443
@@ -765,6 +758,13 @@ proxies:
   server: 2.26.49.16
   skip-cert-verify: false
   sni: social.klipp.su
+  tls: false
+  type: hysteria2
+- name: 🇺🇸US_1 | ⬇️ 766KB/s
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 54.191.165.99
+  skip-cert-verify: true
   tls: false
   type: hysteria2
 - name: 🩵+@Azarakhsh_Proxy+🩷
@@ -822,7 +822,7 @@ proxies:
   sni: www.838491.xyz
   tls: false
   type: hysteria2
-- name: 🇩🇪DE_@WangCai_8
+- name: 🍓1@oneclickvpnkeys
   password: f80fadf1-4f90-40e2-891f-e9a10146d960
   port: 4142
   server: 2a0b:4142:a86::2
