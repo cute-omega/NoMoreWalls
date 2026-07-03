@@ -1,7 +1,87 @@
 proxies:
 - alterId: 0
   cipher: auto
-  name: '防范境外势力渗透 #9'
+  name: 防范境外势力渗透
+  network: tcp
+  port: '443'
+  server: 160.79.104.10
+  servername: www.anthropic.com
+  tls: true
+  type: vmess
+  uuid: 88888888-8888-8888-8888-888888888880
+- alterId: 0
+  cipher: auto
+  name: '防范境外势力渗透 #1'
+  network: tcp
+  port: '443'
+  server: 160.79.104.10
+  servername: www.anthropic.com
+  tls: true
+  type: vmess
+  uuid: 88888888-8888-8888-8888-888888888881
+- alterId: 0
+  cipher: auto
+  name: '防范境外势力渗透 #2'
+  network: tcp
+  port: '443'
+  server: 160.79.104.10
+  servername: www.anthropic.com
+  tls: true
+  type: vmess
+  uuid: 88888888-8888-8888-8888-888888888882
+- alterId: 0
+  cipher: auto
+  name: '防范境外势力渗透 #3'
+  network: tcp
+  port: '443'
+  server: 160.79.104.10
+  servername: www.anthropic.com
+  tls: true
+  type: vmess
+  uuid: 88888888-8888-8888-8888-888888888883
+- alterId: 0
+  cipher: auto
+  name: '防范境外势力渗透 #4'
+  network: tcp
+  port: '443'
+  server: 160.79.104.10
+  servername: www.anthropic.com
+  tls: true
+  type: vmess
+  uuid: 88888888-8888-8888-8888-888888888884
+- alterId: 0
+  cipher: auto
+  name: '防范境外势力渗透 #5'
+  network: tcp
+  port: '443'
+  server: 160.79.104.10
+  servername: www.anthropic.com
+  tls: true
+  type: vmess
+  uuid: 88888888-8888-8888-8888-888888888885
+- alterId: 0
+  cipher: auto
+  name: '防范境外势力渗透 #6'
+  network: tcp
+  port: '443'
+  server: 160.79.104.10
+  servername: www.anthropic.com
+  tls: true
+  type: vmess
+  uuid: 88888888-8888-8888-8888-888888888886
+- alterId: 0
+  cipher: auto
+  name: '防范境外势力渗透 #7'
+  network: tcp
+  port: '443'
+  server: 160.79.104.10
+  servername: www.anthropic.com
+  tls: true
+  type: vmess
+  uuid: 88888888-8888-8888-8888-888888888887
+- alterId: 0
+  cipher: auto
+  name: '防范境外势力渗透 #8'
   network: tcp
   port: '443'
   server: 160.79.104.10
@@ -9,6 +89,16 @@ proxies:
   tls: true
   type: vmess
   uuid: 88888888-8888-8888-8888-888888888888
+- alterId: 0
+  cipher: auto
+  name: '防范境外势力渗透 #9'
+  network: tcp
+  port: '443'
+  server: 160.79.104.10
+  servername: www.anthropic.com
+  tls: true
+  type: vmess
+  uuid: 88888888-8888-8888-8888-888888888889
 - alterId: 0
   cipher: auto
   name: DE41｜机房｜高风险 (黑名单)
