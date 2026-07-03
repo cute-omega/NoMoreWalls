@@ -702,38 +702,6 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: 🇸🇬SG_@WangCai_8
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: 443
-  server: 18.143.174.148
-  skip-cert-verify: true
-  sni: https://t.me/WangCai2🇨🇳
-  tls: false
-  type: hysteria2
-- name: '🇸🇬SG_@WangCai_8 #1'
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: 443
-  server: 47.129.3.178
-  skip-cert-verify: true
-  sni: https://t.me/WangCai2🇨🇳
-  tls: false
-  type: hysteria2
-- name: '🇸🇬SG_@WangCai_8 #2'
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: 443
-  server: 54.179.153.191
-  skip-cert-verify: true
-  sni: https://t.me/WangCai2🇨🇳
-  tls: false
-  type: hysteria2
-- name: '🇸🇬SG_@WangCai_8 #3'
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: 443
-  server: 54.255.238.222
-  skip-cert-verify: true
-  sni: https://t.me/WangCai2🇨🇳
-  tls: false
-  type: hysteria2
 - name: DE
   password: a084933d-0b41-4571-ae0c-7163b8c71ed1
   port: 2056
@@ -962,7 +930,7 @@ proxies:
   network: tcp
   password: BxceQaOe
   port: 29449
-  server: 18.162.144.111
+  server: 95.40.26.121
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
@@ -970,7 +938,7 @@ proxies:
   network: tcp
   password: BxceQaOe
   port: 11035
-  server: 18.166.152.128
+  server: 18.163.124.19
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
@@ -978,7 +946,7 @@ proxies:
   network: tcp
   password: BxceQaOe
   port: 10624
-  server: 52.195.161.184
+  server: 52.194.214.115
   skip-cert-verify: true
   sni: t.me%252Fripaojiedian
   type: trojan
@@ -1009,8 +977,8 @@ proxies:
 - name: 新加坡3|@ripaojiedian
   network: tcp
   password: BxceQaOe
-  port: 41421
-  server: 18.162.152.114
+  port: 22459
+  server: 43.198.12.202
   skip-cert-verify: true
   sni: t.me%252Fripaojiedian
   type: trojan
@@ -1033,8 +1001,8 @@ proxies:
 - name: 美国3|@ripaojiedian
   network: tcp
   password: BxceQaOe
-  port: 44265
-  server: 18.162.152.114
+  port: 2366
+  server: 16.163.155.249
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
