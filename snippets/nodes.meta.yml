@@ -750,6 +750,54 @@ proxies:
   sni: fta.fontanvpn.com
   tls: false
   type: hysteria2
+- name: 🍓43@oneclickvpnkeys
+  password: 03e7f55f-22f8-4564-880f-b86c8cdbf140
+  port: 8449
+  server: 45.196.182.134
+  skip-cert-verify: true
+  sni: https://t.me/WangCai2🇨🇳
+  tls: false
+  type: hysteria2
+- name: 🍓42@oneclickvpnkeys
+  password: 03e7f55f-22f8-4564-880f-b86c8cdbf140
+  port: 8449
+  server: 45.196.182.138
+  skip-cert-verify: true
+  sni: https://t.me/WangCai2🇨🇳
+  tls: false
+  type: hysteria2
+- name: 🍓41@oneclickvpnkeys
+  password: 03e7f55f-22f8-4564-880f-b86c8cdbf140
+  port: 8449
+  server: 45.196.182.223
+  skip-cert-verify: true
+  sni: https://t.me/WangCai2🇨🇳
+  tls: false
+  type: hysteria2
+- name: 🍓44@oneclickvpnkeys
+  password: 03e7f55f-22f8-4564-880f-b86c8cdbf140
+  port: 8449
+  server: 45.196.182.227
+  skip-cert-verify: true
+  sni: https://t.me/WangCai2🇨🇳
+  tls: false
+  type: hysteria2
+- name: 🍓40@oneclickvpnkeys
+  password: 03e7f55f-22f8-4564-880f-b86c8cdbf140
+  port: 8449
+  server: 45.196.182.232
+  skip-cert-verify: true
+  sni: https://t.me/WangCai2🇨🇳
+  tls: false
+  type: hysteria2
+- name: 🍓45@oneclickvpnkeys
+  password: 03e7f55f-22f8-4564-880f-b86c8cdbf140
+  port: 8449
+  server: 66.234.150.247
+  skip-cert-verify: true
+  sni: https://t.me/WangCai2🇨🇳
+  tls: false
+  type: hysteria2
 - name: ♾️Join->🆔️@ATLAS_V2VPN🆓️🛜🔷️432...
   obfs: salamander
   obfs-password: 3sv5vpdl9xr84lyb
@@ -813,6 +861,14 @@ proxies:
   server: 5.175.249.174
   skip-cert-verify: true
   sni: api.kermanshahi.org
+  tls: false
+  type: hysteria2
+- name: 🍓46@oneclickvpnkeys
+  password: cc8b3b88-4ce7-4420-9793-c230f1191246
+  port: 4142
+  server: 2a0b:4142:a86::2
+  skip-cert-verify: true
+  sni: c9a0c4942b7edk1v6.587458.xyz
   tls: false
   type: hysteria2
 - name: 🏠42@oneclickvpnkeys

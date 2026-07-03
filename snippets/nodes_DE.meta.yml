@@ -162,8 +162,8 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 🍓1@oneclickvpnkeys
-  password: f80fadf1-4f90-40e2-891f-e9a10146d960
+- name: 🍓46@oneclickvpnkeys
+  password: cc8b3b88-4ce7-4420-9793-c230f1191246
   port: 4142
   server: 2a0b:4142:a86::2
   skip-cert-verify: true
