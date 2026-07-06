@@ -857,7 +857,7 @@ proxies:
   sni: https://t.me/WangCai2🇨🇳
   tls: false
   type: hysteria2
-- name: ♦️25@oneclickvpnkeys
+- name: ♦️25@NetFlowTools
   password: 03e7f55f-22f8-4564-880f-b86c8cdbf140
   port: 8449
   server: 45.196.182.175
@@ -885,6 +885,14 @@ proxies:
   password: 03e7f55f-22f8-4564-880f-b86c8cdbf140
   port: 8449
   server: 45.196.182.225
+  skip-cert-verify: true
+  sni: https://t.me/WangCai2🇨🇳
+  tls: false
+  type: hysteria2
+- name: 🕹️57@v2ray_configs_pools
+  password: 03e7f55f-22f8-4564-880f-b86c8cdbf140
+  port: 8449
+  server: 45.196.182.234
   skip-cert-verify: true
   sni: https://t.me/WangCai2🇨🇳
   tls: false
@@ -934,6 +942,13 @@ proxies:
   server: 66.234.150.231
   skip-cert-verify: true
   sni: https://t.me/WangCai2🇨🇳
+  tls: false
+  type: hysteria2
+- name: 🕹️58@v2ray_configs_pools
+  password: 03e7f55f-22f8-4564-880f-b86c8cdbf140
+  port: 8449
+  server: 66.234.150.237
+  sni: sni.fi-m247-02.com
   tls: false
   type: hysteria2
 - name: ♦️53@oneclickvpnkeys
@@ -986,12 +1001,27 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 🕹️41@oneclickvpnkeys
+- name: 🕹️41@v2ray_configs_pools
   password: AmWCbxhVSBz7b1XL9ZNJSReMCxdFZlxX
   port: 36713
   server: 107.173.11.163
   skip-cert-verify: true
   sni: bing.com
+  tls: false
+  type: hysteria2
+- name: 🕹️53@v2ray_configs_pools
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 13.229.60.114
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: 🕹️50@v2ray_configs_pools
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 13.229.94.221
+  skip-cert-verify: true
+  sni: https://t.me/WangCai2🇨🇳
   tls: false
   type: hysteria2
 - name: 1♦️@v2ray_configs_pools
@@ -1025,6 +1055,14 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
+- name: 🕹️54@v2ray_configs_pools
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: vpn-us-003.fastervpn.world
+  skip-cert-verify: true
+  sni: vpn-us-003.fastervpn.world
+  tls: false
+  type: hysteria2
 - name: 🩵+@Azarakhsh_Proxy+🩷
   obfs: salamander
   obfs-password: KevinZakarian
@@ -1055,6 +1093,16 @@ proxies:
   sni: www.oracle.com
   tls: false
   type: hysteria2
+- name: '🇩🇪@V2RayyNGvpn🇩🇪 #1'
+  obfs: salamander
+  obfs-password: t-me-V2RayyNGvpn
+  password: V2Rayyngvpn
+  port: 40460
+  server: 91.107.152.188
+  skip-cert-verify: true
+  sni: www.amd.com
+  tls: false
+  type: hysteria2
 - name: 🇳🇱 - NL - @FreeOnlineVPN
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
@@ -1063,6 +1111,14 @@ proxies:
   server: 206.71.158.37
   skip-cert-verify: true
   sni: YAPC-1.afshin.ir
+  tls: false
+  type: hysteria2
+- name: 🕹️56@v2ray_configs_pools
+  password: a8a5b34d-fe46-487d-bd6a-d9f3101525fd
+  port: 50581
+  server: 172.96.141.4
+  skip-cert-verify: true
+  sni: api.push.apple.com
   tls: false
   type: hysteria2
 - name: ♦️69@v2ray_configs_pools
@@ -1116,6 +1172,22 @@ proxies:
   sni: hy2.aspidnet.xyz
   tls: false
   type: hysteria2
+- name: 🕹️51@v2ray_configs_pools
+  password: qQe1z5kU8kN6SlKnDt9Ru3Qp
+  port: 443
+  server: 13.212.236.88
+  skip-cert-verify: true
+  sni: vpn-sg-001.fastervpn.world
+  tls: false
+  type: hysteria2
+- name: 🕹️47@v2ray_configs_pools
+  password: qQe1z5kU8kN6SlKnDt9Ru3Qp
+  port: 443
+  server: 13.229.106.122
+  skip-cert-verify: true
+  sni: vpn-sg-001.fastervpn.world
+  tls: false
+  type: hysteria2
 - name: 🪼48@NetFlowTools
   password: qQe1z5kU8kN6SlKnDt9Ru3Qp
   port: 443
@@ -1136,6 +1208,22 @@ proxies:
   password: qQe1z5kU8kN6SlKnDt9Ru3Qp
   port: 443
   server: 47.129.9.33
+  skip-cert-verify: true
+  sni: vpn-sg-001.fastervpn.world
+  tls: false
+  type: hysteria2
+- name: 🕹️48@v2ray_configs_pools
+  password: qQe1z5kU8kN6SlKnDt9Ru3Qp
+  port: 443
+  server: 52.221.230.24
+  skip-cert-verify: true
+  sni: vpn-sg-001.fastervpn.world
+  tls: false
+  type: hysteria2
+- name: 🕹️49@v2ray_configs_pools
+  password: qQe1z5kU8kN6SlKnDt9Ru3Qp
+  port: 443
+  server: 54.251.212.188
   skip-cert-verify: true
   sni: vpn-sg-001.fastervpn.world
   tls: false
@@ -1170,7 +1258,7 @@ proxies:
   sni: tunel1.washing.help
   tls: false
   type: hysteria2
-- name: '🇩🇪@V2RayyNGvpn🇩🇪 #1'
+- name: '🇩🇪@V2RayyNGvpn🇩🇪 #2'
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
   password: t-me-V2RayyNGvpN
@@ -1180,7 +1268,7 @@ proxies:
   sni: www.amd.com
   tls: false
   type: hysteria2
-- name: '🇩🇪@V2RayyNGvpn🇩🇪 #2'
+- name: '🇩🇪@V2RayyNGvpn🇩🇪 #3'
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
   password: t-me-V2RayyNGvpn
