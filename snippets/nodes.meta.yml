@@ -1122,14 +1122,6 @@ proxies:
   sni: api.push.apple.com
   tls: false
   type: hysteria2
-- name: 🎲4@oneclickvpnkeys
-  password: aa297f2a-42b2-440e-80cc-5c758f5f1003
-  port: 4142
-  server: 2a0b:4142:a86::2
-  skip-cert-verify: true
-  sni: c9a0c4942b7edk1v6.587458.xyz
-  tls: false
-  type: hysteria2
 - name: '@KAFING_2 #2'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
@@ -1138,16 +1130,6 @@ proxies:
   server: 5.175.249.174
   skip-cert-verify: true
   sni: api.kermanshahi.org
-  tls: false
-  type: hysteria2
-- name: '@tootffarangi🍓-7'
-  obfs: salamander
-  obfs-password: wbpq2m519yken2qi
-  password: bjqhikidgbvefako
-  port: 34909
-  server: max-ep.443.erangle.ru
-  skip-cert-verify: false
-  sni: a-l.fl-sub.erangle.ru
   tls: false
   type: hysteria2
 - name: 'تلگرام : MTMVPN'
