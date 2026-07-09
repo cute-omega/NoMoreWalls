@@ -44,7 +44,23 @@ proxies:
   sni: mg2.mangshe.xyz
   tls: false
   type: hysteria2
-- name: 🎲99@oneclickvpnkeys
+- name: 🇺🇸104400 | ⚡️Telegram = t.me/v...
+  password: 03e7f55f-22f8-4564-880f-b86c8cdbf140
+  port: 8449
+  server: 45.196.182.194
+  skip-cert-verify: true
+  sni: sni.fi-m247-02.com
+  tls: false
+  type: hysteria2
+- name: 🇺🇸104402 | ⚡️Telegram = t.me/v...
+  password: 03e7f55f-22f8-4564-880f-b86c8cdbf140
+  port: 8449
+  server: 45.196.182.197
+  skip-cert-verify: true
+  sni: sni.fi-m247-02.com
+  tls: false
+  type: hysteria2
+- name: 🇺🇸104398 | ⚡️Telegram = t.me/v...
   password: 03e7f55f-22f8-4564-880f-b86c8cdbf140
   port: 8449
   server: 45.196.182.201
@@ -52,7 +68,7 @@ proxies:
   sni: sni.fi-m247-02.com
   tls: false
   type: hysteria2
-- name: 🎲100@oneclickvpnkeys
+- name: 🇺🇸104399 | ⚡️Telegram = t.me/v...
   password: 03e7f55f-22f8-4564-880f-b86c8cdbf140
   port: 8449
   server: 45.196.182.220
@@ -60,7 +76,7 @@ proxies:
   sni: sni.fi-m247-02.com
   tls: false
   type: hysteria2
-- name: 🎲98@oneclickvpnkeys
+- name: 🇺🇸104397 | ⚡️Telegram = t.me/v...
   password: 03e7f55f-22f8-4564-880f-b86c8cdbf140
   port: 8449
   server: 45.196.182.254

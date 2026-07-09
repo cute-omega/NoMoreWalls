@@ -833,14 +833,6 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 🎲94@oneclickvpnkeys
-  password: 03e7f55f-22f8-4564-880f-b86c8cdbf140
-  port: 8449
-  server: 45.196.182.143
-  skip-cert-verify: true
-  sni: sni.fi-m247-02.com
-  tls: false
-  type: hysteria2
 - name: 5🎲@v2ray_configs_pools
   password: 03e7f55f-22f8-4564-880f-b86c8cdbf140
   port: 8449
@@ -873,7 +865,7 @@ proxies:
   sni: sni.fi-m247-02.com
   tls: false
   type: hysteria2
-- name: 🎲99@oneclickvpnkeys
+- name: 🇺🇸104398 | ⚡️Telegram = t.me/v...
   password: 03e7f55f-22f8-4564-880f-b86c8cdbf140
   port: 8449
   server: 45.196.182.201
@@ -889,7 +881,7 @@ proxies:
   sni: sni.fi-m247-02.com
   tls: false
   type: hysteria2
-- name: 🎲100@oneclickvpnkeys
+- name: 🇺🇸104399 | ⚡️Telegram = t.me/v...
   password: 03e7f55f-22f8-4564-880f-b86c8cdbf140
   port: 8449
   server: 45.196.182.220
@@ -913,7 +905,7 @@ proxies:
   sni: sni.fi-m247-02.com
   tls: false
   type: hysteria2
-- name: 🎲98@oneclickvpnkeys
+- name: 🇺🇸104397 | ⚡️Telegram = t.me/v...
   password: 03e7f55f-22f8-4564-880f-b86c8cdbf140
   port: 8449
   server: 45.196.182.254
@@ -921,7 +913,7 @@ proxies:
   sni: sni.fi-m247-02.com
   tls: false
   type: hysteria2
-- name: 🎲97@oneclickvpnkeys
+- name: 🇫🇮104396 | ⚡️Telegram = t.me/v...
   password: 03e7f55f-22f8-4564-880f-b86c8cdbf140
   port: 8449
   server: 66.234.150.227
@@ -978,6 +970,13 @@ proxies:
   port: 5443
   server: france-2.hysteria.ltd
   sni: france-2.hysteria.ltd
+  tls: false
+  type: hysteria2
+- name: 🎍25@oneclickvpnkeys
+  password: 57c77d07-bec3-4bf7-9b72-70ece40450f6
+  port: 5443
+  server: unic.hysteria.ltd
+  sni: unic.hysteria.ltd
   tls: false
   type: hysteria2
 - name: ♾️Join->🆔️@ATLAS_V2VPN🆓️🛜🔷️432...
@@ -1084,6 +1083,16 @@ proxies:
   sni: 179.61.132.96
   tls: false
   type: hysteria2
+- name: 未命名
+  obfs: salamander
+  obfs-password: t-me-V2RayyNGvpn
+  password: TGzLlWQaFb
+  port: 40460
+  server: 91.107.152.188
+  skip-cert-verify: true
+  sni: ''
+  tls: false
+  type: hysteria2
 - name: '🇩🇪@V2RayyNGvpn #1'
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
@@ -1140,6 +1149,16 @@ proxies:
   server: 5.175.249.174
   skip-cert-verify: true
   sni: api.kermanshahi.org
+  tls: false
+  type: hysteria2
+- name: 🎍7@oneclickvpnkeys
+  obfs: salamander
+  obfs-password: rG07s3COMIEvdnQipRyWzx_H_2xygNC3
+  password: p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR
+  port: 443
+  server: 130.49.161.70
+  skip-cert-verify: true
+  sni: hy2.aspidnet.xyz
   tls: false
   type: hysteria2
 - name: '@meliproxyy'
@@ -1202,16 +1221,6 @@ proxies:
   sni: tunel1.washing.help
   tls: false
   type: hysteria2
-- name: '🇩🇪@V2RayyNGvpn #2'
-  obfs: salamander
-  obfs-password: t-me-V2RayyNGvpn
-  password: t-me-V2RayyNGvpn
-  port: 40460
-  server: 91.107.152.188
-  skip-cert-verify: true
-  sni: www.amd.com
-  tls: false
-  type: hysteria2
 - name: 🎖️V2rayyNGvpn
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
@@ -1220,6 +1229,14 @@ proxies:
   server: 91.107.152.188
   skip-cert-verify: true
   sni: www.amd.com
+  tls: false
+  type: hysteria2
+- name: 🎍18@oneclickvpnkeys
+  password: zhangyang
+  port: 6443
+  server: 130.61.50.75
+  skip-cert-verify: true
+  sni: dash.cloudflare.com
   tls: false
   type: hysteria2
 - name: 🇩🇪@V2raybazi
