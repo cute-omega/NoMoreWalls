@@ -162,16 +162,6 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 🇩🇪@V2RayyNGvpn
-  obfs: salamander
-  obfs-password: t-me-V2RayyNGvpn
-  password: Hd04Vxxpn2
-  port: 40460
-  server: 91.107.152.188
-  skip-cert-verify: true
-  sni: www.amd.com
-  tls: false
-  type: hysteria2
 - name: 🇩🇪@V2RayyNGvpn🇩🇪
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
@@ -182,7 +172,7 @@ proxies:
   sni: www.amd.com
   tls: false
   type: hysteria2
-- name: '🇩🇪@V2RayyNGvpn #1'
+- name: 🇩🇪@V2RayyNGvpn
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
   password: TGzLlWQaFb
@@ -192,7 +182,7 @@ proxies:
   sni: www.amd.com
   tls: false
   type: hysteria2
-- name: '🇩🇪@V2RayyNGvpn #2'
+- name: '🇩🇪@V2RayyNGvpn #1'
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
   password: y4nJ8poIsh
