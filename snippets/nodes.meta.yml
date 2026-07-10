@@ -857,7 +857,7 @@ proxies:
   sni: social.klipp.su
   tls: false
   type: hysteria2
-- name: telegram @mtmvpn
+- name: 🇩🇪@FreakConfig
   obfs: salamander
   obfs-password: ngljeqgna3hmfr2s
   password: 91uokb9ud7raz0fk
@@ -915,6 +915,16 @@ proxies:
   server: 54.254.22.28
   skip-cert-verify: true
   sni: https://t.me/WangCai2🇨🇳
+  tls: false
+  type: hysteria2
+- name: '@V2RayyNGvpn🇩🇪'
+  obfs: salamander
+  obfs-password: t-me-V2RayyNGvpn
+  password: KYFundefinedZYs4KB
+  port: 40460
+  server: 91.107.152.188
+  skip-cert-verify: true
+  sni: www.amd.com
   tls: false
   type: hysteria2
 - name: 🩵+@Azarakhsh_Proxy+🩷
@@ -1015,16 +1025,6 @@ proxies:
   server: 80.66.81.78
   skip-cert-verify: false
   sni: tunel1.washing.help
-  tls: false
-  type: hysteria2
-- name: '@filembad'
-  obfs: salamander
-  obfs-password: 47tn6dgvjzotndv8
-  password: vyba34ny8juddmmi
-  port: 35288
-  server: wp.zibayeman.com
-  skip-cert-verify: false
-  sni: wp.zibayeman.com
   tls: false
   type: hysteria2
 - name: '🇩🇪@V2RayyNGvpn #1'
