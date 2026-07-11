@@ -3,102 +3,92 @@ proxies:
   cipher: auto
   name: 防范境外势力渗透
   network: tcp
-  port: '443'
-  server: 160.79.104.10
-  servername: www.anthropic.com
-  tls: true
+  port: '80'
+  server: 127.0.0.53
+  tls: false
   type: vmess
-  uuid: 88888888-8888-8888-8888-888888888880
+  uuid: 88888888-8888-8888-8888-888888888888
 - alterId: 0
   cipher: auto
   name: '防范境外势力渗透 #1'
   network: tcp
-  port: '443'
-  server: 160.79.104.10
-  servername: www.anthropic.com
-  tls: true
+  port: '81'
+  server: 127.0.0.53
+  tls: false
   type: vmess
-  uuid: 88888888-8888-8888-8888-888888888881
+  uuid: 88888888-8888-8888-8888-888888888888
 - alterId: 0
   cipher: auto
   name: '防范境外势力渗透 #2'
   network: tcp
-  port: '443'
-  server: 160.79.104.10
-  servername: www.anthropic.com
-  tls: true
+  port: '82'
+  server: 127.0.0.53
+  tls: false
   type: vmess
-  uuid: 88888888-8888-8888-8888-888888888882
+  uuid: 88888888-8888-8888-8888-888888888888
 - alterId: 0
   cipher: auto
   name: '防范境外势力渗透 #3'
   network: tcp
-  port: '443'
-  server: 160.79.104.10
-  servername: www.anthropic.com
-  tls: true
+  port: '83'
+  server: 127.0.0.53
+  tls: false
   type: vmess
-  uuid: 88888888-8888-8888-8888-888888888883
+  uuid: 88888888-8888-8888-8888-888888888888
 - alterId: 0
   cipher: auto
   name: '防范境外势力渗透 #4'
   network: tcp
-  port: '443'
-  server: 160.79.104.10
-  servername: www.anthropic.com
-  tls: true
+  port: '84'
+  server: 127.0.0.53
+  tls: false
   type: vmess
-  uuid: 88888888-8888-8888-8888-888888888884
+  uuid: 88888888-8888-8888-8888-888888888888
 - alterId: 0
   cipher: auto
   name: '防范境外势力渗透 #5'
   network: tcp
-  port: '443'
-  server: 160.79.104.10
-  servername: www.anthropic.com
-  tls: true
+  port: '85'
+  server: 127.0.0.53
+  tls: false
   type: vmess
-  uuid: 88888888-8888-8888-8888-888888888885
+  uuid: 88888888-8888-8888-8888-888888888888
 - alterId: 0
   cipher: auto
   name: '防范境外势力渗透 #6'
   network: tcp
-  port: '443'
-  server: 160.79.104.10
-  servername: www.anthropic.com
-  tls: true
+  port: '86'
+  server: 127.0.0.53
+  tls: false
   type: vmess
-  uuid: 88888888-8888-8888-8888-888888888886
+  uuid: 88888888-8888-8888-8888-888888888888
 - alterId: 0
   cipher: auto
   name: '防范境外势力渗透 #7'
   network: tcp
-  port: '443'
-  server: 160.79.104.10
-  servername: www.anthropic.com
-  tls: true
+  port: '87'
+  server: 127.0.0.53
+  tls: false
   type: vmess
-  uuid: 88888888-8888-8888-8888-888888888887
+  uuid: 88888888-8888-8888-8888-888888888888
 - alterId: 0
   cipher: auto
   name: '防范境外势力渗透 #8'
   network: tcp
-  port: '443'
-  server: 160.79.104.10
-  servername: www.anthropic.com
-  tls: true
+  port: '88'
+  server: 127.0.0.53
+  tls: false
   type: vmess
   uuid: 88888888-8888-8888-8888-888888888888
 - alterId: 0
   cipher: auto
   name: '防范境外势力渗透 #9'
   network: tcp
-  port: '443'
-  server: 160.79.104.10
-  servername: www.anthropic.com
-  tls: true
+  port: '89'
+  server: 127.0.0.53
+  tls: false
   type: vmess
-  uuid: 88888888-8888-8888-8888-888888888889
+  uuid: 88888888-8888-8888-8888-888888888888
 - name: DE1｜机房｜低风险
   password: aa98121d-728a-437c-a84f-99feb82a467f
   port: 21118
@@ -833,6 +823,16 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
+- name: 🇩🇪 t-me-V2RayyNGvpn 🇩🇪
+  obfs: salamander
+  obfs-password: t-me-V2RayyNGvpn
+  password: 58cb3fdyZN
+  port: 40460
+  server: 91.107.152.188
+  skip-cert-verify: true
+  sni: www.amd.com
+  tls: false
+  type: hysteria2
 - name: ♾️Join->🆔️@ATLAS_V2VPN🆓️🛜🔷️432...
   obfs: salamander
   obfs-password: 3sv5vpdl9xr84lyb
@@ -887,16 +887,6 @@ proxies:
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
   password: MjLSEZj2IW
-  port: 40460
-  server: 91.107.152.188
-  skip-cert-verify: true
-  sni: www.amd.com
-  tls: false
-  type: hysteria2
-- name: '🇩🇪@V2RayyNGvpn🇩🇪 #1'
-  obfs: salamander
-  obfs-password: t-me-V2RayyNGvpn
-  password: QjdEEystFJ
   port: 40460
   server: 91.107.152.188
   skip-cert-verify: true
