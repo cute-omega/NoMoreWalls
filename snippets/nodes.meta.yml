@@ -933,6 +933,13 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
+- name: 4🟢@oneclickvpnkeys
+  password: bce6c821-200d-421f-bf3d-7159e5246ea0
+  port: 33333
+  server: 155.248.209.237
+  sni: hy2.123266.xyz
+  tls: false
+  type: hysteria2
 - name: 🟢30@v2ray_configs_pools
   obfs: salamander
   obfs-password: lhfl2z9mjngb7csh
