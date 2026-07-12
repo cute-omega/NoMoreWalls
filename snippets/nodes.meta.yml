@@ -911,15 +911,6 @@ proxies:
   sni: www.amd.com
   tls: false
   type: hysteria2
-- name: 🇩🇪108966 | ⚡️Telegram = t.me/S...
-  obfs: salamander
-  obfs-password: pqvmx29fokvh8ubb
-  password: TELEgRAM-ID-conf0088
-  port: 2053
-  server: cuetara.name.cuetara.name
-  skip-cert-verify: false
-  tls: false
-  type: hysteria2
 - name: '@prrofile_purple  ♥️👈 تلگرام'
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
@@ -991,7 +982,9 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: telegram @mtmvpn 8
+- alpn:
+  - h3
+  name: '@v2ray_configs_pools'
   obfs: salamander
   obfs-password: 53cgqwhojoxri5lr
   password: elknam6l7izf3z71
@@ -1001,14 +994,14 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: '@GozargahAzad|🇫🇮'
+- name: telegram @mtmvpn 8
   obfs: salamander
-  obfs-password: mtg2vchyir6la3et
+  obfs-password: 53cgqwhojoxri5lr
   password: elknam6l7izf3z71
-  port: 52021
+  port: 52018
   server: assets.gateway-stream.com
   skip-cert-verify: false
-  sni: ''
+  sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
 - name: 🇫🇮109138 | ⚡️Telegram = t.me/S...
