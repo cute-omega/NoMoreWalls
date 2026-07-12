@@ -901,6 +901,15 @@ proxies:
   sni: www.amd.com
   tls: false
   type: hysteria2
+- name: 🇩🇪108966 | ⚡️Telegram = t.me/S...
+  obfs: salamander
+  obfs-password: pqvmx29fokvh8ubb
+  password: TELEgRAM-ID-conf0088
+  port: 2053
+  server: cuetara.name.cuetara.name
+  skip-cert-verify: false
+  tls: false
+  type: hysteria2
 - name: '@prrofile_purple  ♥️👈 تلگرام'
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
@@ -938,7 +947,7 @@ proxies:
   sni: argg2.auragg.org
   tls: false
   type: hysteria2
-- name: '🇭🇰108787 | ⚡️Telegram = t.me/S... #1'
+- name: 🇭🇰108787 | ⚡️Telegram = t.me/S...
   password: b05346a9-4d13-41a4-8d2a-6b7b64e73ffc
   port: 443
   server: soskeynets.auragg.org

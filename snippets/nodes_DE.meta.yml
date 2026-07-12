@@ -210,6 +210,15 @@ proxies:
   sni: www.amd.com
   tls: false
   type: hysteria2
+- name: 🇩🇪108966 | ⚡️Telegram = t.me/S...
+  obfs: salamander
+  obfs-password: pqvmx29fokvh8ubb
+  password: TELEgRAM-ID-conf0088
+  port: 2053
+  server: cuetara.name.cuetara.name
+  skip-cert-verify: false
+  tls: false
+  type: hysteria2
 - name: 🇩🇪@V2RayyNGvpn🇩🇪hy
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
