@@ -851,6 +851,16 @@ proxies:
   sni: qg.easyiran.org
   tls: false
   type: hysteria2
+- name: 🇩🇪109031 | ⚡️Telegram = t.me/S...
+  obfs: salamander
+  obfs-password: t-me-V2RayyNGvpn
+  password: CakZRUUlundefinedS
+  port: 40460
+  server: 91.107.152.188
+  skip-cert-verify: true
+  sni: www.amd.com
+  tls: false
+  type: hysteria2
 - name: t-me-V2RayyNGvpn🎖️
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
@@ -991,6 +1001,36 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
+- name: '@GozargahAzad|🇫🇮'
+  obfs: salamander
+  obfs-password: mtg2vchyir6la3et
+  password: elknam6l7izf3z71
+  port: 52021
+  server: assets.gateway-stream.com
+  skip-cert-verify: false
+  sni: ''
+  tls: false
+  type: hysteria2
+- name: 🇫🇮109138 | ⚡️Telegram = t.me/S...
+  obfs: salamander
+  obfs-password: mtg2vchyir6la3et
+  password: elknam6l7izf3z71
+  port: 52021
+  server: assets.gateway-stream.com
+  skip-cert-verify: false
+  sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: '🇫🇮109138 | ⚡️Telegram = t.me/S... #1'
+  obfs: salamander
+  obfs-password: mtg2vchyir6la3et
+  password: elknam6l7izf3z71
+  port: 52021
+  server: soskeynets.gateway-stream.com
+  skip-cert-verify: false
+  sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
 - name: '🧸@v2ray_configs_pools #1'
   obfs: salamander
   obfs-password: lhfl2z9mjngb7csh
@@ -1001,7 +1041,7 @@ proxies:
   sni: nrealistic.nn-foto.ru
   tls: false
   type: hysteria2
-- name: 'Tel: @Daily_Configs'
+- name: 🇩🇪109092 | ⚡️Telegram = t.me/S...
   obfs: salamander
   obfs-password: 3sv5vpdl9xr84lyb
   password: eltgrek81o6w5cd4
@@ -1011,7 +1051,7 @@ proxies:
   sni: social.klipp.su
   tls: false
   type: hysteria2
-- name: '🇳🇱108880 | ⚡️Telegram = t.me/S... #1'
+- name: 🇳🇱108880 | ⚡️Telegram = t.me/S...
   obfs: salamander
   obfs-password: lhfl2z9mjngb7csh
   password: eltgrek81o6w5cd4
@@ -1021,7 +1061,7 @@ proxies:
   sni: nrealistic.nn-foto.ru
   tls: false
   type: hysteria2
-- name: hy2@V2RayyNGvpn
+- name: 🇩🇪109085 | ⚡️Telegram = t.me/S...
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
   password: hPrGN1Oundefinedwu

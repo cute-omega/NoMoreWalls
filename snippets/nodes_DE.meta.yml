@@ -180,6 +180,16 @@ proxies:
   sni: www.amd.com
   tls: false
   type: hysteria2
+- name: 🇩🇪109031 | ⚡️Telegram = t.me/S...
+  obfs: salamander
+  obfs-password: t-me-V2RayyNGvpn
+  password: CakZRUUlundefinedS
+  port: 40460
+  server: 91.107.152.188
+  skip-cert-verify: true
+  sni: www.amd.com
+  tls: false
+  type: hysteria2
 - name: 🇩🇪108906 | ⚡️Telegram = t.me/S...
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
