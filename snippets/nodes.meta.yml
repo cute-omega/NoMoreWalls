@@ -868,6 +868,18 @@ proxies:
   sni: qg.easyiran.org
   tls: false
   type: hysteria2
+- alpn:
+  - h3
+  name: '@Badangellll-JOIN🤝 وصل شین ،حم...'
+  obfs: salamander
+  obfs-password: lwhvz2y1ntz8p5nf
+  password: BADANGELLLL
+  port: 53008
+  server: 169.40.32.218
+  skip-cert-verify: false
+  sni: 169.40.32.218
+  tls: false
+  type: hysteria2
 - name: telegram @mtmvpn 🌛
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
@@ -948,7 +960,7 @@ proxies:
   sni: www.amd.com
   tls: false
   type: hysteria2
-- name: 🎡62@oneclickvpnkeys
+- name: 🎡62@v2ray_configs_pools
   obfs: salamander
   obfs-password: pqvmx29fokvh8ubb
   password: TELEgRAM-ID-conf0088
@@ -986,6 +998,16 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
+- name: Telegram🇩🇪V2RayyNGvpn
+  obfs: salamander
+  obfs-password: t-me-V2RayyNGvpn
+  password: Z5dFAw7u6U
+  port: 40460
+  server: 91.107.152.188
+  skip-cert-verify: true
+  sni: www.amd.com
+  tls: false
+  type: hysteria2
 - name: 🪯46@oneclickvpnkeys
   password: b05346a9-4d13-41a4-8d2a-6b7b64e73ffc
   port: 443
@@ -1003,11 +1025,81 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 🇧🇪TELEGRAM➜@MetiVIP
+- name: 🇫🇮FI-🚀@VPNine1
+  obfs: salamander
+  obfs-password: ielzukpwth087afx
+  password: elknam6l7izf3z71
+  port: 52002
+  server: assets.gateway-stream.com
+  skip-cert-verify: false
+  sni: ''
+  tls: false
+  type: hysteria2
+- name: '🇫🇮FI-🚀@VPNine1 #1'
+  obfs: salamander
+  obfs-password: ielzukpwth087afx
+  password: elknam6l7izf3z71
+  port: 52002
+  server: assets.gateway-stream.com
+  skip-cert-verify: false
+  sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: '🇫🇮FI-🚀@VPNine1 #2'
+  obfs: salamander
+  obfs-password: 5xo4v7u2pv8bktvb
+  password: elknam6l7izf3z71
+  port: 52003
+  server: assets.gateway-stream.com
+  skip-cert-verify: false
+  sni: ''
+  tls: false
+  type: hysteria2
+- name: '🇫🇮FI-🚀@VPNine1 #3'
+  obfs: salamander
+  obfs-password: 5xo4v7u2pv8bktvb
+  password: elknam6l7izf3z71
+  port: 52003
+  server: assets.gateway-stream.com
+  skip-cert-verify: false
+  sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: '🇫🇮FI-🚀@VPNine1 #4'
+  obfs: salamander
+  obfs-password: xurzv3qedv07k4f0
+  password: elknam6l7izf3z71
+  port: 52005
+  server: assets.gateway-stream.com
+  skip-cert-verify: false
+  sni: ''
+  tls: false
+  type: hysteria2
+- name: '🇫🇮FI-🚀@VPNine1 #5'
+  obfs: salamander
+  obfs-password: xurzv3qedv07k4f0
+  password: elknam6l7izf3z71
+  port: 52005
+  server: assets.gateway-stream.com
+  skip-cert-verify: false
+  sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: 🇫🇮109677 | ⚡️Telegram = t.me/S...
   obfs: salamander
   obfs-password: 93lc6r07zfx4crct
   password: elknam6l7izf3z71
   port: 52008
+  server: assets.gateway-stream.com
+  skip-cert-verify: false
+  sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: 🇫🇮109678 | ⚡️Telegram = t.me/S...
+  obfs: salamander
+  obfs-password: kf1lypzqidy6pimt
+  password: elknam6l7izf3z71
+  port: 52009
   server: assets.gateway-stream.com
   skip-cert-verify: false
   sni: assets.gateway-stream.com
@@ -1135,6 +1227,56 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
+- name: '🇫🇮109674 | ⚡️Telegram = t.me/S... #1'
+  obfs: salamander
+  obfs-password: ielzukpwth087afx
+  password: elknam6l7izf3z71
+  port: 52002
+  server: soskeynets.gateway-stream.com
+  skip-cert-verify: false
+  sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: '🇫🇮109675 | ⚡️Telegram = t.me/S... #1'
+  obfs: salamander
+  obfs-password: 5xo4v7u2pv8bktvb
+  password: elknam6l7izf3z71
+  port: 52003
+  server: soskeynets.gateway-stream.com
+  skip-cert-verify: false
+  sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: '🇫🇮109676 | ⚡️Telegram = t.me/S... #1'
+  obfs: salamander
+  obfs-password: xurzv3qedv07k4f0
+  password: elknam6l7izf3z71
+  port: 52005
+  server: soskeynets.gateway-stream.com
+  skip-cert-verify: false
+  sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: '🇫🇮109677 | ⚡️Telegram = t.me/S... #1'
+  obfs: salamander
+  obfs-password: 93lc6r07zfx4crct
+  password: elknam6l7izf3z71
+  port: 52008
+  server: soskeynets.gateway-stream.com
+  skip-cert-verify: false
+  sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: '🇫🇮109678 | ⚡️Telegram = t.me/S... #1'
+  obfs: salamander
+  obfs-password: kf1lypzqidy6pimt
+  password: elknam6l7izf3z71
+  port: 52009
+  server: soskeynets.gateway-stream.com
+  skip-cert-verify: false
+  sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
 - name: '🧸@v2ray_configs_pools #1'
   obfs: salamander
   obfs-password: lhfl2z9mjngb7csh
@@ -1195,7 +1337,7 @@ proxies:
   sni: www.oracle.com
   tls: false
   type: hysteria2
-- name: 🪯16@oneclickvpnkeys
+- name: 🇩🇪@V2raybazi
   password: zhangyang
   port: 6443
   server: 130.61.50.75
