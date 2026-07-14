@@ -192,27 +192,7 @@ proxies:
   sni: www.amd.com
   tls: false
   type: hysteria2
-- name: '@V2RayyNGvpn🇩🇪'
-  obfs: salamander
-  obfs-password: t-me-V2RayyNGvpn
-  password: KYFundefinedZYs4KB
-  port: 40460
-  server: 91.107.152.188
-  skip-cert-verify: true
-  sni: www.amd.com
-  tls: false
-  type: hysteria2
-- name: 🇩🇪@V2RayyNGvpn🇩🇪
-  obfs: salamander
-  obfs-password: t-me-V2RayyNGvpn
-  password: MjLSEZj2IW
-  port: 40460
-  server: 91.107.152.188
-  skip-cert-verify: true
-  sni: www.amd.com
-  tls: false
-  type: hysteria2
-- name: 🇩🇪109753 | ⚡️Telegram = t.me/S...
+- name: Telegram🇩🇪V2RayyNGvpn
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
   password: Z5dFAw7u6U
@@ -220,16 +200,6 @@ proxies:
   server: 91.107.152.188
   skip-cert-verify: true
   sni: www.amd.com
-  tls: false
-  type: hysteria2
-- name: 🇩🇪 TELEGRAM➜@MetiVIP
-  obfs: salamander
-  obfs-password: detgimgm8qh8i2g2
-  password: elknam6l7izf3z71
-  port: 52023
-  server: assets.gateway-stream.com
-  skip-cert-verify: false
-  sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
 - name: 🇩🇪@V2RayyNGvpn🇩🇪hy
