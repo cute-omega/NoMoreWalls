@@ -759,44 +759,6 @@ proxies:
   sni: my.xn--ehqa22b.site
   tls: false
   type: hysteria2
-- name: 美国2
-  password: 78c2bad7-f5f3-41f2-88cc-81de9d05040b
-  port: 2056
-  server: mg2.mangshe.xyz
-  skip-cert-verify: true
-  sni: mg2.mangshe.xyz
-  tls: false
-  type: hysteria2
-- name: 新加坡1
-  password: 78c2bad7-f5f3-41f2-88cc-81de9d05040b
-  port: 2055
-  server: xjp1.mangshe.xyz
-  skip-cert-verify: true
-  sni: xjp1.mangshe.xyz
-  tls: false
-  type: hysteria2
-- name: JP
-  password: 95D27EEF-B7AE-4076-BA39-40FDFA3D0F61
-  port: 13778
-  server: jp7.dexlos.com
-  skip-cert-verify: true
-  tls: false
-  type: hysteria2
-- name: DE
-  password: a084933d-0b41-4571-ae0c-7163b8c71ed1
-  port: 2056
-  server: de.eyucdn.xyz
-  skip-cert-verify: true
-  sni: de.eyucdn.xyz
-  tls: false
-  type: hysteria2
-- name: 🇭🇰 HK
-  password: a305ac08-d136-11ee-b6db-f23c91cfbbc9
-  port: 443
-  server: ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com
-  sni: ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com
-  tls: false
-  type: hysteria2
 - name: '@KAFING_2'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
@@ -805,22 +767,6 @@ proxies:
   server: 181.214.99.162
   skip-cert-verify: true
   sni: api.kermanshahi.org
-  tls: false
-  type: hysteria2
-- name: SG
-  password: e7965e64-e001-4e8c-8273-39c61ff4a094
-  port: 30000
-  server: sg3.oomz.ru
-  skip-cert-verify: true
-  sni: bing.com
-  tls: false
-  type: hysteria2
-- name: TW
-  password: e7965e64-e001-4e8c-8273-39c61ff4a094
-  port: 30000
-  server: tw.oomz.ru
-  skip-cert-verify: true
-  sni: bing.com
   tls: false
   type: hysteria2
 - name: کانال ما @V2RayyNGvpn🇨🇵
@@ -833,7 +779,7 @@ proxies:
   sni: www.oracle.com
   tls: false
   type: hysteria2
-- name: 🇩🇪@FreakConfig
+- name: 🇩🇪@V2rayng_Fast
   obfs: salamander
   obfs-password: ngljeqgna3hmfr2s
   password: 91uokb9ud7raz0fk
@@ -893,16 +839,6 @@ proxies:
   server: 91.107.152.188
   skip-cert-verify: true
   sni: www.amd.com
-  tls: false
-  type: hysteria2
-- name: 🇨🇵کانال ما @V2RayyNGvpn
-  obfs: salamander
-  obfs-password: t-me-V2RayyNGvpn
-  password: Qre45Hk3Yh
-  port: 33884
-  server: 140.233.177.48
-  skip-cert-verify: true
-  sni: www.oracle.com
   tls: false
   type: hysteria2
 - name: 🇩🇪@V2RayyNGvpn کانال ما 🇩🇪
@@ -985,22 +921,12 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: 🇫🇮110955 | ⚡️Telegram = t.me/S...
+- name: برای اتصال دائمی جوین شو🫟 Tele...
   obfs: salamander
   obfs-password: mtg2vchyir6la3et
   password: elknam6l7izf3z71
   port: 52021
   server: assets.gateway-stream.com
-  skip-cert-verify: false
-  sni: assets.gateway-stream.com
-  tls: false
-  type: hysteria2
-- name: '🇫🇮110955 | ⚡️Telegram = t.me/S... #1'
-  obfs: salamander
-  obfs-password: mtg2vchyir6la3et
-  password: elknam6l7izf3z71
-  port: 52021
-  server: soskeynets.gateway-stream.com
   skip-cert-verify: false
   sni: assets.gateway-stream.com
   tls: false
@@ -1015,7 +941,7 @@ proxies:
   sni: social.klipp.su
   tls: false
   type: hysteria2
-- name: 🇩🇪111085 | ⚡️Telegram = t.me/S...
+- name: '@V2RayyNGvpn کانال ما🇩🇪'
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
   password: p3HaP2Lht6
@@ -1045,10 +971,30 @@ proxies:
   sni: tunel1.washing.help
   tls: false
   type: hysteria2
+- name: 🇩🇪@V2RayyNGvpn کانال ما
+  obfs: salamander
+  obfs-password: t-me-V2RayyNGvpn
+  password: tf5LINcpQy
+  port: 40460
+  server: 91.107.152.188
+  skip-cert-verify: true
+  sni: www.amd.com
+  tls: false
+  type: hysteria2
 - name: 'Channel : @Daily_Configs'
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
   password: uQUfGOf9Mx
+  port: 33884
+  server: 140.233.177.48
+  skip-cert-verify: true
+  sni: www.oracle.com
+  tls: false
+  type: hysteria2
+- name: 🇨🇵کانال ما @V2RayyNGvpn
+  obfs: salamander
+  obfs-password: t-me-V2RayyNGvpn
+  password: vVaz4PV7B7
   port: 33884
   server: 140.233.177.48
   skip-cert-verify: true
