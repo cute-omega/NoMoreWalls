@@ -162,20 +162,6 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 🪭68@oneclickvpnkeys
-  password: 792V1zl5cJHSV3wjyGPXiFbx1YA4BrIr
-  port: 8449
-  server: jongjmi.odnako.site
-  sni: jongjmi.odnako.site
-  tls: false
-  type: hysteria2
-- name: '🇩🇪112515 | ⚡️Telegram = t.me/S... #1'
-  password: 792V1zl5cJHSV3wjyGPXiFbx1YA4BrIr
-  port: 8449
-  server: soskeynets.odnako.site
-  sni: jongjmi.odnako.site
-  tls: false
-  type: hysteria2
 - name: '@V2RayyNGvpn کانال ما🇩🇪'
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
@@ -186,7 +172,27 @@ proxies:
   sni: www.amd.com
   tls: false
   type: hysteria2
+- name: '🇩🇪@V2rayng_Fast #1'
+  obfs: salamander
+  obfs-password: t-me-V2RayyNGvpn
+  password: NZC2w2V2NQ
+  port: 40460
+  server: 91.107.152.188
+  skip-cert-verify: true
+  sni: www.amd.com
+  tls: false
+  type: hysteria2
 - name: 🇩🇪Telegram=V2RayyNGvpn🇩🇪
+  obfs: salamander
+  obfs-password: t-me-V2RayyNGvpn
+  password: Ov5kSglMCd
+  port: 31999
+  server: 91.107.152.188
+  skip-cert-verify: true
+  sni: www.amd.com
+  tls: false
+  type: hysteria2
+- name: '🇩🇪Telegram=V2RayyNGvpn🇩🇪 #1'
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
   password: RKJDOKrcIZ
