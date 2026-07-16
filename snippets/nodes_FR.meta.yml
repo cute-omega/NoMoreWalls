@@ -1,4 +1,11 @@
 proxies:
+- name: 🪭23@oneclickvpnkeys
+  password: 87qety_hERGP8Y9_jqier3gw_nA8Q34_B2
+  port: 8443
+  server: 45.155.103.217
+  sni: kamil-power-machine.roxa.org
+  tls: false
+  type: hysteria2
 - name: FR_speednode_0004
   password: 2b57ec48-0da4-11ef-8f35-f23c913c8d2b
   port: 443
