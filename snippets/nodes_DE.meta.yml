@@ -232,3 +232,13 @@ proxies:
   sni: www.amd.com
   tls: false
   type: hysteria2
+- name: 🚀T.Me=V2RayyNGvpn🇩🇪
+  obfs: salamander
+  obfs-password: T-ME-V2RayyNGvpn
+  password: kfCR7ekba6
+  port: 25810
+  server: 91.107.174.32
+  skip-cert-verify: true
+  sni: www.amd.com
+  tls: false
+  type: hysteria2
