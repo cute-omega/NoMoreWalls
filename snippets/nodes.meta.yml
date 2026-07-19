@@ -833,6 +833,13 @@ proxies:
   sni: www.oracle.com
   tls: false
   type: hysteria2
+- name: 🇬🇧115661 | ⚡️Telegram = t.me/S...
+  password: 7_Bz834J98n238cNbx7cjLAw_Nux28c_kIO1Hq86Vr
+  port: 8443
+  server: 151.247.219.191
+  sni: hopp-queen.roxa.org
+  tls: false
+  type: hysteria2
 - name: 3🥉@oneclickvpnkeys
   password: 8bc63720-5ec8-45b5-b6a6-9a21ffb490e8
   port: 8443
@@ -854,6 +861,24 @@ proxies:
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
   password: ALg6h4f8Mo
+  port: 31999
+  server: 91.107.152.188
+  skip-cert-verify: true
+  sni: www.amd.com
+  tls: false
+  type: hysteria2
+- name: 🇩🇪115671 | ⚡️Telegram = t.me/S...
+  password: FR+3uZ+qu5lMaeIEV2OeBK3sQJmmMiABg57L4KFWK78=
+  port: 8443
+  server: vpn.the2oser.lol
+  skip-cert-verify: true
+  sni: vpn.the2oser.lol
+  tls: false
+  type: hysteria2
+- name: ⭕T.Me=V2RayyNGvpn🇩🇪
+  obfs: salamander
+  obfs-password: t-me-V2RayyNGvpn
+  password: IoFmkhjUlE
   port: 31999
   server: 91.107.152.188
   skip-cert-verify: true
