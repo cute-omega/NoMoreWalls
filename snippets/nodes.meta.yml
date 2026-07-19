@@ -833,6 +833,24 @@ proxies:
   sni: www.oracle.com
   tls: false
   type: hysteria2
+- name: 🇸🇪116040 | ⚡️Telegram = t.me/S...
+  obfs: salamander
+  obfs-password: '@JavidnamanIran-Javid-SHAH-King-Reza-Pahlavi'
+  password: 6f436a44f70393da7e45615824a39d3b
+  port: 989
+  server: soskeynets.org
+  sni: bamak.teain.org
+  tls: false
+  type: hysteria2
+- name: '🇸🇪116040 | ⚡️Telegram = t.me/S... #1'
+  obfs: salamander
+  obfs-password: '@JavidnamanIran-Javid-SHAH-King-Reza-Pahlavi'
+  password: 6f436a44f70393da7e45615824a39d3b
+  port: 989
+  server: teain.org
+  sni: bamak.teain.org
+  tls: false
+  type: hysteria2
 - name: ⚽8@oneclickvpnkeys
   password: 7_Bz834J98n238cNbx7cjLAw_Nux28c_kIO1Hq86Vr
   port: 8443
@@ -865,6 +883,13 @@ proxies:
   server: 91.107.152.188
   skip-cert-verify: true
   sni: www.amd.com
+  tls: false
+  type: hysteria2
+- name: 🇵🇱116070 | ⚡️Telegram = t.me/S...
+  password: Apt1923_N9x234gn_Nal5Nx3j_s
+  port: 8443
+  server: 81.27.102.215
+  sni: grape-power-pl.ddnsguru.com
   tls: false
   type: hysteria2
 - name: ⚽27@oneclickvpnkeys
@@ -919,6 +944,26 @@ proxies:
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
   password: Ov5kSglMCd
+  port: 31999
+  server: 91.107.152.188
+  skip-cert-verify: true
+  sni: www.amd.com
+  tls: false
+  type: hysteria2
+- name: 未命名
+  obfs: salamander
+  obfs-password: t-me-V2RayyNGvpn
+  password: R9BN2XHrGV
+  port: 31999
+  server: 91.107.152.188
+  skip-cert-verify: true
+  sni: ''
+  tls: false
+  type: hysteria2
+- name: 🇩🇪@V2RayyNGvpn🇩🇪
+  obfs: salamander
+  obfs-password: t-me-V2RayyNGvpn
+  password: R9BN2XHrGV
   port: 31999
   server: 91.107.152.188
   skip-cert-verify: true
