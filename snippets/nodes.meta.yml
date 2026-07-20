@@ -915,6 +915,16 @@ proxies:
   sni: www.amd.com
   tls: false
   type: hysteria2
+- name: 🇳🇱@V2RayyNGvpn کانال ما  🇳🇱
+  obfs: salamander
+  obfs-password: Telegram=V2RayyNGvpn
+  password: Pld6E6l8xI
+  port: 19978
+  server: 51.15.110.119
+  skip-cert-verify: true
+  sni: www.amd.com
+  tls: false
+  type: hysteria2
 - name: 🇩🇪@V2RayyNGvpn🇩🇪
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
@@ -1015,7 +1025,7 @@ proxies:
   sni: www.amd.com
   tls: false
   type: hysteria2
-- name: '🇩🇪T-ME-V2RayyNGvpn🎖️ #1'
+- name: 🇩🇪T-ME-V2RayyNGvpn🎖️
   obfs: salamander
   obfs-password: T-ME-V2RayyNGvpn
   password: idCPgpLEqx
@@ -1063,16 +1073,6 @@ proxies:
   server: 140.233.177.48
   skip-cert-verify: true
   sni: www.oracle.com
-  tls: false
-  type: hysteria2
-- name: کانال ماV2RayyNGvpn🇩🇪
-  obfs: salamander
-  obfs-password: T-ME-V2RayyNGvpn
-  password: yDkExundefinedconf
-  port: 25810
-  server: 91.107.174.32
-  skip-cert-verify: true
-  sni: www.amd.com
   tls: false
   type: hysteria2
 - cipher: aes-256-cfb
