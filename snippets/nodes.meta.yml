@@ -1001,15 +1001,6 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: 🇫🇮117667 | ⚡️Telegram = t.me/S...
-  obfs: salamander
-  obfs-password: 93lc6r07zfx4crct
-  password: elknam6l7izf3z71
-  port: 52008
-  server: assets.gateway-stream.com
-  skip-cert-verify: false
-  tls: false
-  type: hysteria2
 - name: 🇫🇮FI-🚀@VPNine1
   obfs: salamander
   obfs-password: 53cgqwhojoxri5lr
@@ -1018,16 +1009,6 @@ proxies:
   server: assets.gateway-stream.com
   skip-cert-verify: false
   sni: ''
-  tls: false
-  type: hysteria2
-- name: 🇫🇮117677 | ⚡️Telegram = t.me/S...
-  obfs: salamander
-  obfs-password: 53cgqwhojoxri5lr
-  password: elknam6l7izf3z71
-  port: 52018
-  server: assets.gateway-stream.com
-  skip-cert-verify: false
-  sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
 - name: '@prrofile_purple  ♥️👈 تلگرام'
@@ -1040,26 +1021,7 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: '🇫🇮117667 | ⚡️Telegram = t.me/S... #1'
-  obfs: salamander
-  obfs-password: 93lc6r07zfx4crct
-  password: elknam6l7izf3z71
-  port: 52008
-  server: soskeynets.gateway-stream.com
-  skip-cert-verify: false
-  tls: false
-  type: hysteria2
-- name: '🇫🇮117677 | ⚡️Telegram = t.me/S... #1'
-  obfs: salamander
-  obfs-password: 53cgqwhojoxri5lr
-  password: elknam6l7izf3z71
-  port: 52018
-  server: soskeynets.gateway-stream.com
-  skip-cert-verify: false
-  sni: assets.gateway-stream.com
-  tls: false
-  type: hysteria2
-- name: 🇩🇪117699 | ⚡️Telegram = t.me/S...
+- name: Telegram=V2RayyNGvpn🇩🇪
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
   password: fGc3qPlaQk
