@@ -921,7 +921,7 @@ proxies:
   sni: www.amd.com
   tls: false
   type: hysteria2
-- name: telegram @mtmvpn 15
+- name: '@mehrosaboran'
   obfs: salamander
   obfs-password: T-ME-V2RayyNGvpn
   password: UUoAsk2eM4
@@ -989,6 +989,13 @@ proxies:
   server: 5.175.249.174
   skip-cert-verify: true
   sni: api.kermanshahi.org
+  tls: false
+  type: hysteria2
+- name: 🇺🇸118244 | ⚡️Telegram = t.me/S...
+  password: bce6c821-200d-421f-bf3d-7159e5246ea0
+  port: 33333
+  server: 155.248.209.237
+  skip-cert-verify: true
   tls: false
   type: hysteria2
 - name: '@FarazV2ray'
