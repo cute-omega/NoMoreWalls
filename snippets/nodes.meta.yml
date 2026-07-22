@@ -823,16 +823,6 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: '@AzarAndoozVPNbot'
-  obfs: salamander
-  obfs-password: t-me-V2RayyNGvpn
-  password: 3uIVdQh2vc
-  port: 33884
-  server: 140.233.177.48
-  skip-cert-verify: true
-  sni: www.oracle.com
-  tls: false
-  type: hysteria2
 - name: 🇩🇪@V2RayyNGvpn🇩🇪
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
@@ -853,7 +843,7 @@ proxies:
   sni: www.amd.com
   tls: false
   type: hysteria2
-- name: '@AzarAndoozVPNbot #1'
+- name: '@AzarAndoozVPNbot'
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
   password: ALg6h4f8Mo
@@ -891,26 +881,6 @@ proxies:
   sni: 179.61.132.96
   tls: false
   type: hysteria2
-- name: '@Surfboardv2ray'
-  obfs: salamander
-  obfs-password: t-me-V2RayyNGvpn
-  password: M4q4riAk3C
-  port: 31999
-  server: 91.107.152.188
-  skip-cert-verify: true
-  sni: www.amd.com
-  tls: false
-  type: hysteria2
-- name: '@AzarAndoozVPNbot #2'
-  obfs: salamander
-  obfs-password: t-me-V2RayyNGvpn
-  password: Ov5kSglMCd
-  port: 31999
-  server: 91.107.152.188
-  skip-cert-verify: true
-  sni: www.amd.com
-  tls: false
-  type: hysteria2
 - name: 🇳🇱@V2RayyNGvpn کانال ما  🇳🇱
   obfs: salamander
   obfs-password: Telegram=V2RayyNGvpn
@@ -931,7 +901,7 @@ proxies:
   sni: www.amd.com
   tls: false
   type: hysteria2
-- name: telegram @mtmvpn 15
+- name: '@mehrosaboran'
   obfs: salamander
   obfs-password: T-ME-V2RayyNGvpn
   password: UUoAsk2eM4
@@ -941,17 +911,17 @@ proxies:
   sni: www.amd.com
   tls: false
   type: hysteria2
-- name: '@Surfboardv2ray #1'
+- name: 🇩🇪118695 | ⚡️Telegram = t.me/S...
   obfs: salamander
-  obfs-password: T-ME-V2RayyNGvpn
+  obfs-password: t-me-V2RayyNGvpn
   password: V2RayyNGvpn
-  port: 25810
-  server: 91.107.174.32
+  port: 40837
+  server: 162.19.181.176
   skip-cert-verify: true
-  sni: www.amd.com
+  sni: www.oracle.com
   tls: false
   type: hysteria2
-- name: '@Surfboardv2ray #2'
+- name: '@Surfboardv2ray'
   obfs: salamander
   obfs-password: T-ME-V2RayyNGvpn
   password: VpxzokH9V4
@@ -975,16 +945,6 @@ proxies:
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
   password: ZkWtnfGK6h
-  port: 31999
-  server: 91.107.152.188
-  skip-cert-verify: true
-  sni: www.amd.com
-  tls: false
-  type: hysteria2
-- name: '@AzarAndoozVPNbot #3'
-  obfs: salamander
-  obfs-password: t-me-V2RayyNGvpn
-  password: ZkaDQncyundefineda
   port: 31999
   server: 91.107.152.188
   skip-cert-verify: true
@@ -1021,7 +981,7 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: Telegram=V2RayyNGvpn🇩🇪
+- name: 'Telegram=V2RayyNGvpn🇩🇪 #1'
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
   password: fGc3qPlaQk
@@ -1068,16 +1028,6 @@ proxies:
   server: 91.107.174.32
   skip-cert-verify: true
   sni: www.amd.com
-  tls: false
-  type: hysteria2
-- name: '@Surfboardv2ray #3'
-  obfs: salamander
-  obfs-password: t-me-V2RayyNGvpn
-  password: vVaz4PV7B7
-  port: 33884
-  server: 140.233.177.48
-  skip-cert-verify: true
-  sni: www.oracle.com
   tls: false
   type: hysteria2
 - cipher: aes-256-cfb
