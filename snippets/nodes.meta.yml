@@ -959,6 +959,24 @@ proxies:
   sni: www.amd.com
   tls: false
   type: hysteria2
+- name: 🇫🇮119252 | ⚡️Telegram = t.me/S...
+  obfs: salamander
+  obfs-password: a0mTbMWq
+  password: YACe4I1LSH
+  port: 16884
+  server: fl4.cr7com1.ir
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: 🇫🇮119250 | ⚡️Telegram = t.me/S...
+  obfs: salamander
+  obfs-password: '''a;skdfhbhdksla'
+  password: YACe4I1LSH
+  port: 42260
+  server: fl5.cr7com1.ir
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
 - name: 🇳🇱 - NL - @FreeOnlineVPN
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
@@ -1075,7 +1093,7 @@ proxies:
   sni: www.amd.com
   tls: false
   type: hysteria2
-- name: '@filembad'
+- name: 🧸@Unblocked_ir
   obfs: salamander
   obfs-password: rG07s3COMIEvdnQipRyWzx_H_2xygNC3
   password: p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR
