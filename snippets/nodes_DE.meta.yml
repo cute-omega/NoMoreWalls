@@ -192,16 +192,6 @@ proxies:
   sni: www.amd.com
   tls: false
   type: hysteria2
-- name: Telegram=V2RayyNGvpn🇩🇪
-  obfs: salamander
-  obfs-password: t-me-V2RayyNGvpn
-  password: V2RayyNGvpn
-  port: 40837
-  server: 162.19.181.176
-  skip-cert-verify: true
-  sni: www.oracle.com
-  tls: false
-  type: hysteria2
 - name: '🇩🇪 کانال ما @V2RayyNGvpn🇩🇪 #1'
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
