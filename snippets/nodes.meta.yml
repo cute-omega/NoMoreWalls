@@ -851,7 +851,7 @@ proxies:
   sni: www.amd.com
   tls: false
   type: hysteria2
-- name: 🇫🇷119376 | ⚡️Telegram = t.me/S...
+- name: 🇨🇵@V2RayyNGvpn🇨🇵
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
   password: 76TeSy4hi8
@@ -877,6 +877,22 @@ proxies:
   server: 103.115.109.49
   skip-cert-verify: true
   sni: https://t.me/oneclickvpnkeys
+  tls: false
+  type: hysteria2
+- name: 📪18@oneclickvpnkeys
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 18.171.204.138
+  skip-cert-verify: true
+  sni: https://t.me/WangCai2🇨🇳
+  tls: false
+  type: hysteria2
+- name: 📪13@oneclickvpnkeys
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 35.176.75.212
+  skip-cert-verify: true
+  sni: https://t.me/WangCai2🇨🇳
   tls: false
   type: hysteria2
 - name: '@icv2ray'
@@ -959,24 +975,6 @@ proxies:
   sni: www.amd.com
   tls: false
   type: hysteria2
-- name: 🇫🇮119252 | ⚡️Telegram = t.me/S...
-  obfs: salamander
-  obfs-password: a0mTbMWq
-  password: YACe4I1LSH
-  port: 16884
-  server: fl4.cr7com1.ir
-  skip-cert-verify: true
-  tls: false
-  type: hysteria2
-- name: 🇫🇮119250 | ⚡️Telegram = t.me/S...
-  obfs: salamander
-  obfs-password: '''a;skdfhbhdksla'
-  password: YACe4I1LSH
-  port: 42260
-  server: fl5.cr7com1.ir
-  skip-cert-verify: true
-  tls: false
-  type: hysteria2
 - name: 🇳🇱 - NL - @FreeOnlineVPN
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
@@ -1005,6 +1003,27 @@ proxies:
   server: 5.175.249.174
   skip-cert-verify: true
   sni: api.kermanshahi.org
+  tls: false
+  type: hysteria2
+- name: 📪20@oneclickvpnkeys
+  password: d2e3768f-cb23-4cfc-a884-dbd6813cb70b
+  port: 8443
+  server: 172.86.94.97
+  sni: de5-hy2.veilvpn.life
+  tls: false
+  type: hysteria2
+- name: 📪9@oneclickvpnkeys
+  password: d2e3768f-cb23-4cfc-a884-dbd6813cb70b
+  port: 8433
+  server: 172.86.95.17
+  sni: de1-hy2.veilvpn.life
+  tls: false
+  type: hysteria2
+- name: 📪42@oneclickvpnkeys
+  password: d2e3768f-cb23-4cfc-a884-dbd6813cb70b
+  port: 8433
+  server: de1-hy2.veilvpn.life
+  sni: de1-hy2.veilvpn.life
   tls: false
   type: hysteria2
 - name: '@FarazV2ray'
@@ -1065,15 +1084,6 @@ proxies:
   server: 91.107.152.188
   skip-cert-verify: true
   sni: www.amd.com
-  tls: false
-  type: hysteria2
-- name: 🪩45@oneclickvpnkeys
-  obfs: salamander
-  obfs-password: 3sv5vpdl9xr84lyb
-  password: o3774es6cfv74kaf
-  port: 443
-  server: social.klipp.su
-  sni: social.klipp.su
   tls: false
   type: hysteria2
 - name: ♨️89@oneclickvpnkeys
