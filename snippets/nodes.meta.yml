@@ -917,16 +917,6 @@ proxies:
   sni: 179.61.132.96
   tls: false
   type: hysteria2
-- name: 🇳🇱@V2RayyNGvpn کانال ما  🇳🇱
-  obfs: salamander
-  obfs-password: Telegram=V2RayyNGvpn
-  password: Pld6E6l8xI
-  port: 19978
-  server: 51.15.110.119
-  skip-cert-verify: true
-  sni: www.amd.com
-  tls: false
-  type: hysteria2
 - name: 🇩🇪 کانال ما @V2RayyNGvpn🇩🇪
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
@@ -1045,6 +1035,13 @@ proxies:
   sni: www.amd.com
   tls: false
   type: hysteria2
+- name: 📪81@oneclickvpnkeys
+  password: h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT
+  port: 8443
+  server: 185.90.61.28
+  sni: hopp-legend-se.roxa.org
+  tls: false
+  type: hysteria2
 - name: Telegram=V2RayyNGvpn🇨🇵
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
@@ -1053,13 +1050,6 @@ proxies:
   server: 51.159.137.79
   skip-cert-verify: true
   sni: www.amd.com
-  tls: false
-  type: hysteria2
-- name: ♨️89@oneclickvpnkeys
-  password: oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1
-  port: 8443
-  server: 45.154.206.72
-  sni: russiapower.accesscam.org
   tls: false
   type: hysteria2
 - name: MTMVPN 🇩🇪
