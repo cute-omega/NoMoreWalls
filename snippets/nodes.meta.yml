@@ -1026,6 +1026,13 @@ proxies:
   sni: de1-hy2.veilvpn.life
   tls: false
   type: hysteria2
+- name: 📪55@oneclickvpnkeys
+  password: d2e3768f-cb23-4cfc-a884-dbd6813cb70b
+  port: 8443
+  server: de5-hy2.veilvpn.life
+  sni: de5-hy2.veilvpn.life
+  tls: false
+  type: hysteria2
 - name: '@FarazV2ray'
   obfs: salamander
   obfs-password: ielzukpwth087afx
