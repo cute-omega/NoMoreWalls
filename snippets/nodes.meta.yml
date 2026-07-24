@@ -848,13 +848,6 @@ proxies:
   sni: popa.leontunel.ru
   tls: false
   type: hysteria2
-- name: '🇬🇧120501 | ⚡️Telegram = t.me/S... #1'
-  password: 68b4b16e-2759-47a4-8a69-33118edf5ce6
-  port: 443
-  server: soskeynets.leontunel.ru
-  sni: popa.leontunel.ru
-  tls: false
-  type: hysteria2
 - name: 🇩🇪@V2RayyNGvpn کانال ما ❗
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
