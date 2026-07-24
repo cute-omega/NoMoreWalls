@@ -823,6 +823,14 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
+- name: 🇸🇨SC-🚀@VPNine1
+  obfs: salamander
+  obfs-password: PZpio8Y2y22jywEO
+  password: 0fe6c2e6-c242-476f-8b7d-068bc0e13e6e
+  port: 65487
+  server: zz12343qq.265897.xyz
+  tls: false
+  type: hysteria2
 - name: 🇩🇪@V2RayyNGvpn🇩🇪
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
@@ -846,16 +854,6 @@ proxies:
   port: 443
   server: popa.leontunel.ru
   sni: popa.leontunel.ru
-  tls: false
-  type: hysteria2
-- name: 🇩🇪@V2RayyNGvpn کانال ما ❗
-  obfs: salamander
-  obfs-password: t-me-V2RayyNGvpn
-  password: 73x493S1pE
-  port: 31999
-  server: 91.107.152.188
-  skip-cert-verify: true
-  sni: www.amd.com
   tls: false
   type: hysteria2
 - name: 🇨🇵@V2RayyNGvpn🇨🇵
@@ -972,16 +970,6 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '🇩🇪 کانال ما @V2RayyNGvpn🇩🇪 #1'
-  obfs: salamander
-  obfs-password: t-me-V2RayyNGvpn
-  password: ZkWtnfGK6h
-  port: 31999
-  server: 91.107.152.188
-  skip-cert-verify: true
-  sni: www.amd.com
-  tls: false
-  type: hysteria2
 - name: '@KAFING_2 #2'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
@@ -1012,17 +1000,7 @@ proxies:
   sni: www.amd.com
   tls: false
   type: hysteria2
-- name: 🇳🇱 Telegram=V2RayyNGvpn 🇳🇱
-  obfs: salamander
-  obfs-password: Telegram=V2RayyNGvpn
-  password: gG5szcxrbt
-  port: 19978
-  server: 51.15.110.119
-  skip-cert-verify: true
-  sni: www.amd.com
-  tls: false
-  type: hysteria2
-- name: 'mtmvpn : telegram 5'
+- name: '@Napsternetvirani'
   obfs: salamander
   obfs-password: lvy1Hw_j4Hwx8oIL2tEa315Sb4t7QrjF
   password: hy2_czaawdhc
@@ -1060,6 +1038,13 @@ proxies:
   server: 130.49.161.70
   skip-cert-verify: true
   sni: hy2.aspidnet.xyz
+  tls: false
+  type: hysteria2
+- name: 🇫🇷FR-🚀@VPNine1
+  password: qIg7TMxfJvx6t27er0c9P0osebAAPu2PYlB_aoWelV5kVVQ2
+  port: 443
+  server: fr2.h2corp.org
+  sni: fr2.h2corp.org
   tls: false
   type: hysteria2
 - cipher: aes-256-cfb
