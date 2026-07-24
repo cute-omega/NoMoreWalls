@@ -172,23 +172,18 @@ proxies:
   sni: www.oracle.com
   tls: false
   type: hysteria2
-- name: 🇩🇪 کانال ما @V2RayyNGvpn🇩🇪
-  obfs: salamander
-  obfs-password: t-me-V2RayyNGvpn
-  password: RSGabzHJGl
-  port: 31999
-  server: 91.107.152.188
-  skip-cert-verify: true
-  sni: www.amd.com
+- name: 🧩88@oneclickvpnkeys
+  password: Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0
+  port: 8443
+  server: 93.114.194.117
+  sni: grape-zet-ro-turbo.bumbleshrimp.com
   tls: false
   type: hysteria2
-- name: 'Telegram=V2RayyNGvpn🇩🇪 #1'
-  obfs: salamander
-  obfs-password: t-me-V2RayyNGvpn
-  password: fGc3qPlaQk
-  port: 31999
-  server: 91.107.152.188
+- name: 🇩🇪121178 | ⚡️Telegram = t.me/S...
+  password: zhangyang
+  port: 6443
+  server: 130.61.50.75
   skip-cert-verify: true
-  sni: www.amd.com
+  sni: dash.cloudflare.com
   tls: false
   type: hysteria2
