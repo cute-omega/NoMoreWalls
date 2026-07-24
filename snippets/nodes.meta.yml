@@ -900,16 +900,6 @@ proxies:
   sni: https://t.me/WangCai2🇨🇳
   tls: false
   type: hysteria2
-- name: '@icv2ray'
-  obfs: salamander
-  obfs-password: t-me-V2RayyNGvpn
-  password: IoFmkhjUlE
-  port: 31999
-  server: 91.107.152.188
-  skip-cert-verify: true
-  sni: www.amd.com
-  tls: false
-  type: hysteria2
 - name: 🇨🇵 t-me-V2RayyNGvpn 🇨🇵
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
@@ -1000,7 +990,7 @@ proxies:
   sni: www.amd.com
   tls: false
   type: hysteria2
-- name: '@Napsternetvirani'
+- name: '@Napsternetvirani #1'
   obfs: salamander
   obfs-password: lvy1Hw_j4Hwx8oIL2tEa315Sb4t7QrjF
   password: hy2_czaawdhc
