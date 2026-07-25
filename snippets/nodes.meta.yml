@@ -837,13 +837,6 @@ proxies:
   sni: nland1.noesissite.ru
   tls: false
   type: hysteria2
-- name: '🇩🇪121731 | ⚡️Telegram = t.me/S... #1'
-  password: 042a1881-44e4-4781-bd40-bf75164faf4f
-  port: 443
-  server: soskeynets.noesissite.ru
-  sni: germany1.noesissite.ru
-  tls: false
-  type: hysteria2
 - name: 🎀67@oneclickvpnkeys
   password: 419bfbd4-3097-4cef-a6b3-aebd78506ed7
   port: 8443
@@ -851,7 +844,17 @@ proxies:
   sni: ppl.myispace.xyz
   tls: false
   type: hysteria2
-- name: 🇫🇮FI-🚀@VPNine1
+- name: '@GozargahAzad|🇫🇮'
+  obfs: salamander
+  obfs-password: fd3olglr2bmimgje
+  password: 4z2oldt85p494bgb
+  port: 52061
+  server: assets.gateway-stream.com
+  skip-cert-verify: false
+  sni: ''
+  tls: false
+  type: hysteria2
+- name: '@Daily_Configs'
   obfs: salamander
   obfs-password: fd3olglr2bmimgje
   password: 4z2oldt85p494bgb
@@ -985,16 +988,6 @@ proxies:
   sni: devideo.h2corp.org
   tls: false
   type: hysteria2
-- name: Telegra
-  obfs: salamander
-  obfs-password: t-me-V2RayyNGvpn
-  password: V2RayyNGvpn
-  port: 40837
-  server: 162.19.181.176
-  skip-cert-verify: true
-  sni: www.oracle.com
-  tls: false
-  type: hysteria2
 - name: 🇩🇪 Telegram = irconfiig 🇩🇪
   obfs: salamander
   obfs-password: RedmEthIS-Join-V2RayyNGvpn-oBsPaHard183hgak
@@ -1102,15 +1095,6 @@ proxies:
   sni: musicclips.videolinks.ru
   tls: false
   type: hysteria2
-- name: '🇫🇮121728 | ⚡️Telegram = t.me/S... #1'
-  obfs: salamander
-  obfs-password: 8zzng75tz4tf82pj
-  password: o3774es6cfv74kaf
-  port: 8443
-  server: soskeynets.videolinks.ru
-  sni: musicclips.videolinks.ru
-  tls: false
-  type: hysteria2
 - name: '@mehrosaboran'
   obfs: salamander
   obfs-password: T-ME-V2RayyNGvpn
@@ -1135,6 +1119,16 @@ proxies:
   password: qIg7TMxfJvx6t27er0c9P0osebAAPu2PYlB_aoWelV5kVVQ2
   port: 443
   server: fr2.h2corp.org
+  tls: false
+  type: hysteria2
+- name: 🇩🇪 Telegram = V2RayyNGvpn 3🇩🇪
+  obfs: salamander
+  obfs-password: RedmEthIS-Join-V2RayyNGvpn-oBsPaHard183hgak
+  password: qfcdqzQundefinedRh
+  port: 443
+  server: 91.107.178.22
+  skip-cert-verify: true
+  sni: www.refersion.com
   tls: false
   type: hysteria2
 - alpn:
