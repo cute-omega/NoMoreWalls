@@ -837,6 +837,16 @@ proxies:
   sni: ppl.myispace.xyz
   tls: false
   type: hysteria2
+- name: '@FarazV2ray'
+  obfs: salamander
+  obfs-password: l960g2kn19nphlra
+  password: 4z2oldt85p494bgb
+  port: 52060
+  server: assets.gateway-stream.com
+  skip-cert-verify: false
+  sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
 - name: '@meliproxyy'
   obfs: salamander
   obfs-password: fd3olglr2bmimgje
@@ -845,15 +855,6 @@ proxies:
   server: assets.gateway-stream.com
   skip-cert-verify: false
   sni: assets.gateway-stream.com
-  tls: false
-  type: hysteria2
-- name: '[🇸🇪]@NetliVPN'
-  obfs: salamander
-  obfs-password: fd3olglr2bmimgje
-  password: 4z2oldt85p494bgb
-  port: 52061
-  server: assets.gateway-stream.com
-  skip-cert-verify: true
   tls: false
   type: hysteria2
 - name: 🎀65@oneclickvpnkeys
@@ -990,6 +991,16 @@ proxies:
   server: 91.107.178.22
   skip-cert-verify: true
   sni: www.refersion.com
+  tls: false
+  type: hysteria2
+- name: 🇩🇪122489 | ⚡️Telegram = t.me/S...
+  obfs: salamander
+  obfs-password: 2l74Vm0fNA_WO1R2jF14yKoB
+  password: VpzdpabHmjLYMjq1_8euMPyO9I5BHTQY
+  port: 7443
+  server: www.dataduo.ir
+  skip-cert-verify: false
+  sni: www.dataduo.ir
   tls: false
   type: hysteria2
 - name: 🇳🇱 - NL - @FreeOnlineVPN
