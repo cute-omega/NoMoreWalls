@@ -844,7 +844,7 @@ proxies:
   sni: ppl.myispace.xyz
   tls: false
   type: hysteria2
-- name: '@FarazV2ray'
+- name: '@filembad'
   obfs: salamander
   obfs-password: l960g2kn19nphlra
   password: 4z2oldt85p494bgb
@@ -885,15 +885,6 @@ proxies:
   password: 72bcd6fe388a12c386a1c40ff55f6c1e
   port: 8443
   server: proxy.sailreach.org
-  sni: proxy.sailreach.org
-  tls: false
-  type: hysteria2
-- name: '🇺🇸122668 | ⚡️Telegram = t.me/S... #1'
-  obfs: salamander
-  obfs-password: ed56da70f1614311cbfc1e87
-  password: 72bcd6fe388a12c386a1c40ff55f6c1e
-  port: 8443
-  server: soskeynets.sailreach.org
   sni: proxy.sailreach.org
   tls: false
   type: hysteria2
@@ -1084,16 +1075,6 @@ proxies:
   server: 2.26.92.136
   skip-cert-verify: false
   sni: nl2.cleanersaz.help
-  tls: false
-  type: hysteria2
-- name: Telegram=V2RayyNGvpn🇨🇵
-  obfs: salamander
-  obfs-password: t-me-V2RayyNGvpn
-  password: l6R1kundefinedu0Dm
-  port: 55809
-  server: 51.159.137.79
-  skip-cert-verify: true
-  sni: www.amd.com
   tls: false
   type: hysteria2
 - name: 🎀71@oneclickvpnkeys
