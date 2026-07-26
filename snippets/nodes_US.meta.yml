@@ -44,6 +44,39 @@ proxies:
   sni: mg2.mangshe.xyz
   tls: false
   type: hysteria2
+- name: 🎴43@oneclickvpnkeys
+  password: 083f9234-76f8-47f4-915e-726a767b7ad5
+  port: 32050
+  server: gc4.22556666.com
+  sni: gc4.22556666.com
+  tls: false
+  type: hysteria2
+- name: 🎴49@oneclickvpnkeys
+  obfs: salamander
+  obfs-password: ed56da70f1614311cbfc1e87
+  password: 72bcd6fe388a12c386a1c40ff55f6c1e
+  port: 8443
+  server: proxy.sailreach.org
+  sni: proxy.sailreach.org
+  tls: false
+  type: hysteria2
+- name: '🇺🇸122668 | ⚡️Telegram = t.me/S... #1'
+  obfs: salamander
+  obfs-password: ed56da70f1614311cbfc1e87
+  password: 72bcd6fe388a12c386a1c40ff55f6c1e
+  port: 8443
+  server: soskeynets.sailreach.org
+  sni: proxy.sailreach.org
+  tls: false
+  type: hysteria2
+- name: 🎴48@oneclickvpnkeys
+  password: suAmQS9LlInNq4Wumh-FUF4GGlpgmG_g
+  port: 8443
+  server: 159.223.157.129
+  skip-cert-verify: true
+  sni: www.microsoft.com
+  tls: false
+  type: hysteria2
 - name: 美国|@ripaojiedian
   network: tcp
   password: d1960ba9f0f6353353994fa844cf817b
