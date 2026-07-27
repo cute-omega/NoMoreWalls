@@ -144,14 +144,6 @@ proxies:
   sni: de.xn--ehqa22b.site
   tls: false
   type: hysteria2
-- name: DE
-  password: a084933d-0b41-4571-ae0c-7163b8c71ed1
-  port: 2056
-  server: de.eyucdn.xyz
-  skip-cert-verify: true
-  sni: de.eyucdn.xyz
-  tls: false
-  type: hysteria2
 - name: '@KAFING_2'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
@@ -160,6 +152,16 @@ proxies:
   server: 181.214.99.162
   skip-cert-verify: true
   sni: api.kermanshahi.org
+  tls: false
+  type: hysteria2
+- name: 🇩🇪@V2RayyNGvpn🇩🇪
+  obfs: salamander
+  obfs-password: V2RayyNGvpn
+  password: EaDTeupk9I
+  port: 43913
+  server: 91.107.178.22
+  skip-cert-verify: false
+  sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
 - name: 🇩🇪 t-me-V2RayyNGvpn 🇩🇪
