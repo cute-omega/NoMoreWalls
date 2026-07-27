@@ -783,7 +783,7 @@ proxies:
   sni: gc4.22556666.com
   tls: false
   type: hysteria2
-- name: 🇫🇮FI-🚀@VPNine1
+- name: '@filembad'
   obfs: salamander
   obfs-password: gu74jg3ym0e21zco
   password: 4z2oldt85p494bgb
@@ -793,17 +793,7 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: '🇫🇮FI-🚀@VPNine1 #1'
-  obfs: salamander
-  obfs-password: 527zd9w4nuaccd7g
-  password: 4z2oldt85p494bgb
-  port: 52001
-  server: assets.gateway-stream.com
-  skip-cert-verify: false
-  sni: assets.gateway-stream.com
-  tls: false
-  type: hysteria2
-- name: '🇫🇮FI-🚀@VPNine1 #2'
+- name: '@filembad #1'
   obfs: salamander
   obfs-password: ielzukpwth087afx
   password: 4z2oldt85p494bgb
@@ -813,27 +803,37 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: '🇫🇮FI-🚀@VPNine1 #3'
+- name: '@filembad #2'
   obfs: salamander
-  obfs-password: xurzv3qedv07k4f0
+  obfs-password: 5xo4v7u2pv8bktvb
   password: 4z2oldt85p494bgb
-  port: 52005
+  port: 52003
   server: assets.gateway-stream.com
   skip-cert-verify: false
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: '🇫🇮FI-🚀@VPNine1 #4'
+- name: '@filembad #3'
   obfs: salamander
-  obfs-password: s3dhdo4iiqy08m1a
+  obfs-password: mczdcsrottar7v8t
   password: 4z2oldt85p494bgb
-  port: 52006
+  port: 52004
   server: assets.gateway-stream.com
   skip-cert-verify: false
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: '🇫🇮FI-🚀@VPNine1 #5'
+- name: '@filembad #4'
+  obfs: salamander
+  obfs-password: spnztx6bizygjnwp
+  password: 4z2oldt85p494bgb
+  port: 52007
+  server: assets.gateway-stream.com
+  skip-cert-verify: false
+  sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: '@filembad #5'
   obfs: salamander
   obfs-password: 93lc6r07zfx4crct
   password: 4z2oldt85p494bgb
@@ -843,7 +843,27 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: '🇫🇮FI-🚀@VPNine1 #6'
+- name: '@filembad #6'
+  obfs: salamander
+  obfs-password: kf1lypzqidy6pimt
+  password: 4z2oldt85p494bgb
+  port: 52009
+  server: assets.gateway-stream.com
+  skip-cert-verify: false
+  sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: '@filembad #7'
+  obfs: salamander
+  obfs-password: ntygj5lde0e7tm1m
+  password: 4z2oldt85p494bgb
+  port: 52010
+  server: assets.gateway-stream.com
+  skip-cert-verify: false
+  sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: '@filembad #8'
   obfs: salamander
   obfs-password: ovh8r7rf5axi7pn3
   password: 4z2oldt85p494bgb
@@ -853,7 +873,37 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: '🇫🇮FI-🚀@VPNine1 #7'
+- name: '@filembad #9'
+  obfs: salamander
+  obfs-password: sdx1qdzqgp8lcajn
+  password: 4z2oldt85p494bgb
+  port: 52012
+  server: assets.gateway-stream.com
+  skip-cert-verify: false
+  sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: '@filembad #10'
+  obfs: salamander
+  obfs-password: cukfjxud1ebjuuzs
+  password: 4z2oldt85p494bgb
+  port: 52013
+  server: assets.gateway-stream.com
+  skip-cert-verify: false
+  sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: '@filembad #11'
+  obfs: salamander
+  obfs-password: 3ud1xtuaykuz5z3a
+  password: 4z2oldt85p494bgb
+  port: 52014
+  server: assets.gateway-stream.com
+  skip-cert-verify: false
+  sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: '@filembad #12'
   obfs: salamander
   obfs-password: jguj75v4supsi4fm
   password: 4z2oldt85p494bgb
@@ -863,7 +913,17 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: '🇫🇮FI-🚀@VPNine1 #8'
+- name: '@filembad #13'
+  obfs: salamander
+  obfs-password: fsc92dsh321o5h3r
+  password: 4z2oldt85p494bgb
+  port: 52016
+  server: assets.gateway-stream.com
+  skip-cert-verify: false
+  sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: '@filembad #14'
   obfs: salamander
   obfs-password: sesmom0drl168l62
   password: 4z2oldt85p494bgb
@@ -873,7 +933,7 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: '🇫🇮FI-🚀@VPNine1 #9'
+- name: '@filembad #15'
   obfs: salamander
   obfs-password: 53cgqwhojoxri5lr
   password: 4z2oldt85p494bgb
@@ -893,7 +953,7 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: '🇫🇮FI-🚀@VPNine1 #10'
+- name: '@filembad #17'
   obfs: salamander
   obfs-password: detgimgm8qh8i2g2
   password: 4z2oldt85p494bgb
@@ -903,7 +963,7 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: '🇫🇮FI-🚀@VPNine1 #11'
+- name: '@vmesskhodam'
   obfs: salamander
   obfs-password: iknjsvsjagi449mm
   password: 4z2oldt85p494bgb
@@ -913,7 +973,17 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: '🇫🇮FI-🚀@VPNine1 #12'
+- name: '@filembad #18'
+  obfs: salamander
+  obfs-password: d6pv15sghiq1onts
+  password: 4z2oldt85p494bgb
+  port: 52026
+  server: assets.gateway-stream.com
+  skip-cert-verify: false
+  sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: '@filembad #19'
   obfs: salamander
   obfs-password: 4hnuy2eg2xgo6ue0
   password: 4z2oldt85p494bgb
@@ -923,7 +993,7 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: '🇫🇮FI-🚀@VPNine1 #13'
+- name: '@filembad #20'
   obfs: salamander
   obfs-password: ouj48apgfcguvwc5
   password: 4z2oldt85p494bgb
@@ -933,7 +1003,37 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: '🇫🇮FI-🚀@VPNine1 #14'
+- name: '@filembad #21'
+  obfs: salamander
+  obfs-password: v8h63irhnay97090
+  password: 4z2oldt85p494bgb
+  port: 52029
+  server: assets.gateway-stream.com
+  skip-cert-verify: false
+  sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: '@filembad #22'
+  obfs: salamander
+  obfs-password: x5y77oxwfcl868u3
+  password: 4z2oldt85p494bgb
+  port: 52030
+  server: assets.gateway-stream.com
+  skip-cert-verify: false
+  sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: '@filembad #23'
+  obfs: salamander
+  obfs-password: p61ckuavkc1s2hfl
+  password: 4z2oldt85p494bgb
+  port: 52031
+  server: assets.gateway-stream.com
+  skip-cert-verify: false
+  sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: '@filembad #24'
   obfs: salamander
   obfs-password: i9if528t20akiic0
   password: 4z2oldt85p494bgb
@@ -943,7 +1043,7 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: '🇫🇮FI-🚀@VPNine1 #15'
+- name: '@filembad #25'
   obfs: salamander
   obfs-password: phos93w1zi0nj6uv
   password: 4z2oldt85p494bgb
@@ -953,7 +1053,7 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: '🇫🇮FI-🚀@VPNine1 #16'
+- name: '@filembad #26'
   obfs: salamander
   obfs-password: gv77dpwof5y7lm3n
   password: 4z2oldt85p494bgb
@@ -963,7 +1063,57 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: '@FarazV2ray'
+- name: '@filembad #27'
+  obfs: salamander
+  obfs-password: l6l4n5a0q9epnr5k
+  password: 4z2oldt85p494bgb
+  port: 52051
+  server: assets.gateway-stream.com
+  skip-cert-verify: false
+  sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: '@filembad #28'
+  obfs: salamander
+  obfs-password: pha76a5o7ormjepb
+  password: 4z2oldt85p494bgb
+  port: 52056
+  server: assets.gateway-stream.com
+  skip-cert-verify: false
+  sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: '@filembad #29'
+  obfs: salamander
+  obfs-password: auw7lhtk2kxyq4g9
+  password: 4z2oldt85p494bgb
+  port: 52057
+  server: assets.gateway-stream.com
+  skip-cert-verify: false
+  sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: '@filembad #30'
+  obfs: salamander
+  obfs-password: 15fq2wn3nubve28a
+  password: 4z2oldt85p494bgb
+  port: 52058
+  server: assets.gateway-stream.com
+  skip-cert-verify: false
+  sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: '@filembad #31'
+  obfs: salamander
+  obfs-password: vic6damutmthllnd
+  password: 4z2oldt85p494bgb
+  port: 52059
+  server: assets.gateway-stream.com
+  skip-cert-verify: false
+  sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: '@IRan_V2ray1 | VIP15'
   obfs: salamander
   obfs-password: l960g2kn19nphlra
   password: 4z2oldt85p494bgb
@@ -983,12 +1133,102 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: '🇫🇮FI-🚀@VPNine1 #17'
+- name: '@filembad #33'
+  obfs: salamander
+  obfs-password: 78mszx8jbd3mfivf
+  password: 4z2oldt85p494bgb
+  port: 52074
+  server: assets.gateway-stream.com
+  skip-cert-verify: false
+  sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: '@filembad #34'
+  obfs: salamander
+  obfs-password: x6pvisep8f6f1wzk
+  password: 4z2oldt85p494bgb
+  port: 52075
+  server: assets.gateway-stream.com
+  skip-cert-verify: false
+  sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: '@filembad #35'
+  obfs: salamander
+  obfs-password: zducqb7ro143x0t2
+  password: 4z2oldt85p494bgb
+  port: 52076
+  server: assets.gateway-stream.com
+  skip-cert-verify: false
+  sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: '@filembad #36'
   obfs: salamander
   obfs-password: tbr67i9x0xqtlza1
   password: 4z2oldt85p494bgb
   port: 52077
   server: assets.gateway-stream.com
+  skip-cert-verify: false
+  sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: '@filembad #37'
+  obfs: salamander
+  obfs-password: cehi86p6d7i0k5qq
+  password: 4z2oldt85p494bgb
+  port: 52078
+  server: assets.gateway-stream.com
+  skip-cert-verify: false
+  sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: '@filembad #38'
+  obfs: salamander
+  obfs-password: gazf7r9a0d4hc5nz
+  password: 4z2oldt85p494bgb
+  port: 52079
+  server: assets.gateway-stream.com
+  skip-cert-verify: false
+  sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: '@filembad #39'
+  obfs: salamander
+  obfs-password: 8sajadulna2wdqej
+  password: 4z2oldt85p494bgb
+  port: 52081
+  server: assets.gateway-stream.com
+  skip-cert-verify: false
+  sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: '@filembad #40'
+  obfs: salamander
+  obfs-password: cy5hc4e02q6o5hcp
+  password: 4z2oldt85p494bgb
+  port: 52082
+  server: assets.gateway-stream.com
+  skip-cert-verify: false
+  sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: '@filembad #41'
+  obfs: salamander
+  obfs-password: 6e232hr6a65ce4xg
+  password: 4z2oldt85p494bgb
+  port: 52083
+  server: assets.gateway-stream.com
+  skip-cert-verify: false
+  sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: '🇫🇮123902 | ⚡️Telegram = t.me/S... #1'
+  obfs: salamander
+  obfs-password: fd3olglr2bmimgje
+  password: 4z2oldt85p494bgb
+  port: 52061
+  server: soskeynets.gateway-stream.com
   skip-cert-verify: false
   sni: assets.gateway-stream.com
   tls: false
@@ -1020,7 +1260,7 @@ proxies:
   sni: https://t.me/oneclickvpnkeys
   tls: false
   type: hysteria2
-- name: 🇬🇧123669 | ⚡️Telegram = t.me/S...
+- name: ⛲64@oneclickvpnkeys
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: 443
   server: 35.178.201.79
