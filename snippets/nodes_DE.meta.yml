@@ -154,6 +154,13 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
+- name: 🐰55@oneclickvpnkeys
+  password: 68b4b16e-2759-47a4-8a69-33118edf5ce6
+  port: 443
+  server: 150.241.124.145
+  sni: ger.leontunel.ru
+  tls: false
+  type: hysteria2
 - name: 🇩🇪@V2RayyNGvpn🇩🇪
   obfs: salamander
   obfs-password: V2RayyNGvpn
@@ -184,6 +191,13 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
+- name: 🐰58@oneclickvpnkeys
+  password: d2e3768f-cb23-4cfc-a884-dbd6813cb70b
+  port: 8433
+  server: de1-hy2.veilvpn.life
+  sni: de1-hy2.veilvpn.life
+  tls: false
+  type: hysteria2
 - name: 🇩🇪 Telegram= V2RayyNGvpn 🇩🇪2
   obfs: salamander
   obfs-password: V2RayyNGvpn
@@ -205,7 +219,7 @@ proxies:
   tls: false
   type: hysteria2
 - client-fingerprint: chrome
-  name: DE_speednode_0010
+  name: DE_speednode_0002
   network: ws
   port: 2053
   server: 51.89.23.94
