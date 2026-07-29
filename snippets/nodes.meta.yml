@@ -825,7 +825,7 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: '@Alpha_v2rayIP'
+- name: برای اتصال دائمی جوین شو🍘 Tele...
   obfs: salamander
   obfs-password: fd3olglr2bmimgje
   password: 4z2oldt85p494bgb
@@ -849,17 +849,7 @@ proxies:
   sni: usa1.spectrumproxy.shop
   tls: false
   type: hysteria2
-- name: '@GozargahAzad|🇫🇮'
-  obfs: salamander
-  obfs-password: l960g2kn19nphlra
-  password: 84eyebdtl3tcbssn
-  port: 52060
-  server: assets.gateway-stream.com
-  skip-cert-verify: false
-  sni: ''
-  tls: false
-  type: hysteria2
-- name: ✅ t.me/bigAVPN ایران آزاد 👑
+- name: NeTMeli⚡️@prrofile_purple 🌩
   obfs: salamander
   obfs-password: l960g2kn19nphlra
   password: 84eyebdtl3tcbssn
@@ -1079,13 +1069,6 @@ proxies:
   port: 443
   server: 185.225.19.39
   sni: ro.h2corp.org
-  tls: false
-  type: hysteria2
-- name: 📯41@oneclickvpnkeys
-  password: velluto_8325804083
-  port: 443
-  server: 31.76.30.79
-  sni: gretacoin.shop
   tls: false
   type: hysteria2
 - name: MTMVPN Channel 15
