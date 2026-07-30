@@ -103,7 +103,7 @@ proxies:
   sni: jp.xn--ehqa22b.site
   tls: false
   type: hysteria2
-- name: 日本|@ripaojiedian
+- name: US_speednode_0115
   network: tcp
   password: BxceQaOe
   port: 41421
@@ -111,7 +111,8 @@ proxies:
   skip-cert-verify: true
   sni: t.me%252Fripaojiedian
   type: trojan
-- name: 日本2|@ripaojiedian
+  udp: true
+- name: HK_speednode_0012
   network: tcp
   password: d1960ba9f0f6353353994fa844cf817b
   port: 40138
@@ -119,7 +120,8 @@ proxies:
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 日本3|@ripaojiedian
+  udp: true
+- name: JP_speednode_0015
   network: tcp
   password: d1960ba9f0f6353353994fa844cf817b
   port: 38937
@@ -127,3 +129,4 @@ proxies:
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
+  udp: true
