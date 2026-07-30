@@ -808,36 +808,12 @@ proxies:
   sni: usp.noesissite.ru
   tls: false
   type: hysteria2
-- alpn:
-  - h3
-  name: 🇫🇮FI-🚀@VPNine1
-  obfs: salamander
-  obfs-password: w0tx1ju9iix6913p
-  password: 0puq3lmwv7qtp76t
-  port: 52034
-  server: assets.gateway-stream.com
-  skip-cert-verify: true
-  sni: assets.gateway-stream.com
-  tls: false
-  type: hysteria2
 - name: 🇫🇮@V2rayng_Fast
   obfs: salamander
   obfs-password: w0tx1ju9iix6913p
   password: 0puq3lmwv7qtp76t
   port: 52034
   server: assets.gateway-stream.com
-  skip-cert-verify: true
-  sni: assets.gateway-stream.com
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
-  name: '🇫🇮127175 | ⚡️Telegram = t.me/S... #1'
-  obfs: salamander
-  obfs-password: w0tx1ju9iix6913p
-  password: 0puq3lmwv7qtp76t
-  port: 52034
-  server: soskeynets.gateway-stream.com
   skip-cert-verify: true
   sni: assets.gateway-stream.com
   tls: false
@@ -866,13 +842,6 @@ proxies:
   password: 1hOIVDVBG2hdKtJwOV2aUEFTDaFArCSH9-HrcOnps8yqQZeq
   port: 443
   server: prodfr.h2corp.org
-  sni: prodfr.h2corp.org
-  tls: false
-  type: hysteria2
-- name: '🇫🇷127049 | ⚡️Telegram = t.me/S... #1'
-  password: 1hOIVDVBG2hdKtJwOV2aUEFTDaFArCSH9-HrcOnps8yqQZeq
-  port: 443
-  server: soskeynets.h2corp.org
   sni: prodfr.h2corp.org
   tls: false
   type: hysteria2
@@ -906,7 +875,7 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: برای اتصال دائمی جوین شو🍘 Tele...
+- name: Tel-@irconfiig🛞 6
   obfs: salamander
   obfs-password: fd3olglr2bmimgje
   password: 4z2oldt85p494bgb
@@ -914,34 +883,6 @@ proxies:
   server: assets.gateway-stream.com
   skip-cert-verify: false
   sni: assets.gateway-stream.com
-  tls: false
-  type: hysteria2
-- name: 🇹🇷127051 | ⚡️Telegram = t.me/S...
-  password: 67a1454f-5a95-4e30-9723-1ffcbe7e97f9
-  port: 443
-  server: soskeynets.api3-max.ru
-  sni: taga5.api3-max.ru
-  tls: false
-  type: hysteria2
-- name: 🇹🇷127054 | ⚡️Telegram = t.me/S...
-  password: 67a1454f-5a95-4e30-9723-1ffcbe7e97f9
-  port: 443
-  server: soskeynets.api3-max.ru
-  sni: taga9.api3-max.ru
-  tls: false
-  type: hysteria2
-- name: 🇬🇧127055 | ⚡️Telegram = t.me/S...
-  password: 67a1454f-5a95-4e30-9723-1ffcbe7e97f9
-  port: 443
-  server: soskeynets.api3-max.ru
-  sni: wopa7.api3-max.ru
-  tls: false
-  type: hysteria2
-- name: 🇬🇧127052 | ⚡️Telegram = t.me/S...
-  password: 67a1454f-5a95-4e30-9723-1ffcbe7e97f9
-  port: 443
-  server: soskeynets.api3-max.ru
-  sni: wopa9.api3-max.ru
   tls: false
   type: hysteria2
 - name: 🦄41@oneclickvpnkeys
@@ -1020,7 +961,7 @@ proxies:
   sni: vhd.nth.gelzaro.ir
   tls: false
   type: hysteria2
-- name: 🇩🇪@V2RayyNGvpn🇩🇪
+- name: 🇩🇪 t.me.V2RayyNGvpn 🇩🇪
   obfs: salamander
   obfs-password: V2RayyNGvpn
   password: EaDTeupk9I
@@ -1135,6 +1076,13 @@ proxies:
   port: 8433
   server: de1-hy2.veilvpn.life
   sni: de1-hy2.veilvpn.life
+  tls: false
+  type: hysteria2
+- name: 🦄79@oneclickvpnkeys
+  password: dongtaiwang.com
+  port: 44356
+  server: 142.249.37.90
+  sni: hy2.561891.xyz
   tls: false
   type: hysteria2
 - name: 🐰56@oneclickvpnkeys
