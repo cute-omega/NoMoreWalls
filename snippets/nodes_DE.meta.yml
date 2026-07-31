@@ -182,6 +182,16 @@ proxies:
   sni: www.refersion.com
   tls: false
   type: hysteria2
+- name: 🇩🇪 Telegram= V2RayyNGvpn 🇩🇪7
+  obfs: salamander
+  obfs-password: RedmEthIS-Join-V2RayyNGvpn-oBsPaHard183hgak
+  password: hSKnm6Byp7
+  port: 443
+  server: 91.107.178.22
+  skip-cert-verify: true
+  sni: www.refersion.com
+  tls: false
+  type: hysteria2
 - name: 🇩🇪 Telegram= V2RayyNGvpn 🇩🇪5
   obfs: salamander
   obfs-password: V2RayyNGvpn

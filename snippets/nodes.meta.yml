@@ -875,14 +875,6 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: 🇬🇧128556 | ⚡️Telegram = t.me/S...
-  password: 67a1454f-5a95-4e30-9723-1ffcbe7e97f9
-  port: 443
-  server: soskeynets.api3-max.ru
-  skip-cert-verify: false
-  sni: wopa6.api3-max.ru
-  tls: false
-  type: hysteria2
 - name: 🦄41@oneclickvpnkeys
   password: 67a1454f-5a95-4e30-9723-1ffcbe7e97f9
   port: 443
@@ -895,14 +887,6 @@ proxies:
   port: 443
   server: taga9.api3-max.ru
   sni: taga9.api3-max.ru
-  tls: false
-  type: hysteria2
-- name: '🇬🇧128556 | ⚡️Telegram = t.me/S... #1'
-  password: 67a1454f-5a95-4e30-9723-1ffcbe7e97f9
-  port: 443
-  server: wopa6.api3-max.ru
-  skip-cert-verify: false
-  sni: wopa6.api3-max.ru
   tls: false
   type: hysteria2
 - name: 🦄37@oneclickvpnkeys
@@ -1045,6 +1029,16 @@ proxies:
   sni: grape-coffee-fi.gleeze.com
   tls: false
   type: hysteria2
+- name: 🇩🇪 Telegram= V2RayyNGvpn 🇩🇪7
+  obfs: salamander
+  obfs-password: RedmEthIS-Join-V2RayyNGvpn-oBsPaHard183hgak
+  password: hSKnm6Byp7
+  port: 443
+  server: 91.107.178.22
+  skip-cert-verify: true
+  sni: www.refersion.com
+  tls: false
+  type: hysteria2
 - name: 🇩🇪 Telegram= V2RayyNGvpn 🇩🇪5
   obfs: salamander
   obfs-password: V2RayyNGvpn
@@ -1075,7 +1069,7 @@ proxies:
   sni: www.amd.com
   tls: false
   type: hysteria2
-- name: ✰Join -> @v2raymelliii✰
+- name: Proxy_mtm Channel 27
   obfs: salamander
   obfs-password: rG07s3COMIEvdnQipRyWzx_H_2xygNC3
   password: p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR
