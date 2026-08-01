@@ -1,9 +1,15 @@
 proxies:
-- name: France 🇫🇷
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: 443
-  server: vpn-fr-002.fastervpn.world
-  skip-cert-verify: true
-  sni: vpn-fr-002.fastervpn.world
-  tls: false
-  type: hysteria2
+- client-fingerprint: chrome
+  name: FR_speednode_0012
+  network: tcp
+  port: 5039
+  reality-opts:
+    public-key: fv-InxuZSzLlHc83OANs4U2windIUSwPilOpJkMgtW0
+    short-id: '!!str 2e8424a2696cb606'
+  server: taoccqyacf7e.dop66.com
+  servername: www.yahoo.com
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: a5bea439-6176-4b5d-a891-bd31fc3530c9
