@@ -36,15 +36,14 @@ proxies:
   skip-cert-verify: true
   sni: 194.33.45.157
   type: trojan
-- name: HK_speednode_0006
+- name: 美国|@ripaojiedian
   network: tcp
   password: d1960ba9f0f6353353994fa844cf817b
-  port: 17005
-  server: 18.167.20.3
+  port: 12680
+  server: 18.163.100.58
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-  udp: true
 - name: HK_speednode_0007
   network: tcp
   password: d1960ba9f0f6353353994fa844cf817b
@@ -57,8 +56,8 @@ proxies:
 - name: 美国3|@ripaojiedian
   network: tcp
   password: BxceQaOe
-  port: 38961
-  server: 16.162.122.119
+  port: 35966
+  server: 43.198.98.22
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
