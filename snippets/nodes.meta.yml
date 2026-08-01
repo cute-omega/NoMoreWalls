@@ -900,6 +900,16 @@ proxies:
   sni: swe-one.quiet-rogue.site
   tls: false
   type: hysteria2
+- name: '@filembad #1'
+  obfs: salamander
+  obfs-password: t72hzzenktxmrvgu
+  password: 76kyzc055ahiyfzy
+  port: 52024
+  server: assets.gateway-stream.com
+  skip-cert-verify: false
+  sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
 - name: ✅  @vistav2ray  👈👈کانال ما ✅
   obfs: salamander
   obfs-password: l960g2kn19nphlra
