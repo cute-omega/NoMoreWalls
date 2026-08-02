@@ -5,6 +5,13 @@ proxies:
   tls: false
   type: socks5
   username: T2clM0QlM0Q6
+- name: 🇰🇷韩国家宽|高速01
+  password: 300f8c21-6341-4503-a5db-c13d331c63c8
+  port: 20801
+  server: hg1.yuanbaojc.site
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
   name: KR_speednode_0015
