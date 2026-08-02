@@ -809,6 +809,16 @@ proxies:
   sni: quic.tyr-agentstvo.tech
   tls: false
   type: hysteria2
+- name: Proxy_mtm 6
+  obfs: salamander
+  obfs-password: dnwx30hvcobf7xcf
+  password: 0ansucp5k6aop125
+  port: 32950
+  server: 185.47.172.226
+  skip-cert-verify: false
+  sni: 185.47.172.226
+  tls: false
+  type: hysteria2
 - name: '@Daily_Configs'
   obfs: salamander
   obfs-password: w0tx1ju9iix6913p
@@ -1007,14 +1017,6 @@ proxies:
   sni: vpn-fr-002.fastervpn.world
   tls: false
   type: hysteria2
-- name: 🇫🇷130478 | ⚡️Telegram = t.me/S...
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: 443
-  server: 15.237.219.57
-  skip-cert-verify: true
-  sni: vpn-fr-002.fastervpn.world
-  tls: false
-  type: hysteria2
 - name: 🧬36@oneclickvpnkeys
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: 443
@@ -1113,17 +1115,7 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: 🇩🇪 Telegram= V2RayyNGvpn 🇩🇪7
-  obfs: salamander
-  obfs-password: RedmEthIS-Join-V2RayyNGvpn-oBsPaHard183hgak
-  password: hSKnm6Byp7
-  port: 443
-  server: 91.107.178.22
-  skip-cert-verify: true
-  sni: www.refersion.com
-  tls: false
-  type: hysteria2
-- name: 🇩🇪 t-me-V2RayyNGvpn 🚀
+- name: 🇩🇪130569 | ⚡️Telegram = t.me/S...
   obfs: salamander
   obfs-password: RedmEthIS-Join-V2RayyNGvpn-oBsPaHard183hgak
   password: jeLq05gFPe
@@ -1180,16 +1172,6 @@ proxies:
   port: 443
   server: ro.h2corp.org
   sni: ro.h2corp.org
-  tls: false
-  type: hysteria2
-- name: MTMVPN Channel 15
-  obfs: salamander
-  obfs-password: RedmEthIS-Join-V2RayyNGvpn-oBsPaHard183hgak
-  password: voQTxwGh4I
-  port: 443
-  server: 91.107.178.22
-  skip-cert-verify: true
-  sni: www.refersion.com
   tls: false
   type: hysteria2
 - name: 👁️‍🗨️60@oneclickvpnkeys
