@@ -809,6 +809,17 @@ proxies:
   sni: quic.tyr-agentstvo.tech
   tls: false
   type: hysteria2
+- alpn:
+  - h3
+  name: 9iespx3vcm
+  obfs: salamander
+  obfs-password: dnwx30hvcobf7xcf
+  password: 0ansucp5k6aop125
+  port: 32950
+  server: 185.47.172.226
+  sni: 185.47.172.226
+  tls: false
+  type: hysteria2
 - name: Proxy_mtm 6
   obfs: salamander
   obfs-password: dnwx30hvcobf7xcf
@@ -904,6 +915,13 @@ proxies:
   sni: wopa3.api3-max.ru
   tls: false
   type: hysteria2
+- name: 👁️‍🗨️23@oneclickvpnkeys
+  password: 67a1454f-5a95-4e30-9723-1ffcbe7e97f9
+  port: 443
+  server: wopa5.api3-max.ru
+  sni: wopa5.api3-max.ru
+  tls: false
+  type: hysteria2
 - name: 👁️‍🗨️58@oneclickvpnkeys
   password: 67a1454f-5a95-4e30-9723-1ffcbe7e97f9
   port: 443
@@ -950,7 +968,7 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: ✅  @vistav2ray  👈👈کانال ما ✅
+- name: '@erfanandroid'
   obfs: salamander
   obfs-password: l960g2kn19nphlra
   password: 84eyebdtl3tcbssn
@@ -1126,16 +1144,6 @@ proxies:
   server: 91.107.174.32
   skip-cert-verify: true
   sni: www.amd.com
-  tls: false
-  type: hysteria2
-- name: Proxy_mtm Channel 27
-  obfs: salamander
-  obfs-password: rG07s3COMIEvdnQipRyWzx_H_2xygNC3
-  password: p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR
-  port: 443
-  server: 130.49.161.70
-  skip-cert-verify: true
-  sni: hy2.aspidnet.xyz
   tls: false
   type: hysteria2
 - name: 🇧🇭V2RayyNGvpn🇧🇭
