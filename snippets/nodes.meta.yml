@@ -809,17 +809,6 @@ proxies:
   sni: quic.tyr-agentstvo.tech
   tls: false
   type: hysteria2
-- alpn:
-  - h3
-  name: 9iespx3vcm
-  obfs: salamander
-  obfs-password: dnwx30hvcobf7xcf
-  password: 0ansucp5k6aop125
-  port: 32950
-  server: 185.47.172.226
-  sni: 185.47.172.226
-  tls: false
-  type: hysteria2
 - name: Proxy_mtm 6
   obfs: salamander
   obfs-password: dnwx30hvcobf7xcf
@@ -874,11 +863,11 @@ proxies:
   sni: ok.ru
   tls: false
   type: hysteria2
-- name: 👁️‍🗨️36@oneclickvpnkeys
+- name: 🇹🇷131396 | ⚡️Telegram = t.me/S...
   password: 67a1454f-5a95-4e30-9723-1ffcbe7e97f9
   port: 443
-  server: 107.181.134.90
-  sni: wopa7.api3-max.ru
+  server: 167.104.219.217
+  sni: taga5.api3-max.ru
   tls: false
   type: hysteria2
 - name: 3👁️‍🗨️@oneclickvpnkeys
@@ -908,47 +897,12 @@ proxies:
   server: wopa1.api3-max.ru
   tls: false
   type: hysteria2
-- name: 👁️‍🗨️38@oneclickvpnkeys
-  password: 67a1454f-5a95-4e30-9723-1ffcbe7e97f9
-  port: 443
-  server: wopa3.api3-max.ru
-  sni: wopa3.api3-max.ru
-  tls: false
-  type: hysteria2
-- name: 👁️‍🗨️23@oneclickvpnkeys
-  password: 67a1454f-5a95-4e30-9723-1ffcbe7e97f9
-  port: 443
-  server: wopa5.api3-max.ru
-  sni: wopa5.api3-max.ru
-  tls: false
-  type: hysteria2
-- name: 👁️‍🗨️58@oneclickvpnkeys
-  password: 67a1454f-5a95-4e30-9723-1ffcbe7e97f9
-  port: 443
-  server: wopa6.api3-max.ru
-  sni: wopa6.api3-max.ru
-  tls: false
-  type: hysteria2
-- name: 👁️‍🗨️43@oneclickvpnkeys
-  password: 67a1454f-5a95-4e30-9723-1ffcbe7e97f9
-  port: 443
-  server: wopa7.api3-max.ru
-  sni: wopa7.api3-max.ru
-  tls: false
-  type: hysteria2
 - name: 👁️‍🗨️61@oneclickvpnkeys
   password: 67a1454f-5a95-4e30-9723-1ffcbe7e97f9
   port: 443
   server: wopa8.api3-max.ru
   skip-cert-verify: true
   sni: wopa8.api3-max.ru
-  tls: false
-  type: hysteria2
-- name: 👁️‍🗨️44@oneclickvpnkeys
-  password: 67a1454f-5a95-4e30-9723-1ffcbe7e97f9
-  port: 443
-  server: wopa9.api3-max.ru
-  sni: wopa9.api3-max.ru
   tls: false
   type: hysteria2
 - name: 👁️‍🗨️65@oneclickvpnkeys
@@ -1001,13 +955,6 @@ proxies:
   server: 216.57.111.222
   skip-cert-verify: true
   sni: h2.ecliptic-it.ru
-  tls: false
-  type: hysteria2
-- name: 👁️‍🗨️59@oneclickvpnkeys
-  password: Apt1923_N9x234gn_Nal5Nx3j_s
-  port: 8443
-  server: 92.118.205.238
-  sni: grape-power-pl.ddnsguru.com
   tls: false
   type: hysteria2
 - name: 'کانال تلگرام : https://t.me/As...'
@@ -1072,6 +1019,16 @@ proxies:
   server: hy2-new.aspidnet.xyz
   skip-cert-verify: true
   sni: hy2-new.aspidnet.xyz
+  tls: false
+  type: hysteria2
+- name: 🇧🇭V2RayyNGvpn2🇧🇭
+  obfs: salamander
+  obfs-password: TelEgRam=V2RayyNGvpn
+  password: XhVX5cnBmJ
+  port: 443
+  server: 185.253.117.217
+  skip-cert-verify: true
+  sni: www.intel.com
   tls: false
   type: hysteria2
 - name: 🇳🇱 - NL - @FreeOnlineVPN
@@ -1173,14 +1130,6 @@ proxies:
   port: 443
   server: ro.h2corp.org
   sni: ro.h2corp.org
-  tls: false
-  type: hysteria2
-- name: 👁️‍🗨️60@oneclickvpnkeys
-  password: vpn-hy2-lv-2026
-  port: 8444
-  server: 185.236.22.119
-  skip-cert-verify: true
-  sni: 185.236.22.119
   tls: false
   type: hysteria2
 - name: 👁️‍🗨️16@oneclickvpnkeys
