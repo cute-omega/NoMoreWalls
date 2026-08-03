@@ -897,12 +897,17 @@ proxies:
   sni: taga5.api3-max.ru
   tls: false
   type: hysteria2
-- name: '@filembad #1'
+- name: 🛰️57@oneclickvpnkeys
   password: 76713d07-5a6b-49c2-abd8-bc450a2fa7fc
   port: 443
   server: 138.124.68.188
-  skip-cert-verify: false
   sni: usa1.spectrumproxy.shop
+  tls: false
+  type: hysteria2
+- name: '@filembad'
+  password: 76713d07-5a6b-49c2-abd8-bc450a2fa7fc
+  port: 443
+  server: 138.124.68.188
   tls: false
   type: hysteria2
 - name: ✅ t.me/bigAVPN ایران آزاد 👑
@@ -1064,7 +1069,7 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: 🇩🇪 t-me-V2RayyNGvpn 🚀
+- name: ✅  @vistav2ray  👈👈کانال ما ✅
   obfs: salamander
   obfs-password: RedmEthIS-Join-V2RayyNGvpn-oBsPaHard183hgak
   password: jeLq05gFPe
@@ -1082,16 +1087,6 @@ proxies:
   server: 91.107.174.32
   skip-cert-verify: true
   sni: www.amd.com
-  tls: false
-  type: hysteria2
-- name: 🇧🇭V2RayyNGvpn🇧🇭
-  obfs: salamander
-  obfs-password: TelEgRam=V2RayyNGvpn
-  password: reSpH6aX5g
-  port: 443
-  server: 185.253.117.217
-  skip-cert-verify: true
-  sni: www.intel.com
   tls: false
   type: hysteria2
 - alpn:
