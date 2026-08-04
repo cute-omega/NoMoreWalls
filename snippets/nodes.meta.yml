@@ -959,7 +959,7 @@ proxies:
   sni: vpn-ca-002.fastervpn.world
   tls: false
   type: hysteria2
-- name: 🇰🇷132459 | ⚡️Telegram = t.me/S...
+- name: 3🛰️@oneclickvpnkeys
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: 443
   server: vpn-kr-003.fastervpn.world
@@ -1042,18 +1042,6 @@ proxies:
   port: 33333
   server: hy2.123266.xyz
   sni: hy2.123266.xyz
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
-  fingerprint: unsafe
-  name: 🇩🇪DE-🚀@VPNine1
-  obfs: salamander
-  obfs-password: 4693t4m6i5ebs8ha
-  password: dac7qy87teimbiq4
-  port: 8443
-  server: v.dianawmoon.dpdns.org
-  sni: ''
   tls: false
   type: hysteria2
 - name: '@prrofile_purple  ♥️👈 تلگرام'
