@@ -1,5 +1,35 @@
 proxies:
-- name: 🇫🇷133266 | ⚡️Telegram = t.me/S...
+- name: 法国
+  password: 5bc8aea0-04a6-4fcf-9a04-1a51518396a8
+  port: 35000
+  server: 129.151.250.154
+  skip-cert-verify: true
+  sni: www.lamer.com.hk
+  tls: false
+  type: hysteria2
+- name: 🇫🇷法国
+  password: 8bba3194-4856-46d1-8319-075817d87eb1
+  port: 31568
+  server: fr4.sodahub.online
+  sni: fr4.sodahub.online
+  tls: false
+  type: hysteria2
+- name: 🤖41@oneclickvpnkeys
+  password: 9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z
+  port: 8443
+  server: 76.164.202.214
+  sni: mercedes-grape.yyuyy.com
+  tls: false
+  type: hysteria2
+- name: '🇫🇷法国 #2'
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 15.237.197.139
+  skip-cert-verify: true
+  sni: https://t.me/clashv8🇨🇳
+  tls: false
+  type: hysteria2
+- name: '🇫🇷法国 #3'
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: 443
   server: 15.237.219.57

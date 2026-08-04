@@ -144,6 +144,56 @@ proxies:
   sni: de.xn--ehqa22b.site
   tls: false
   type: hysteria2
+- name: 德国
+  password: 2ef4cf10-34df-4c0f-9d82-bf6ca9e45025
+  port: 443
+  server: node-degame.bangboonet.ru
+  sni: node-degame.bangboonet.ru
+  tls: false
+  type: hysteria2
+- name: 🇩🇪德国
+  password: 67a1454f-5a95-4e30-9723-1ffcbe7e97f9
+  port: 443
+  server: taga5.api3-max.ru
+  sni: taga5.api3-max.ru
+  tls: false
+  type: hysteria2
+- name: '🇩🇪德国 #1'
+  password: 67a1454f-5a95-4e30-9723-1ffcbe7e97f9
+  port: 443
+  server: taga8.api3-max.ru
+  sni: taga8.api3-max.ru
+  tls: false
+  type: hysteria2
+- name: '🇬🇧英国 #1'
+  password: 67a1454f-5a95-4e30-9723-1ffcbe7e97f9
+  port: 443
+  server: wopa3.api3-max.ru
+  sni: wopa3.api3-max.ru
+  tls: false
+  type: hysteria2
+- name: '德国 #1'
+  password: 8645697d-51c1-4e90-aca5-ba63a0392f11
+  port: 443
+  server: cze-01.node.lumixnet.com
+  sni: cze-01.node.lumixnet.com
+  tls: false
+  type: hysteria2
+- name: '🇩🇪德国 #3'
+  password: 8ffbff3b-12c9-4d49-af97-93a8d6cb4edb
+  port: 443
+  server: de2.sunconnecthub.com
+  sni: de2.sunconnecthub.com
+  tls: false
+  type: hysteria2
+- name: '🇩🇪德国 #4'
+  password: Krab9Hyst2_Rk7pQ2xL
+  port: 36723
+  server: de2.vpn.legendaah.xyz
+  skip-cert-verify: true
+  sni: www.cloudflare.com
+  tls: false
+  type: hysteria2
 - name: 'کانال تلگرام : Free_VPN_CH@'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
@@ -152,5 +202,12 @@ proxies:
   server: 181.214.99.162
   skip-cert-verify: false
   sni: api.kermanshahi.org
+  tls: false
+  type: hysteria2
+- name: '德国 #2'
+  password: d1224950-ffab-4b9a-8696-431b40a6cfbd
+  port: 443
+  server: bel-03.node.lumixnet.com
+  sni: bel-03.node.lumixnet.com
   tls: false
   type: hysteria2

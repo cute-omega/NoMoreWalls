@@ -36,6 +36,28 @@ proxies:
   skip-cert-verify: true
   sni: 194.33.45.157
   type: trojan
+- name: 🇺🇸美国
+  password: 6fe3a600-4bcf-4040-81eb-ccd29231db2b
+  port: 30001
+  server: 155.117.19.221
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: '🇺🇸美国 #1'
+  password: VB92_Ka9qwef143K_L23K1hz3_bF_Hz62uT_Bn1_sC
+  port: 8080
+  server: 23.95.75.151
+  skip-cert-verify: true
+  sni: hopp-us.yyuyy.com
+  tls: false
+  type: hysteria2
+- name: '🇺🇸美国 #2'
+  password: VB92_Ka9qwef143K_L23K1hz3_bF_Hz62uT_Bn1_sC
+  port: 8443
+  server: 23.95.75.151
+  sni: hopp-us.yyuyy.com
+  tls: false
+  type: hysteria2
 - name: 🇺🇸US
   obfs: salamander
   obfs-password: XBvVbvzQCq6Ovbnh
