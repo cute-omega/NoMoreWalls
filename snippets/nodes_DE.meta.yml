@@ -211,3 +211,44 @@ proxies:
   sni: bel-03.node.lumixnet.com
   tls: false
   type: hysteria2
+- name: 💫22@oneclickvpnkeys
+  obfs: salamander
+  obfs-password: 3sv5vpdl9xr84lyb
+  password: 22j0d00lev7mq0yv
+  port: 443
+  server: social.klipp.su
+  sni: social.klipp.su
+  tls: false
+  type: hysteria2
+- name: '🇩🇪133844 | ⚡️Telegram = t.me/S... #1'
+  obfs: salamander
+  obfs-password: 3sv5vpdl9xr84lyb
+  password: 22j0d00lev7mq0yv
+  port: 443
+  server: soskeynets.klipp.su
+  sni: social.klipp.su
+  tls: false
+  type: hysteria2
+- name: 🧬26@SHAHSERVER1
+  password: 9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z
+  port: 8443
+  server: 76.164.202.213
+  sni: mercedes-grape.yyuyy.com
+  tls: false
+  type: hysteria2
+- name: 💫23@oneclickvpnkeys
+  password: 9d3356a0-c07e-43cc-b30e-450bd50521b8
+  port: 2056
+  server: flkf3.mangshe.xyz
+  skip-cert-verify: true
+  sni: flkf3.mangshe.xyz
+  tls: false
+  type: hysteria2
+- name: '🇩🇪133845 | ⚡️Telegram = t.me/S... #1'
+  password: 9d3356a0-c07e-43cc-b30e-450bd50521b8
+  port: 2056
+  server: soskeynets.mangshe.xyz
+  skip-cert-verify: true
+  sni: flkf3.mangshe.xyz
+  tls: false
+  type: hysteria2
