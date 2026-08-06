@@ -7,7 +7,7 @@ proxies:
   sni: www.lamer.com.hk
   tls: false
   type: hysteria2
-- name: 💫12@oneclickvpnkeys
+- name: 🇫🇷法国
   password: 9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z
   port: 8443
   server: 76.164.202.214
@@ -38,12 +38,5 @@ proxies:
   server: fr2.xiaoliyu.cyou
   skip-cert-verify: true
   sni: fr2.xiaoliyu.cyou
-  tls: false
-  type: hysteria2
-- name: 🪁49@oneclickvpnkeys
-  password: qIg7TMxfJvx6t27er0c9P0osebAAPu2PYlB_aoWelV5kVVQ2
-  port: 443
-  server: 194.180.174.69
-  sni: fr2.h2corp.org
   tls: false
   type: hysteria2
