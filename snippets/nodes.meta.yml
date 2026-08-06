@@ -1205,14 +1205,7 @@ proxies:
   sni: usa1.spectrumproxy.shop
   tls: false
   type: hysteria2
-- name: 🇺🇸134686 | ⚡️Telegram = t.me/S...
-  password: 76713d07-5a6b-49c2-abd8-bc450a2fa7fc
-  port: 443
-  server: soskeynets.spectrumproxy.shop
-  sni: usa1.spectrumproxy.shop
-  tls: false
-  type: hysteria2
-- name: '🇺🇸134686 | ⚡️Telegram = t.me/S... #1'
+- name: 5💫@oneclickvpnkeys
   password: 76713d07-5a6b-49c2-abd8-bc450a2fa7fc
   port: 443
   server: usa1.spectrumproxy.shop
@@ -1296,13 +1289,6 @@ proxies:
   server: 179.61.132.96
   skip-cert-verify: true
   sni: 179.61.132.96
-  tls: false
-  type: hysteria2
-- name: 🇳🇱134723 | ⚡️Telegram = t.me/S...
-  password: Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s
-  port: 8443
-  server: 86.107.178.66
-  sni: grape-zet-turbo-nl.yyuyy.com
   tls: false
   type: hysteria2
 - name: ✅  @vistav2ray  👈👈کانال ما ✅
@@ -1459,7 +1445,7 @@ proxies:
   sni: www.amd.com
   tls: false
   type: hysteria2
-- name: '@meliproxyy #1'
+- name: https://t.me/AarazV2ray
   obfs: salamander
   obfs-password: rG07s3COMIEvdnQipRyWzx_H_2xygNC3
   password: p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR
