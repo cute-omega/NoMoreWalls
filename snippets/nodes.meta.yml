@@ -800,15 +800,6 @@ proxies:
   sni: hg1.yuanbaojc.site
   tls: false
   type: hysteria2
-- name: 🇪🇪爱沙尼亚
-  obfs: salamander
-  obfs-password: iknjsvsjagi449mm
-  password: 4z2oldt85p494bgb
-  port: 52025
-  server: assets.gateway-stream.com
-  sni: assets.gateway-stream.com
-  tls: false
-  type: hysteria2
 - name: 法国
   password: 5bc8aea0-04a6-4fcf-9a04-1a51518396a8
   port: 35000
@@ -976,6 +967,14 @@ proxies:
   sni: nl2.unlockvpn.online
   tls: false
   type: hysteria2
+- name: 🇨🇭瑞士
+  password: 99800091-8337-4112-8756-8cc60eb1ffa8
+  port: 10808
+  server: nl6.unlockvpn.online
+  skip-cert-verify: true
+  sni: nl6.unlockvpn.online
+  tls: false
+  type: hysteria2
 - name: 英国
   password: 99800091-8337-4112-8756-8cc60eb1ffa8
   port: 10808
@@ -983,7 +982,7 @@ proxies:
   sni: nl7.unlockvpn.online
   tls: false
   type: hysteria2
-- name: 🤖41@oneclickvpnkeys
+- name: 💫12@oneclickvpnkeys
   password: 9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z
   port: 8443
   server: 76.164.202.214
@@ -1004,6 +1003,22 @@ proxies:
   server: 82.47.32.31
   skip-cert-verify: true
   sni: iosapps.itunes.apple.com
+  tls: false
+  type: hysteria2
+- name: 🇩🇪DE
+  password: 9d3356a0-c07e-43cc-b30e-450bd50521b8
+  port: 2056
+  server: dg1.mangshe.xyz
+  skip-cert-verify: true
+  sni: dg1.mangshe.xyz
+  tls: false
+  type: hysteria2
+- name: 新加坡
+  password: 9d3356a0-c07e-43cc-b30e-450bd50521b8
+  port: 2055
+  server: xjp1.mangshe.xyz
+  skip-cert-verify: true
+  sni: xjp1.mangshe.xyz
   tls: false
   type: hysteria2
 - name: 瑞典
@@ -1029,6 +1044,13 @@ proxies:
   sni: https://t.me/clashv8🇨🇳
   tls: false
   type: hysteria2
+- name: 🇭🇰HK
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 202.146.222.29
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
 - name: '🇩🇪德国 #2'
   password: Krab9Hyst2_Rk7pQ2xL
   port: 36723
@@ -1052,15 +1074,23 @@ proxies:
   sni: grape-zet-turbo-nl.yyuyy.com
   tls: false
   type: hysteria2
-- name: '🇺🇸美国 #1'
-  password: VB92_Ka9qwef143K_L23K1hz3_bF_Hz62uT_Bn1_sC
-  port: 8080
-  server: 23.95.75.151
+- name: '荷兰 #1'
+  password: Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s
+  port: 8443
+  server: 86.107.178.66
   skip-cert-verify: true
-  sni: hopp-us.yyuyy.com
+  sni: grape-zet-turbo-nl.yyuyy.com
   tls: false
   type: hysteria2
-- name: '🇺🇸美国 #2'
+- name: 🇯🇵JP
+  password: STYyftThFn
+  port: 12765
+  server: freedom.chenlan.top
+  skip-cert-verify: true
+  sni: freedom.chenlan.top
+  tls: false
+  type: hysteria2
+- name: '🇺🇸美国 #1'
   password: VB92_Ka9qwef143K_L23K1hz3_bF_Hz62uT_Bn1_sC
   port: 8443
   server: 23.95.75.151
@@ -1128,7 +1158,23 @@ proxies:
   sni: fr2.xiaoliyu.cyou
   tls: false
   type: hysteria2
-- name: '荷兰 #1'
+- name: '新加坡 #1'
+  password: f64c72a1-7e1f-4dd1-8929-7e41682542e2
+  port: 4466
+  server: sg3.xiaoliyu.cyou
+  skip-cert-verify: true
+  sni: sg3.xiaoliyu.cyou
+  tls: false
+  type: hysteria2
+- name: '罗马尼亚 #1'
+  password: gf1
+  port: 443
+  server: 185.156.44.99
+  skip-cert-verify: true
+  sni: www.amazon.com
+  tls: false
+  type: hysteria2
+- name: '荷兰 #2'
   password: gf1
   port: 443
   server: 5.129.235.85
@@ -1216,6 +1262,14 @@ proxies:
   password: 9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z
   port: 8443
   server: 76.164.202.213
+  sni: mercedes-grape.yyuyy.com
+  tls: false
+  type: hysteria2
+- name: 🪁2@oneclickvpnkeys
+  password: 9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z
+  port: 8443
+  server: 76.164.202.215
+  skip-cert-verify: true
   sni: mercedes-grape.yyuyy.com
   tls: false
   type: hysteria2

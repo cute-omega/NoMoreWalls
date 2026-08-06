@@ -103,6 +103,14 @@ proxies:
   sni: jp.xn--ehqa22b.site
   tls: false
   type: hysteria2
+- name: 🇯🇵JP
+  password: STYyftThFn
+  port: 12765
+  server: freedom.chenlan.top
+  skip-cert-verify: true
+  sni: freedom.chenlan.top
+  tls: false
+  type: hysteria2
 - name: 日本|@ripaojiedian
   network: tcp
   password: BxceQaOe
