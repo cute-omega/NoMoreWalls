@@ -1078,10 +1078,26 @@ proxies:
   sni: grape-zet-turbo-nl.yyuyy.com
   tls: false
   type: hysteria2
-- name: 🇯🇵JP
+- name: '@GozargahAzad|🇷🇴'
   password: STYyftThFn
   port: 12765
   server: freedom.chenlan.top
+  skip-cert-verify: true
+  sni: ''
+  tls: false
+  type: hysteria2
+- name: 🇷🇴137070 | ⚡️Telegram = t.me/S...
+  password: STYyftThFn
+  port: 12765
+  server: freedom.chenlan.top
+  skip-cert-verify: true
+  sni: freedom.chenlan.top
+  tls: false
+  type: hysteria2
+- name: '🇷🇴137070 | ⚡️Telegram = t.me/S... #1'
+  password: STYyftThFn
+  port: 12765
+  server: soskeynets.chenlan.top
   skip-cert-verify: true
   sni: freedom.chenlan.top
   tls: false
@@ -1199,7 +1215,7 @@ proxies:
   sni: www.dell.com
   tls: false
   type: hysteria2
-- name: 🇷🇴RO-🚀@VPNine1
+- name: '罗马尼亚 #2'
   password: gf1
   port: 443
   server: 185.156.44.99
@@ -1239,7 +1255,7 @@ proxies:
   sni: 185.47.172.226
   tls: false
   type: hysteria2
-- name: 🇩🇪@FreakConfig
+- name: 🪁86@oneclickvpnkeys
   obfs: salamander
   obfs-password: PQ$hN78bzXWN
   password: 18cf8030-1ceb-4b7d-8c0c-c036413c144e
@@ -1270,14 +1286,6 @@ proxies:
   password: 9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z
   port: 8443
   server: 76.164.202.213
-  sni: mercedes-grape.yyuyy.com
-  tls: false
-  type: hysteria2
-- name: 🪁2@oneclickvpnkeys
-  password: 9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z
-  port: 8443
-  server: 76.164.202.215
-  skip-cert-verify: true
   sni: mercedes-grape.yyuyy.com
   tls: false
   type: hysteria2
@@ -1355,16 +1363,6 @@ proxies:
   sni: de.jey.cc.cd
   tls: false
   type: hysteria2
-- name: ✅  @vistav2ray  👈👈کانال ما ✅
-  obfs: salamander
-  obfs-password: 83v9muumcyikh5ch
-  password: TelegramVPNjey
-  port: 37003
-  server: 179.61.251.253
-  skip-cert-verify: false
-  sni: de.jey.cc.cd
-  tls: false
-  type: hysteria2
 - alpn:
   - h3
   fingerprint: chrome
@@ -1374,6 +1372,16 @@ proxies:
   password: TelegramVPNjey
   port: 37003
   server: 179.61.251.253
+  sni: de.jey.cc.cd
+  tls: false
+  type: hysteria2
+- name: ✅  @vistav2ray  👈👈کانال ما ✅
+  obfs: salamander
+  obfs-password: 83v9muumcyikh5ch
+  password: TelegramVPNjey
+  port: 37003
+  server: 179.61.251.253
+  skip-cert-verify: false
   sni: de.jey.cc.cd
   tls: false
   type: hysteria2
