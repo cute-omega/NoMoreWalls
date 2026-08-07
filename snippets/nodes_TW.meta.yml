@@ -13,11 +13,3 @@ proxies:
     headers:
       Host: snll667.pages.dev
     path: '%2F'
-- name: 🧅42@oneclickvpnkeys
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: 443
-  server: vpn-tw-002.fastervpn.world
-  skip-cert-verify: true
-  sni: 127.0.0.1
-  tls: false
-  type: hysteria2
