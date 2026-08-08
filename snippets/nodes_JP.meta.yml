@@ -103,7 +103,15 @@ proxies:
   sni: jp.xn--ehqa22b.site
   tls: false
   type: hysteria2
-- name: 🇷🇴137070 | ⚡️Telegram = t.me/S...
+- name: 🇯🇵JP
+  password: 0c3bd8c8-53db-4126-a98f-d12d908d5301
+  port: 11000
+  server: jpa.nnpy.org
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
+- name: '🇯🇵JP #1'
   password: STYyftThFn
   port: 12765
   server: freedom.chenlan.top

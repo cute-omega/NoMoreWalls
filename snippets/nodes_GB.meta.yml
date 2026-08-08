@@ -1,18 +1,9 @@
 proxies:
-- name: '🇬🇧英国 #1'
+- name: 🇬🇧英国
   password: 67a1454f-5a95-4e30-9723-1ffcbe7e97f9
   port: 443
   server: wopa4.api3-max.ru
-  skip-cert-verify: true
   sni: wopa4.api3-max.ru
-  tls: false
-  type: hysteria2
-- name: '🇬🇧英国 #2'
-  password: 67a1454f-5a95-4e30-9723-1ffcbe7e97f9
-  port: 443
-  server: wopa8.api3-max.ru
-  skip-cert-verify: true
-  sni: wopa8.api3-max.ru
   tls: false
   type: hysteria2
 - name: 英国
@@ -29,7 +20,7 @@ proxies:
   sni: nl7.unlockvpn.online
   tls: false
   type: hysteria2
-- name: '🇬🇧英国 #3'
+- name: '🇬🇧英国 #1'
   password: 9abff4cd-ac3b-40ce-a3e7-f71f445d670f
   port: 443
   server: 5.183.102.113
