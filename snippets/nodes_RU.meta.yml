@@ -1,5 +1,5 @@
 proxies:
-- name: 🇹🇷土耳其
+- name: 🇷🇺俄罗斯
   password: 67a1454f-5a95-4e30-9723-1ffcbe7e97f9
   port: 443
   server: taga3.api3-max.ru
@@ -20,7 +20,7 @@ proxies:
   sni: de-two.quiet-rogue.site
   tls: false
   type: hysteria2
-- name: '荷兰 #5'
+- name: '荷兰 #6'
   password: gf1
   port: 443
   server: 5.129.235.85
