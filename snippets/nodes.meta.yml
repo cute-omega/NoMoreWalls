@@ -1253,7 +1253,7 @@ proxies:
   sni: grape-turbo-fr.roxa.org
   tls: false
   type: hysteria2
-- name: '罗马尼亚 #6'
+- name: ✨19@oneclickvpnkeys
   password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
   port: 8443
   server: 205.237.109.220
@@ -1341,7 +1341,7 @@ proxies:
   obfs-password: 83v9muumcyikh5ch
   password: TelegramVPNJey
   port: 37003
-  server: 179.61.251.253
+  server: 1.1.1.1
   sni: de.jey.cc.cd
   tls: false
   type: hysteria2
@@ -1551,6 +1551,13 @@ proxies:
   port: 44100
   server: pro2.riziro.ir
   sni: pro2.riziro.ir
+  tls: false
+  type: hysteria2
+- name: ✨22@oneclickvpnkeys
+  password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
+  port: 8443
+  server: 205.237.109.213
+  sni: grape-turbo-fr.roxa.org
   tls: false
   type: hysteria2
 - cipher: aes-256-cfb

@@ -212,7 +212,7 @@ proxies:
   obfs-password: 83v9muumcyikh5ch
   password: TelegramVPNJey
   port: 37003
-  server: 179.61.251.253
+  server: 1.1.1.1
   sni: de.jey.cc.cd
   tls: false
   type: hysteria2
