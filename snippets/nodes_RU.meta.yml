@@ -6,19 +6,11 @@ proxies:
   sni: j47lq.pleiades.codes
   tls: false
   type: hysteria2
-- name: '荷兰 #7'
+- name: '荷兰 #8'
   password: gf1
   port: 443
   server: 5.129.235.85
   skip-cert-verify: true
   sni: www.linux.com
-  tls: false
-  type: hysteria2
-- name: 🇷🇺140009 | ⚡️Telegram = t.me/S...
-  password: 95c61940-2823-4665-a033-d4f2218329b6
-  port: 443
-  server: 46.8.210.209
-  skip-cert-verify: false
-  sni: ru3.kinotorg.net
   tls: false
   type: hysteria2
