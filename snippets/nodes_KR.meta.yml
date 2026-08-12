@@ -5,14 +5,6 @@ proxies:
   tls: false
   type: socks5
   username: T2clM0QlM0Q6
-- name: 🇰🇷KR
-  password: 300f8c21-6341-4503-a5db-c13d331c63c8
-  port: 20801
-  server: hg1.yuanbaojc.site
-  skip-cert-verify: true
-  sni: 127.0.0.1
-  tls: false
-  type: hysteria2
 - name: 🇰🇷 KR
   password: 300f8c21-6341-4503-a5db-c13d331c63c8
   port: 20801
@@ -27,5 +19,13 @@ proxies:
   server: 3.36.89.239
   skip-cert-verify: true
   sni: vpn-kr-003.fastervpn.world
+  tls: false
+  type: hysteria2
+- name: 🇰🇷141143 | ⚡️Telegram = t.me/S...
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 3.36.93.159
+  skip-cert-verify: true
+  sni: whatsapp.com
   tls: false
   type: hysteria2
