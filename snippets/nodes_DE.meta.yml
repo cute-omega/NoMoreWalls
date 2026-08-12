@@ -144,10 +144,11 @@ proxies:
   sni: de.xn--ehqa22b.site
   tls: false
   type: hysteria2
-- name: 德国
+- name: 🎗️70@oneclickvpnkeys
   password: 2ef4cf10-34df-4c0f-9d82-bf6ca9e45025
   port: 443
   server: node-degame.bangboonet.ru
+  skip-cert-verify: true
   sni: node-degame.bangboonet.ru
   tls: false
   type: hysteria2
@@ -200,7 +201,7 @@ proxies:
 - alpn:
   - h3
   fingerprint: chrome
-  name: '🇫🇮FI-🚀@VPNine1 #5'
+  name: 🇫🇮141127 | ⚡️Telegram = t.me/S...
   obfs: salamander
   obfs-password: mtg2vchyir6la3et
   password: 3ff7b2e75ce84d05ae16572b60a9b707
@@ -212,7 +213,7 @@ proxies:
 - alpn:
   - h3
   fingerprint: chrome
-  name: '🇫🇮FI-🚀@VPNine1 #6'
+  name: 🇫🇮141128 | ⚡️Telegram = t.me/S...
   obfs: salamander
   obfs-password: 1wcfqg6gwoyxlplo
   password: 3ff7b2e75ce84d05ae16572b60a9b707
@@ -224,7 +225,7 @@ proxies:
 - alpn:
   - h3
   fingerprint: chrome
-  name: '🇫🇮FI-🚀@VPNine1 #7'
+  name: 🇫🇮141125 | ⚡️Telegram = t.me/S...
   obfs: salamander
   obfs-password: detgimgm8qh8i2g2
   password: 3ff7b2e75ce84d05ae16572b60a9b707
