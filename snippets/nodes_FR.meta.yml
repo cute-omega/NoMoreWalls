@@ -36,7 +36,7 @@ proxies:
 - alpn:
   - h3
   fingerprint: chrome
-  name: '🇫🇮FI-🚀@VPNine1 #6'
+  name: dc-udp-🇫🇷 France-Bordeaux-met_...
   obfs: salamander
   obfs-password: x5y77oxwfcl868u3
   password: 3ff7b2e75ce84d05ae16572b60a9b707
@@ -48,7 +48,7 @@ proxies:
 - alpn:
   - h3
   fingerprint: chrome
-  name: 🇫🇮141130 | ⚡️Telegram = t.me/S...
+  name: dc-udp-🇫🇷 France-Marseille-met...
   obfs: salamander
   obfs-password: p61ckuavkc1s2hfl
   password: 3ff7b2e75ce84d05ae16572b60a9b707
