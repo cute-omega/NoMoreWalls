@@ -7,10 +7,11 @@ proxies:
   sni: www.lamer.com.hk
   tls: false
   type: hysteria2
-- name: '法国 #1'
+- name: 🎗️20@oneclickvpnkeys
   password: 95e8532b-cc69-42d4-9553-e3c23292b15b
   port: 8443
   server: iq5ny.pleiades.codes
+  skip-cert-verify: true
   sni: iq5ny.pleiades.codes
   tls: false
   type: hysteria2
@@ -29,6 +30,13 @@ proxies:
   server: fr2.xiaoliyu.cyou
   skip-cert-verify: true
   sni: fr2.xiaoliyu.cyou
+  tls: false
+  type: hysteria2
+- name: 🎗️16@oneclickvpnkeys
+  password: 95e8532b-cc69-42d4-9553-e3c23292b15b
+  port: 8443
+  server: 151.247.193.5
+  sni: iq5ny.pleiades.codes
   tls: false
   type: hysteria2
 - name: FR_speednode_0002
