@@ -35,14 +35,6 @@ proxies:
   sni: 079c035a-t5bb40-t6tn6w-jjv2.hk1.hyhuawei.com
   tls: false
   type: hysteria2
-- name: 🇭🇰香港
-  password: 9abff4cd-ac3b-40ce-a3e7-f71f445d670f
-  port: 443
-  server: 82.47.32.31
-  skip-cert-verify: true
-  sni: iosapps.itunes.apple.com
-  tls: false
-  type: hysteria2
 - name: 🇭🇰HK
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: 443
@@ -62,25 +54,24 @@ proxies:
 - name: 香港3|@ripaojiedian
   network: tcp
   password: 6ec301428255a78a1d826988d86cc87e
-  port: 50887
-  server: 57.183.7.187
+  port: 11231
+  server: 16.162.100.124
   skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
-- name: HK_speednode_0013
+- name: 香港4|@ripaojiedian
   network: tcp
   password: BxceQaOe
-  port: 27161
-  server: 16.162.3.11
+  port: 11035
+  server: 18.162.244.203
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
-  udp: true
 - name: 香港5|@ripaojiedian
   network: tcp
   password: BxceQaOe
-  port: 29444
-  server: 18.162.120.21
+  port: 11035
+  server: 18.162.120.218
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
@@ -100,5 +91,13 @@ proxies:
   server: 16.162.3.11
   skip-cert-verify: true
   sni: t.me/ripaojiedian
+  type: trojan
+  udp: true
+- name: HK_speednode_0013
+  password: BxceQaOe
+  port: 27161
+  server: 16.162.3.11
+  skip-cert-verify: true
+  sni: t.me%2Fripaojiedian
   type: trojan
   udp: true
