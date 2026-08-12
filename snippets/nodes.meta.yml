@@ -796,6 +796,14 @@ proxies:
   sni: es1.xiaoliyu.cyou
   tls: false
   type: hysteria2
+- name: 🇬🇧GB
+  password: 22d891f5-ad85-4824-b0b8-e30cf3d37eb5
+  port: 2056
+  server: yg3.mangshe.xyz
+  skip-cert-verify: true
+  sni: yg3.mangshe.xyz
+  tls: false
+  type: hysteria2
 - name: 芬兰
   obfs: salamander
   obfs-password: 8zzng75tz4tf82pj
@@ -837,6 +845,22 @@ proxies:
   server: hg1.yuanbaojc.site
   skip-cert-verify: true
   sni: hg1.yuanbaojc.site
+  tls: false
+  type: hysteria2
+- name: 🇸🇬SG
+  password: 4eee1b74-f71e-4c88-ac26-9eec362e40d1
+  port: 20007
+  server: hkt1.nekohub.xyz
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
+- name: '🇯🇵JP #1'
+  password: 53f193c4-6482-45fb-8e00-60e0baf016ee
+  port: 48920
+  server: 207.56.227.226
+  skip-cert-verify: true
+  sni: www.bing.com
   tls: false
   type: hysteria2
 - name: 美国
@@ -1034,12 +1058,20 @@ proxies:
   sni: grape-zet-turbo-nl.yyuyy.com
   tls: false
   type: hysteria2
-- name: '🇯🇵JP #1'
+- name: '🇯🇵JP #2'
   password: STYyftThFn
   port: 12765
   server: freedom.chenlan.top
   skip-cert-verify: true
   sni: freedom.chenlan.top
+  tls: false
+  type: hysteria2
+- name: 🇷🇴140820 | ⚡️Telegram = t.me/S...
+  password: STYyftThFn
+  port: 12765
+  server: freedom.chenlan.top
+  skip-cert-verify: true
+  sni: css.rbxcdn.com
   tls: false
   type: hysteria2
 - name: 🇧🇭BH
@@ -1138,6 +1170,13 @@ proxies:
   port: 8458
   server: hy2-us.frdmhere.com
   sni: hy2.frdmhere.com
+  tls: false
+  type: hysteria2
+- name: 🇭🇰 HK
+  password: ec19e705-c8fe-4e9c-8cbe-c47038da0620
+  port: 18385
+  server: hk1.ktmhyld.com
+  skip-cert-verify: true
   tls: false
   type: hysteria2
 - name: '法国 #3'
@@ -1316,7 +1355,17 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: 🇫🇮140796 | ⚡️Telegram = t.me/S...
+- name: 🇫🇮FI-🚀@VPNine1
+  obfs: salamander
+  obfs-password: hc7wdqfxl9wi1y8z
+  password: 4ff4adfb8e7a4bae9c959c54fa5af52f
+  port: 52032
+  server: assets.gateway-stream.com
+  skip-cert-verify: false
+  sni: ''
+  tls: false
+  type: hysteria2
+- name: '🇫🇮FI-🚀@VPNine1 #1'
   obfs: salamander
   obfs-password: hc7wdqfxl9wi1y8z
   password: 4ff4adfb8e7a4bae9c959c54fa5af52f
@@ -1326,7 +1375,7 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: 🇫🇮140673 | ⚡️Telegram = t.me/S...
+- name: 🇫🇮 @ConfigV2RayNG
   obfs: salamander
   obfs-password: gfy85fok75ipi28z
   password: 4ff4adfb8e7a4bae9c959c54fa5af52f
@@ -1346,7 +1395,7 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: 🇫🇮140607 | ⚡️Telegram = t.me/S...
+- name: Tel-@ProxyMtAlpha⛩️ 3
   obfs: salamander
   obfs-password: zducqb7ro143x0t2
   password: 4ff4adfb8e7a4bae9c959c54fa5af52f
@@ -1370,6 +1419,16 @@ proxies:
   sni: iq5ny.pleiades.codes
   tls: false
   type: hysteria2
+- name: 🇩🇪140846 | ⚡️Telegram = t.me/S...
+  obfs: salamander
+  obfs-password: AIbOe_791iQ4k6kPUgdsO7B9
+  password: 9cc2113e-6b5b-4ced-9c46-70cf78d2c599
+  port: 2082
+  server: dns.tokyoservice.ir
+  skip-cert-verify: false
+  sni: hy2.tokyoservice.ir
+  tls: false
+  type: hysteria2
 - name: 🇹🇷TR-🚀@VPNine1
   obfs: salamander
   obfs-password: Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes
@@ -1387,6 +1446,16 @@ proxies:
   port: 36896
   server: ptserv.accuratenetworkchecker.ir
   sni: lms22.gelzaro.ir
+  tls: false
+  type: hysteria2
+- name: '@Configvibes🇹🇷 #1'
+  obfs: salamander
+  obfs-password: IL+pm5"K?4gef:Jvn8^G+:N,Neyy8
+  password: Configvibes
+  port: 2096
+  server: 107.181.155.107
+  skip-cert-verify: true
+  sni: ftp.debian.org
   tls: false
   type: hysteria2
 - name: 1🔖@oneclickvpnkeys
@@ -1483,22 +1552,13 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 🇪🇪140622 | ⚡️Telegram = t.me/S...
+- name: 🇪🇪EE-🚀@VPNine1
   obfs: salamander
   obfs-password: 44f1c1e2f8b99e792ceed574627a1eb0
   password: cd74c0a406664a5bc0bac098220a2468
   port: 443
-  server: ee2.sferavpn.pro
-  sni: ee2.sferavpn.pro
-  tls: false
-  type: hysteria2
-- name: 🇷🇺140620 | ⚡️Telegram = t.me/S...
-  obfs: salamander
-  obfs-password: 44f1c1e2f8b99e792ceed574627a1eb0
-  password: cd74c0a406664a5bc0bac098220a2468
-  port: 443
-  server: ru1.sferavpn.pro
-  sni: ru1.sferavpn.pro
+  server: ee1.sferavpn.pro
+  sni: ee1.sferavpn.pro
   tls: false
   type: hysteria2
 - name: 🇨🇵
