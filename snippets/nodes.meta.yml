@@ -1229,6 +1229,16 @@ proxies:
   sni: social.klipp.su
   tls: false
   type: hysteria2
+- name: 🇵🇱PL-🚀@VPNine1
+  obfs: salamander
+  obfs-password: 1yvnm8sv41
+  password: 2b5f7fc3d38f4798a0f62d4ef8876528
+  port: 443
+  server: 82.22.41.125
+  skip-cert-verify: true
+  sni: pl6.lckdwn.ru
+  tls: false
+  type: hysteria2
 - name: 🎗️40@oneclickvpnkeys
   password: 2ef4cf10-34df-4c0f-9d82-bf6ca9e45025
   port: 443
@@ -1547,7 +1557,7 @@ proxies:
   sni: nl2.sferavpn.pro
   tls: false
   type: hysteria2
-- name: 🇩🇪DE-🚀@VPNine1
+- name: 🇩🇪141289 | ⚡️Telegram = t.me/S...
   obfs: salamander
   obfs-password: 44f1c1e2f8b99e792ceed574627a1eb0
   password: cd74c0a406664a5bc0bac098220a2468
@@ -1556,7 +1566,7 @@ proxies:
   sni: de2.sferavpn.pro
   tls: false
   type: hysteria2
-- name: 🇷🇴RO-🚀@VPNine1
+- name: 🇷🇴141288 | ⚡️Telegram = t.me/S...
   password: gf1
   port: 443
   server: 185.156.44.99
