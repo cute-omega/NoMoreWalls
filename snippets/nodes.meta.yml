@@ -766,14 +766,6 @@ proxies:
   sni: nl1.noesissite.ru
   tls: false
   type: hysteria2
-- name: 🇯🇵JP
-  password: 0c3bd8c8-53db-4126-a98f-d12d908d5301
-  port: 11000
-  server: jpa.nnpy.org
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
 - name: '荷兰 #1'
   password: 16ab4d4a-fd81-4535-9b7b-346677226ce8
   port: 443
@@ -832,14 +824,6 @@ proxies:
   sni: node-degame.bangboonet.ru
   tls: false
   type: hysteria2
-- name: 🇰🇷 KR
-  password: 300f8c21-6341-4503-a5db-c13d331c63c8
-  port: 20801
-  server: hg1.yuanbaojc.site
-  skip-cert-verify: true
-  sni: hg1.yuanbaojc.site
-  tls: false
-  type: hysteria2
 - name: 🇸🇬SG
   password: 4eee1b74-f71e-4c88-ac26-9eec362e40d1
   port: 20007
@@ -848,7 +832,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '🇯🇵JP #1'
+- name: 🇯🇵JP
   password: 53f193c4-6482-45fb-8e00-60e0baf016ee
   port: 48920
   server: 207.56.227.226
@@ -923,14 +907,6 @@ proxies:
   sni: iq5ny.pleiades.codes
   tls: false
   type: hysteria2
-- name: 🇨🇭瑞士
-  password: 99800091-8337-4112-8756-8cc60eb1ffa8
-  port: 10808
-  server: nl6.unlockvpn.online
-  skip-cert-verify: true
-  sni: nl6.unlockvpn.online
-  tls: false
-  type: hysteria2
 - name: '英国 #1'
   password: 99800091-8337-4112-8756-8cc60eb1ffa8
   port: 10808
@@ -960,14 +936,6 @@ proxies:
   sni: mercedes-grape.yyuyy.com
   tls: false
   type: hysteria2
-- name: 🇩🇪DE
-  password: 9d3356a0-c07e-43cc-b30e-450bd50521b8
-  port: 2056
-  server: dg1.mangshe.xyz
-  skip-cert-verify: true
-  sni: dg1.mangshe.xyz
-  tls: false
-  type: hysteria2
 - name: 新加坡
   password: 9d3356a0-c07e-43cc-b30e-450bd50521b8
   port: 2055
@@ -981,13 +949,6 @@ proxies:
   port: 8443
   server: 142.111.244.75
   sni: grape-power-pl.ddnsguru.com
-  tls: false
-  type: hysteria2
-- name: 🇭🇰HK
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: 443
-  server: 202.146.222.29
-  skip-cert-verify: true
   tls: false
   type: hysteria2
 - name: 韩国
@@ -1051,24 +1012,6 @@ proxies:
   sni: grape-zet-turbo-nl.yyuyy.com
   tls: false
   type: hysteria2
-- name: '🇯🇵JP #2'
-  password: STYyftThFn
-  port: 12765
-  server: freedom.chenlan.top
-  skip-cert-verify: true
-  sni: freedom.chenlan.top
-  tls: false
-  type: hysteria2
-- name: 🇧🇭BH
-  obfs: salamander
-  obfs-password: TelEgRam=V2RayyNGvpn
-  password: XhVX5cnBmJ
-  port: 443
-  server: 185.253.117.217
-  skip-cert-verify: true
-  sni: www.intel.com
-  tls: false
-  type: hysteria2
 - name: '美国 #2'
   password: a000fb47-5dfd-4a6b-9739-2878883d6969
   port: 36253
@@ -1085,15 +1028,6 @@ proxies:
   server: 181.214.99.162
   skip-cert-verify: false
   sni: api.kermanshahi.org
-  tls: false
-  type: hysteria2
-- name: 🇺🇸US
-  obfs: salamander
-  obfs-password: XBvVbvzQCq6Ovbnh
-  password: bd37d63b-c75d-3e48-acbf-1d5954fe9cdc
-  port: 14101
-  server: usaw2.awo-link.com
-  sni: usaw2.awo-link.com
   tls: false
   type: hysteria2
 - name: '德国 #4'
@@ -1126,14 +1060,6 @@ proxies:
   port: 8443
   server: eh-spl1.craft-supply.org
   sni: eh-spl1.craft-supply.org
-  tls: false
-  type: hysteria2
-- name: 🇧🇷BR
-  password: df8d55f9-fb51-442d-902a-bf8160dc051b
-  port: 11100
-  server: brb.nnpy.org
-  skip-cert-verify: true
-  sni: www.bing.com
   tls: false
   type: hysteria2
 - name: '芬兰 #1'
@@ -1432,55 +1358,6 @@ proxies:
   type: hysteria2
 - alpn:
   - h3
-  fingerprint: chrome
-  name: 🇫🇮FI-🚀@VPNine1
-  obfs: salamander
-  obfs-password: bjk7yxuzu7a0cpik
-  password: 3ff7b2e75ce84d05ae16572b60a9b707
-  port: 52085
-  server: assets.gateway-stream.com
-  sni: assets.gateway-stream.com
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
-  fingerprint: chrome
-  name: 🇫🇮141169 | ⚡️Telegram = t.me/S...
-  obfs: salamander
-  obfs-password: dscbu47eev49tv84
-  password: 3ff7b2e75ce84d05ae16572b60a9b707
-  port: 52086
-  server: assets.gateway-stream.com
-  skip-cert-verify: false
-  sni: assets.gateway-stream.com
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
-  fingerprint: chrome
-  name: '🇫🇮FI-🚀@VPNine1 #2'
-  obfs: salamander
-  obfs-password: bwgy7ppdoiz448uw
-  password: 3ff7b2e75ce84d05ae16572b60a9b707
-  port: 52087
-  server: assets.gateway-stream.com
-  sni: assets.gateway-stream.com
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
-  fingerprint: chrome
-  name: '🇫🇮FI-🚀@VPNine1 #3'
-  obfs: salamander
-  obfs-password: hitar6eeayxd7imh
-  password: 3ff7b2e75ce84d05ae16572b60a9b707
-  port: 52089
-  server: assets.gateway-stream.com
-  sni: assets.gateway-stream.com
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
   name: MTMVPN 7
   obfs: salamander
   obfs-password: gu74jg3ym0e21zco
@@ -1508,16 +1385,6 @@ proxies:
   obfs-password: 5xo4v7u2pv8bktvb
   password: 4ff4adfb8e7a4bae9c959c54fa5af52f
   port: 52003
-  server: assets.gateway-stream.com
-  skip-cert-verify: false
-  sni: assets.gateway-stream.com
-  tls: false
-  type: hysteria2
-- name: 🇫🇮 @ConfigV2RayNG
-  obfs: salamander
-  obfs-password: gfy85fok75ipi28z
-  password: 4ff4adfb8e7a4bae9c959c54fa5af52f
-  port: 52052
   server: assets.gateway-stream.com
   skip-cert-verify: false
   sni: assets.gateway-stream.com
@@ -1771,16 +1638,16 @@ proxies:
 - name: 香港3|@ripaojiedian
   network: tcp
   password: 6ec301428255a78a1d826988d86cc87e
-  port: 11231
-  server: 16.162.100.124
+  port: 50887
+  server: 16.162.109.29
   skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
 - name: 香港4|@ripaojiedian
   network: tcp
   password: BxceQaOe
-  port: 11035
-  server: 18.162.244.203
+  port: 29444
+  server: 18.162.156.145
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
@@ -1795,28 +1662,36 @@ proxies:
 - name: 日本|@ripaojiedian
   network: tcp
   password: BxceQaOe
-  port: 4099
-  server: 16.162.100.124
+  port: 16691
+  server: 16.162.33.15
   skip-cert-verify: true
   sni: t.me%252Fripaojiedian
   type: trojan
 - name: 日本2|@ripaojiedian
   network: tcp
   password: 6ec301428255a78a1d826988d86cc87e
-  port: 44229
-  server: 16.162.192.182
+  port: 54876
+  server: 16.162.100.124
   skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
 - name: 日本3|@ripaojiedian
   network: tcp
   password: 6ec301428255a78a1d826988d86cc87e
-  port: 18286
-  server: 16.162.192.182
+  port: 3415
+  server: 16.162.109.29
   skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
 - name: 新加坡|@ripaojiedian
+  network: tcp
+  password: 6ec301428255a78a1d826988d86cc87e
+  port: 45744
+  server: 16.162.109.29
+  skip-cert-verify: true
+  sni: www.nintendogames.net
+  type: trojan
+- name: 新加坡2|@ripaojiedian
   network: tcp
   password: 6ec301428255a78a1d826988d86cc87e
   port: 32434
@@ -1824,43 +1699,35 @@ proxies:
   skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
-- name: 新加坡2|@ripaojiedian
-  network: tcp
-  password: 6ec301428255a78a1d826988d86cc87e
-  port: 45744
-  server: 16.162.192.182
-  skip-cert-verify: true
-  sni: www.nintendogames.net
-  type: trojan
 - name: 新加坡3|@ripaojiedian
   network: tcp
   password: BxceQaOe
-  port: 26704
-  server: 18.163.126.92
+  port: 41421
+  server: 18.167.42.162
   skip-cert-verify: true
   sni: t.me%252Fripaojiedian
   type: trojan
 - name: 美国|@ripaojiedian
   network: tcp
   password: 6ec301428255a78a1d826988d86cc87e
-  port: 28051
-  server: 95.40.14.234
+  port: 10418
+  server: 18.163.126.92
   skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
 - name: 美国2|@ripaojiedian
   network: tcp
   password: 6ec301428255a78a1d826988d86cc87e
-  port: 10418
-  server: 16.162.100.124
+  port: 39024
+  server: 95.40.14.234
   skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
 - name: 美国3|@ripaojiedian
   network: tcp
   password: BxceQaOe
-  port: 28051
-  server: 16.162.100.124
+  port: 10418
+  server: 18.166.211.66
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan

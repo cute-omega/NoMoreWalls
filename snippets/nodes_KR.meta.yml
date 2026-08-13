@@ -5,14 +5,6 @@ proxies:
   tls: false
   type: socks5
   username: T2clM0QlM0Q6
-- name: 🇰🇷 KR
-  password: 300f8c21-6341-4503-a5db-c13d331c63c8
-  port: 20801
-  server: hg1.yuanbaojc.site
-  skip-cert-verify: true
-  sni: hg1.yuanbaojc.site
-  tls: false
-  type: hysteria2
 - name: 韩国
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: 443
