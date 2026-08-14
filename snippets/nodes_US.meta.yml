@@ -45,13 +45,21 @@ proxies:
   tls: false
   type: hysteria2
 - name: '美国 #1'
+  password: CJtE4HLmxz859YMNiZM1NTuDRy7jjs8t
+  port: 1443
+  server: pg-usa2-hy2.gigatapbot.top
+  skip-cert-verify: true
+  sni: pg-usa2-hy2.gigatapbot.top
+  tls: false
+  type: hysteria2
+- name: '美国 #2'
   password: Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0
   port: 8443
   server: 93.114.194.122
   sni: grape-zet-ro-turbo.bumbleshrimp.com
   tls: false
   type: hysteria2
-- name: '美国 #2'
+- name: '美国 #3'
   password: a000fb47-5dfd-4a6b-9739-2878883d6969
   port: 36253
   server: uswx4.wxgqlfx.vip
@@ -59,14 +67,14 @@ proxies:
   sni: 144.225.187.153#美国4@wxgqlfx
   tls: false
   type: hysteria2
-- name: '美国 #3'
+- name: '美国 #4'
   password: e0c7af35-e2db-47c7-b1a3-ce5ec0dd0474
   port: 8458
   server: hy2-us.frdmhere.com
   sni: hy2.frdmhere.com
   tls: false
   type: hysteria2
-- name: '美国 #4'
+- name: '美国 #5'
   password: f64c72a1-7e1f-4dd1-8929-7e41682542e2
   port: 443
   server: us4.xiaoliyu.cyou
