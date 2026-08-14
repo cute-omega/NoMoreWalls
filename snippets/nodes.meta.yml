@@ -1162,14 +1162,6 @@ proxies:
   sni: grape-turbo-fr.roxa.org
   tls: false
   type: hysteria2
-- name: 🛗21@oneclickvpnkeys
-  password: 042a1881-44e4-4781-bd40-bf75164faf4f
-  port: 443
-  server: 193.23.194.78
-  skip-cert-verify: true
-  sni: nl1.noesissite.ru
-  tls: false
-  type: hysteria2
 - name: '@confiig_hub'
   obfs: salamander
   obfs-password: dnwx30hvcobf7xcf
@@ -1315,10 +1307,11 @@ proxies:
   sni: ftp.debian.org
   tls: false
   type: hysteria2
-- name: 🛎️34@oneclickvpnkeys
+- name: تلگرام ما MTMVPN 6
   password: Apt1923_N9x234gn_Nal5Nx3j_s
   port: 8443
   server: 222.167.212.24
+  skip-cert-verify: false
   sni: grape-power-pl.ddnsguru.com
   tls: false
   type: hysteria2
@@ -1435,14 +1428,6 @@ proxies:
   sni: ru1.sferavpn.pro
   tls: false
   type: hysteria2
-- name: 🛗35@oneclickvpnkeys
-  password: d1a0857bc1eb833a9edf96be4c1f999e
-  port: 55443
-  server: 94.183.188.132
-  skip-cert-verify: true
-  sni: host-vds2-fr.kvncococ.org
-  tls: false
-  type: hysteria2
 - name: Tunnel  germany ² 🇩🇪-@vpnserve...
   obfs: salamander
   obfs-password: w086cefx0803sepr
@@ -1475,11 +1460,20 @@ proxies:
   sni: pro2.riziro.ir
   tls: false
   type: hysteria2
-- name: 🛎️7@oneclickvpnkeys
+- name: تلگرام ما MTMVPN 1
   password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
   port: 8443
   server: 205.237.109.218
+  skip-cert-verify: false
   sni: grape-turbo-fr.roxa.org
+  tls: false
+  type: hysteria2
+- name: 🇷🇴142405 | ⚡️Telegram = t.me/S...
+  password: uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r
+  port: 443
+  server: 185.225.19.39
+  skip-cert-verify: false
+  sni: ro.h2corp.org
   tls: false
   type: hysteria2
 - cipher: aes-256-cfb
