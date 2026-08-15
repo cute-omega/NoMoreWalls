@@ -1127,7 +1127,7 @@ proxies:
   sni: www.dell.com
   tls: false
   type: hysteria2
-- name: 🇳🇱NL-🚀@VPNine1
+- name: ⚛️48@oneclickvpnkeys
   password: gf1
   port: 443
   server: 5.129.235.85
@@ -1193,7 +1193,7 @@ proxies:
   sni: nl1.noesissite.ru
   tls: false
   type: hysteria2
-- name: 🇹🇭142966 | ⚡️Telegram = t.me/S...
+- name: ⚛️46@oneclickvpnkeys
   password: 083417772bc618cd61f0cca23dd91680
   port: 55443
   server: 167.179.34.31
@@ -1238,7 +1238,7 @@ proxies:
   sni: 185.47.172.226
   tls: false
   type: hysteria2
-- name: 🇬🇧142960 | ⚡️Telegram = t.me/S...
+- name: ⚛️49@oneclickvpnkeys
   password: 22d891f5-ad85-4824-b0b8-e30cf3d37eb5
   port: 2056
   server: 109.176.30.146
@@ -1496,19 +1496,7 @@ proxies:
   type: hysteria2
 - alpn:
   - h3
-  name: '🇫🇮FI-🚀@VPNine1 #1'
-  obfs: salamander
-  obfs-password: v8h63irhnay97090
-  password: d86efa900c2f4bb6bde662f1ef6413b8
-  port: 52029
-  server: assets.gateway-stream.com
-  skip-cert-verify: false
-  sni: ''
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
-  name: '🇫🇮FI-🚀@VPNine1 #2'
+  name: 🇫🇮142996 | ⚡️Telegram = t.me/S...
   obfs: salamander
   obfs-password: v8h63irhnay97090
   password: d86efa900c2f4bb6bde662f1ef6413b8
@@ -1518,13 +1506,34 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
+- name: '@Daily_Configs : کانال تلگرام'
+  obfs: salamander
+  obfs-password: v8h63irhnay97090
+  password: d86efa900c2f4bb6bde662f1ef6413b8
+  port: 52029
+  server: assets.gateway-stream.com
+  sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
 - alpn:
   - h3
-  name: '🇫🇮FI-🚀@VPNine1 #3'
+  name: '🇫🇮FI-🚀@VPNine1 #1'
   obfs: salamander
   obfs-password: txwr28j1lntoy0sj
   password: d86efa900c2f4bb6bde662f1ef6413b8
   port: 52067
+  server: assets.gateway-stream.com
+  skip-cert-verify: false
+  sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
+- alpn:
+  - h3
+  name: '🇫🇮FI-🚀@VPNine1 #2'
+  obfs: salamander
+  obfs-password: ene2f0oo4n8i3inf
+  password: d86efa900c2f4bb6bde662f1ef6413b8
+  port: 52068
   server: assets.gateway-stream.com
   skip-cert-verify: false
   sni: assets.gateway-stream.com
