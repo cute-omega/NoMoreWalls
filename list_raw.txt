@@ -135,7 +135,6 @@ hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.219:8443?sni=grap
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.220:8443?sni=grape-turbo-fr.roxa.org#%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A%20%236
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.221:8443?sni=grape-turbo-fr.roxa.org#%E8%8B%B1%E5%9B%BD%20%231
 hysteria2://083417772bc618cd61f0cca23dd91680@gorbachev-new-th.kvnfreetest.uk:55443?insecure=0&sni=gorbachev-new-th.kvnfreetest.uk#Proxy_mtm%2024
-hysteria2://09e4b638945d44bfa60b4fd00edad131@assets.gateway-stream.com:52000?alpn=h3&fp=chrome&sni=&obfs=salamander&obfs-password=gu74jg3ym0e21zco#%F0%9F%87%AB%F0%9F%87%AEFI-%F0%9F%9A%80%40VPNine1
 hysteria2://09e4b638945d44bfa60b4fd00edad131@assets.gateway-stream.com:52000?insecure=0&alpn=h3&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=gu74jg3ym0e21zco#Proxy_mtm%2033
 hysteria2://0ansucp5k6aop125@185.47.172.226:32950?insecure=0&sni=185.47.172.226&obfs=salamander&obfs-password=dnwx30hvcobf7xcf#%40confiig_hub
 hysteria2://22j0d00lev7mq0yv@ipaste.4ippi.ru:1935?insecure=0&sni=ipaste.4ippi.ru&obfs=salamander&obfs-password=816ys5fceofhpwft#%40Daily_Configs
@@ -144,11 +143,6 @@ hysteria2://22j0d00lev7mq0yv@social.klipp.su:443?insecure=0&sni=social.klipp.su&
 hysteria2://4ff4adfb8e7a4bae9c959c54fa5af52f@assets.gateway-stream.com:52000?insecure=0&alpn=h3&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=gu74jg3ym0e21zco#MTMVPN%207
 hysteria2://4ff4adfb8e7a4bae9c959c54fa5af52f@assets.gateway-stream.com:52002?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=ielzukpwth087afx#MTMVPN%208
 hysteria2://4ff4adfb8e7a4bae9c959c54fa5af52f@assets.gateway-stream.com:52003?insecure=0&alpn=h3&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=5xo4v7u2pv8bktvb#MTMVPN%2010
-hysteria2://4ff4adfb8e7a4bae9c959c54fa5af52f@assets.gateway-stream.com:52062?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=hg7rfvz151ftjh0w#%40vmess_ir
-hysteria2://544a7fdaa05a4dbe868288f8a9fb023c@assets.gateway-stream.com:52000?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=gu74jg3ym0e21zco#%F0%9F%87%A6%F0%9F%87%B1%20%40ConfigV2RayNG
-hysteria2://544a7fdaa05a4dbe868288f8a9fb023c@assets.gateway-stream.com:52022?insecure=0&alpn=h3&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=1wcfqg6gwoyxlplo#TELEGRAM%3A%40ConfigV2RayNG
-hysteria2://544a7fdaa05a4dbe868288f8a9fb023c@assets.gateway-stream.com:52029?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=v8h63irhnay97090#ConfigV2RayNG%20%F0%9F%87%AB%F0%9F%87%AE
-hysteria2://544a7fdaa05a4dbe868288f8a9fb023c@assets.gateway-stream.com:52043?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=1n1g1xc7i50ga0v5#%F0%9F%87%AE%F0%9F%87%B9%20ConfigV2RayNG
 hysteria2://9cc2113e-6b5b-4ced-9c46-70cf78d2c599@dns.devmrzero.ir:2096?insecure=0&sni=a26738d5774ad803.devmrzero.ir&obfs=salamander&obfs-password=AIbOe_791iQ4k6kPUgdsO7B9#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 hysteria2://%40Telegram%40Configvibes@107.181.155.107:2096?insecure=1&sni=ftp.debian.org&obfs=salamander&obfs-password=Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes#%40Configvibes%F0%9F%87%B9%F0%9F%87%B7
 hysteria2://Apt1923_N9x234gn_Nal5Nx3j_s@222.167.212.24:8443?insecure=0&sni=grape-power-pl.ddnsguru.com#%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D9%85%D8%A7%20MTMVPN%206
@@ -340,8 +334,8 @@ https://156.146.59.34:9002
 https://156.146.59.10:9002
 https://156.146.59.39:9002
 https://156.146.59.11:9002
+anytls://fd5473ae-4119-4e68-acf5-f0df386c1758@us-sje.baipiao0721-dns78655.eu:18443?security=none&type=tcp&alpn=h2&allowInsecure=1&sni=gw.alicdn.com&fp=chrome&udp=1&insecure=1#US1%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
 anytls://be8cc8f6-0c6a-11f0-a5a3-f23c93141fad@ec1c1972-t9lmo0-ta37qp-b4pt.hkt.east.wctype.com:8300?security=none&type=tcp&allowInsecure=1&sni=ec1c1972-t9lmo0-ta37qp-b4pt.hkt.east.wctype.com&fp=chrome&udp=1&insecure=1#HK70%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
 anytls://fd5473ae-4119-4e68-acf5-f0df386c1758@hkt-ddns.baipiao0721-dns78655.eu:18443?security=none&type=tcp&alpn=h2&allowInsecure=1&sni=gw.alicdn.com&fp=chrome&udp=1&insecure=1#HK1%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
-anytls://ae74dd32-c336-4be4-9c15-f6108292b3e5@us1.anliangjifei.top:12053?security=none&type=tcp&allowInsecure=1&sni=us1.anliangjifei.top&insecure=1&udp=1#US10%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
-anytls://fd5473ae-4119-4e68-acf5-f0df386c1758@us-sje.baipiao0721-dns78655.eu:18443?security=none&type=tcp&alpn=h2&allowInsecure=1&sni=gw.alicdn.com&fp=chrome&udp=1&insecure=1#US1%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
 anytls://fd5473ae-4119-4e68-acf5-f0df386c1758@jp.iij.sakura.baipiao0721-dns78655.eu:8443?security=none&type=tcp&alpn=h2&allowInsecure=1&sni=gw.alicdn.com&fp=chrome&udp=1&insecure=1#JP1%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
+anytls://ae74dd32-c336-4be4-9c15-f6108292b3e5@us1.anliangjifei.top:12053?security=none&type=tcp&allowInsecure=1&sni=us1.anliangjifei.top&insecure=1&udp=1#US10%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9

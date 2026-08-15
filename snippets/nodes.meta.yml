@@ -1172,18 +1172,6 @@ proxies:
   type: hysteria2
 - alpn:
   - h3
-  fingerprint: chrome
-  name: 🇫🇮FI-🚀@VPNine1
-  obfs: salamander
-  obfs-password: gu74jg3ym0e21zco
-  password: 09e4b638945d44bfa60b4fd00edad131
-  port: 52000
-  server: assets.gateway-stream.com
-  sni: ''
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
   name: Proxy_mtm 33
   obfs: salamander
   obfs-password: gu74jg3ym0e21zco
@@ -1262,58 +1250,6 @@ proxies:
   obfs-password: 5xo4v7u2pv8bktvb
   password: 4ff4adfb8e7a4bae9c959c54fa5af52f
   port: 52003
-  server: assets.gateway-stream.com
-  skip-cert-verify: false
-  sni: assets.gateway-stream.com
-  tls: false
-  type: hysteria2
-- name: '@vmess_ir'
-  obfs: salamander
-  obfs-password: hg7rfvz151ftjh0w
-  password: 4ff4adfb8e7a4bae9c959c54fa5af52f
-  port: 52062
-  server: assets.gateway-stream.com
-  skip-cert-verify: false
-  sni: assets.gateway-stream.com
-  tls: false
-  type: hysteria2
-- name: 🇦🇱 @ConfigV2RayNG
-  obfs: salamander
-  obfs-password: gu74jg3ym0e21zco
-  password: 544a7fdaa05a4dbe868288f8a9fb023c
-  port: 52000
-  server: assets.gateway-stream.com
-  skip-cert-verify: false
-  sni: assets.gateway-stream.com
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
-  name: TELEGRAM:@ConfigV2RayNG
-  obfs: salamander
-  obfs-password: 1wcfqg6gwoyxlplo
-  password: 544a7fdaa05a4dbe868288f8a9fb023c
-  port: 52022
-  server: assets.gateway-stream.com
-  skip-cert-verify: false
-  sni: assets.gateway-stream.com
-  tls: false
-  type: hysteria2
-- name: ConfigV2RayNG 🇫🇮
-  obfs: salamander
-  obfs-password: v8h63irhnay97090
-  password: 544a7fdaa05a4dbe868288f8a9fb023c
-  port: 52029
-  server: assets.gateway-stream.com
-  skip-cert-verify: false
-  sni: assets.gateway-stream.com
-  tls: false
-  type: hysteria2
-- name: 🇮🇹 ConfigV2RayNG
-  obfs: salamander
-  obfs-password: 1n1g1xc7i50ga0v5
-  password: 544a7fdaa05a4dbe868288f8a9fb023c
-  port: 52043
   server: assets.gateway-stream.com
   skip-cert-verify: false
   sni: assets.gateway-stream.com
