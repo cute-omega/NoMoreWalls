@@ -5,6 +5,14 @@ proxies:
   tls: false
   type: socks5
   username: T2clM0QlM0Q6
+- name: 🇰🇷143250 | ⚡️Telegram = t.me/S...
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 13.124.150.77
+  skip-cert-verify: true
+  sni: css.rbxcdn.com
+  tls: false
+  type: hysteria2
 - name: 韩国
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: 443
