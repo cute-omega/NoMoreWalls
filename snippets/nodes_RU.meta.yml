@@ -6,11 +6,11 @@ proxies:
   sni: j47lq.pleiades.codes
   tls: false
   type: hysteria2
-- name: ⚛️48@oneclickvpnkeys
-  password: gf1
+- name: 🇷🇺|RU|@wxgqlfx|229
+  password: 921db318-1694-4408-9cc7-c93df39f7f8e
   port: 443
-  server: 5.129.235.85
+  server: ru-i-2.monkeyisland.xyz
   skip-cert-verify: true
-  sni: www.linux.com
+  sni: ru-i-2.monkeyisland.xyz
   tls: false
   type: hysteria2
