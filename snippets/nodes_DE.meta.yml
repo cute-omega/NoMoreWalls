@@ -144,20 +144,6 @@ proxies:
   sni: de.xn--ehqa22b.site
   tls: false
   type: hysteria2
-- name: 德国
-  password: 71cada65-d23e-418c-88e4-a06188d14689
-  port: 443
-  server: 144.31.166.91
-  sni: de-two.quiet-rogue.site
-  tls: false
-  type: hysteria2
-- name: '德国 #1'
-  password: Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0
-  port: 8443
-  server: 93.114.194.120
-  sni: grape-zet-ro-turbo.bumbleshrimp.com
-  tls: false
-  type: hysteria2
 - name: 'کانال تلگرام : Free_VPN_CH@'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
@@ -168,18 +154,26 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: '德国 #2'
+- name: 德国
   password: c175d956-d1f4-4c53-b2b1-8493bf8529c6
   port: 443
   server: 87.120.84.189
   sni: de1.apexvpn.space
   tls: false
   type: hysteria2
-- name: '德国 #3'
+- name: '德国 #1'
   password: d1224950-ffab-4b9a-8696-431b40a6cfbd
   port: 443
   server: bel-03.node.lumixnet.com
   sni: bel-03.node.lumixnet.com
+  tls: false
+  type: hysteria2
+- name: '德国 #2'
+  password: mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj
+  port: 443
+  server: de.1.23.h2corp.org
+  skip-cert-verify: true
+  sni: germany3.h2corp.local
   tls: false
   type: hysteria2
 - alpn:
@@ -214,6 +208,18 @@ proxies:
   port: 37003
   server: 179.61.251.253
   sni: de.jey.cc.cd
+  tls: false
+  type: hysteria2
+- alpn:
+  - h3
+  name: 🇩🇪143879 | ⚡️Telegram = t.me/S...
+  obfs: salamander
+  obfs-password: 6w7g6soybp5uguk8
+  password: ea47ayg9e8skt68s
+  port: 56121
+  server: gym.akfitness.ir
+  skip-cert-verify: false
+  sni: gym.akfitness.ir
   tls: false
   type: hysteria2
 - name: Tunnel  germany ² 🇩🇪-@vpnserve...
