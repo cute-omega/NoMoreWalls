@@ -216,26 +216,6 @@ proxies:
   sni: de.jey.cc.cd
   tls: false
   type: hysteria2
-- name: 🦁14@oneclickvpnkeys
-  password: dbab9df7-5c0a-4726-8574-11e34972b67d
-  port: 33015
-  server: 86.53.105.117
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
-  name: 🇩🇪143501 | ⚡️Telegram = t.me/S...
-  obfs: salamander
-  obfs-password: 6w7g6soybp5uguk8
-  password: ig7jd1393f1qjp64
-  port: 56121
-  server: gym.akfitness.ir
-  skip-cert-verify: false
-  sni: gym.akfitness.ir
-  tls: false
-  type: hysteria2
 - name: Tunnel  germany ² 🇩🇪-@vpnserve...
   obfs: salamander
   obfs-password: w086cefx0803sepr
