@@ -168,7 +168,7 @@ proxies:
   sni: bel-03.node.lumixnet.com
   tls: false
   type: hysteria2
-- name: '德国 #2'
+- name: '🇺🇸US-🚀@VPNine1 #1'
   password: mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj
   port: 443
   server: de.1.23.h2corp.org
@@ -208,16 +208,6 @@ proxies:
   port: 37003
   server: 179.61.251.253
   sni: de.jey.cc.cd
-  tls: false
-  type: hysteria2
-- name: Tunnel  germany ² 🇩🇪-@vpnserve...
-  obfs: salamander
-  obfs-password: w086cefx0803sepr
-  password: o8qxh96m6i335s6k
-  port: 46918
-  server: gr.nexovip.cyou
-  skip-cert-verify: false
-  sni: gr.nexovip.cyou
   tls: false
   type: hysteria2
 - alpn:

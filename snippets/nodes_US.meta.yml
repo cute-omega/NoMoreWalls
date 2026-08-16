@@ -91,6 +91,14 @@ proxies:
   sni: vk.com
   tls: false
   type: hysteria2
+- name: 🇺🇸US-🚀@VPNine1
+  password: 2b195c17-5ff5-4b0d-a809-210b92212394
+  port: 443
+  server: sanjose.nezhasu.com
+  skip-cert-verify: true
+  sni: SanJose.nezhasu.com
+  tls: false
+  type: hysteria2
 - name: 🇺🇸|US|@wxgqlfx|219
   password: b41ad7f941ffce755cb8601bfd0f02ca
   port: 50160
