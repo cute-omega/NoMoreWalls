@@ -217,14 +217,6 @@ proxies:
   sni: fr131.mechvpn.online
   tls: false
   type: hysteria2
-- name: 🇷🇴|RO|@wxgqlfx|219
-  password: 9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z
-  port: 8443
-  server: 162.249.124.104
-  skip-cert-verify: true
-  sni: mercedes-grape.yyuyy.com
-  tls: false
-  type: hysteria2
 - alpn:
   - h3
   fingerprint: chrome

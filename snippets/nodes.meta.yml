@@ -1189,14 +1189,6 @@ proxies:
   sni: gorbachev-new-th.kvnfreetest.uk
   tls: false
   type: hysteria2
-- alpn:
-  - h3
-  name: 🇳🇱144750 | ⚡️Telegram = t.me/S...
-  password: 085178e12d2211ec
-  port: 8445
-  server: nl.prisma-access.club
-  tls: false
-  type: hysteria2
 - name: 🇵🇱|PL|@wxgqlfx|121
   password: 08794874-93d0-4cf2-b9d6-1f2774cdffeb
   port: 2086
@@ -1263,13 +1255,6 @@ proxies:
   port: 10808
   server: nl10.unlockvpn.online
   sni: nl10.unlockvpn.online
-  tls: false
-  type: hysteria2
-- name: '@GozargahAzad|🇳🇱'
-  password: 1f619326-cd93-4d6b-aebe-e0b5f8831d02
-  port: 10808
-  server: nl2.unlockvpn.online
-  sni: ''
   tls: false
   type: hysteria2
 - name: 🌀46@oneclickvpnkeys
@@ -1465,7 +1450,7 @@ proxies:
   sni: us65.mechvpn.online
   tls: false
   type: hysteria2
-- name: '@filembad'
+- name: 🇫🇮145020 | ⚡️Telegram = t.me/S...
   obfs: salamander
   obfs-password: uw9b2qq5rx
   password: 6aab8efdf13945829ae3699c342be406
@@ -1744,15 +1729,6 @@ proxies:
   sni: nl-hysteria.boxypn.com
   tls: false
   type: hysteria2
-- name: 🇷🇺144744 | ⚡️Telegram = t.me/S...
-  obfs: salamander
-  obfs-password: 44f1c1e2f8b99e792ceed574627a1eb0
-  password: cd74c0a406664a5bc0bac098220a2468
-  port: 443
-  server: ru1.sferavpn.pro
-  sni: ru1.sferavpn.pro
-  tls: false
-  type: hysteria2
 - name: 🇸🇬|SG|@wxgqlfx|27
   password: ce24c43947331f36746c1f692c3812e0
   port: 50160
@@ -1939,6 +1915,150 @@ proxies:
   server: 46.229.243.132
   skip-cert-verify: true
   sni: grape-turbo-fr.roxa.org
+  tls: false
+  type: hysteria2
+- alpn:
+  - h3
+  fingerprint: chrome
+  name: 👉🆔@freenettir📡🇫🇮®️Finland©️Hel...
+  obfs: salamander
+  obfs-password: gu74jg3ym0e21zco
+  password: t8t2qojzsykqazfu
+  port: 52000
+  server: assets.gateway-stream.com
+  sni: ''
+  tls: false
+  type: hysteria2
+- alpn:
+  - h3
+  fingerprint: chrome
+  name: 🇫🇮145044 | ⚡️Telegram = t.me/S...
+  obfs: salamander
+  obfs-password: gu74jg3ym0e21zco
+  password: t8t2qojzsykqazfu
+  port: 52000
+  server: assets.gateway-stream.com
+  sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
+- alpn:
+  - h3
+  fingerprint: chrome
+  name: 👉🆔@v2ray_configs_pool📡🇫🇮®️Finl...
+  obfs: salamander
+  obfs-password: 527zd9w4nuaccd7g
+  password: t8t2qojzsykqazfu
+  port: 52001
+  server: assets.gateway-stream.com
+  sni: ''
+  tls: false
+  type: hysteria2
+- alpn:
+  - h3
+  fingerprint: chrome
+  name: 🇫🇮145042 | ⚡️Telegram = t.me/S...
+  obfs: salamander
+  obfs-password: 527zd9w4nuaccd7g
+  password: t8t2qojzsykqazfu
+  port: 52001
+  server: assets.gateway-stream.com
+  sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
+- alpn:
+  - h3
+  fingerprint: chrome
+  name: '👉🆔@freenettir📡🇫🇮®️Finland©️Hel... #1'
+  obfs: salamander
+  obfs-password: xurzv3qedv07k4f0
+  password: t8t2qojzsykqazfu
+  port: 52005
+  server: assets.gateway-stream.com
+  sni: ''
+  tls: false
+  type: hysteria2
+- alpn:
+  - h3
+  fingerprint: chrome
+  name: 🇫🇮145045 | ⚡️Telegram = t.me/S...
+  obfs: salamander
+  obfs-password: xurzv3qedv07k4f0
+  password: t8t2qojzsykqazfu
+  port: 52005
+  server: assets.gateway-stream.com
+  sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
+- alpn:
+  - h3
+  fingerprint: chrome
+  name: '👉🆔@v2ray_configs_pool📡🇫🇮®️Finl... #1'
+  obfs: salamander
+  obfs-password: 53cgqwhojoxri5lr
+  password: t8t2qojzsykqazfu
+  port: 52018
+  server: assets.gateway-stream.com
+  sni: ''
+  tls: false
+  type: hysteria2
+- alpn:
+  - h3
+  fingerprint: chrome
+  name: 🇫🇮145041 | ⚡️Telegram = t.me/S...
+  obfs: salamander
+  obfs-password: 53cgqwhojoxri5lr
+  password: t8t2qojzsykqazfu
+  port: 52018
+  server: assets.gateway-stream.com
+  sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
+- alpn:
+  - h3
+  fingerprint: chrome
+  name: '👉🆔@v2ray_configs_pool📡🇫🇮®️Finl... #2'
+  obfs: salamander
+  obfs-password: 3edox66dvnvwdyop
+  password: t8t2qojzsykqazfu
+  port: 52019
+  server: assets.gateway-stream.com
+  sni: ''
+  tls: false
+  type: hysteria2
+- alpn:
+  - h3
+  fingerprint: chrome
+  name: 🇫🇮145043 | ⚡️Telegram = t.me/S...
+  obfs: salamander
+  obfs-password: 3edox66dvnvwdyop
+  password: t8t2qojzsykqazfu
+  port: 52019
+  server: assets.gateway-stream.com
+  sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
+- alpn:
+  - h3
+  fingerprint: chrome
+  name: '👉🆔@freenettir📡🇫🇮®️Finland©️Hel... #2'
+  obfs: salamander
+  obfs-password: d6pv15sghiq1onts
+  password: t8t2qojzsykqazfu
+  port: 52026
+  server: assets.gateway-stream.com
+  sni: ''
+  tls: false
+  type: hysteria2
+- alpn:
+  - h3
+  fingerprint: chrome
+  name: 🇫🇮145046 | ⚡️Telegram = t.me/S...
+  obfs: salamander
+  obfs-password: d6pv15sghiq1onts
+  password: t8t2qojzsykqazfu
+  port: 52026
+  server: assets.gateway-stream.com
+  sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
 - name: 🦁62@oneclickvpnkeys
