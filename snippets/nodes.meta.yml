@@ -874,16 +874,6 @@ proxies:
   sni: srvhy1.ezcon24.online
   tls: false
   type: hysteria2
-- name: '@meliproxyy'
-  obfs: salamander
-  obfs-password: uw9b2qq5rx
-  password: 6aab8efdf13945829ae3699c342be406
-  port: 443
-  server: fiproxy1.lockdwn.com
-  skip-cert-verify: false
-  sni: fiproxy1.lockdwn.com
-  tls: false
-  type: hysteria2
 - name: تلگرام ما MTMVPN 14
   password: 6f7a8009ecf6a12e10d03f9d88493c89
   port: 55443
@@ -1390,6 +1380,16 @@ proxies:
   server: us65.mechvpn.online
   skip-cert-verify: true
   sni: us65.mechvpn.online
+  tls: false
+  type: hysteria2
+- name: '@meliproxyy'
+  obfs: salamander
+  obfs-password: uw9b2qq5rx
+  password: 6aab8efdf13945829ae3699c342be406
+  port: 443
+  server: fiproxy1.lockdwn.com
+  skip-cert-verify: false
+  sni: fiproxy1.lockdwn.com
   tls: false
   type: hysteria2
 - name: 🇫🇮|FI|@wxgqlfx|222
