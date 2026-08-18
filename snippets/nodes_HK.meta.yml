@@ -35,6 +35,14 @@ proxies:
   sni: 079c035a-t5bb40-t6tn6w-jjv2.hk1.hyhuawei.com
   tls: false
   type: hysteria2
+- name: 🇭🇰146151 | ⚡️Telegram = t.me/S...
+  password: c2601f6c59ed832f9129533608eea8eb
+  port: 50160
+  server: 8-210-142-69.liao.kdns.fr
+  skip-cert-verify: false
+  sni: 8-210-142-69.liao.kdns.fr
+  tls: false
+  type: hysteria2
 - name: 🇭🇰|HK|@wxgqlfx|222
   password: d325f389-7bc9-4d6a-8a2b-7dd4f7ab6e9f
   port: 443
