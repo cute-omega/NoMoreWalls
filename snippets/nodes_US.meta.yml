@@ -99,6 +99,14 @@ proxies:
   sni: vk.com
   tls: false
   type: hysteria2
+- name: 🇺🇸|US|@wxgqlfx|251
+  password: 133f76fc-a5ab-463e-b46d-9587d7137e55
+  port: 443
+  server: node3.vpnushka.lol
+  skip-cert-verify: true
+  sni: node3.vpnushka.lol
+  tls: false
+  type: hysteria2
 - name: 🇺🇸|US|@wxgqlfx|219
   password: b41ad7f941ffce755cb8601bfd0f02ca
   port: 50160
@@ -107,12 +115,20 @@ proxies:
   sni: 35-209-199-239.liao.kdns.fr
   tls: false
   type: hysteria2
-- name: 🇺🇸|US|@wxgqlfx|20
-  password: ed77b662dbdf1a817d5eb75ae940cac4
-  port: 50160
-  server: 198-46-188-116.liao.kdns.fr
+- name: '@GozargahAzad|🇺🇸'
+  password: bce6c821-200d-421f-bf3d-7159e5246ea0
+  port: 33333
+  server: 155.248.209.237
   skip-cert-verify: true
-  sni: 198-46-188-116.liao.kdns.fr
+  sni: ''
+  tls: false
+  type: hysteria2
+- name: 🎈50@oneclickvpnkeys
+  password: bce6c821-200d-421f-bf3d-7159e5246ea0
+  port: 33333
+  server: 155.248.209.237
+  skip-cert-verify: true
+  sni: 155.248.209.237
   tls: false
   type: hysteria2
 - alpn:
