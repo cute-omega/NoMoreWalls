@@ -176,7 +176,7 @@ proxies:
   sni: keyhop-offshore.roxa.org
   tls: false
   type: hysteria2
-- name: '德国 #2'
+- name: 🇩🇪146504 | ⚡️Telegram = t.me/S...
   password: mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj
   port: 443
   server: de.1.23.h2corp.org
@@ -215,6 +215,16 @@ proxies:
   server: fr131.mechvpn.online
   skip-cert-verify: true
   sni: fr131.mechvpn.online
+  tls: false
+  type: hysteria2
+- name: 🇩🇪146484 | ⚡️Telegram = t.me/S...
+  obfs: salamander
+  obfs-password: Telegram@vpnjey
+  password: Telegram@vpnjey
+  port: 37009
+  server: 31.76.27.23
+  skip-cert-verify: true
+  sni: de.vpnjey.store
   tls: false
   type: hysteria2
 - alpn:

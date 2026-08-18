@@ -100,6 +100,13 @@ proxies:
   sni: node3.vpnushka.lol
   tls: false
   type: hysteria2
+- name: 🇺🇸146342 | ⚡️Telegram = t.me/S...
+  password: 5ca83936-136d-4314-8453-4ba10a86cf60
+  port: 8443
+  server: 31.76.70.78
+  sni: quic.tyr-agentstvo.tech
+  tls: false
+  type: hysteria2
 - name: 🇺🇸|US|@wxgqlfx|219
   password: b41ad7f941ffce755cb8601bfd0f02ca
   port: 50160
