@@ -1274,16 +1274,6 @@ proxies:
   sni: 152-67-200-82.liao.kdns.fr
   tls: false
   type: hysteria2
-- name: 🇨🇦V2RayyNGvpn🇨🇦
-  obfs: salamander
-  obfs-password: t-me-V2RayyNGvpn
-  password: 4T3sB0DeFo
-  port: 38871
-  server: 51.79.91.52
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
 - alpn:
   - h3
   name: MTMVPN 15
@@ -1406,13 +1396,22 @@ proxies:
   sni: fiproxy1.lockdwn.com
   tls: false
   type: hysteria2
+- name: 未命名
+  obfs: salamander
+  obfs-password: uw9b2qq5rx
+  password: 6aab8efdf13945829ae3699c342be406
+  port: 443
+  server: 31.76.80.69
+  skip-cert-verify: false
+  sni: fiproxy1.lockdwn.com@freenettir³
+  tls: false
+  type: hysteria2
 - name: '@meliproxyy #1'
   obfs: salamander
   obfs-password: uw9b2qq5rx
   password: 6aab8efdf13945829ae3699c342be406
   port: 443
   server: fiproxy1.lockdwn.com
-  skip-cert-verify: false
   sni: fiproxy1.lockdwn.com
   tls: false
   type: hysteria2
@@ -1504,7 +1503,7 @@ proxies:
   sni: ftp.debian.org
   tls: false
   type: hysteria2
-- name: '🇨🇦V2RayyNGvpn🇨🇦 #1'
+- name: 🇨🇦V2RayyNGvpn🇨🇦
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
   password: IJMFOXhvbQ
@@ -1635,14 +1634,6 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: '@GozargahAzad|🇺🇸'
-  password: bce6c821-200d-421f-bf3d-7159e5246ea0
-  port: 33333
-  server: 155.248.209.237
-  skip-cert-verify: true
-  sni: ''
-  tls: false
-  type: hysteria2
 - name: 🎈50@oneclickvpnkeys
   password: bce6c821-200d-421f-bf3d-7159e5246ea0
   port: 33333
@@ -1737,7 +1728,7 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: '@Napsternetvirani'
+- name: '@vmesskhodam #3'
   obfs: salamander
   obfs-password: 1wcfqg6gwoyxlplo
   password: m3bqxk03mg221yi2
