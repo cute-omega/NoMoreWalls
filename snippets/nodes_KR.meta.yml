@@ -5,35 +5,11 @@ proxies:
   tls: false
   type: socks5
   username: T2clM0QlM0Q6
-- name: 🇰🇷|KR|@wxgqlfx|24
-  password: dfb54e674104158210fdfcac45e5679d
-  port: 50160
-  server: 193.122.104.200
-  skip-cert-verify: true
-  sni: 193-122-104-200.liao.kdns.fr
-  tls: false
-  type: hysteria2
-- name: 🇰🇷|KR|@wxgqlfx|23
+- name: ًں‡°ًں‡·|KR|@wxgqlfx|23
   password: 3d7634af8cb2c6cb4bac1c0efad8b43d
   port: 50160
   server: 152.67.200.82
   skip-cert-verify: true
   sni: 152-67-200-82.liao.kdns.fr
-  tls: false
-  type: hysteria2
-- name: 🇰🇷146687 | ⚡️Telegram = t.me/S...
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: 443
-  server: 13.125.214.225
-  skip-cert-verify: true
-  sni: css.rbxcdn.com
-  tls: false
-  type: hysteria2
-- name: 🇰🇷146729 | ⚡️Telegram = t.me/S...
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: 443
-  server: 43.201.1.129
-  skip-cert-verify: true
-  sni: speedtest.tinkoff.ru
   tls: false
   type: hysteria2

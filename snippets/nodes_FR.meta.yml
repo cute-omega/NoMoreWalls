@@ -1,19 +1,4 @@
 proxies:
-- name: 🇫🇷146632 | ⚡️Telegram = t.me/S...
-  password: 53c76647-14d1-4df5-99cb-be99ad2e6bd9
-  port: 443
-  server: fr194.mechvpn.online
-  sni: fr194.mechvpn.online
-  tls: false
-  type: hysteria2
-- name: '法国 #1'
-  password: Krab9Hyst2_Rk7pQ2xL
-  port: 36723
-  server: fr.vpn.legendaah.xyz
-  skip-cert-verify: true
-  sni: www.cloudflare.com
-  tls: false
-  type: hysteria2
 - name: FR_speednode_0002
   port: 23856
   server: 51.159.225.196
