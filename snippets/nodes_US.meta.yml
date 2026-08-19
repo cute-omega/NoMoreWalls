@@ -76,7 +76,7 @@ proxies:
   sni: node1.sferavpn.pro
   tls: false
   type: hysteria2
-- name: '美国 #4'
+- name: 🇺🇸146663 | ⚡️Telegram = t.me/S...
   password: fe475179-d8a8-420d-a4ac-3e415ed8dc72
   port: 11683
   server: uswx4.wxgqlfx.vip
@@ -92,6 +92,20 @@ proxies:
   sni: vk.com
   tls: false
   type: hysteria2
+- name: 🇺🇸146619 | ⚡️Telegram = t.me/S...
+  password: 0wdsa_nJXEWRj9jz9J9xMgtx_n7gzfK_m8
+  port: 8443
+  server: 139.28.168.55
+  sni: grape-honk.yyuyy.com
+  tls: false
+  type: hysteria2
+- name: 🇺🇸146567 | ⚡️Telegram = t.me/S...
+  password: 0wdsa_nJXEWRj9jz9J9xMgtx_n7gzfK_m8
+  port: 9080
+  server: 139.28.168.55
+  sni: grape-honk.yyuyy.com
+  tls: false
+  type: hysteria2
 - name: 🇺🇸|US|@wxgqlfx|251
   password: 133f76fc-a5ab-463e-b46d-9587d7137e55
   port: 443
@@ -100,8 +114,15 @@ proxies:
   sni: node3.vpnushka.lol
   tls: false
   type: hysteria2
-- name: 🇺🇸146342 | ⚡️Telegram = t.me/S...
-  password: 5ca83936-136d-4314-8453-4ba10a86cf60
+- name: 🇺🇸146624 | ⚡️Telegram = t.me/S...
+  password: 6f65680b8d4de72e9f7c030e92e27a32
+  port: 50160
+  server: 166-0-16-52.liao.kdns.fr
+  sni: 166-0-16-52.liao.kdns.fr
+  tls: false
+  type: hysteria2
+- name: 🇺🇸146654 | ⚡️Telegram = t.me/S...
+  password: 74fbbe74-906d-45a8-a27c-a85fc758bc9f
   port: 8443
   server: 31.76.70.78
   sni: quic.tyr-agentstvo.tech
@@ -123,6 +144,13 @@ proxies:
   server: de.1.23.h2corp.org
   skip-cert-verify: true
   sni: germany3.h2corp.local
+  tls: false
+  type: hysteria2
+- name: 🇺🇸146618 | ⚡️Telegram = t.me/S...
+  password: usa_2_hysteria2_fastlane_hfsptlvbr
+  port: 443
+  server: 92.118.112.227
+  sni: us3.h.fastlanehosting.ru
   tls: false
   type: hysteria2
 - name: 美国|@ripaojiedian
