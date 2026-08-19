@@ -6,9 +6,11 @@ proxies:
   sni: grape-turbo-fr.roxa.org
   tls: false
   type: hysteria2
-- name: 🇬🇧146501 | ⚡️Telegram = t.me/S...
+- alpn:
+  - h3
+  name: 🇬🇧146670 | ⚡️Telegram = t.me/S...
   password: 55b71f97202647049ce999646de57c50
-  port: 8444
+  port: 8443
   server: f1b.wareznet.ru
   sni: f1b.wareznet.ru
   tls: false

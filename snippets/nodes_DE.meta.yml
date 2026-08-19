@@ -176,7 +176,7 @@ proxies:
   sni: keyhop-offshore.roxa.org
   tls: false
   type: hysteria2
-- name: 🇩🇪146504 | ⚡️Telegram = t.me/S...
+- name: '德国 #2'
   password: mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj
   port: 443
   server: de.1.23.h2corp.org
@@ -207,24 +207,34 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- alpn:
-  - h3
-  name: 🇩🇪|DE|@wxgqlfx|223
-  password: 53c76647-14d1-4df5-99cb-be99ad2e6bd9
+- name: 🇩🇪146718 | ⚡️Telegram = t.me/S...
+  password: 81378ef7-89a1-43b5-9a9d-a04a8af25b7c
   port: 443
-  server: fr131.mechvpn.online
-  skip-cert-verify: true
-  sni: fr131.mechvpn.online
+  server: 194.31.223.107
+  sni: de1.apexvpn.space
   tls: false
   type: hysteria2
-- name: 🇩🇪146484 | ⚡️Telegram = t.me/S...
-  obfs: salamander
-  obfs-password: Telegram@vpnjey
-  password: Telegram@vpnjey
-  port: 37009
-  server: 31.76.27.23
+- name: 🇩🇪146713 | ⚡️Telegram = t.me/S...
+  password: 8569e507-8ef7-481d-9108-6bc7f040c2ff
+  port: 9443
+  server: new.klzvezdi.ru
+  sni: new.klzvezdi.ru
+  tls: false
+  type: hysteria2
+- name: 🍏14@oneclickvpnkeys
+  password: 9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z
+  port: 8443
+  server: 162.249.124.102
   skip-cert-verify: true
-  sni: de.vpnjey.store
+  sni: mercedes-grape.yyuyy.com
+  tls: false
+  type: hysteria2
+- name: 🍏9@oneclickvpnkeys
+  password: 9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z
+  port: 8443
+  server: 162.249.124.99
+  skip-cert-verify: true
+  sni: mercedes-grape.yyuyy.com
   tls: false
   type: hysteria2
 - alpn:
@@ -251,12 +261,10 @@ proxies:
   sni: de.jey.cc.cd
   tls: false
   type: hysteria2
-- alpn:
-  - h3
-  name: 🇩🇪|DE|@wxgqlfx|213
+- name: 🇩🇪DE-🚀@VPNine1
   password: umnDU7jgFYUjpVjVM2sW9HL0rRYLJNgzVwRu2HzWEhyZKkRx
   port: 443
-  server: de.1.22.washing.help
+  server: 5.83.129.11
   skip-cert-verify: true
   sni: germany1.h2corp.local
   tls: false
