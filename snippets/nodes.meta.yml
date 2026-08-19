@@ -882,11 +882,12 @@ proxies:
   sni: 23-19-231-152.liao.kdns.fr
   tls: false
   type: hysteria2
-- name: 俄罗斯
-  password: 95e8532b-cc69-42d4-9553-e3c23292b15b
-  port: 8443
-  server: 176.124.222.180
-  sni: j47lq.pleiades.codes
+- name: 土耳其
+  password: 9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z
+  port: 8080
+  server: 162.249.124.105
+  skip-cert-verify: true
+  sni: mercedes-grape.yyuyy.com
   tls: false
   type: hysteria2
 - name: '@Configvibes🇹🇷 #2'
@@ -1000,6 +1001,14 @@ proxies:
   server: 154.31.115.179
   skip-cert-verify: true
   sni: 154-31-115-179.liao.kdns.fr
+  tls: false
+  type: hysteria2
+- name: 比利时
+  password: belgium_hysteria2_fastlane_a118d9y0r
+  port: 443
+  server: 113.30.152.25
+  skip-cert-verify: true
+  sni: be1.h.fastlanehosting.ru
   tls: false
   type: hysteria2
 - name: 德国
@@ -1225,7 +1234,7 @@ proxies:
   sni: us65.mechvpn.online
   tls: false
   type: hysteria2
-- name: 🇩🇪@FreakConfig
+- name: 🇫🇮147208 | ⚡️Telegram = t.me/S...
   obfs: salamander
   obfs-password: uw9b2qq5rx
   password: 6aab8efdf13945829ae3699c342be406
@@ -1537,36 +1546,6 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: '@vmesskhodam #2'
-  obfs: salamander
-  obfs-password: fsc92dsh321o5h3r
-  password: m3bqxk03mg221yi2
-  port: 52016
-  server: 95.217.96.131
-  skip-cert-verify: false
-  sni: assets.gateway-stream.com
-  tls: false
-  type: hysteria2
-- name: '@vmesskhodam #3'
-  obfs: salamander
-  obfs-password: 1wcfqg6gwoyxlplo
-  password: m3bqxk03mg221yi2
-  port: 52022
-  server: 95.217.96.131
-  skip-cert-verify: false
-  sni: assets.gateway-stream.com
-  tls: false
-  type: hysteria2
-- name: '@vmesskhodam #4'
-  obfs: salamander
-  obfs-password: phos93w1zi0nj6uv
-  password: m3bqxk03mg221yi2
-  port: 52049
-  server: 95.217.96.131
-  skip-cert-verify: false
-  sni: assets.gateway-stream.com
-  tls: false
-  type: hysteria2
 - name: '@v2ray313 کانالمون 🇧🇬'
   obfs: salamander
   obfs-password: kf1lypzqidy6pimt
@@ -1587,7 +1566,7 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: 'تلگرام : MTMVPN'
+- name: bisto4_service
   obfs: salamander
   obfs-password: rG07s3COMIEvdnQipRyWzx_H_2xygNC3
   password: p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR
