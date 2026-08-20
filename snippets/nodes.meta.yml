@@ -783,6 +783,16 @@ proxies:
   sni: sg2.xiaoliyu.cyou
   tls: false
   type: hysteria2
+- name: 🇭🇰HK
+  obfs: salamander
+  obfs-password: 1ol3tasb90
+  password: 1dcc3b89-0b45-3908-9120-19741361d55d
+  port: 10030
+  server: fg7xl1div.d33tqmk.cc
+  skip-cert-verify: true
+  sni: xk7q3.ckpfef.top
+  tls: false
+  type: hysteria2
 - name: HK
   obfs: salamander
   obfs-password: 1ol3tasb90
@@ -1336,6 +1346,16 @@ proxies:
   sni: grape-power-pl.ddnsguru.com
   tls: false
   type: hysteria2
+- name: 🇨🇦148095 | ⚡️Telegram = t.me/S...
+  obfs: salamander
+  obfs-password: hmvyfx1tpnz6pp3k
+  password: AstroVPN_official
+  port: 36896
+  server: ptserv.accuratenetworkchecker.ir
+  skip-cert-verify: false
+  sni: lms22.gelzaro.ir
+  tls: false
+  type: hysteria2
 - name: 🇫🇮|FI|@wxgqlfx|217
   password: C91FbOXGY9XRymrcEebtax9R1Nj62UizoT8S6kCb7xwey8IE
   port: 443
@@ -1622,7 +1642,7 @@ proxies:
   sni: germany3.h2corp.local
   tls: false
   type: hysteria2
-- name: bisto4_service
+- name: 🇳🇱148061 | ⚡️Telegram = t.me/S...
   obfs: salamander
   obfs-password: rG07s3COMIEvdnQipRyWzx_H_2xygNC3
   password: p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR
