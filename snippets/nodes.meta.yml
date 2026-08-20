@@ -1306,14 +1306,6 @@ proxies:
   sni: mercedes-grape.yyuyy.com
   tls: false
   type: hysteria2
-- name: 🍏9@oneclickvpnkeys
-  password: 9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z
-  port: 8443
-  server: 162.249.124.99
-  skip-cert-verify: true
-  sni: mercedes-grape.yyuyy.com
-  tls: false
-  type: hysteria2
 - name: '🇩🇪@FreakConfig #1'
   obfs: salamander
   obfs-password: AIbOe_791iQ4k6kPUgdsO7B9
@@ -1352,16 +1344,6 @@ proxies:
   sni: grape-power-pl.ddnsguru.com
   tls: false
   type: hysteria2
-- name: 🇨🇦148095 | ⚡️Telegram = t.me/S...
-  obfs: salamander
-  obfs-password: hmvyfx1tpnz6pp3k
-  password: AstroVPN_official
-  port: 36896
-  server: ptserv.accuratenetworkchecker.ir
-  skip-cert-verify: false
-  sni: lms22.gelzaro.ir
-  tls: false
-  type: hysteria2
 - name: 🇫🇮|FI|@wxgqlfx|217
   password: C91FbOXGY9XRymrcEebtax9R1Nj62UizoT8S6kCb7xwey8IE
   port: 443
@@ -1370,30 +1352,12 @@ proxies:
   sni: fast.wwwinternetvideo.click
   tls: false
   type: hysteria2
-- name: '@Configvibes🇹🇷 #3'
-  obfs: salamander
-  obfs-password: IL+pm5"K?4gef:Jvn8^G+:N,Neyy8
-  password: Configvibes
-  port: 2096
-  server: 107.181.155.107
-  skip-cert-verify: true
-  sni: ftp.debian.org
-  tls: false
-  type: hysteria2
 - name: 🍏100@oneclickvpnkeys
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: 443
   server: 3.149.228.246
   skip-cert-verify: true
   sni: vpn-us-003.fastervpn.world
-  tls: false
-  type: hysteria2
-- name: Romania 🇷🇴
-  password: Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0
-  port: 8443
-  server: 85.204.107.165
-  skip-cert-verify: false
-  sni: grape-zet-ro-turbo.bumbleshrimp.com
   tls: false
   type: hysteria2
 - name: 🇷🇴|RO|@wxgqlfx|225
@@ -1578,12 +1542,26 @@ proxies:
   sni: 193-122-104-200.liao.kdns.fr
   tls: false
   type: hysteria2
+- name: 🐦‍🔥78@oneclickvpnkeys
+  password: dongtaiwang.com
+  port: 44356
+  server: 142.249.37.90
+  sni: hy2.561891.xyz
+  tls: false
+  type: hysteria2
 - name: 🍏50@oneclickvpnkeys
   password: dongtaiwang.com
   port: 22000
   server: 62.210.124.146
   skip-cert-verify: true
   sni: www.microsoft.com
+  tls: false
+  type: hysteria2
+- name: 🐦‍🔥80@oneclickvpnkeys
+  password: dongtaiwang.com
+  port: 44356
+  server: hy2.561891.xyz
+  sni: hy2.561891.xyz
   tls: false
   type: hysteria2
 - name: 🇩🇪|DE|@wxgqlfx|182
@@ -1648,7 +1626,7 @@ proxies:
   sni: germany3.h2corp.local
   tls: false
   type: hysteria2
-- name: 🇳🇱148061 | ⚡️Telegram = t.me/S...
+- name: 🇳🇱
   obfs: salamander
   obfs-password: rG07s3COMIEvdnQipRyWzx_H_2xygNC3
   password: p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR
@@ -1656,6 +1634,14 @@ proxies:
   server: 130.49.161.70
   skip-cert-verify: false
   sni: hy2.aspidnet.xyz
+  tls: false
+  type: hysteria2
+- name: 🐦‍🔥85@oneclickvpnkeys
+  password: qQe1z5kU8kN6SlKnDt9Ru3Qp
+  port: 443
+  server: 44.255.13.86
+  skip-cert-verify: true
+  sni: vpn-us-002.fastervpn.world
   tls: false
   type: hysteria2
 - alpn:
@@ -1721,16 +1707,6 @@ proxies:
   obfs-password: auw7lhtk2kxyq4g9
   password: t8t2qojzsykqazfu
   port: 52057
-  server: assets.gateway-stream.com
-  skip-cert-verify: false
-  sni: assets.gateway-stream.com
-  tls: false
-  type: hysteria2
-- name: '@v2raybaaz ²'
-  obfs: salamander
-  obfs-password: fd3olglr2bmimgje
-  password: t8t2qojzsykqazfu
-  port: 52061
   server: assets.gateway-stream.com
   skip-cert-verify: false
   sni: assets.gateway-stream.com
