@@ -1216,14 +1216,6 @@ proxies:
   sni: archive.ubuntu.com
   tls: false
   type: hysteria2
-- name: 🇸🇬149146 | ⚡️Telegram = t.me/S...
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: 443
-  server: 54.179.153.191
-  skip-cert-verify: true
-  sni: t.me
-  tls: false
-  type: hysteria2
 - name: 🩵+@Azarakhsh_Proxy+🩷
   obfs: salamander
   obfs-password: KevinZakarian
@@ -1373,7 +1365,7 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: 🇳🇱
+- name: bisto4_service
   obfs: salamander
   obfs-password: rG07s3COMIEvdnQipRyWzx_H_2xygNC3
   password: p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR

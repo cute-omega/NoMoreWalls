@@ -39,14 +39,6 @@ proxies:
   sni: vpn-sg-001.fastervpn.world
   tls: false
   type: hysteria2
-- name: 🇸🇬149146 | ⚡️Telegram = t.me/S...
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: 443
-  server: 54.179.153.191
-  skip-cert-verify: true
-  sni: t.me
-  tls: false
-  type: hysteria2
 - name: 新加坡|@ripaojiedian
   network: tcp
   password: d5517dedef425597a1b9fdbaad99544e
