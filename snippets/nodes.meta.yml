@@ -923,7 +923,7 @@ proxies:
   sni: vip-sg-1.hkd4fwmg.vip
   tls: false
   type: hysteria2
-- name: '@Configvibes🇹🇷 #2'
+- name: '@Configvibes🇹🇷 #1'
   obfs: salamander
   obfs-password: Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------
   password: '@Telegram@Configvibes'
@@ -1216,14 +1216,12 @@ proxies:
   sni: archive.ubuntu.com
   tls: false
   type: hysteria2
-- name: '@Configvibes🇹🇷 #1'
-  obfs: salamander
-  obfs-password: Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes
-  password: '@Telegram@Configvibes'
-  port: 2096
-  server: 107.181.155.107
+- name: 🇸🇬149146 | ⚡️Telegram = t.me/S...
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 54.179.153.191
   skip-cert-verify: true
-  sni: ftp.debian.org
+  sni: t.me
   tls: false
   type: hysteria2
 - name: 🩵+@Azarakhsh_Proxy+🩷
@@ -1234,16 +1232,6 @@ proxies:
   server: 179.61.132.96
   skip-cert-verify: true
   sni: 179.61.132.96
-  tls: false
-  type: hysteria2
-- name: 🐦‍🔥24@oneclickvpnkeys
-  obfs: salamander
-  obfs-password: Telegram@vpnjey
-  password: Telegram@vpnjey
-  port: 37009
-  server: 31.76.27.23
-  skip-cert-verify: true
-  sni: de.vpnjey.store
   tls: false
   type: hysteria2
 - alpn:
