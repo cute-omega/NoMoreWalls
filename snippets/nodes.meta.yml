@@ -997,6 +997,14 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
+- name: 'SG #1'
+  password: ZYTopBPE6fGijECIcT3KxqFEpjQJ44ND
+  port: 55793
+  server: vip-sg-2.hkd4fwmg.vip
+  skip-cert-verify: true
+  sni: vip-sg-2.hkd4fwmg.vip
+  tls: false
+  type: hysteria2
 - name: '波兰 #1'
   password: b11841e3-2acc-45ff-afe0-a9ed9a823aaa
   port: 443
