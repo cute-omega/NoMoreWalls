@@ -1361,6 +1361,16 @@ proxies:
   sni: hopp-netherland-new.dynuddns.net
   tls: false
   type: hysteria2
+- name: '@Iran_v2ray1'
+  obfs: salamander
+  obfs-password: hmvyfx1tpnz6pp3k
+  password: StableInternet
+  port: 36896
+  server: ptserv.accuratenetworkchecker.ir
+  skip-cert-verify: false
+  sni: lms22.gelzaro.ir
+  tls: false
+  type: hysteria2
 - alpn:
   - h3
   name: Telegram@vpnjey
