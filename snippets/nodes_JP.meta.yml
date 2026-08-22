@@ -104,6 +104,14 @@ proxies:
   tls: false
   type: hysteria2
 - name: 日本
+  password: Foc_Mcxi45rM9v3ve_N92fdrK_10_Ssc5
+  port: 8443
+  server: 185.39.31.117
+  skip-cert-verify: true
+  sni: grape-beer.yyuyy.com
+  tls: false
+  type: hysteria2
+- name: '日本 #1'
   password: ef18d810-719c-4bf1-83c6-615d01f217eb
   port: 443
   server: jp.cryptoofarm.com
