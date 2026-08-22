@@ -782,7 +782,7 @@ proxies:
   sni: hk2.xiaoliyu.cyou
   tls: false
   type: hysteria2
-- name: 🇺🇸US
+- name: 🧮78@oneclickvpnkeys
   password: 17aVvwmiSU
   port: 10929
   server: do.aigh.store
@@ -959,7 +959,7 @@ proxies:
   sni: hk-ls-r-1.czzhkractqqakfzdmrgd.cc
   tls: false
   type: hysteria2
-- name: '@Configvibes🇹🇷 #2'
+- name: '@Configvibes🇹🇷 #1'
   obfs: salamander
   obfs-password: Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------
   password: '@Telegram@Configvibes'
@@ -1366,14 +1366,20 @@ proxies:
   sni: archive.ubuntu.com
   tls: false
   type: hysteria2
-- name: '@Configvibes🇹🇷 #1'
-  obfs: salamander
-  obfs-password: Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes
-  password: '@Telegram@Configvibes'
-  port: 2096
-  server: 107.181.155.107
+- name: 🧮90@oneclickvpnkeys
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 202.146.222.29
   skip-cert-verify: true
-  sni: ftp.debian.org
+  sni: 202.146.222.29
+  tls: false
+  type: hysteria2
+- name: 🧮89@oneclickvpnkeys
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 3.36.96.245
+  skip-cert-verify: true
+  sni: vpn-kr-003.fastervpn.world
   tls: false
   type: hysteria2
 - name: 🩵+@Azarakhsh_Proxy+🩷
