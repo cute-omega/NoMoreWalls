@@ -100,6 +100,14 @@ proxies:
   sni: vk.com
   tls: false
   type: hysteria2
+- name: 🧮41@oneclickvpnkeys
+  password: h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT
+  port: 8443
+  server: 103.246.248.226
+  skip-cert-verify: true
+  sni: hopp-legend-se.roxa.org
+  tls: false
+  type: hysteria2
 - name: 美国|@ripaojiedian
   network: tcp
   password: d5517dedef425597a1b9fdbaad99544e
