@@ -913,6 +913,13 @@ proxies:
   sni: us54.mechvpn.online
   tls: false
   type: hysteria2
+- name: 芬兰
+  password: 83deb5ce-cd1c-41a6-8ec5-2ebc91f6f861
+  port: 8443
+  server: 31.76.70.109
+  sni: quic.tyr-agentstvo.tech
+  tls: false
+  type: hysteria2
 - name: 台湾
   password: 85a88b70b5f2f73d0dcac92bd3934a5e
   port: 50160
@@ -969,7 +976,7 @@ proxies:
   sni: ftp.debian.org
   tls: false
   type: hysteria2
-- name: 芬兰
+- name: '芬兰 #1'
   password: Apt1923_N9x234gn_Nal5Nx3j_s
   port: 8443
   server: 222.167.212.80
@@ -1101,13 +1108,6 @@ proxies:
   server: ndge4.whit3.net
   skip-cert-verify: true
   sni: ndge4.whit3.net
-  tls: false
-  type: hysteria2
-- name: '波兰 #4'
-  password: b11841e3-2acc-45ff-afe0-a9ed9a823aaa
-  port: 443
-  server: rpc-2068.internet-booster.com
-  sni: rpc-2068.internet-booster.com
   tls: false
   type: hysteria2
 - name: 澳大利亚
@@ -1252,6 +1252,13 @@ proxies:
   port: 8443
   server: 46.229.243.139
   skip-cert-verify: true
+  sni: grape-turbo-fr.roxa.org
+  tls: false
+  type: hysteria2
+- name: 瑞士
+  password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
+  port: 8080
+  server: 46.229.243.141
   sni: grape-turbo-fr.roxa.org
   tls: false
   type: hysteria2
