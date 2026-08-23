@@ -53,14 +53,6 @@ proxies:
   tls: false
   type: hysteria2
 - name: 美国
-  password: CJtE4HLmxz859YMNiZM1NTuDRy7jjs8t
-  port: 1443
-  server: pg-usa2-hy2.gigatapbot.top
-  skip-cert-verify: true
-  sni: pg-usa2-hy2.gigatapbot.top
-  tls: false
-  type: hysteria2
-- name: '美国 #1'
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: 443
   server: 18.226.172.222
@@ -68,14 +60,14 @@ proxies:
   sni: vpn-us-003.fastervpn.world
   tls: false
   type: hysteria2
-- name: '美国 #2'
+- name: '美国 #1'
   password: VB92_Ka9qwef143K_L23K1hz3_bF_Hz62uT_Bn1_sC
   port: 8080
   server: 82.39.214.98
   sni: hopp-us.yyuyy.com
   tls: false
   type: hysteria2
-- name: '美国 #3'
+- name: '美国 #2'
   obfs: salamander
   obfs-password: 44f1c1e2f8b99e792ceed574627a1eb0
   password: cd74c0a406664a5bc0bac098220a2468
@@ -84,7 +76,7 @@ proxies:
   sni: node1.sferavpn.pro
   tls: false
   type: hysteria2
-- name: '美国 #4'
+- name: '美国 #3'
   password: fe475179-d8a8-420d-a4ac-3e415ed8dc72
   port: 11683
   server: uswx4.wxgqlfx.vip
