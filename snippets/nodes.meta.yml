@@ -1500,7 +1500,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 🇩🇪150017 | ⚡️Telegram = t.me/S...
+- name: 1🧮@oneclickvpnkeys
   password: dsfa_k0123WFzerrf_kZ3490VNb03J_m30_s
   port: 8443
   server: 194.180.188.120
@@ -1563,6 +1563,18 @@ proxies:
   port: 8443
   server: 46.229.243.137
   sni: grape-turbo-fr.roxa.org
+  tls: false
+  type: hysteria2
+- alpn:
+  - h3
+  fingerprint: chrome
+  name: dc-udp-🇧🇪 Belgium-Brussels
+  obfs: salamander
+  obfs-password: 93lc6r07zfx4crct
+  password: t8t2qojzsykqazfu
+  port: 52008
+  server: assets.gateway-stream.com
+  sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
 - name: '@v2ray313 کانالمون ❤️'
