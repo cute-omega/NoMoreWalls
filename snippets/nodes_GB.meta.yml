@@ -1,4 +1,12 @@
 proxies:
+- name: UK
+  password: 0bacdaea-099b-462b-b625-d7d44c89aace
+  port: 55000
+  server: 94.156.250.67
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
 - name: 英国
   password: 53c76647-14d1-4df5-99cb-be99ad2e6bd9
   port: 443
