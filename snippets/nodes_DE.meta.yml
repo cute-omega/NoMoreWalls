@@ -218,16 +218,6 @@ proxies:
   sni: replay.wwwinternetvideo.click
   tls: false
   type: hysteria2
-- name: 'Telegram channel : @Daily_Conf...'
-  obfs: salamander
-  obfs-password: SalamanderDE2026
-  password: Germany2026hy
-  port: 8443
-  server: 45.128.99.14
-  skip-cert-verify: true
-  sni: de.nobelchat.ru
-  tls: false
-  type: hysteria2
 - alpn:
   - h3
   fingerprint: chrome

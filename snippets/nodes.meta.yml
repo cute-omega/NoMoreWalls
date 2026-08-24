@@ -1233,6 +1233,21 @@ proxies:
   sni: cabinet.wwwinternetvideo.click
   tls: false
   type: hysteria2
+- name: 2🏓@oneclickvpnkeys
+  password: 16ab4d4a-fd81-4535-9b7b-346677226ce8
+  port: 443
+  server: olp.crsmaps.com
+  skip-cert-verify: true
+  sni: olp.crsmaps.com
+  tls: false
+  type: hysteria2
+- name: 🏓95@oneclickvpnkeys
+  password: 1f619326-cd93-4d6b-aebe-e0b5f8831d02
+  port: 10808
+  server: 79.137.205.35
+  sni: nl7.unlockvpn.online
+  tls: false
+  type: hysteria2
 - name: 🏓89@oneclickvpnkeys
   password: 2691cbe7c20cced8b0aeb12c812d09077e5b3eec7669fb8f
   port: 443
@@ -1273,6 +1288,22 @@ proxies:
   server: 31.76.80.69
   skip-cert-verify: false
   sni: fiproxy1.lockdwn.com
+  tls: false
+  type: hysteria2
+- name: 🏓96@oneclickvpnkeys
+  password: 865e271f7c97b549b024255c9d02cebe9cc0c2c070a82b1e11bb11b9cd88dd01
+  port: 443
+  server: 217.60.33.215
+  skip-cert-verify: true
+  sni: streambox.wwwinternetvideo.click
+  tls: false
+  type: hysteria2
+- name: 🏓94@oneclickvpnkeys
+  password: 8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3
+  port: 443
+  server: 185.191.238.202
+  skip-cert-verify: true
+  sni: che01plrhy01.tcp-reset-club.net
   tls: false
   type: hysteria2
 - name: 🏓73@oneclickvpnkeys
@@ -1462,6 +1493,14 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
+- name: 1🏓@oneclickvpnkeys
+  password: h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT
+  port: 8443
+  server: 222.167.212.82
+  skip-cert-verify: true
+  sni: hopp-legend-se.roxa.org
+  tls: false
+  type: hysteria2
 - name: '@v2ray313 کانالمون 🇧🇬'
   obfs: salamander
   obfs-password: kf1lypzqidy6pimt
@@ -1517,6 +1556,14 @@ proxies:
   server: 46.229.243.132
   skip-cert-verify: true
   sni: grape-turbo-fr.roxa.org
+  tls: false
+  type: hysteria2
+- name: 🏓97@oneclickvpnkeys
+  password: sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX
+  port: 443
+  server: 217.60.182.79
+  skip-cert-verify: true
+  sni: cabinet.wwwinternetvideo.click
   tls: false
   type: hysteria2
 - alpn:
