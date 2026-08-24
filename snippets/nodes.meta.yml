@@ -1459,14 +1459,6 @@ proxies:
   sni: pro2.riziro.ir
   tls: false
   type: hysteria2
-- name: 🇳🇱150735 | ⚡️Telegram = t.me/S...
-  password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
-  port: 8443
-  server: 46.229.243.131
-  skip-cert-verify: false
-  sni: grape-turbo-fr.roxa.org
-  tls: false
-  type: hysteria2
 - alpn:
   - h3
   fingerprint: chrome
