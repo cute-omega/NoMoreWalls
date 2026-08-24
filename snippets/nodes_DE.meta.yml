@@ -210,12 +210,12 @@ proxies:
   sni: germany3.h2corp.local
   tls: false
   type: hysteria2
-- name: 🏓22@oneclickvpnkeys
+- name: 🏓39@oneclickvpnkeys
   password: 2b3e8750-b944-42fc-b36e-ec2c64b48a98
   port: 443
-  server: 31.76.119.101
+  server: 31.76.111.33
   skip-cert-verify: true
-  sni: de4.convert-cloud.guru
+  sni: hy2.bluekitty.lol
   tls: false
   type: hysteria2
 - name: 🏓26@oneclickvpnkeys
@@ -224,14 +224,6 @@ proxies:
   server: 89.125.156.80
   skip-cert-verify: true
   sni: pixelcast.wwwinternetvideo.click
-  tls: false
-  type: hysteria2
-- name: 🏓10@oneclickvpnkeys
-  password: GSPOBvG-ZwYcBFMr0ekFGO_Zga3wK6v_
-  port: 8443
-  server: 193.41.5.243
-  skip-cert-verify: true
-  sni: hy2-germany.unlimited-access.ru
   tls: false
   type: hysteria2
 - alpn:

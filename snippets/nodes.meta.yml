@@ -767,7 +767,7 @@ proxies:
   sni: panel.vlessbotkey.ru
   tls: false
   type: hysteria2
-- name: UK
+- name: 🏓33@oneclickvpnkeys
   password: 0bacdaea-099b-462b-b625-d7d44c89aace
   port: 55000
   server: 94.156.250.67
@@ -1228,12 +1228,12 @@ proxies:
   sni: 185.47.172.226
   tls: false
   type: hysteria2
-- name: 🫟58@oneclickvpnkeys
-  password: 1ba59989-225e-4f1c-ab62-9bd7366009cb
+- name: 🏓39@oneclickvpnkeys
+  password: 2b3e8750-b944-42fc-b36e-ec2c64b48a98
   port: 443
-  server: 194.135.34.207
+  server: 31.76.111.33
   skip-cert-verify: true
-  sni: 194.135.34.207
+  sni: hy2.bluekitty.lol
   tls: false
   type: hysteria2
 - name: 🏓22@oneclickvpnkeys
@@ -1250,14 +1250,6 @@ proxies:
   server: 89.125.156.80
   skip-cert-verify: true
   sni: pixelcast.wwwinternetvideo.click
-  tls: false
-  type: hysteria2
-- name: 🇷🇺151014 | ⚡️Telegram = t.me/S...
-  password: 41edb44c8e
-  port: 11592
-  server: srv-17e124.21freedom.net
-  skip-cert-verify: true
-  sni: 127.0.0.1
   tls: false
   type: hysteria2
 - name: '✅  @vistav2ray  👈👈کانال ما ✅ #1'
@@ -1426,30 +1418,6 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: 🇳🇱151012 | ⚡️Telegram = t.me/S...
-  password: netherlands_2_hysteria2_fastlane_2024vcg4k
-  port: 443
-  server: 147.45.50.168
-  skip-cert-verify: false
-  sni: nl3.h.fastlanehosting.ru
-  tls: false
-  type: hysteria2
-- name: 🇳🇱151008 | ⚡️Telegram = t.me/S...
-  password: netherlands_3_hysteria2_fastlane_5gn859zch
-  port: 443
-  server: 212.34.143.45
-  skip-cert-verify: false
-  sni: nl6.h.fastlanehosting.ru
-  tls: false
-  type: hysteria2
-- name: 🇳🇱151007 | ⚡️Telegram = t.me/S...
-  password: netherlands_3_hysteria2_fastlane_om044zh63
-  port: 443
-  server: 93.183.89.56
-  skip-cert-verify: false
-  sni: nl7.h.fastlanehosting.ru
-  tls: false
-  type: hysteria2
 - name: '@Daily_Configs : کانال'
   obfs: salamander
   obfs-password: rG07s3COMIEvdnQipRyWzx_H_2xygNC3
@@ -1470,6 +1438,14 @@ proxies:
   port: 44100
   server: pro2.riziro.ir
   sni: pro2.riziro.ir
+  tls: false
+  type: hysteria2
+- name: 🏓32@oneclickvpnkeys
+  password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
+  port: 8443
+  server: 46.229.243.132
+  skip-cert-verify: true
+  sni: grape-turbo-fr.roxa.org
   tls: false
   type: hysteria2
 - alpn:
