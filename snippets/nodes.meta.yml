@@ -913,7 +913,7 @@ proxies:
   sni: streambox.wwwinternetvideo.click
   tls: false
   type: hysteria2
-- name: '德国 #1'
+- name: 🏓75@oneclickvpnkeys
   password: 8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3
   port: 443
   server: deu0003ntrhy01.tcp-reset-club.net
@@ -1056,6 +1056,22 @@ proxies:
   sni: ndge4.whit3.net
   tls: false
   type: hysteria2
+- name: '法国 #1'
+  password: ac7fb60f-0b7a-465d-a002-05160ec04ed6
+  port: 443
+  server: dora3.api3-max.ru
+  skip-cert-verify: true
+  sni: dora3.api3-max.ru
+  tls: false
+  type: hysteria2
+- name: '法国 #2'
+  password: ac7fb60f-0b7a-465d-a002-05160ec04ed6
+  port: 443
+  server: dora4.api3-max.ru
+  skip-cert-verify: true
+  sni: dora4.api3-max.ru
+  tls: false
+  type: hysteria2
 - name: '土耳其 #1'
   password: ac7fb60f-0b7a-465d-a002-05160ec04ed6
   port: 443
@@ -1091,15 +1107,6 @@ proxies:
   sni: be1.h.fastlanehosting.ru
   tls: false
   type: hysteria2
-- name: '美国 #2'
-  obfs: salamander
-  obfs-password: 44f1c1e2f8b99e792ceed574627a1eb0
-  password: cd74c0a406664a5bc0bac098220a2468
-  port: 443
-  server: node1.sferavpn.pro
-  sni: node1.sferavpn.pro
-  tls: false
-  type: hysteria2
 - name: '德国 #4'
   password: dsfa_k0123WFzerrf_kZ3490VNb03J_m30_s
   port: 8443
@@ -1124,7 +1131,7 @@ proxies:
   sni: jp.cryptoofarm.com
   tls: false
   type: hysteria2
-- name: '美国 #3'
+- name: '美国 #2'
   password: fe475179-d8a8-420d-a4ac-3e415ed8dc72
   port: 11683
   server: uswx4.wxgqlfx.vip
@@ -1218,14 +1225,20 @@ proxies:
   sni: cabinet.wwwinternetvideo.click
   tls: false
   type: hysteria2
-- name: '@confiig_hub'
-  obfs: salamander
-  obfs-password: dnwx30hvcobf7xcf
-  password: 0ansucp5k6aop125
-  port: 32950
-  server: 185.47.172.226
-  skip-cert-verify: false
-  sni: 185.47.172.226
+- name: '美国 #3'
+  password: sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX
+  port: 443
+  server: faq.wwwinternetvideo.click
+  skip-cert-verify: true
+  sni: cabinet.wwwinternetvideo.click
+  tls: false
+  type: hysteria2
+- name: 🏓89@oneclickvpnkeys
+  password: 2691cbe7c20cced8b0aeb12c812d09077e5b3eec7669fb8f
+  port: 443
+  server: replay.wwwinternetvideo.click
+  skip-cert-verify: true
+  sni: replay.wwwinternetvideo.click
   tls: false
   type: hysteria2
 - name: 🏓39@oneclickvpnkeys
@@ -1262,6 +1275,22 @@ proxies:
   sni: fiproxy1.lockdwn.com
   tls: false
   type: hysteria2
+- name: 🏓73@oneclickvpnkeys
+  password: 95e8532b-cc69-42d4-9553-e3c23292b15b
+  port: 8443
+  server: 143.246.208.86
+  skip-cert-verify: true
+  sni: iq5ny.pleiades.codes
+  tls: false
+  type: hysteria2
+- name: 🏓69@oneclickvpnkeys
+  password: 95e8532b-cc69-42d4-9553-e3c23292b15b
+  port: 8443
+  server: 81.168.62.17
+  skip-cert-verify: true
+  sni: iq5ny.pleiades.codes
+  tls: false
+  type: hysteria2
 - name: '@Configvibes🇹🇷'
   obfs: salamander
   obfs-password: Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------
@@ -1290,6 +1319,16 @@ proxies:
   sni: hy2-germany.unlimited-access.ru
   tls: false
   type: hysteria2
+- name: 'Telegram channel : @Daily_Conf...'
+  obfs: salamander
+  obfs-password: SalamanderDE2026
+  password: Germany2026hy
+  port: 8443
+  server: 45.128.99.14
+  skip-cert-verify: true
+  sni: de.nobelchat.ru
+  tls: false
+  type: hysteria2
 - name: 🩵+@Azarakhsh_Proxy+🩷
   obfs: salamander
   obfs-password: KevinZakarian
@@ -1298,6 +1337,15 @@ proxies:
   server: 179.61.132.96
   skip-cert-verify: true
   sni: 179.61.132.96
+  tls: false
+  type: hysteria2
+- name: 🇳🇱151426 | ⚡️Telegram = t.me/S...
+  obfs: salamander
+  obfs-password: SalamanderNL2026
+  password: NL2026hy
+  port: 8443
+  server: 147.45.149.88
+  sni: nl.nobelchat.ru
   tls: false
   type: hysteria2
 - name: '@Iran_v2ray1'
@@ -1358,6 +1406,14 @@ proxies:
   sni: de.jey.cc.cd
   tls: false
   type: hysteria2
+- name: 🏓62@oneclickvpnkeys
+  password: V1UQuwa-4PRIDW2paxrPe58RcxXHPGyFIGS-5QojaM8
+  port: 443
+  server: 144.31.221.57
+  skip-cert-verify: true
+  sni: player.wwwinternetvideo.click
+  tls: false
+  type: hysteria2
 - name: 🇳🇱 - NL - @FreeOnlineVPN
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
@@ -1390,6 +1446,14 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
+- name: 🏓66@oneclickvpnkeys
+  password: dongtaiwang.com
+  port: 22000
+  server: 62.210.124.146
+  skip-cert-verify: true
+  sni: www.microsoft.com
+  tls: false
+  type: hysteria2
 - name: 🫟94@oneclickvpnkeys
   password: e660daf2da753ca8317387342b8af384
   port: 50160
@@ -1416,6 +1480,13 @@ proxies:
   server: assets.gateway-stream.com
   skip-cert-verify: false
   sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: 🏓77@oneclickvpnkeys
+  password: oCYFcbOo8s
+  port: 443
+  server: hys22.wba-pn.ru
+  sni: hys22.wba-pn.ru
   tls: false
   type: hysteria2
 - name: '@Daily_Configs : کانال'
