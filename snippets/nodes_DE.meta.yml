@@ -210,14 +210,6 @@ proxies:
   sni: germany3.h2corp.local
   tls: false
   type: hysteria2
-- name: 🏓89@oneclickvpnkeys
-  password: 2691cbe7c20cced8b0aeb12c812d09077e5b3eec7669fb8f
-  port: 443
-  server: replay.wwwinternetvideo.click
-  skip-cert-verify: true
-  sni: replay.wwwinternetvideo.click
-  tls: false
-  type: hysteria2
 - alpn:
   - h3
   fingerprint: chrome
@@ -240,13 +232,5 @@ proxies:
   port: 37003
   server: 179.61.251.253
   sni: de.jey.cc.cd
-  tls: false
-  type: hysteria2
-- name: 🏓62@oneclickvpnkeys
-  password: V1UQuwa-4PRIDW2paxrPe58RcxXHPGyFIGS-5QojaM8
-  port: 443
-  server: 144.31.221.57
-  skip-cert-verify: true
-  sni: player.wwwinternetvideo.click
   tls: false
   type: hysteria2
