@@ -1180,7 +1180,7 @@ proxies:
   sni: grape-turbo-fr.roxa.org
   tls: false
   type: hysteria2
-- name: 🍑74@oneclickvpnkeys
+- name: 🥎88@oneclickvpnkeys
   password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
   port: 8080
   server: 46.229.243.141
@@ -1219,14 +1219,6 @@ proxies:
   sni: replay.wwwinternetvideo.click
   tls: false
   type: hysteria2
-- name: 🏓26@oneclickvpnkeys
-  password: 2vwMMy8t5Sjl5lfK9dNF1OrU9d0K25V2RNWLbTKwJ6o
-  port: 443
-  server: 89.125.156.80
-  skip-cert-verify: true
-  sni: pixelcast.wwwinternetvideo.click
-  tls: false
-  type: hysteria2
 - name: 🇳🇱153000 | ⚡️Telegram = t.me/S...
   password: 39b27e20-16f5-45a1-8139-7c9b7f51b6f8
   port: 4433
@@ -1244,7 +1236,7 @@ proxies:
   sni: giftcard.gisora.ir
   tls: false
   type: hysteria2
-- name: '✅  @vistav2ray  👈👈کانال ما ✅ #1'
+- name: ✅  @vistav2ray  👈👈کانال ما ✅
   obfs: salamander
   obfs-password: uw9b2qq5rx
   password: 6aab8efdf13945829ae3699c342be406
@@ -1298,6 +1290,13 @@ proxies:
   server: 45.92.219.237
   skip-cert-verify: true
   sni: ftp.debian.org
+  tls: false
+  type: hysteria2
+- name: 🥎80@oneclickvpnkeys
+  password: GSPOBvG-ZwYcBFMr0ekFGO_Zga3wK6v_
+  port: 443
+  server: hy2-switzerlandgopota.unlimited-access.ru
+  sni: hy2-switzerlandgopota.unlimited-access.ru
   tls: false
   type: hysteria2
 - name: 'Telegram channel : @Daily_Conf...'
@@ -1529,14 +1528,6 @@ proxies:
   sni: pro2.riziro.ir
   tls: false
   type: hysteria2
-- name: 🏓32@oneclickvpnkeys
-  password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
-  port: 8443
-  server: 46.229.243.132
-  skip-cert-verify: true
-  sni: grape-turbo-fr.roxa.org
-  tls: false
-  type: hysteria2
 - name: 🍑77@oneclickvpnkeys
   password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
   port: 8443
@@ -1601,6 +1592,15 @@ proxies:
   server: giftcard.gateway-stream.com
   skip-cert-verify: false
   sni: giftcard.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: 🇹🇷153029 | ⚡️Telegram = t.me/S...
+  obfs: salamander
+  obfs-password: 9p13xps580n4i1hs
+  password: z5730rxgy0lezhc7
+  port: 2053
+  server: free.diginoisb.ir
+  skip-cert-verify: false
   tls: false
   type: hysteria2
 - cipher: aes-256-cfb
