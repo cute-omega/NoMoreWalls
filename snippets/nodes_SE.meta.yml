@@ -6,3 +6,13 @@ proxies:
   sni: swe.frkn.org
   tls: false
   type: hysteria2
+- name: 🇸🇪152691 | ⚡️Telegram = t.me/S...
+  obfs: salamander
+  obfs-password: 09p333uviv2qal0y
+  password: 617z9r1mbzbm1t5z
+  port: 52000
+  server: giftcard.gisora.ir
+  skip-cert-verify: false
+  sni: giftcard.gisora.ir
+  tls: false
+  type: hysteria2

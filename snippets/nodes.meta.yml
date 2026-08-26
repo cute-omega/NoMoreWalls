@@ -783,14 +783,12 @@ proxies:
   sni: do.aigh.store
   tls: false
   type: hysteria2
-- name: 🇭🇰HK
-  obfs: salamander
-  obfs-password: 1ol3tasb90
-  password: 1dcc3b89-0b45-3908-9120-19741361d55d
-  port: 10030
-  server: fg7xl1div.d33tqmk.cc
+- name: 土耳其
+  password: 1ba59989-225e-4f1c-ab62-9bd7366009cb
+  port: 443
+  server: 194.135.34.130
   skip-cert-verify: true
-  sni: xk7q3.ckpfef.top
+  sni: 194.135.34.130
   tls: false
   type: hysteria2
 - name: 荷兰
@@ -822,6 +820,14 @@ proxies:
   port: 8443
   server: swe.frkn.org
   sni: swe.frkn.org
+  tls: false
+  type: hysteria2
+- name: 🇸🇬SG
+  password: 41f0d6d3-4a45-4635-8225-2abd2284189b
+  port: 2056
+  server: xjp1.mangshe.xyz
+  skip-cert-verify: true
+  sni: xjp1.mangshe.xyz
   tls: false
   type: hysteria2
 - name: 保加利亚
@@ -859,6 +865,13 @@ proxies:
   sni: streambox.wwwinternetvideo.click
   tls: false
   type: hysteria2
+- name: 🇬🇧GB
+  password: 8674df07-56b3-43ea-b687-aef2b1a20137
+  port: 443
+  server: 31.76.22.210
+  sni: crt.ultimagamest.com
+  tls: false
+  type: hysteria2
 - name: '德国 #1'
   password: 8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3
   port: 443
@@ -875,7 +888,7 @@ proxies:
   sni: cn.cremedelamer.com
   tls: false
   type: hysteria2
-- name: 土耳其
+- name: '土耳其 #1'
   password: 9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z
   port: 8080
   server: 162.249.124.105
@@ -883,7 +896,7 @@ proxies:
   sni: mercedes-grape.yyuyy.com
   tls: false
   type: hysteria2
-- name: '土耳其 #1'
+- name: '土耳其 #2'
   password: 9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z
   port: 8080
   server: 162.249.124.114
@@ -891,7 +904,7 @@ proxies:
   sni: hopp-germany-new.ddnsguru.com
   tls: false
   type: hysteria2
-- name: '🇭🇰HK #1'
+- name: 🇭🇰HK
   password: 9q3Mb0IzSVbnwaqK
   port: 16001
   server: 18.162.42.61
@@ -970,6 +983,15 @@ proxies:
   sni: hopp-us.yyuyy.com
   tls: false
   type: hysteria2
+- name: '🇸🇬SG #1'
+  obfs: salamander
+  obfs-password: MBd0Kzj3ZcY3
+  password: VL0N0IPJ5Tqj672H7FsxYw==
+  port: 12451
+  server: 18.136.199.31
+  sni: c.hbapp.xyz
+  tls: false
+  type: hysteria2
 - name: '波兰 #2'
   password: YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc
   port: 443
@@ -1010,7 +1032,7 @@ proxies:
   sni: dora4.api3-max.ru
   tls: false
   type: hysteria2
-- name: '土耳其 #2'
+- name: '土耳其 #3'
   password: ac7fb60f-0b7a-465d-a002-05160ec04ed6
   port: 443
   server: gora4.api3-max.ru
@@ -1035,6 +1057,14 @@ proxies:
   server: 181.214.99.162
   skip-cert-verify: false
   sni: api.kermanshahi.org
+  tls: false
+  type: hysteria2
+- name: '芬兰 #1'
+  password: becd3b04-62a8-4b74-be67-be746008b4c2
+  port: 443
+  server: 45.149.147.194
+  skip-cert-verify: true
+  sni: hys-mesh.spliceflowtech.com
   tls: false
   type: hysteria2
 - name: 比利时
@@ -1077,6 +1107,13 @@ proxies:
   server: jp.cryptoofarm.com
   skip-cert-verify: true
   sni: jp.cryptoofarm.com
+  tls: false
+  type: hysteria2
+- name: 🇭🇰 HK
+  password: f4927789e58bcd24b6f6
+  port: 10444
+  server: h.zz2233.cyou
+  sni: h.zz2233.cyou
   tls: false
   type: hysteria2
 - name: '美国 #2'
@@ -1205,6 +1242,16 @@ proxies:
   sni: pixelcast.wwwinternetvideo.click
   tls: false
   type: hysteria2
+- name: 🇸🇪152691 | ⚡️Telegram = t.me/S...
+  obfs: salamander
+  obfs-password: 09p333uviv2qal0y
+  password: 617z9r1mbzbm1t5z
+  port: 52000
+  server: giftcard.gisora.ir
+  skip-cert-verify: false
+  sni: giftcard.gisora.ir
+  tls: false
+  type: hysteria2
 - name: '✅  @vistav2ray  👈👈کانال ما ✅ #1'
   obfs: salamander
   obfs-password: uw9b2qq5rx
@@ -1247,6 +1294,16 @@ proxies:
   sni: deu0003ntrhy01.tcp-reset-club.net
   tls: false
   type: hysteria2
+- name: 🇩🇪152692 | ⚡️Telegram = t.me/S...
+  obfs: salamander
+  obfs-password: 6cmj1dymhm79hopl
+  password: 8z2e26xkqsa598s3
+  port: 52000
+  server: gift-catalog.aroonia.ir
+  skip-cert-verify: false
+  sni: gift-catalog.aroonia.ir
+  tls: false
+  type: hysteria2
 - name: '@Configvibes🇹🇷'
   obfs: salamander
   obfs-password: Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------
@@ -1255,6 +1312,16 @@ proxies:
   server: 198.105.123.106
   skip-cert-verify: true
   sni: archive.ubuntu.com
+  tls: false
+  type: hysteria2
+- name: '@Configvibes🇹🇷 #1'
+  obfs: salamander
+  obfs-password: Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------
+  password: '@Telegram@Configvibes'
+  port: 8486
+  server: 45.92.219.237
+  skip-cert-verify: true
+  sni: ftp.debian.org
   tls: false
   type: hysteria2
 - name: 'Telegram channel : @Daily_Conf...'
@@ -1542,6 +1609,16 @@ proxies:
   server: assets.gateway-stream.com
   skip-cert-verify: false
   sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: 🇫🇮152697 | ⚡️Telegram = t.me/S...
+  obfs: salamander
+  obfs-password: fuw2k1ddrouwxr3u
+  password: xf2ak19a4uajprxg
+  port: 52090
+  server: giftcard.gateway-stream.com
+  skip-cert-verify: false
+  sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
 - cipher: aes-256-cfb
