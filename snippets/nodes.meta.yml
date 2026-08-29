@@ -1135,7 +1135,7 @@ proxies:
   sni: hopp-legend-se.roxa.org
   tls: false
   type: hysteria2
-- name: '🇸🇬SG #2'
+- name: 🐲88@oneclickvpnkeys
   password: qQe1z5kU8kN6SlKnDt9Ru3Qp
   port: 443
   server: 13.229.54.166
@@ -1190,7 +1190,7 @@ proxies:
   sni: cabinet.wwwinternetvideo.click
   tls: false
   type: hysteria2
-- name: '德国 #6'
+- name: 🇷🇺156002 | ⚡️Telegram = t.me/S...
   password: umnDU7jgFYUjpVjVM2sW9HL0rRYLJNgzVwRu2HzWEhyZKkRx
   port: 443
   server: hold.wwwinternetvideo.click
@@ -1252,47 +1252,11 @@ proxies:
   type: hysteria2
 - alpn:
   - h3
-  name: 🇫🇮155844 | ⚡️Telegram = t.me/S...
-  obfs: salamander
-  obfs-password: fuw2k1ddrouwxr3u
-  password: 76ivwa51ce2gauym
-  port: 52032
-  server: giftcard.gateway-stream.com
-  skip-cert-verify: false
-  sni: giftcard.gateway-stream.com
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
   name: 🇫🇮ConfigV2RayNG
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
   password: 76ivwa51ce2gauym
   port: 52037
-  server: giftcard.gateway-stream.com
-  skip-cert-verify: false
-  sni: giftcard.gateway-stream.com
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
-  name: 🇫🇮155845 | ⚡️Telegram = t.me/S...
-  obfs: salamander
-  obfs-password: fuw2k1ddrouwxr3u
-  password: 76ivwa51ce2gauym
-  port: 52041
-  server: giftcard.gateway-stream.com
-  skip-cert-verify: false
-  sni: giftcard.gateway-stream.com
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
-  name: 🇫🇮155839 | ⚡️Telegram = t.me/S...
-  obfs: salamander
-  obfs-password: fuw2k1ddrouwxr3u
-  password: 76ivwa51ce2gauym
-  port: 52088
   server: giftcard.gateway-stream.com
   skip-cert-verify: false
   sni: giftcard.gateway-stream.com
@@ -1539,6 +1503,30 @@ proxies:
   sni: de1.sferavpn.pro
   tls: false
   type: hysteria2
+- name: 🐲81@oneclickvpnkeys
+  password: eb0e3aec-f67f-4fa2-8577-b0bff0484e77
+  port: 443
+  server: 194.238.40.185
+  skip-cert-verify: true
+  sni: kaz0001hy01.packet-drop-society.net
+  tls: false
+  type: hysteria2
+- name: 🐲96@oneclickvpnkeys
+  password: eb0e3aec-f67f-4fa2-8577-b0bff0484e77
+  port: 443
+  server: kaz0001hy01.packet-drop-society.net
+  skip-cert-verify: true
+  sni: kaz0001hy01.packet-drop-society.net
+  tls: false
+  type: hysteria2
+- name: 🐲91@oneclickvpnkeys
+  password: gf1
+  port: 443
+  server: 66.94.121.46
+  skip-cert-verify: true
+  sni: www.broadcom.com
+  tls: false
+  type: hysteria2
 - name: 🪞79@oneclickvpnkeys
   password: h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT
   port: 8080
@@ -1592,7 +1580,14 @@ proxies:
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
-- name: '@v2ray313 کانالمون 💙'
+- name: 🇩🇪All⁷ | @BigSmoke_Config
+  password: jbmuokj7p4kg4h4s
+  port: 52029
+  server: giftcard.gateway-stream.com
+  sni: giftcard.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: 🇫🇮155985 | ⚡️Telegram = t.me/S...
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
   password: jbmuokj7p4kg4h4s
@@ -1602,7 +1597,7 @@ proxies:
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
-- name: '@v2ray313 کانالمون 🇹🇷'
+- name: 🇫🇮155986 | ⚡️Telegram = t.me/S...
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
   password: jbmuokj7p4kg4h4s
@@ -1656,6 +1651,22 @@ proxies:
   server: 130.49.161.70
   skip-cert-verify: false
   sni: hy2.aspidnet.xyz
+  tls: false
+  type: hysteria2
+- name: 🐲98@oneclickvpnkeys
+  password: qQe1z5kU8kN6SlKnDt9Ru3Qp
+  port: 443
+  server: 13.212.74.81
+  skip-cert-verify: true
+  sni: vpn-sg-001.fastervpn.world
+  tls: false
+  type: hysteria2
+- name: 🐲85@oneclickvpnkeys
+  password: qQe1z5kU8kN6SlKnDt9Ru3Qp
+  port: 443
+  server: 54.254.157.26
+  skip-cert-verify: true
+  sni: speedtest.tinkoff.ru
   tls: false
   type: hysteria2
 - alpn:
@@ -1730,7 +1741,7 @@ proxies:
 - alpn:
   - h3
   fingerprint: chrome
-  name: '@mehrosaboran'
+  name: '@mehrosaboran #1'
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
   password: zvxywxoorgqk3fzb
@@ -1743,7 +1754,7 @@ proxies:
 - alpn:
   - h3
   fingerprint: chrome
-  name: '@bored_vpn #1'
+  name: '@bored_vpn #2'
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
   password: zvxywxoorgqk3fzb
@@ -1756,7 +1767,7 @@ proxies:
 - alpn:
   - h3
   fingerprint: chrome
-  name: '@bored_vpn #2'
+  name: '@bored_vpn #3'
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
   password: zvxywxoorgqk3fzb
@@ -1779,7 +1790,7 @@ proxies:
 - alpn:
   - h3
   fingerprint: chrome
-  name: '@bored_vpn #3'
+  name: '@bored_vpn #4'
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
   password: zvxywxoorgqk3fzb
