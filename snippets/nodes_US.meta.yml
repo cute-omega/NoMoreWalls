@@ -69,7 +69,7 @@ proxies:
   sni: vk.com
   tls: false
   type: hysteria2
-- name: 📍92@oneclickvpnkeys
+- name: '美国 #3'
   password: sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX
   port: 443
   server: faq.wwwinternetvideo.click
