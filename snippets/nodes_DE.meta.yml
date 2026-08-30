@@ -244,11 +244,3 @@ proxies:
   sni: de.jey.cc.cd
   tls: false
   type: hysteria2
-- name: 🚘94@oneclickvpnkeys
-  password: qQe1z5kU8kN6SlKnDt9Ru3Qp
-  port: 443
-  server: vpn-de-001.fastervpn.world
-  skip-cert-verify: true
-  sni: vpn-de-001.fastervpn.world
-  tls: false
-  type: hysteria2

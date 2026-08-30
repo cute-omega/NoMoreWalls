@@ -1183,35 +1183,11 @@ proxies:
   type: hysteria2
 - alpn:
   - h3
-  name: 🇫🇮156811 | ⚡️Telegram = t.me/S...
+  name: 🇫🇮156972 | ⚡️Telegram = t.me/S...
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
   password: 1w61o8j0slf0q9yj
-  port: 52000
-  server: giftcard.gateway-stream.com
-  skip-cert-verify: false
-  sni: giftcard.gateway-stream.com
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
-  name: 🇫🇮156804 | ⚡️Telegram = t.me/S...
-  obfs: salamander
-  obfs-password: fuw2k1ddrouwxr3u
-  password: 1w61o8j0slf0q9yj
-  port: 52016
-  server: giftcard.gateway-stream.com
-  skip-cert-verify: false
-  sni: giftcard.gateway-stream.com
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
-  name: 🇫🇮156803 | ⚡️Telegram = t.me/S...
-  obfs: salamander
-  obfs-password: fuw2k1ddrouwxr3u
-  password: 1w61o8j0slf0q9yj
-  port: 52024
+  port: 52021
   server: giftcard.gateway-stream.com
   skip-cert-verify: false
   sni: giftcard.gateway-stream.com
@@ -1229,11 +1205,23 @@ proxies:
   type: hysteria2
 - alpn:
   - h3
-  name: 🇫🇮156790 | ⚡️Telegram = t.me/S...
+  name: 🇫🇮156971 | ⚡️Telegram = t.me/S...
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
   password: 1w61o8j0slf0q9yj
-  port: 52032
+  port: 52029
+  server: giftcard.gateway-stream.com
+  skip-cert-verify: false
+  sni: giftcard.gateway-stream.com
+  tls: false
+  type: hysteria2
+- alpn:
+  - h3
+  name: 🇫🇮156969 | ⚡️Telegram = t.me/S...
+  obfs: salamander
+  obfs-password: fuw2k1ddrouwxr3u
+  password: 1w61o8j0slf0q9yj
+  port: 52030
   server: giftcard.gateway-stream.com
   skip-cert-verify: false
   sni: giftcard.gateway-stream.com
@@ -1263,18 +1251,6 @@ proxies:
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
-- alpn:
-  - h3
-  name: 🇫🇮156802 | ⚡️Telegram = t.me/S...
-  obfs: salamander
-  obfs-password: fuw2k1ddrouwxr3u
-  password: 1w61o8j0slf0q9yj
-  port: 52060
-  server: giftcard.gateway-stream.com
-  skip-cert-verify: false
-  sni: giftcard.gateway-stream.com
-  tls: false
-  type: hysteria2
 - name: '@meliproxyy #1'
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
@@ -1299,11 +1275,11 @@ proxies:
   type: hysteria2
 - alpn:
   - h3
-  name: 🇫🇮156812 | ⚡️Telegram = t.me/S...
+  name: 🇫🇮156970 | ⚡️Telegram = t.me/S...
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
   password: 1w61o8j0slf0q9yj
-  port: 52064
+  port: 52067
   server: giftcard.gateway-stream.com
   skip-cert-verify: false
   sni: giftcard.gateway-stream.com
@@ -1321,15 +1297,12 @@ proxies:
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
-- alpn:
-  - h3
-  name: 🇫🇮156805 | ⚡️Telegram = t.me/S...
+- name: 'Channel: @Daily_Configs'
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
   password: 1w61o8j0slf0q9yj
   port: 52076
   server: giftcard.gateway-stream.com
-  skip-cert-verify: false
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
@@ -1786,6 +1759,16 @@ proxies:
   server: giftcard.gateway-stream.com
   skip-cert-verify: false
   sni: giftcard.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: '@filembad'
+  obfs: salamander
+  obfs-password: mtg2vchyir6la3et
+  password: k1dom6dyqelryllv
+  port: 52021
+  server: assets.gateway-stream.com
+  skip-cert-verify: false
+  sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
 - alpn:
