@@ -15,3 +15,10 @@ proxies:
   sni: dora4.api3-max.ru
   tls: false
   type: hysteria2
+- name: '法国 #2'
+  password: dsmO0439gj_nX942GJRE_9j39fbcxv52_R
+  port: 8080
+  server: 85.209.157.177
+  sni: hopp-transit.1cooldns.com
+  tls: false
+  type: hysteria2
