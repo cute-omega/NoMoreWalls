@@ -213,13 +213,6 @@ proxies:
   sni: gift-catalog.aroonia.ir
   tls: false
   type: hysteria2
-- name: 🇩🇪All⁶ | @BigSmoke_Config
-  password: AstroVPN_official
-  port: 36896
-  server: ptserv.accuratenetworkchecker.ir
-  sni: lms22.gelzaro.ir
-  tls: false
-  type: hysteria2
 - alpn:
   - h3
   fingerprint: chrome
