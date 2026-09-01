@@ -1026,7 +1026,7 @@ proxies:
   sni: h.zz2233.cyou
   tls: false
   type: hysteria2
-- name: 英国
+- name: 🪆96@oneclickvpnkeys
   password: h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT
   port: 8080
   server: 103.246.248.234
@@ -1253,7 +1253,7 @@ proxies:
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
-- name: '@prrofile_purple | FaST 💚'
+- name: '@meliproxyy #2'
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
   password: 1w61o8j0slf0q9yj
@@ -1329,10 +1329,10 @@ proxies:
   sni: hopp-germany-new.ddnsguru.com
   tls: false
   type: hysteria2
-- name: 🚘19@oneclickvpnkeys
+- name: 🇩🇪157666 | ⚡️Telegram = t.me/S...
   password: 9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z
-  port: 8443
-  server: 162.249.124.118
+  port: 8080
+  server: 162.249.124.120
   skip-cert-verify: true
   sni: hopp-germany-new.ddnsguru.com
   tls: false
@@ -1380,6 +1380,16 @@ proxies:
   server: 179.61.132.96
   skip-cert-verify: true
   sni: 179.61.132.96
+  tls: false
+  type: hysteria2
+- name: 🪆93@oneclickvpnkeys
+  obfs: salamander
+  obfs-password: c1b4086fea89914496c7e10967a419216566
+  password: QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s
+  port: 443
+  server: hy2-new.aspidnet.xyz
+  skip-cert-verify: true
+  sni: hy2-new.aspidnet.xyz
   tls: false
   type: hysteria2
 - alpn:
@@ -1430,6 +1440,14 @@ proxies:
   sni: de.jey.cc.cd
   tls: false
   type: hysteria2
+- name: 🪆99@oneclickvpnkeys
+  password: VB92_Ka9qwef143K_L23K1hz3_bF_Hz62uT_Bn1_sC
+  port: 8443
+  server: 82.38.60.15
+  skip-cert-verify: true
+  sni: hopp-us.yyuyy.com
+  tls: false
+  type: hysteria2
 - name: 🇳🇱 - NL - @FreeOnlineVPN
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
@@ -1462,16 +1480,6 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 🇩🇪157437 | ⚡️Telegram = t.me/S...
-  obfs: salamander
-  obfs-password: 44f1c1e2f8b99e792ceed574627a1eb0
-  password: cd74c0a406664a5bc0bac098220a2468
-  port: 443
-  server: 2.27.59.206
-  skip-cert-verify: true
-  sni: de1.sferavpn.pro
-  tls: false
-  type: hysteria2
 - name: 'Channel : @Daily_Configs'
   obfs: salamander
   obfs-password: 44f1c1e2f8b99e792ceed574627a1eb0
@@ -1482,31 +1490,17 @@ proxies:
   sni: de1.sferavpn.pro
   tls: false
   type: hysteria2
-- alpn:
-  - h3
-  fingerprint: chrome
-  name: 🇫🇮157387 | ⚡️Telegram = t.me/S...
+- name: '@GozargahAzad|🇫🇮'
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
   password: clz08qwil91241w7
-  port: 52000
+  port: 52021
   server: giftcard.gateway-stream.com
-  sni: giftcard.gateway-stream.com
+  skip-cert-verify: false
+  sni: ''
   tls: false
   type: hysteria2
-- alpn:
-  - h3
-  fingerprint: chrome
-  name: 🇫🇮157390 | ⚡️Telegram = t.me/S...
-  obfs: salamander
-  obfs-password: fuw2k1ddrouwxr3u
-  password: clz08qwil91241w7
-  port: 52009
-  server: giftcard.gateway-stream.com
-  sni: giftcard.gateway-stream.com
-  tls: false
-  type: hysteria2
-- name: 🇫🇮157500 | ⚡️Telegram = t.me/S...
+- name: 'Channel : @Daily_Configs #1'
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
   password: clz08qwil91241w7
@@ -1516,7 +1510,7 @@ proxies:
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
-- name: 🇫🇮157498 | ⚡️Telegram = t.me/S...
+- name: '@v2ray313 کانالمون 💕'
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
   password: clz08qwil91241w7
@@ -1526,7 +1520,7 @@ proxies:
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
-- name: 🇫🇮157501 | ⚡️Telegram = t.me/S...
+- name: '@v2ray313 کانالمون ⭐'
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
   password: clz08qwil91241w7
@@ -1536,63 +1530,13 @@ proxies:
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
-- alpn:
-  - h3
-  fingerprint: chrome
-  name: 🇫🇮157361 | ⚡️Telegram = t.me/S...
-  obfs: salamander
-  obfs-password: fuw2k1ddrouwxr3u
-  password: clz08qwil91241w7
-  port: 52054
-  server: giftcard.gateway-stream.com
-  sni: giftcard.gateway-stream.com
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
-  fingerprint: chrome
-  name: 🇫🇮157365 | ⚡️Telegram = t.me/S...
-  obfs: salamander
-  obfs-password: fuw2k1ddrouwxr3u
-  password: clz08qwil91241w7
-  port: 52057
-  server: giftcard.gateway-stream.com
-  sni: giftcard.gateway-stream.com
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
-  fingerprint: chrome
-  name: 🇫🇮157364 | ⚡️Telegram = t.me/S...
-  obfs: salamander
-  obfs-password: fuw2k1ddrouwxr3u
-  password: clz08qwil91241w7
-  port: 52063
-  server: giftcard.gateway-stream.com
-  sni: giftcard.gateway-stream.com
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
-  fingerprint: chrome
-  name: 🇫🇮157363 | ⚡️Telegram = t.me/S...
-  obfs: salamander
-  obfs-password: fuw2k1ddrouwxr3u
-  password: clz08qwil91241w7
-  port: 52064
-  server: giftcard.gateway-stream.com
-  sni: giftcard.gateway-stream.com
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
-  fingerprint: chrome
-  name: 🇫🇮157362 | ⚡️Telegram = t.me/S...
+- name: '@tootffarangi🍓-13'
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
   password: clz08qwil91241w7
   port: 52067
   server: giftcard.gateway-stream.com
+  skip-cert-verify: false
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
@@ -1810,13 +1754,13 @@ proxies:
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
-- name: 🇳🇱157507 | ⚡️Telegram = t.me/S...
+- name: 🇳🇱 V2RayyNGvpn 🇳🇱
   obfs: salamander
   obfs-password: rG07s3COMIEvdnQipRyWzx_H_2xygNC3
   password: p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR
   port: 443
   server: 130.49.161.70
-  skip-cert-verify: true
+  skip-cert-verify: false
   sni: hy2.aspidnet.xyz
   tls: false
   type: hysteria2
@@ -1830,13 +1774,6 @@ proxies:
   port: 44100
   server: pro2.riziro.ir
   sni: pro2.riziro.ir
-  tls: false
-  type: hysteria2
-- name: 🚘36@oneclickvpnkeys
-  password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
-  port: 8443
-  server: 46.229.243.133
-  sni: grape-turbo-fr.roxa.org
   tls: false
   type: hysteria2
 - name: '@Azaranv2ray'

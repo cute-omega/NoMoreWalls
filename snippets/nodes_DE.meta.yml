@@ -220,6 +220,16 @@ proxies:
   sni: lms22.gelzaro.ir
   tls: false
   type: hysteria2
+- name: 🪆93@oneclickvpnkeys
+  obfs: salamander
+  obfs-password: c1b4086fea89914496c7e10967a419216566
+  password: QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s
+  port: 443
+  server: hy2-new.aspidnet.xyz
+  skip-cert-verify: true
+  sni: hy2-new.aspidnet.xyz
+  tls: false
+  type: hysteria2
 - alpn:
   - h3
   fingerprint: chrome
@@ -242,16 +252,6 @@ proxies:
   port: 37003
   server: 179.61.251.253
   sni: de.jey.cc.cd
-  tls: false
-  type: hysteria2
-- name: 🇩🇪157437 | ⚡️Telegram = t.me/S...
-  obfs: salamander
-  obfs-password: 44f1c1e2f8b99e792ceed574627a1eb0
-  password: cd74c0a406664a5bc0bac098220a2468
-  port: 443
-  server: 2.27.59.206
-  skip-cert-verify: true
-  sni: de1.sferavpn.pro
   tls: false
   type: hysteria2
 - name: 🇩🇪All⁷ | @BigSmoke_Config
