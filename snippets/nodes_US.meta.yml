@@ -52,7 +52,7 @@ proxies:
   sni: mkm.icu
   tls: false
   type: hysteria2
-- name: 🪆74@oneclickvpnkeys
+- name: '美国 #2'
   obfs: salamander
   obfs-password: 44f1c1e2f8b99e792ceed574627a1eb0
   password: cd74c0a406664a5bc0bac098220a2468
@@ -81,22 +81,13 @@ proxies:
 - alpn:
   - h3
   fingerprint: chrome
-  name: '🇫🇮ConfigV2RayNG #3'
+  name: dc-udp-🇺🇸 USA-Kansas City, MO
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
   password: 1m1xfvpaa5ek4omq
   port: 52078
   server: giftcard.gateway-stream.com
-  skip-cert-verify: false
   sni: giftcard.gateway-stream.com
-  tls: false
-  type: hysteria2
-- name: 🪆99@oneclickvpnkeys
-  password: VB92_Ka9qwef143K_L23K1hz3_bF_Hz62uT_Bn1_sC
-  port: 8443
-  server: 82.38.60.15
-  skip-cert-verify: true
-  sni: hopp-us.yyuyy.com
   tls: false
   type: hysteria2
 - cipher: aes-256-gcm
