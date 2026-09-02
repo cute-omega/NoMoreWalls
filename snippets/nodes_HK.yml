@@ -1,32 +1,4 @@
 proxies:
-- alpn:
-  - h3%2Ch2%2Chttp%2F1.1
-  name: HK67｜机房｜低风险
-  network: ws
-  password: 823cbccd-3a71-4248-ac3c-3c460de1552d
-  port: 443
-  server: cf.877774.xyz
-  skip-cert-verify: true
-  sni: snll667.pages.dev
-  type: trojan
-  ws-opts:
-    headers:
-      Host: snll667.pages.dev
-    path: '%2F'
-- alpn:
-  - h3%2Ch2%2Chttp%2F1.1
-  name: HK68｜机房｜低风险
-  network: ws
-  password: 823cbccd-3a71-4248-ac3c-3c460de1552d
-  port: 443
-  server: 95.40.61.115
-  skip-cert-verify: true
-  sni: snll667.pages.dev
-  type: trojan
-  ws-opts:
-    headers:
-      Host: snll667.pages.dev
-    path: '%2F'
 - alterId: 2
   cipher: auto
   name: 🇭🇰 香港|@ripaojiedian
