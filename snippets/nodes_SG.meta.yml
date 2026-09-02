@@ -31,10 +31,10 @@ proxies:
   sni: vpn-sg-001.fastervpn.world
   tls: false
   type: hysteria2
-- name: 🇸🇬159114 | ⚡️Telegram = t.me/S...
+- name: 🇸🇬159278 | ⚡️Telegram = t.me/S...
   password: qQe1z5kU8kN6SlKnDt9Ru3Qp
   port: 443
-  server: 52.76.37.112
+  server: 47.129.0.20
   skip-cert-verify: true
   sni: speedtest.tinkoff.ru
   tls: false

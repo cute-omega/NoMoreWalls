@@ -52,6 +52,38 @@ proxies:
   type: hysteria2
 - alpn:
   - h3
+  name: -🇩🇪 @VConfing
+  obfs: salamander
+  obfs-password: fuw2k1ddrouwxr3u
+  password: 1w61o8j0slf0q9yj
+  port: 52021
+  server: giftcard.gateway-stream.com
+  skip-cert-verify: false
+  sni: giftcard.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: 🇩🇪159280 | ⚡️Telegram = t.me/S...
+  password: 2_hysteria2_fastlane_udfa4x14j
+  port: 443
+  server: 2.27.25.75
+  skip-cert-verify: false
+  sni: de11.h.fastlanehosting.ru
+  tls: false
+  type: hysteria2
+- alpn:
+  - h3
+  name: 'Channel : @Daily_Configs'
+  obfs: salamander
+  obfs-password: fuw2k1ddrouwxr3u
+  password: 4savc5ig1n3549e4
+  port: 52021
+  server: giftcard.gateway-stream.com
+  skip-cert-verify: false
+  sni: giftcard.gateway-stream.com
+  tls: false
+  type: hysteria2
+- alpn:
+  - h3
   fingerprint: chrome
   name: dc-udp-🇩🇪 Germany-Berlin
   obfs: salamander
@@ -72,6 +104,18 @@ proxies:
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
+- alpn:
+  - h3
+  name: '-🇩🇪 @VConfing #2'
+  obfs: salamander
+  obfs-password: fuw2k1ddrouwxr3u
+  password: 8f0gvz5eul6omhq4
+  port: 52023
+  server: giftcard.gateway-stream.com
+  skip-cert-verify: false
+  sni: giftcard.gateway-stream.com
+  tls: false
+  type: hysteria2
 - name: Telegram 🆔@cnetvpn 🇩🇪
   obfs: salamander
   obfs-password: 6cmj1dymhm79hopl
@@ -80,13 +124,6 @@ proxies:
   server: gift-catalog.aroonia.ir
   skip-cert-verify: false
   sni: gift-catalog.aroonia.ir
-  tls: false
-  type: hysteria2
-- name: 🇩🇪All⁶ | @BigSmoke_Config
-  password: AstroVPN_official
-  port: 36896
-  server: ptserv.accuratenetworkchecker.ir
-  sni: lms22.gelzaro.ir
   tls: false
   type: hysteria2
 - alpn:
@@ -118,6 +155,18 @@ proxies:
   port: 443
   server: 144.31.217.201
   sni: 144-31-217-201.sslip.io
+  tls: false
+  type: hysteria2
+- alpn:
+  - h3
+  name: '-🇩🇪 @VConfing #3'
+  obfs: salamander
+  obfs-password: fuw2k1ddrouwxr3u
+  password: clz08qwil91241w7
+  port: 52021
+  server: giftcard.gateway-stream.com
+  skip-cert-verify: false
+  sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
 - name: 🇩🇪All⁷ | @BigSmoke_Config
