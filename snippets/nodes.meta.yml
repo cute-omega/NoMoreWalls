@@ -1306,14 +1306,6 @@ proxies:
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
-- name: 🇦🇹158422 | ⚡️Telegram = t.me/S...
-  password: 2_hysteria2_fastlane_py5fqull8
-  port: 443
-  server: 130.49.219.99
-  skip-cert-verify: false
-  sni: at3.h.fastlanehosting.ru
-  tls: false
-  type: hysteria2
 - name: '@MIGAVPNPRO'
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
