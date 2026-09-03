@@ -62,14 +62,6 @@ proxies:
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
-- name: 🇩🇪159280 | ⚡️Telegram = t.me/S...
-  password: 2_hysteria2_fastlane_udfa4x14j
-  port: 443
-  server: 2.27.25.75
-  skip-cert-verify: false
-  sni: de11.h.fastlanehosting.ru
-  tls: false
-  type: hysteria2
 - alpn:
   - h3
   name: 'Channel : @Daily_Configs'
@@ -148,13 +140,6 @@ proxies:
   port: 37003
   server: 179.61.251.253
   sni: de.jey.cc.cd
-  tls: false
-  type: hysteria2
-- name: 👝85@oneclickvpnkeys
-  password: b504a1c7-1bfe-461f-9329-cbc653deb3d7
-  port: 443
-  server: 144.31.217.201
-  sni: 144-31-217-201.sslip.io
   tls: false
   type: hysteria2
 - alpn:

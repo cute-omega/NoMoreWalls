@@ -557,14 +557,6 @@ proxies:
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
-- name: 🇩🇪159280 | ⚡️Telegram = t.me/S...
-  password: 2_hysteria2_fastlane_udfa4x14j
-  port: 443
-  server: 2.27.25.75
-  skip-cert-verify: false
-  sni: de11.h.fastlanehosting.ru
-  tls: false
-  type: hysteria2
 - alpn:
   - h3
   name: 'Channel : @Daily_Configs'
@@ -832,16 +824,6 @@ proxies:
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
-- name: '@GozargahAzad|🇫🇮'
-  obfs: salamander
-  obfs-password: fuw2k1ddrouwxr3u
-  password: 8f0gvz5eul6omhq4
-  port: 52056
-  server: giftcard.gateway-stream.com
-  skip-cert-verify: false
-  sni: ''
-  tls: false
-  type: hysteria2
 - name: 🇹🇷AZARBAYJAB1
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
@@ -850,16 +832,6 @@ proxies:
   server: giftcard.gateway-stream.com
   skip-cert-verify: false
   sni: giftcard.gateway-stream.com
-  tls: false
-  type: hysteria2
-- name: '@GozargahAzad|🇫🇮 #1'
-  obfs: salamander
-  obfs-password: fuw2k1ddrouwxr3u
-  password: 8f0gvz5eul6omhq4
-  port: 52076
-  server: giftcard.gateway-stream.com
-  skip-cert-verify: false
-  sni: ''
   tls: false
   type: hysteria2
 - name: Telegram 🆔@Cnetvpn 🇺🇲
@@ -880,6 +852,13 @@ proxies:
   server: gift-catalog.aroonia.ir
   skip-cert-verify: false
   sni: gift-catalog.aroonia.ir
+  tls: false
+  type: hysteria2
+- name: 🇨🇦159469 | ⚡️Telegram = t.me/S...
+  password: AstroVPN_official
+  port: 36896
+  server: ptserv.accuratenetworkchecker.ir
+  sni: lms22.gelzaro.ir
   tls: false
   type: hysteria2
 - name: 👝96@oneclickvpnkeys
@@ -1316,14 +1295,6 @@ proxies:
   sni: vpn-de-001.fastervpn.world
   tls: false
   type: hysteria2
-- name: 🇸🇬159278 | ⚡️Telegram = t.me/S...
-  password: qQe1z5kU8kN6SlKnDt9Ru3Qp
-  port: 443
-  server: 47.129.0.20
-  skip-cert-verify: true
-  sni: speedtest.tinkoff.ru
-  tls: false
-  type: hysteria2
 - alpn:
   - h3
   fingerprint: chrome
@@ -1352,6 +1323,102 @@ proxies:
   server: 5.83.129.11
   skip-cert-verify: true
   sni: germany1.h2corp.local
+  tls: false
+  type: hysteria2
+- alpn:
+  - h3
+  fingerprint: chrome
+  name: 🇫🇮159510 | ⚡️Telegram = t.me/S...
+  obfs: salamander
+  obfs-password: fuw2k1ddrouwxr3u
+  password: vpwzu6ug7tpoprsq
+  port: 52008
+  server: giftcard.gateway-stream.com
+  sni: giftcard.gateway-stream.com
+  tls: false
+  type: hysteria2
+- alpn:
+  - h3
+  fingerprint: chrome
+  name: 🇫🇮159512 | ⚡️Telegram = t.me/S...
+  obfs: salamander
+  obfs-password: fuw2k1ddrouwxr3u
+  password: vpwzu6ug7tpoprsq
+  port: 52009
+  server: giftcard.gateway-stream.com
+  sni: giftcard.gateway-stream.com
+  tls: false
+  type: hysteria2
+- alpn:
+  - h3
+  fingerprint: chrome
+  name: 🇫🇮159514 | ⚡️Telegram = t.me/S...
+  obfs: salamander
+  obfs-password: fuw2k1ddrouwxr3u
+  password: vpwzu6ug7tpoprsq
+  port: 52016
+  server: giftcard.gateway-stream.com
+  sni: giftcard.gateway-stream.com
+  tls: false
+  type: hysteria2
+- alpn:
+  - h3
+  name: 🇫🇮159495 | ⚡️Telegram = t.me/S...
+  obfs: salamander
+  obfs-password: fuw2k1ddrouwxr3u
+  password: vpwzu6ug7tpoprsq
+  port: 52020
+  server: giftcard.gateway-stream.com
+  skip-cert-verify: false
+  sni: giftcard.gateway-stream.com
+  tls: false
+  type: hysteria2
+- alpn:
+  - h3
+  name: 🇫🇮159496 | ⚡️Telegram = t.me/S...
+  obfs: salamander
+  obfs-password: fuw2k1ddrouwxr3u
+  password: vpwzu6ug7tpoprsq
+  port: 52021
+  server: giftcard.gateway-stream.com
+  skip-cert-verify: false
+  sni: giftcard.gateway-stream.com
+  tls: false
+  type: hysteria2
+- alpn:
+  - h3
+  name: 🇫🇮159497 | ⚡️Telegram = t.me/S...
+  obfs: salamander
+  obfs-password: fuw2k1ddrouwxr3u
+  password: vpwzu6ug7tpoprsq
+  port: 52022
+  server: giftcard.gateway-stream.com
+  skip-cert-verify: false
+  sni: giftcard.gateway-stream.com
+  tls: false
+  type: hysteria2
+- alpn:
+  - h3
+  fingerprint: chrome
+  name: 🇫🇮159513 | ⚡️Telegram = t.me/S...
+  obfs: salamander
+  obfs-password: fuw2k1ddrouwxr3u
+  password: vpwzu6ug7tpoprsq
+  port: 52031
+  server: giftcard.gateway-stream.com
+  sni: giftcard.gateway-stream.com
+  tls: false
+  type: hysteria2
+- alpn:
+  - h3
+  fingerprint: chrome
+  name: 🇫🇮159511 | ⚡️Telegram = t.me/S...
+  obfs: salamander
+  obfs-password: fuw2k1ddrouwxr3u
+  password: vpwzu6ug7tpoprsq
+  port: 52067
+  server: giftcard.gateway-stream.com
+  sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
 - name: Telegram 🆔@cnetvpn 🇫🇮
