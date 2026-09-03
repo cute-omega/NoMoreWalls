@@ -289,7 +289,7 @@ proxies:
   sni: hopp-romania-new.roxa.org
   tls: false
   type: hysteria2
-- name: 🇩🇿160612 | ⚡️Telegram = t.me/S...
+- name: ⛑️88@oneclickvpnkeys
   password: Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0
   port: 8080
   server: 85.204.107.178
@@ -297,7 +297,7 @@ proxies:
   sni: hopp-romania-new.roxa.org
   tls: false
   type: hysteria2
-- name: 🇩🇿160610 | ⚡️Telegram = t.me/S...
+- name: ⛑️85@oneclickvpnkeys
   password: Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0
   port: 8080
   server: 85.204.107.181
@@ -815,6 +815,18 @@ proxies:
   type: hysteria2
 - alpn:
   - h3
+  name: 🇫🇮160785 | ⚡️Telegram = t.me/S...
+  obfs: salamander
+  obfs-password: fuw2k1ddrouwxr3u
+  password: 7nob86hyaj5rm0en
+  port: 52085
+  server: giftcard.gateway-stream.com
+  skip-cert-verify: false
+  sni: giftcard.gateway-stream.com
+  tls: false
+  type: hysteria2
+- alpn:
+  - h3
   name: 🇫🇮160701 | ⚡️Telegram = t.me/S...
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
@@ -971,13 +983,6 @@ proxies:
   sni: gift-catalog.aroonia.ir
   tls: false
   type: hysteria2
-- name: 👝96@oneclickvpnkeys
-  password: GSPOBvG-ZwYcBFMr0ekFGO_Zga3wK6v_
-  port: 443
-  server: hy2-latvia2.unlimited-access.ru
-  sni: hy2-latvia2.unlimited-access.ru
-  tls: false
-  type: hysteria2
 - name: 🇰🇷160755 | ⚡️Telegram = t.me/S...
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: 443
@@ -996,12 +1001,14 @@ proxies:
   sni: 179.61.132.96
   tls: false
   type: hysteria2
-- name: ⛑️13@oneclickvpnkeys
-  password: Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s
-  port: 8443
-  server: 205.237.109.174
-  skip-cert-verify: true
-  sni: hopp-netherland-new.dynuddns.net
+- name: 🇩🇪160831 | ⚡️Telegram = t.me/S...
+  obfs: salamander
+  obfs-password: Telegram@vpnjey
+  password: Telegram@vpnjey
+  port: 37009
+  server: 31.76.27.23
+  skip-cert-verify: false
+  sni: de.vpnjey.store
   tls: false
   type: hysteria2
 - alpn:
@@ -1070,14 +1077,6 @@ proxies:
   sni: admin.wwwinternetvideo.click
   tls: false
   type: hysteria2
-- name: 👝94@oneclickvpnkeys
-  password: YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc
-  port: 443
-  server: admin.wwwinternetvideo.click
-  skip-cert-verify: true
-  sni: admin.wwwinternetvideo.click
-  tls: false
-  type: hysteria2
 - name: 'کانال تلگرام : Free_VPN_CH@ #2'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
@@ -1098,13 +1097,6 @@ proxies:
   server: 5.175.249.174
   skip-cert-verify: false
   sni: api.kermanshahi.org
-  tls: false
-  type: hysteria2
-- name: 👝85@oneclickvpnkeys
-  password: b504a1c7-1bfe-461f-9329-cbc653deb3d7
-  port: 443
-  server: 144.31.217.201
-  sni: 144-31-217-201.sslip.io
   tls: false
   type: hysteria2
 - name: '[🇷🇺]t.me/ConfigV2RayNG'
@@ -1186,16 +1178,6 @@ proxies:
 - alpn:
   - h3
   name: '-🇹🇷 @VConfing #3'
-  obfs: salamander
-  obfs-password: fuw2k1ddrouwxr3u
-  password: clz08qwil91241w7
-  port: 52067
-  server: giftcard.gateway-stream.com
-  skip-cert-verify: false
-  sni: giftcard.gateway-stream.com
-  tls: false
-  type: hysteria2
-- name: '@tootffarangi🍓-13 #1'
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
   password: clz08qwil91241w7
@@ -1372,14 +1354,6 @@ proxies:
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
-- name: 👝79@oneclickvpnkeys
-  password: gf1
-  port: 443
-  server: 185.156.44.99
-  skip-cert-verify: true
-  sni: css.rbxcdn.com
-  tls: false
-  type: hysteria2
 - name: '@v2ray313 کانالمون 🤍'
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
@@ -1483,14 +1457,6 @@ proxies:
   sni: pro2.riziro.ir
   tls: false
   type: hysteria2
-- name: ⛑️15@oneclickvpnkeys
-  password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
-  port: 8443
-  server: 46.229.243.152
-  skip-cert-verify: true
-  sni: grape-turbo-fr.roxa.org
-  tls: false
-  type: hysteria2
 - name: '@icv2ray'
   obfs: salamander
   obfs-password: b6d1f3888ab1d90dd11aac1dce427b81
@@ -1499,14 +1465,6 @@ proxies:
   server: bwdf2fnt.xn--e1aatfr8bwa.online
   skip-cert-verify: false
   sni: bwdf2fnt.xn--e1aatfr8bwa.online
-  tls: false
-  type: hysteria2
-- name: 👝36@oneclickvpnkeys
-  password: umnDU7jgFYUjpVjVM2sW9HL0rRYLJNgzVwRu2HzWEhyZKkRx
-  port: 443
-  server: 5.83.129.11
-  skip-cert-verify: true
-  sni: germany1.h2corp.local
   tls: false
   type: hysteria2
 - alpn:
