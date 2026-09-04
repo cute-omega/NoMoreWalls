@@ -1,21 +1,5 @@
 proxies:
 - name: 法国
-  password: ac7fb60f-0b7a-465d-a002-05160ec04ed6
-  port: 443
-  server: dora3.api3-max.ru
-  skip-cert-verify: true
-  sni: dora3.api3-max.ru
-  tls: false
-  type: hysteria2
-- name: '法国 #1'
-  password: ac7fb60f-0b7a-465d-a002-05160ec04ed6
-  port: 443
-  server: dora4.api3-max.ru
-  skip-cert-verify: true
-  sni: dora4.api3-max.ru
-  tls: false
-  type: hysteria2
-- name: '法国 #2'
   password: dsmO0439gj_nX942GJRE_9j39fbcxv52_R
   port: 8080
   server: 85.209.157.177
@@ -52,16 +36,6 @@ proxies:
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
   password: 4savc5ig1n3549e4
-  port: 52030
-  server: giftcard.gateway-stream.com
-  skip-cert-verify: false
-  sni: giftcard.gateway-stream.com
-  tls: false
-  type: hysteria2
-- name: 🇫🇷 AZARBAYJAB1
-  obfs: salamander
-  obfs-password: fuw2k1ddrouwxr3u
-  password: 7nob86hyaj5rm0en
   port: 52030
   server: giftcard.gateway-stream.com
   skip-cert-verify: false
