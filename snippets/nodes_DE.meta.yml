@@ -133,7 +133,7 @@ proxies:
   sni: gift-catalog.aroonia.ir
   tls: false
   type: hysteria2
-- name: 🇩🇪160831 | ⚡️Telegram = t.me/S...
+- name: 🇩🇪ConfigV2RayNG
   obfs: salamander
   obfs-password: Telegram@vpnjey
   password: Telegram@vpnjey
@@ -183,42 +183,6 @@ proxies:
   password: jbmuokj7p4kg4h4s
   port: 52029
   server: giftcard.gateway-stream.com
-  sni: giftcard.gateway-stream.com
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
-  name: ' ConfigV2RayNG 🇩🇪'
-  obfs: salamander
-  obfs-password: fuw2k1ddrouwxr3u
-  password: vpwzu6ug7tpoprsq
-  port: 52020
-  server: giftcard.gateway-stream.com
-  skip-cert-verify: false
-  sni: giftcard.gateway-stream.com
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
-  name: ' ConfigV2RayNG 🇩🇪 #1'
-  obfs: salamander
-  obfs-password: fuw2k1ddrouwxr3u
-  password: vpwzu6ug7tpoprsq
-  port: 52021
-  server: giftcard.gateway-stream.com
-  skip-cert-verify: false
-  sni: giftcard.gateway-stream.com
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
-  name: ConfigV2RayNG 🇩🇪
-  obfs: salamander
-  obfs-password: fuw2k1ddrouwxr3u
-  password: vpwzu6ug7tpoprsq
-  port: 52022
-  server: giftcard.gateway-stream.com
-  skip-cert-verify: false
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
