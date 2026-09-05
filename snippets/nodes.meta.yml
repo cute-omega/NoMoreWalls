@@ -336,6 +336,14 @@ proxies:
   sni: hopp-legend-se.roxa.org
   tls: false
   type: hysteria2
+- name: 🇺🇸139909 | ⚡️Telegram = t.me/S...
+  password: qQe1z5kU8kN6SlKnDt9Ru3Qp
+  port: 443
+  server: 54.213.89.22
+  skip-cert-verify: true
+  sni: vk.com
+  tls: false
+  type: hysteria2
 - name: '德国 #3'
   password: umnDU7jgFYUjpVjVM2sW9HL0rRYLJNgzVwRu2HzWEhyZKkRx
   port: 443
@@ -571,19 +579,11 @@ proxies:
   sni: hopp-germany-new.ddnsguru.com
   tls: false
   type: hysteria2
-- name: 🇳🇱162823 | ⚡️Telegram = t.me/S...
+- name: ☺️37@oneclickvpnkeys
   password: BWAFlp8g53
   port: 443
   server: 72.56.102.31
   skip-cert-verify: true
-  tls: false
-  type: hysteria2
-- name: 🩳84@oneclickvpnkeys
-  password: C91FbOXGY9XRymrcEebtax9R1Nj62UizoT8S6kCb7xwey8IE
-  port: 443
-  server: fast.wwwinternetvideo.click
-  skip-cert-verify: true
-  sni: fast.wwwinternetvideo.click
   tls: false
   type: hysteria2
 - name: 🩳96@oneclickvpnkeys
@@ -591,6 +591,14 @@ proxies:
   port: 443
   server: 85.159.228.22
   sni: hy2-latvia2.unlimited-access.ru
+  tls: false
+  type: hysteria2
+- name: 🇩🇿162999 | ⚡️Telegram = t.me/S...
+  password: Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0
+  port: 8080
+  server: 85.204.107.174
+  skip-cert-verify: true
+  sni: hopp-romania-new.roxa.org
   tls: false
   type: hysteria2
 - name: 🩵+@Azarakhsh_Proxy+🩷
@@ -623,15 +631,6 @@ proxies:
   server: 205.237.109.168
   skip-cert-verify: true
   sni: hopp-netherland-new.dynuddns.net
-  tls: false
-  type: hysteria2
-- name: 🩳70@oneclickvpnkeys
-  obfs: salamander
-  obfs-password: Telegram@vpnjey
-  password: Telegram@vpnjey
-  port: 37009
-  server: 31.76.27.23
-  sni: de.vpnjey.store
   tls: false
   type: hysteria2
 - alpn:
@@ -754,7 +753,17 @@ proxies:
   sni: ru1.sferavpn.pro
   tls: false
   type: hysteria2
-- name: 🇳🇱162841 | ⚡️Telegram = t.me/S...
+- name: 🇩🇪163005 | ⚡️Telegram = t.me/S...
+  obfs: salamander
+  obfs-password: 44f1c1e2f8b99e792ceed574627a1eb0
+  password: cd74c0a406664a5bc0bac098220a2468
+  port: 443
+  server: 2.27.59.206
+  skip-cert-verify: true
+  sni: de1.sferavpn.pro
+  tls: false
+  type: hysteria2
+- name: ☺️65@oneclickvpnkeys
   obfs: salamander
   obfs-password: 44f1c1e2f8b99e792ceed574627a1eb0
   password: cd74c0a406664a5bc0bac098220a2468
@@ -931,6 +940,12 @@ proxies:
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
+- name: ☺️84@oneclickvpnkeys
+  password: kVfzhSpshc
+  port: 443
+  server: hys1.wba-pn.ru
+  tls: false
+  type: hysteria2
 - alpn:
   - h3
   fingerprint: chrome
@@ -967,7 +982,7 @@ proxies:
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
-- name: 🇩🇪162825 | ⚡️Telegram = t.me/S...
+- name: ☺️43@oneclickvpnkeys
   password: mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj
   port: 443
   server: 64.188.98.171
@@ -975,7 +990,7 @@ proxies:
   sni: germany3.h2corp.local
   tls: false
   type: hysteria2
-- name: 🇩🇪162830 | ⚡️Telegram = t.me/S...
+- name: ☺️50@oneclickvpnkeys
   password: mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj
   port: 443
   server: 91.196.32.163
@@ -1039,14 +1054,6 @@ proxies:
   sni: hy2.aspidnet.xyz
   tls: false
   type: hysteria2
-- name: 🇸🇬162767 | ⚡️Telegram = t.me/S...
-  password: qQe1z5kU8kN6SlKnDt9Ru3Qp
-  port: 443
-  server: 54.151.142.26
-  skip-cert-verify: true
-  sni: whatsapp.com
-  tls: false
-  type: hysteria2
 - alpn:
   - h3
   fingerprint: chrome
@@ -1067,7 +1074,7 @@ proxies:
   sni: grape-turbo-fr.roxa.org
   tls: false
   type: hysteria2
-- name: 🇫🇮162840 | ⚡️Telegram = t.me/S...
+- name: ☺️62@oneclickvpnkeys
   obfs: salamander
   obfs-password: 8zzng75tz4tf82pj
   password: sxc15led4b0vp5fy
@@ -1076,7 +1083,7 @@ proxies:
   sni: musicclips.videolinks.ru
   tls: false
   type: hysteria2
-- name: '@outline_ir'
+- name: '@V2rayng_Fast #1'
   obfs: salamander
   obfs-password: b6d1f3888ab1d90dd11aac1dce427b81
   password: tnnls
