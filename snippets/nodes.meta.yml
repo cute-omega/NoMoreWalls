@@ -127,14 +127,6 @@ proxies:
   sni: sg1.xiaoliyu.cyou
   tls: false
   type: hysteria2
-- name: 土耳其
-  password: 1ba59989-225e-4f1c-ab62-9bd7366009cb
-  port: 443
-  server: 194.135.34.130
-  skip-cert-verify: true
-  sni: 194.135.34.130
-  tls: false
-  type: hysteria2
 - name: 荷兰
   password: 252bb78f404ff43efa42808e98cc4ae9
   port: 443
@@ -218,7 +210,7 @@ proxies:
   sni: crt.ultimagamest.com
   tls: false
   type: hysteria2
-- name: '土耳其 #1'
+- name: 土耳其
   password: 9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z
   port: 8080
   server: 162.249.124.118
@@ -249,6 +241,14 @@ proxies:
   sni: css.rbxcdn.com
   tls: false
   type: hysteria2
+- name: '澳大利亚 #2'
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: vpn-au-002.fastervpn.world
+  skip-cert-verify: true
+  sni: whatsapp.com
+  tls: false
+  type: hysteria2
 - name: 印度
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: 443
@@ -257,7 +257,7 @@ proxies:
   sni: vpn-in-001.fastervpn.world
   tls: false
   type: hysteria2
-- name: 🩳91@oneclickvpnkeys
+- name: 英国
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: 443
   server: vpn-uk-001.fastervpn.world
@@ -280,6 +280,14 @@ proxies:
   sni: hopp-romania-new.roxa.org
   tls: false
   type: hysteria2
+- name: 巴西
+  password: YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc
+  port: 443
+  server: go.wwwinternetvideo.click
+  skip-cert-verify: true
+  sni: admin.wwwinternetvideo.click
+  tls: false
+  type: hysteria2
 - name: '日本 #2'
   password: a9081889-1949-49ba-a2aa-7054515716de
   port: 3488
@@ -296,14 +304,6 @@ proxies:
   server: 181.214.99.162
   skip-cert-verify: false
   sni: api.kermanshahi.org
-  tls: false
-  type: hysteria2
-- name: '芬兰 #3'
-  password: becd3b04-62a8-4b74-be67-be746008b4c2
-  port: 443
-  server: 45.149.147.194
-  skip-cert-verify: true
-  sni: hys-mesh.spliceflowtech.com
   tls: false
   type: hysteria2
 - name: DE
@@ -344,6 +344,22 @@ proxies:
   sni: vk.com
   tls: false
   type: hysteria2
+- name: 阿联酋
+  password: sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX
+  port: 443
+  server: news.gazette.help
+  sni: news.gazette.help
+  tls: false
+  type: hysteria2
+- name: ☺️62@oneclickvpnkeys
+  obfs: salamander
+  obfs-password: 8zzng75tz4tf82pj
+  password: sxc15led4b0vp5fy
+  port: 8443
+  server: musicclips.videolinks.ru
+  sni: musicclips.videolinks.ru
+  tls: false
+  type: hysteria2
 - name: '德国 #3'
   password: umnDU7jgFYUjpVjVM2sW9HL0rRYLJNgzVwRu2HzWEhyZKkRx
   port: 443
@@ -382,9 +398,17 @@ proxies:
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
+- name: 🇰🇷163402 | ⚡️Telegram = t.me/S...
+  password: 3d7634af8cb2c6cb4bac1c0efad8b43d
+  port: 50160
+  server: 152.67.200.82
+  skip-cert-verify: true
+  sni: speedtest.tinkoff.ru
+  tls: false
+  type: hysteria2
 - alpn:
   - h3
-  name: 'Channel : @Daily_Configs'
+  name: -🇩🇪 @VConfing
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
   password: 4savc5ig1n3549e4
@@ -394,7 +418,7 @@ proxies:
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
-- name: '@Daily_Configs'
+- name: 🇩🇪All⁴ | @BigSmoke_Config
   password: 4savc5ig1n3549e4
   port: 52023
   server: giftcard.gateway-stream.com
@@ -403,7 +427,7 @@ proxies:
   type: hysteria2
 - alpn:
   - h3
-  name: 'Channel : @Daily_Configs #1'
+  name: -🇫🇮 @VConfing
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
   password: 4savc5ig1n3549e4
@@ -415,7 +439,7 @@ proxies:
   type: hysteria2
 - alpn:
   - h3
-  name: 'Channel : @Daily_Configs #2'
+  name: -🇫🇷 @VConfing
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
   password: 4savc5ig1n3549e4
@@ -437,7 +461,7 @@ proxies:
   type: hysteria2
 - alpn:
   - h3
-  name: 'Channel : @Daily_Configs #3'
+  name: -🇹🇷 @VConfing
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
   password: 4savc5ig1n3549e4
@@ -497,7 +521,7 @@ proxies:
   type: hysteria2
 - alpn:
   - h3
-  name: 🇫🇮163236 | ⚡️Telegram = t.me/S...
+  name: ConfigV2RayNG
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
   password: 6mk75ho4jzef3uuj
@@ -529,7 +553,7 @@ proxies:
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
-- name: '@Daily_Configs #1'
+- name: '@Daily_Configs'
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
   password: 8f0gvz5eul6omhq4
@@ -539,7 +563,7 @@ proxies:
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
-- name: '@Daily_Configs #2'
+- name: '@Daily_Configs #1'
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
   password: 8f0gvz5eul6omhq4
@@ -561,7 +585,7 @@ proxies:
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
-- name: '@Daily_Configs #3'
+- name: '@Daily_Configs #2'
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
   password: 8f0gvz5eul6omhq4
@@ -615,19 +639,19 @@ proxies:
   sni: gift-catalog.aroonia.ir
   tls: false
   type: hysteria2
-- name: 🩳14@oneclickvpnkeys
-  password: 9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z
+- name: 🇩🇪DE-🚀@VPNine1
+  password: 990c8eb6-4c4e-4277-8602-79af8402cdd0
   port: 8443
-  server: 162.249.126.2
-  skip-cert-verify: true
-  sni: hopp-germany-new.ddnsguru.com
+  server: 45.145.43.56
+  sni: speedtestmark.com
   tls: false
   type: hysteria2
-- name: 🇬🇧163214 | ⚡️Telegram = t.me/S...
-  password: AstroVPN_official
-  port: 36896
-  server: ptserv.accuratenetworkchecker.ir
-  sni: lms22.gelzaro.ir
+- name: 'Channel : @Daily_Configs #1'
+  password: 9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z
+  port: 8443
+  server: 162.249.126.6
+  skip-cert-verify: false
+  sni: hopp-germany-new.ddnsguru.com
   tls: false
   type: hysteria2
 - name: ☺️37@oneclickvpnkeys
@@ -635,13 +659,6 @@ proxies:
   port: 443
   server: 72.56.102.31
   skip-cert-verify: true
-  tls: false
-  type: hysteria2
-- name: 🩳96@oneclickvpnkeys
-  password: GSPOBvG-ZwYcBFMr0ekFGO_Zga3wK6v_
-  port: 443
-  server: 85.159.228.22
-  sni: hy2-latvia2.unlimited-access.ru
   tls: false
   type: hysteria2
 - name: ☺️97@oneclickvpnkeys
@@ -662,25 +679,18 @@ proxies:
   sni: 179.61.132.96
   tls: false
   type: hysteria2
-- name: ☺️29@oneclickvpnkeys
-  password: OD6gGbGU9a
-  port: 443
-  server: 195.133.24.124
-  sni: hys26.wba-pn.ru
-  tls: false
-  type: hysteria2
-- name: 🩳18@oneclickvpnkeys
+- name: 🇳🇱163349 | ⚡️Telegram = t.me/S...
   password: Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s
   port: 8443
-  server: 205.237.109.166
+  server: 205.237.109.164
   sni: hopp-netherland-new.dynuddns.net
   tls: false
   type: hysteria2
-- name: 🩳20@oneclickvpnkeys
+- name: 'Channel : @Daily_Configs #2'
   password: Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s
   port: 8443
-  server: 205.237.109.168
-  skip-cert-verify: true
+  server: 205.237.109.165
+  skip-cert-verify: false
   sni: hopp-netherland-new.dynuddns.net
   tls: false
   type: hysteria2
@@ -882,7 +892,7 @@ proxies:
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
-- name: '@Daily_Configs #4'
+- name: '@Daily_Configs #3'
   password: fmaznn1lrzys7ddy
   port: 52050
   server: giftcard.gateway-stream.com
@@ -969,6 +979,14 @@ proxies:
   server: giftcard.gateway-stream.com
   skip-cert-verify: false
   sni: giftcard.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: ⭐️18@oneclickvpnkeys
+  password: gf1
+  port: 443
+  server: 5.129.235.85
+  skip-cert-verify: true
+  sni: www.linux.com
   tls: false
   type: hysteria2
 - name: '@v2ray313 کانالمون 🤍'
@@ -1105,7 +1123,7 @@ proxies:
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
-- name: '@Daily_Configs #5'
+- name: '@Daily_Configs #4'
   obfs: salamander
   obfs-password: rG07s3COMIEvdnQipRyWzx_H_2xygNC3
   password: p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR
@@ -1127,21 +1145,19 @@ proxies:
   sni: pro2.riziro.ir
   tls: false
   type: hysteria2
-- name: 🩳19@oneclickvpnkeys
+- name: 🇳🇱163357 | ⚡️Telegram = t.me/S...
   password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
   port: 8443
-  server: 46.229.243.149
-  skip-cert-verify: true
+  server: 46.229.243.141
   sni: grape-turbo-fr.roxa.org
   tls: false
   type: hysteria2
-- name: ☺️62@oneclickvpnkeys
-  obfs: salamander
-  obfs-password: 8zzng75tz4tf82pj
-  password: sxc15led4b0vp5fy
+- name: 'Channel : @Daily_Configs #3'
+  password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
   port: 8443
-  server: musicclips.videolinks.ru
-  sni: musicclips.videolinks.ru
+  server: 46.229.243.143
+  skip-cert-verify: false
+  sni: grape-turbo-fr.roxa.org
   tls: false
   type: hysteria2
 - name: '@V2rayng_Fast #1'

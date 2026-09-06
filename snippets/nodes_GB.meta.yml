@@ -1,5 +1,5 @@
 proxies:
-- name: 🩳91@oneclickvpnkeys
+- name: 英国
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: 443
   server: vpn-uk-001.fastervpn.world
@@ -21,12 +21,5 @@ proxies:
   server: 138.124.0.168
   skip-cert-verify: true
   sni: hopp-legend-se.roxa.org
-  tls: false
-  type: hysteria2
-- name: 🇬🇧163214 | ⚡️Telegram = t.me/S...
-  password: AstroVPN_official
-  port: 36896
-  server: ptserv.accuratenetworkchecker.ir
-  sni: lms22.gelzaro.ir
   tls: false
   type: hysteria2
