@@ -57,20 +57,6 @@ proxies:
   tls: false
   type: hysteria2
 - alpn:
-  - h2
-  - http/1.1
-  - h3
-  fingerprint: chrome
-  name: 🇩🇪164008 | ⚡️Telegram = t.me/S...
-  obfs: salamander
-  obfs-password: 8bxx2uhmgtumj4ug
-  password: 73rs6nocfvy947ht
-  port: 80
-  server: 1111.yoursitedesigners.ir
-  sni: 1111.yoursitedesigners.ir
-  tls: false
-  type: hysteria2
-- alpn:
   - h3
   name: -🇩🇪 @VConfing
   obfs: salamander

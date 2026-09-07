@@ -89,10 +89,12 @@ proxies:
   tls: false
   type: vmess
   uuid: 88888888-8888-8888-8888-888888888888
-- name: 新加坡
-  password: 0a344117cfeef3d6602e338c2f1e7957
-  port: 50160
-  server: 38.180.190.215
+- name: 日本
+  obfs: salamander
+  obfs-password: d0dd99b2b4da604123ce17b6d17072a2
+  password: 07a4fcf5553a80cf300374d325386038
+  port: 443
+  server: 141.147.151.58
   skip-cert-verify: true
   sni: www.bing.com
   tls: false
@@ -111,7 +113,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 日本
+- name: '日本 #1'
   password: 184cdec28da5a09450803c8debcd2cc9
   port: 50160
   server: 138.3.208.26
@@ -119,7 +121,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '新加坡 #1'
+- name: 新加坡
   password: 19f72087-4591-4d72-930b-2697078ec2be
   port: 1933
   server: sg1.xiaoliyu.cyou
@@ -151,7 +153,7 @@ proxies:
   sni: lmny.mangshe.xyz
   tls: false
   type: hysteria2
-- name: '日本 #1'
+- name: '日本 #2'
   password: 4d6d97a82ddf959252e2ada36c3c3053
   port: 50160
   server: 138.2.8.249
@@ -288,7 +290,7 @@ proxies:
   sni: admin.wwwinternetvideo.click
   tls: false
   type: hysteria2
-- name: '日本 #2'
+- name: '日本 #3'
   password: a9081889-1949-49ba-a2aa-7054515716de
   port: 3488
   server: c2.bestai.beauty
@@ -351,7 +353,7 @@ proxies:
   sni: news.gazette.help
   tls: false
   type: hysteria2
-- name: '芬兰 #3'
+- name: 'Telegram: @proxy_kafee #1'
   obfs: salamander
   obfs-password: 8zzng75tz4tf82pj
   password: sxc15led4b0vp5fy
@@ -366,6 +368,14 @@ proxies:
   server: hold.wwwinternetvideo.click
   skip-cert-verify: true
   sni: germany1.h2corp.local
+  tls: false
+  type: hysteria2
+- name: 🇷🇺164196 | ⚡️Telegram = t.me/S...
+  password: 41edb44c8e
+  port: 11592
+  server: srv-17e124.21freedom.net
+  skip-cert-verify: true
+  sni: srv-17e124.21freedom.net
   tls: false
   type: hysteria2
 - name: 🇩🇪All⁴ | @BigSmoke_Config
@@ -428,20 +438,6 @@ proxies:
   server: 31.76.80.69
   skip-cert-verify: false
   sni: fiproxy1.lockdwn.com
-  tls: false
-  type: hysteria2
-- alpn:
-  - h2
-  - http/1.1
-  - h3
-  fingerprint: chrome
-  name: 🇩🇪164008 | ⚡️Telegram = t.me/S...
-  obfs: salamander
-  obfs-password: 8bxx2uhmgtumj4ug
-  password: 73rs6nocfvy947ht
-  port: 80
-  server: 1111.yoursitedesigners.ir
-  sni: 1111.yoursitedesigners.ir
   tls: false
   type: hysteria2
 - name: '✅  @vistav2ray  👈👈کانال ما ✅ #1'
@@ -578,7 +574,7 @@ proxies:
   sni: hopp-netherland-new.dynuddns.net
   tls: false
   type: hysteria2
-- name: '@filembad #1'
+- name: 🇩🇪ConfigV2RayNG
   obfs: salamander
   obfs-password: c1b4086fea89914496c7e10967a419216566
   password: QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s
@@ -670,7 +666,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: 🇵🇱164021 | ⚡️Telegram = t.me/S...
+- name: 3⭐️@oneclickvpnkeys
   password: YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc
   port: 443
   server: admin.wwwinternetvideo.click
@@ -740,7 +736,7 @@ proxies:
   sni: ru1.sferavpn.pro
   tls: false
   type: hysteria2
-- name: TELEGRAM @MTMVPN
+- name: 'Telegram: @proxy_kafee'
   obfs: salamander
   obfs-password: 44f1c1e2f8b99e792ceed574627a1eb0
   password: cd74c0a406664a5bc0bac098220a2468
@@ -855,7 +851,7 @@ proxies:
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
-- name: ⭐️18@oneclickvpnkeys
+- name: 🇳🇱164152 | ⚡️Telegram = t.me/S...
   password: gf1
   port: 443
   server: 5.129.235.85
