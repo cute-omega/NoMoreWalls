@@ -92,16 +92,6 @@ proxies:
   sni: gift-catalog.aroonia.ir
   tls: false
   type: hysteria2
-- name: 🇩🇪ConfigV2RayNG
-  obfs: salamander
-  obfs-password: Telegram@vpnjey
-  password: Telegram@vpnjey
-  port: 37009
-  server: 31.76.27.23
-  skip-cert-verify: false
-  sni: de.vpnjey.store
-  tls: false
-  type: hysteria2
 - alpn:
   - h3
   fingerprint: chrome
