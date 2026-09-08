@@ -1,15 +1,5 @@
 proxies:
 - name: 德国
-  obfs: salamander
-  obfs-password: Xydh1mcz51VQHbbJ
-  password: 585b7bfe-6269-4149-ae22-ff07c57b5510
-  port: 443
-  server: 157.228.137.81
-  skip-cert-verify: true
-  sni: msk2.nebuchadnezzar.ink
-  tls: false
-  type: hysteria2
-- name: '德国 #1'
   password: Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0
   port: 8080
   server: 85.204.107.178
@@ -17,7 +7,7 @@ proxies:
   sni: hopp-romania-new.roxa.org
   tls: false
   type: hysteria2
-- name: '德国 #2'
+- name: '德国 #1'
   password: Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0
   port: 8080
   server: 85.204.107.181
@@ -51,7 +41,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '德国 #3'
+- name: '德国 #2'
   password: umnDU7jgFYUjpVjVM2sW9HL0rRYLJNgzVwRu2HzWEhyZKkRx
   port: 443
   server: hold.wwwinternetvideo.click
