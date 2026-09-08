@@ -1,11 +1,4 @@
 proxies:
-- name: 📀60@oneclickvpnkeys
-  password: 4fb82973-a7f1-4fc2-9958-cb21f5162f06
-  port: 443
-  server: che01plrhy01.tcp-reset-club.net
-  sni: che01plrhy01.tcp-reset-club.net
-  tls: false
-  type: hysteria2
 - alpn:
   - h3
   name: 'کانال تلگرام : Free_VPN_CH@ #1'
