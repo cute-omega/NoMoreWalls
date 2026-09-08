@@ -25,6 +25,16 @@ proxies:
   sni: vk.com
   tls: false
   type: hysteria2
+- name: 📀73@oneclickvpnkeys
+  obfs: salamander
+  obfs-password: c8d95078e61be690c18e2fbbefe5e2ef
+  password: 975e9f98b4a1b01285ffdb8158ced798
+  port: 443
+  server: 107.172.76.105
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
 - alpn:
   - h3
   fingerprint: chrome
