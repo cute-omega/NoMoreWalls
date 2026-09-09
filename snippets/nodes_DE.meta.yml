@@ -49,6 +49,13 @@ proxies:
   sni: germany1.h2corp.local
   tls: false
   type: hysteria2
+- name: 🎡21@oneclickvpnkeys
+  password: 32df539b-e48b-4f0b-8d2d-30edc856cd23
+  port: 443
+  server: de-four.online-vpn.online
+  sni: de-four.online-vpn.online
+  tls: false
+  type: hysteria2
 - name: Telegram 🆔@cnetvpn 🇩🇪
   obfs: salamander
   obfs-password: 6cmj1dymhm79hopl
