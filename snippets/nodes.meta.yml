@@ -408,13 +408,6 @@ proxies:
   sni: cdn77.dmtr.ru
   tls: false
   type: hysteria2
-- name: 🇷🇺167220 | ⚡️Telegram = t.me/S...
-  password: 5beff945-adaa-492f-85c6-8aaf5df6cfa5
-  port: 22443
-  server: 91.240.86.70
-  sni: hy.quattro-tech.ru
-  tls: false
-  type: hysteria2
 - name: Telegram 🆔@cnetvpn 🇷🇺
   obfs: salamander
   obfs-password: 09p333uviv2qal0y
@@ -556,7 +549,7 @@ proxies:
   sni: hopp-netherland-new.dynuddns.net
   tls: false
   type: hysteria2
-- name: '@proxy_kafee'
+- name: '@Daily_Configs'
   obfs: salamander
   obfs-password: c1b4086fea89914496c7e10967a419216566
   password: QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s
@@ -733,7 +726,7 @@ proxies:
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
-- name: '@proxy_kafee #1'
+- name: 'Tel: @Daily_Configs'
   obfs: salamander
   obfs-password: 44f1c1e2f8b99e792ceed574627a1eb0
   password: cd74c0a406664a5bc0bac098220a2468
@@ -743,7 +736,7 @@ proxies:
   sni: ru1.sferavpn.pro
   tls: false
   type: hysteria2
-- name: '✅ t.me/bigAVPN ایران آزاد 👑 #1'
+- name: ✅ t.me/bigAVPN ایران آزاد 👑
   obfs: salamander
   obfs-password: 44f1c1e2f8b99e792ceed574627a1eb0
   password: cd74c0a406664a5bc0bac098220a2468
@@ -761,36 +754,6 @@ proxies:
   server: 2.27.59.206
   skip-cert-verify: true
   sni: de1.sferavpn.pro
-  tls: false
-  type: hysteria2
-- name: '@v2ray313 کانالمون 🫪'
-  obfs: salamander
-  obfs-password: fuw2k1ddrouwxr3u
-  password: clz08qwil91241w7
-  port: 52021
-  server: giftcard.gateway-stream.com
-  skip-cert-verify: false
-  sni: giftcard.gateway-stream.com
-  tls: false
-  type: hysteria2
-- name: '@v2ray313 کانالمون 💕'
-  obfs: salamander
-  obfs-password: fuw2k1ddrouwxr3u
-  password: clz08qwil91241w7
-  port: 52029
-  server: giftcard.gateway-stream.com
-  skip-cert-verify: false
-  sni: giftcard.gateway-stream.com
-  tls: false
-  type: hysteria2
-- name: '@v2ray313 کانالمون ⭐'
-  obfs: salamander
-  obfs-password: fuw2k1ddrouwxr3u
-  password: clz08qwil91241w7
-  port: 52030
-  server: giftcard.gateway-stream.com
-  skip-cert-verify: false
-  sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
 - name: 🏴‍☠️@FreakConfig
@@ -994,6 +957,54 @@ proxies:
   type: hysteria2
 - alpn:
   - h3
+  name: '@ICV2RAY'
+  obfs: salamander
+  obfs-password: fuw2k1ddrouwxr3u
+  password: ijrixp6yh62ectfw
+  port: 52021
+  server: giftcard.gateway-stream.com
+  skip-cert-verify: false
+  sni: giftcard.gateway-stream.com
+  tls: false
+  type: hysteria2
+- alpn:
+  - h3
+  name: VCONFING
+  obfs: salamander
+  obfs-password: fuw2k1ddrouwxr3u
+  password: ijrixp6yh62ectfw
+  port: 52030
+  server: giftcard.gateway-stream.com
+  skip-cert-verify: false
+  sni: giftcard.gateway-stream.com
+  tls: false
+  type: hysteria2
+- alpn:
+  - h3
+  name: '@ICV2RAY #1'
+  obfs: salamander
+  obfs-password: fuw2k1ddrouwxr3u
+  password: ijrixp6yh62ectfw
+  port: 52031
+  server: giftcard.gateway-stream.com
+  skip-cert-verify: false
+  sni: giftcard.gateway-stream.com
+  tls: false
+  type: hysteria2
+- alpn:
+  - h3
+  name: -🇹🇷 @VConfing
+  obfs: salamander
+  obfs-password: fuw2k1ddrouwxr3u
+  password: ijrixp6yh62ectfw
+  port: 52067
+  server: giftcard.gateway-stream.com
+  skip-cert-verify: false
+  sni: giftcard.gateway-stream.com
+  tls: false
+  type: hysteria2
+- alpn:
+  - h3
   fingerprint: chrome
   name: 'dc-udp-🇦🇷 Argentina-Buenos Air... #1'
   obfs: salamander
@@ -1087,7 +1098,7 @@ proxies:
 - alpn:
   - h3
   fingerprint: chrome
-  name: -🇩🇪 @VConfing
+  name: '-🇩🇪 @VConfing #1'
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
   password: s6gt5e4mof43sfg8
@@ -1223,7 +1234,7 @@ proxies:
   sni: cabinet.wwwinternetvideo.click
   tls: false
   type: hysteria2
-- name: '@proxy_kafee #2'
+- name: 'Tel: @Daily_Configs #1'
   obfs: salamander
   obfs-password: b6d1f3888ab1d90dd11aac1dce427b81
   password: tnnls
