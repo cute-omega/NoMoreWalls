@@ -225,7 +225,7 @@ proxies:
   sni: whatsapp.com
   tls: false
   type: hysteria2
-- name: 印度
+- name: 🔥100@oneclickvpnkeys
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: 443
   server: vpn-in-001.fastervpn.world
@@ -354,6 +354,7 @@ proxies:
   password: sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX
   port: 443
   server: news.gazette.help
+  skip-cert-verify: true
   sni: news.gazette.help
   tls: false
   type: hysteria2
@@ -406,6 +407,13 @@ proxies:
   port: 36758
   server: awlix1.pcjxq.digital
   sni: cdn77.dmtr.ru
+  tls: false
+  type: hysteria2
+- name: 🔥87@oneclickvpnkeys
+  password: 5beff945-adaa-492f-85c6-8aaf5df6cfa5
+  port: 22443
+  server: 91.240.86.70
+  sni: hy.quattro-tech.ru
   tls: false
   type: hysteria2
 - name: Telegram 🆔@cnetvpn 🇷🇺
@@ -503,6 +511,14 @@ proxies:
   sni: t.me
   tls: false
   type: hysteria2
+- name: 🇨🇦167615 | ⚡️Telegram = t.me/S...
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 15.223.183.81
+  skip-cert-verify: true
+  sni: 15.223.183.81
+  tls: false
+  type: hysteria2
 - name: 🔥3@oneclickvpnkeys
   obfs: salamander
   obfs-password: HysteriaHowdy
@@ -531,22 +547,6 @@ proxies:
   server: 179.61.132.96
   skip-cert-verify: true
   sni: 179.61.132.96
-  tls: false
-  type: hysteria2
-- name: 📀5@oneclickvpnkeys
-  password: Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s
-  port: 8443
-  server: 205.237.109.173
-  skip-cert-verify: true
-  sni: hopp-netherland-new.dynuddns.net
-  tls: false
-  type: hysteria2
-- name: 📀6@oneclickvpnkeys
-  password: Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s
-  port: 8443
-  server: 205.237.109.175
-  skip-cert-verify: true
-  sni: hopp-netherland-new.dynuddns.net
   tls: false
   type: hysteria2
 - name: '@Daily_Configs'
@@ -726,7 +726,7 @@ proxies:
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
-- name: 'Tel: @Daily_Configs'
+- name: 🇷🇺167643 | ⚡️Telegram = t.me/S...
   obfs: salamander
   obfs-password: 44f1c1e2f8b99e792ceed574627a1eb0
   password: cd74c0a406664a5bc0bac098220a2468
@@ -736,7 +736,7 @@ proxies:
   sni: ru1.sferavpn.pro
   tls: false
   type: hysteria2
-- name: ✅ t.me/bigAVPN ایران آزاد 👑
+- name: '@filembad #3'
   obfs: salamander
   obfs-password: 44f1c1e2f8b99e792ceed574627a1eb0
   password: cd74c0a406664a5bc0bac098220a2468
@@ -786,21 +786,17 @@ proxies:
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
-- name: 📀31@oneclickvpnkeys
+- name: 🇷🇺167616 | ⚡️Telegram = t.me/S...
   password: e0b9fb0f-1bbd-478b-9580-c2294778338b
-  port: 8444
-  server: nlq7hy.pleiades.codes
-  sni: nlq7hy.pleiades.codes
+  port: 8443
+  server: cdncache.pleiades.codes
   tls: false
   type: hysteria2
-- name: '@v2ray_phoenix'
-  obfs: salamander
-  obfs-password: fuw2k1ddrouwxr3u
-  password: fmaznn1lrzys7ddy
-  port: 52006
-  server: giftcard.gateway-stream.com
-  skip-cert-verify: false
-  sni: giftcard.gateway-stream.com
+- name: 🔥89@oneclickvpnkeys
+  password: f317b5d6-d399-4d3d-a051-89d674ae953c
+  port: 443
+  server: msk.frkn.org
+  sni: msk.frkn.org
   tls: false
   type: hysteria2
 - name: 'Telegram 🆔@Cnetvpn 🇺🇲 #1'
@@ -935,26 +931,6 @@ proxies:
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
-- name: ⭐@ConfigV2RayNG
-  obfs: salamander
-  obfs-password: fuw2k1ddrouwxr3u
-  password: ijrixp6yh62ectfw
-  port: 52000
-  server: giftcard.gateway-stream.com
-  skip-cert-verify: false
-  sni: giftcard.gateway-stream.com
-  tls: false
-  type: hysteria2
-- name: '⭐@ConfigV2RayNG #1'
-  obfs: salamander
-  obfs-password: fuw2k1ddrouwxr3u
-  password: ijrixp6yh62ectfw
-  port: 52001
-  server: giftcard.gateway-stream.com
-  skip-cert-verify: false
-  sni: giftcard.gateway-stream.com
-  tls: false
-  type: hysteria2
 - alpn:
   - h3
   name: '@ICV2RAY'
@@ -1057,6 +1033,14 @@ proxies:
   server: 130.49.161.70
   skip-cert-verify: false
   sni: hy2.aspidnet.xyz
+  tls: false
+  type: hysteria2
+- name: 🇸🇬167617 | ⚡️Telegram = t.me/S...
+  password: qQe1z5kU8kN6SlKnDt9Ru3Qp
+  port: 443
+  server: 13.212.76.106
+  skip-cert-verify: true
+  sni: css.rbxcdn.com
   tls: false
   type: hysteria2
 - name: 🎡65@oneclickvpnkeys
