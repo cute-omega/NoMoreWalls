@@ -358,7 +358,7 @@ proxies:
   sni: news.gazette.help
   tls: false
   type: hysteria2
-- name: '芬兰 #3'
+- name: 🇫🇮168311 | ⚡️Telegram = t.me/S...
   obfs: salamander
   obfs-password: 8zzng75tz4tf82pj
   password: sxc15led4b0vp5fy
@@ -487,6 +487,13 @@ proxies:
   server: 107.172.76.105
   skip-cert-verify: true
   sni: www.bing.com
+  tls: false
+  type: hysteria2
+- name: 🇨🇦168302 | ⚡️Telegram = t.me/S...
+  password: AstroVPN_official
+  port: 36896
+  server: ptserv.accuratenetworkchecker.ir
+  sni: lms22.gelzaro.ir
   tls: false
   type: hysteria2
 - name: '@V2ray_confiig #1'
@@ -1038,13 +1045,12 @@ proxies:
 - alpn:
   - h3
   fingerprint: chrome
-  name: '-🇩🇪 @VConfing #1'
+  name: 🇩🇪1@JKVPN
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
   password: s6gt5e4mof43sfg8
   port: 52021
   server: giftcard.gateway-stream.com
-  skip-cert-verify: false
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
@@ -1057,18 +1063,6 @@ proxies:
   password: s6gt5e4mof43sfg8
   port: 52026
   server: giftcard.gateway-stream.com
-  sni: giftcard.gateway-stream.com
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
-  name: -🇫🇮 @VConfing
-  obfs: salamander
-  obfs-password: fuw2k1ddrouwxr3u
-  password: s6gt5e4mof43sfg8
-  port: 52029
-  server: giftcard.gateway-stream.com
-  skip-cert-verify: false
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
