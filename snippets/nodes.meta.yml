@@ -538,7 +538,7 @@ proxies:
   sni: 179.61.132.96
   tls: false
   type: hysteria2
-- name: '@Daily_Configs'
+- name: '@proxy_kafee'
   obfs: salamander
   obfs-password: c1b4086fea89914496c7e10967a419216566
   password: QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s
@@ -653,16 +653,6 @@ proxies:
   sni: admin.wwwinternetvideo.click
   tls: false
   type: hysteria2
-- name: '@V2raySaman #1'
-  obfs: salamander
-  obfs-password: t38lc9pdw1uhtgn6
-  password: b0d431139ded4333aa805a1567c761bb
-  port: 53062
-  server: dep.charsoulink3.ir
-  skip-cert-verify: false
-  sni: dep.charsoulink3.ir
-  tls: false
-  type: hysteria2
 - name: 'کانال تلگرام : Free_VPN_CH@ #2'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
@@ -744,7 +734,7 @@ proxies:
   sni: nl1.sferavpn.pro
   tls: false
   type: hysteria2
-- name: '@filembad #3'
+- name: '@v2raybaaz #2'
   obfs: salamander
   obfs-password: 44f1c1e2f8b99e792ceed574627a1eb0
   password: cd74c0a406664a5bc0bac098220a2468
@@ -1180,54 +1170,6 @@ proxies:
   port: 52090
   server: giftcard.gateway-stream.com
   skip-cert-verify: false
-  sni: giftcard.gateway-stream.com
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
-  fingerprint: chrome
-  name: 'dc-udp-🇦🇱 Albania-Tirana #1'
-  obfs: salamander
-  obfs-password: fuw2k1ddrouwxr3u
-  password: zvxywxoorgqk3fzb
-  port: 52000
-  server: giftcard.gateway-stream.com
-  sni: giftcard.gateway-stream.com
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
-  fingerprint: chrome
-  name: 'dc-udp-🇦🇷 Argentina-Buenos Air... #1'
-  obfs: salamander
-  obfs-password: fuw2k1ddrouwxr3u
-  password: zvxywxoorgqk3fzb
-  port: 52001
-  server: giftcard.gateway-stream.com
-  sni: giftcard.gateway-stream.com
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
-  fingerprint: chrome
-  name: dc-udp-🇧🇪 Belgium-Brussels
-  obfs: salamander
-  obfs-password: fuw2k1ddrouwxr3u
-  password: zvxywxoorgqk3fzb
-  port: 52008
-  server: giftcard.gateway-stream.com
-  sni: giftcard.gateway-stream.com
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
-  fingerprint: chrome
-  name: dc-udp-🇨🇾 Cyprus-Nicosia
-  obfs: salamander
-  obfs-password: fuw2k1ddrouwxr3u
-  password: zvxywxoorgqk3fzb
-  port: 52019
-  server: giftcard.gateway-stream.com
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
