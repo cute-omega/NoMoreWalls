@@ -1,4 +1,11 @@
 proxies:
+- name: 🇸🇪169485 | ⚡️Telegram = t.me/S...
+  password: 29ffde49-e1d6-4dcd-a135-352920f9f0b8
+  port: 25443
+  server: se-node.rumedia-cdn.com
+  sni: cf2.rumedia-cdn.com
+  tls: false
+  type: hysteria2
 - name: Telegram 🆔@cnetvpn 🇸🇪
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
