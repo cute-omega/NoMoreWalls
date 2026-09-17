@@ -113,6 +113,14 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
+- name: 咕咕嘎嘎
+  password: 19f72087-4591-4d72-930b-2697078ec2be
+  port: 4433
+  server: us2.xiaoliyu.cyou
+  skip-cert-verify: true
+  sni: us2.xiaoliyu.cyou
+  tls: false
+  type: hysteria2
 - name: 咕
   password: 1beb216e3f60aea9555dae60d219a5ca
   port: 50160
@@ -590,7 +598,7 @@ proxies:
   port: 443
   server: 144.31.49.138
   skip-cert-verify: false
-  sni: ru1.sferavpn.pro🇷🇺@FreakConfig
+  sni: ru1.sferavpn.pro🇺🇸@FreakConfig
   tls: false
   type: hysteria2
 - name: '♾️Join->🆔️@ATLAS_V2VPN🆓️📶‎🛰️55... #1'
@@ -603,7 +611,7 @@ proxies:
   sni: nl1.sferavpn.pro
   tls: false
   type: hysteria2
-- name: '[ 🇩🇪 ] | @Cfox_SerVer #3'
+- name: '[ 🇩🇪 ] | @Cfox_SerVer'
   obfs: salamander
   obfs-password: 44f1c1e2f8b99e792ceed574627a1eb0
   password: cd74c0a406664a5bc0bac098220a2468
@@ -611,14 +619,6 @@ proxies:
   server: 2.27.59.206
   skip-cert-verify: false
   sni: de1.sferavpn.pro
-  tls: false
-  type: hysteria2
-- name: '[ 🇺🇸 ] | @Cfox_SerVer #1'
-  password: dongtaiwang.com
-  port: 44356
-  server: 142.249.37.90
-  skip-cert-verify: false
-  sni: hy2.561891.xyz
   tls: false
   type: hysteria2
 - name: 'Telegram 🆔@Cnetvpn 🇺🇲 #1'
@@ -700,54 +700,6 @@ proxies:
   password: g2d0ooqq3ykzsacc
   port: 52010
   server: giftcard.gateway-stream.com
-  sni: giftcard.gateway-stream.com
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
-  name: -🇩🇪 @VConfing
-  obfs: salamander
-  obfs-password: fuw2k1ddrouwxr3u
-  password: ijrixp6yh62ectfw
-  port: 52021
-  server: giftcard.gateway-stream.com
-  skip-cert-verify: false
-  sni: giftcard.gateway-stream.com
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
-  name: VCONFING
-  obfs: salamander
-  obfs-password: fuw2k1ddrouwxr3u
-  password: ijrixp6yh62ectfw
-  port: 52030
-  server: giftcard.gateway-stream.com
-  skip-cert-verify: false
-  sni: giftcard.gateway-stream.com
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
-  name: -🇫🇷 @VConfing
-  obfs: salamander
-  obfs-password: fuw2k1ddrouwxr3u
-  password: ijrixp6yh62ectfw
-  port: 52031
-  server: giftcard.gateway-stream.com
-  skip-cert-verify: false
-  sni: giftcard.gateway-stream.com
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
-  name: -🇹🇷 @VConfing
-  obfs: salamander
-  obfs-password: fuw2k1ddrouwxr3u
-  password: ijrixp6yh62ectfw
-  port: 52067
-  server: giftcard.gateway-stream.com
-  skip-cert-verify: false
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
