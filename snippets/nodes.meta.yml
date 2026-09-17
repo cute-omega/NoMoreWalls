@@ -99,18 +99,20 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 芬兰
-  password: 14f7504c-bd01-4d88-bd42-80dc6bf6b202
-  port: 443
-  server: samurai.h4ck.me
+- name: 咕咕嘎嘎
+  password: 19f72087-4591-4d72-930b-2697078ec2be
+  port: 4433
+  server: es1.xiaoliyu.cyou
+  skip-cert-verify: true
+  sni: es1.xiaoliyu.cyou
   tls: false
   type: hysteria2
-- name: '日本 #1'
-  password: 184cdec28da5a09450803c8debcd2cc9
-  port: 50160
-  server: 138.3.208.26
+- name: 嘎嘎
+  password: 19f72087-4591-4d72-930b-2697078ec2be
+  port: 4433
+  server: se.xiaoliyu.cyou
   skip-cert-verify: true
-  sni: www.bing.com
+  sni: se.xiaoliyu.cyou
   tls: false
   type: hysteria2
 - name: 咕
@@ -120,20 +122,22 @@ proxies:
   sni: 152-69-231-175.liao.kdns.fr
   tls: false
   type: hysteria2
-- name: '日本 #2'
-  password: 4d6d97a82ddf959252e2ada36c3c3053
-  port: 50160
-  server: 138.2.8.249
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
 - name: 🐒74@oneclickvpnkeys
   password: 9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z
   port: 8443
   server: 162.249.126.7
   skip-cert-verify: true
   sni: hopp-germany-new.ddnsguru.com
+  tls: false
+  type: hysteria2
+- name: '咕咕 #1'
+  obfs: salamander
+  obfs-password: CyG0RFxMjzs41uQD4OLuHQ==
+  password: CyG0RFxMjzs41uQD4OLuHQ==
+  port: 443
+  server: 137.131.167.179
+  skip-cert-verify: true
+  sni: rmgyvpn.rest
   tls: false
   type: hysteria2
 - name: 法国
@@ -145,14 +149,6 @@ proxies:
   tls: false
   type: hysteria2
 - name: 澳大利亚
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: 443
-  server: vpn-au-002.fastervpn.world
-  skip-cert-verify: true
-  sni: css.rbxcdn.com
-  tls: false
-  type: hysteria2
-- name: '澳大利亚 #1'
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: 443
   server: vpn-au-002.fastervpn.world
@@ -232,7 +228,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 嘎嘎
+- name: '嘎嘎 #1'
   password: f317b5d6-d399-4d3d-a051-89d674ae953c
   port: 443
   server: msk.frkn.org
@@ -269,13 +265,20 @@ proxies:
   sni: news.gazette.help
   tls: false
   type: hysteria2
-- name: '芬兰 #1'
+- name: 芬兰
   obfs: salamander
   obfs-password: 8zzng75tz4tf82pj
   password: sxc15led4b0vp5fy
   port: 8443
   server: musicclips.videolinks.ru
   sni: musicclips.videolinks.ru
+  tls: false
+  type: hysteria2
+- name: 🐒82@oneclickvpnkeys
+  password: 19f72087-4591-4d72-930b-2697078ec2be
+  port: 4433
+  server: se.xiaoliyu.cyou
+  skip-cert-verify: true
   tls: false
   type: hysteria2
 - name: '[ 🇷🇺 ] | @Cfox_SerVer'
@@ -483,16 +486,6 @@ proxies:
   sni: de.jey.cc.cd
   tls: false
   type: hysteria2
-- name: V2RayyNGvpn 🇩🇪
-  obfs: salamander
-  obfs-password: V2RayyNGvpn&Telegram
-  password: Ur0okuRxze
-  port: 443
-  server: 91.107.140.154
-  skip-cert-verify: false
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
 - name: 🇳🇱 - NL - @FreeOnlineVPN
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
@@ -501,6 +494,14 @@ proxies:
   server: 206.71.158.37
   skip-cert-verify: true
   sni: YAPC-1.afshin.ir
+  tls: false
+  type: hysteria2
+- name: 🐒90@oneclickvpnkeys
+  password: YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc
+  port: 443
+  server: 144.31.93.126
+  skip-cert-verify: true
+  sni: admin.wwwinternetvideo.click
   tls: false
   type: hysteria2
 - name: '@KAFING_2 #2'
@@ -523,16 +524,6 @@ proxies:
   sni: ru1.sferavpn.pro
   tls: false
   type: hysteria2
-- name: '[ 🇷🇺 ] | @Cfox_SerVer #1'
-  obfs: salamander
-  obfs-password: 44f1c1e2f8b99e792ceed574627a1eb0
-  password: cd74c0a406664a5bc0bac098220a2468
-  port: 443
-  server: 144.31.49.138
-  skip-cert-verify: false
-  sni: ru1.sferavpn.pro🇺🇸@FreakConfig
-  tls: false
-  type: hysteria2
 - name: '♾️Join->🆔️@ATLAS_V2VPN🆓️📶‎🛰️55... #1'
   obfs: salamander
   obfs-password: 44f1c1e2f8b99e792ceed574627a1eb0
@@ -553,6 +544,14 @@ proxies:
   sni: de1.sferavpn.pro
   tls: false
   type: hysteria2
+- name: '17'
+  password: dongtaiwang.com
+  port: 44356
+  server: 142.249.37.90
+  skip-cert-verify: false
+  sni: hy2.561891.xyz
+  tls: false
+  type: hysteria2
 - name: 'Telegram 🆔@Cnetvpn 🇺🇲 #1'
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
@@ -560,54 +559,6 @@ proxies:
   port: 52076
   server: giftcard.gateway-stream.com
   skip-cert-verify: false
-  sni: giftcard.gateway-stream.com
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
-  fingerprint: chrome
-  name: dc-udp-🇦🇱 Albania-Tirana
-  obfs: salamander
-  obfs-password: fuw2k1ddrouwxr3u
-  password: g2d0ooqq3ykzsacc
-  port: 52000
-  server: giftcard.gateway-stream.com
-  sni: giftcard.gateway-stream.com
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
-  fingerprint: chrome
-  name: dc-udp-🇦🇷 Argentina-Buenos Air...
-  obfs: salamander
-  obfs-password: fuw2k1ddrouwxr3u
-  password: g2d0ooqq3ykzsacc
-  port: 52001
-  server: giftcard.gateway-stream.com
-  sni: giftcard.gateway-stream.com
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
-  fingerprint: chrome
-  name: dc-udp-🇦🇹 Austria-Vienna
-  obfs: salamander
-  obfs-password: fuw2k1ddrouwxr3u
-  password: g2d0ooqq3ykzsacc
-  port: 52002
-  server: giftcard.gateway-stream.com
-  sni: giftcard.gateway-stream.com
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
-  fingerprint: chrome
-  name: dc-udp-🇧🇷 Brazil-Fortaleza
-  obfs: salamander
-  obfs-password: fuw2k1ddrouwxr3u
-  password: g2d0ooqq3ykzsacc
-  port: 52010
-  server: giftcard.gateway-stream.com
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
@@ -759,14 +710,6 @@ proxies:
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
-- name: 💈80@oneclickvpnkeys
-  password: sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX
-  port: 443
-  server: 31.76.71.63
-  skip-cert-verify: true
-  sni: cabinet.wwwinternetvideo.click
-  tls: false
-  type: hysteria2
 - name: '@fastkanfig کانال تلگرام'
   obfs: salamander
   obfs-password: b6d1f3888ab1d90dd11aac1dce427b81
@@ -827,7 +770,7 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: 🇫🇮FI-🚀@VPNine1
+- name: '[ 🇫🇮 ] | @Cfox_SerVer #4'
   obfs: salamander
   obfs-password: x5y77oxwfcl868u3
   password: xbr3ppxk7rv068c4
