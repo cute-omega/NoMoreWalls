@@ -1,20 +1,19 @@
 proxies:
-- name: US
-  obfs: salamander
-  obfs-password: 7a5537b116d923fe572f85f1db7fe501
-  password: cbb5cf13f04b22883390f1a073753123
-  port: 443
-  server: 147.224.12.19
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
 - name: 🇺🇸139909 | ⚡️Telegram = t.me/S...
   password: qQe1z5kU8kN6SlKnDt9Ru3Qp
   port: 443
   server: 54.213.89.22
   skip-cert-verify: true
   sni: vk.com
+  tls: false
+  type: hysteria2
+- name: 🇺🇸US-🚀@VPNine1
+  obfs: salamander
+  obfs-password: 5c8f1a3e7b2d9046c1f8a5e3b7d04f2a
+  password: d4a705d40356ef719212045528e04594
+  port: 443
+  server: 45.149.172.80
+  skip-cert-verify: true
   tls: false
   type: hysteria2
 - alpn:
