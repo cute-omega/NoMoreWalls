@@ -363,7 +363,7 @@ proxies:
   sni: 179.61.132.96
   tls: false
   type: hysteria2
-- name: '[ 🇩🇪 ] | @Cfox_SerVer #1'
+- name: '@AZARBAYJAB1'
   obfs: salamander
   obfs-password: c1b4086fea89914496c7e10967a419216566
   password: QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s
@@ -743,23 +743,13 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: '[ 🇫🇮 ] | @Cfox_SerVer'
+- name: '@Daily_Configs #3'
   obfs: salamander
   obfs-password: detgimgm8qh8i2g2
   password: xbr3ppxk7rv068c4
   port: 52023
   server: assets.gateway-stream.com
   sni: assets.gateway-stream.com
-  tls: false
-  type: hysteria2
-- name: '[ 🇫🇮 ] | @Cfox_SerVer #1'
-  obfs: salamander
-  obfs-password: x5y77oxwfcl868u3
-  password: xbr3ppxk7rv068c4
-  port: 52030
-  server: assets.gateway-stream.com
-  skip-cert-verify: false
-  sni: ''
   tls: false
   type: hysteria2
 - name: Telegram 🆔@cnetvpn 🇫🇮

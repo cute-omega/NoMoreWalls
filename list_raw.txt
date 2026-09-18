@@ -40,7 +40,7 @@ hysteria2://8f0gvz5eul6omhq4@giftcard.gateway-stream.com:52087?insecure=0&sni=gi
 hysteria2://8z2e26xkqsa598s3@gift-catalog.aroonia.ir:52000?insecure=0&sni=gift-catalog.aroonia.ir&obfs=salamander&obfs-password=6cmj1dymhm79hopl#Telegram%20%F0%9F%86%94%40cnetvpn%20%F0%9F%87%A9%F0%9F%87%AA
 hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.176:8080?sni=hopp-romania-new.roxa.org#%5B%20%F0%9F%87%A9%F0%9F%87%BF%20%5D%20%7C%20%40Cfox_SerVer
 hysteria2://KevinZakarian@179.61.132.96:8443?insecure=1&sni=179.61.132.96&obfs=salamander&obfs-password=KevinZakarian#%F0%9F%A9%B5%2B%40Azarakhsh_Proxy%2B%F0%9F%A9%B7
-hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?insecure=0&sni=hy2-new.aspidnet.xyz&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566#%5B%20%F0%9F%87%A9%F0%9F%87%AA%20%5D%20%7C%20%40Cfox_SerVer%20%231
+hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?insecure=0&sni=hy2-new.aspidnet.xyz&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566#%40AZARBAYJAB1
 hysteria2://Telegram-vpnjey@31.76.27.23:37009?insecure=1&alpn=h3&sni=de.vpnjey.store&obfs=salamander&obfs-password=Telegram@vpnjey#Telegram%40vpnjey
 hysteria2://Telegram-vpnjey@77.110.96.201:36264?insecure=1&alpn=h3&sni=se.vpnjey2.dpdns.org&obfs=salamander&obfs-password=Telegram@vpnjey#Telegram%40vpnjey%20%231
 hysteria2://Telegram@31.76.27.23:443?insecure=1&alpn=h3&sni=de.vpnjey.store&obfs=salamander&obfs-password=Telegram@vpnjey#Telegram%40vpnjey%20%232
@@ -75,8 +75,7 @@ hysteria2://vz86jgszv4zszchv@giftcard.gateway-stream.com:52021?insecure=0&sni=gi
 hysteria2://vz86jgszv4zszchv@giftcard.gateway-stream.com:52030?insecure=0&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#%F0%9F%87%AB%F0%9F%87%B7%40AZARBAYJAB1
 hysteria2://vz86jgszv4zszchv@giftcard.gateway-stream.com:52062?insecure=0&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#Telegram%20%F0%9F%86%94%40cnetvpn%20%F0%9F%87%B8%F0%9F%87%AA
 hysteria2://xbr3ppxk7rv068c4@assets.gateway-stream.com:52021?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=mtg2vchyir6la3et#%40Daily_Configs%20%232
-hysteria2://xbr3ppxk7rv068c4@assets.gateway-stream.com:52023?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=detgimgm8qh8i2g2#%5B%20%F0%9F%87%AB%F0%9F%87%AE%20%5D%20%7C%20%40Cfox_SerVer
-hysteria2://xbr3ppxk7rv068c4@assets.gateway-stream.com:52030?insecure=0&sni=&obfs=salamander&obfs-password=x5y77oxwfcl868u3#%5B%20%F0%9F%87%AB%F0%9F%87%AE%20%5D%20%7C%20%40Cfox_SerVer%20%231
+hysteria2://xbr3ppxk7rv068c4@assets.gateway-stream.com:52023?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=detgimgm8qh8i2g2#%40Daily_Configs%20%233
 hysteria2://xf2ak19a4uajprxg@giftcard.gateway-stream.com:52090?insecure=0&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#Telegram%20%F0%9F%86%94%40cnetvpn%20%F0%9F%87%AB%F0%9F%87%AE
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@63.180.254.10:443#tg%E9%A2%91%E9%81%93%3A%40ripaojiedian%20%231
 vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HrfCfh7Ag6aaZ5rivfEByaXBhb2ppZWRpYW4iLCAiYWRkIjogInYxMC5oZGFjZC5jb20iLCAicG9ydCI6IDMwODA3LCAiYWlkIjogMiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0In0=
