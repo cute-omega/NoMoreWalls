@@ -242,6 +242,16 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
+- name: 🇫🇮176170 | ⚡️Telegram = t.me/S...
+  obfs: salamander
+  obfs-password: gCytSLRsXmPSJIPLCtQz
+  password: 1d0be037-f650-4d33-b683-0fec61b2ccc3
+  port: 23719
+  server: 13.143.129.130
+  skip-cert-verify: true
+  sni: 13.143.129.130
+  tls: false
+  type: hysteria2
 - name: '@Begoo_VPN ²⁹⁰'
   obfs: salamander
   obfs-password: dzcb7hv6i2kx2zze
@@ -493,7 +503,7 @@ proxies:
   sni: ru1.sferavpn.pro
   tls: false
   type: hysteria2
-- name: '♾️Join->🆔️@ATLAS_V2VPN🆓️📶‎🛰️55... #1'
+- name: '@V2ray_confiig'
   obfs: salamander
   obfs-password: 44f1c1e2f8b99e792ceed574627a1eb0
   password: cd74c0a406664a5bc0bac098220a2468
