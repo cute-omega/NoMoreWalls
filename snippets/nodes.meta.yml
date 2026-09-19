@@ -218,7 +218,7 @@ proxies:
   sni: news.gazette.help
   tls: false
   type: hysteria2
-- name: 芬兰
+- name: 🇫🇮176534 | ⚡️Telegram = t.me/S...
   obfs: salamander
   obfs-password: 8zzng75tz4tf82pj
   password: sxc15led4b0vp5fy
@@ -295,15 +295,7 @@ proxies:
   sni: 179.61.132.96
   tls: false
   type: hysteria2
-- name: 🐊33@oneclickvpnkeys
-  password: Krab9Hyst2_Rk7pQ2xL
-  port: 36723
-  server: 151.247.197.253
-  skip-cert-verify: true
-  sni: 151.247.197.253
-  tls: false
-  type: hysteria2
-- name: '@proxy_kafee : کانال تلگرام'
+- name: '@filembad'
   obfs: salamander
   obfs-password: c1b4086fea89914496c7e10967a419216566
   password: QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s
