@@ -122,11 +122,10 @@ proxies:
   sni: 152-69-231-175.liao.kdns.fr
   tls: false
   type: hysteria2
-- name: 🐊54@oneclickvpnkeys
+- name: 咕咕
   password: 9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z
   port: 8443
   server: 162.249.126.7
-  skip-cert-verify: true
   sni: hopp-germany-new.ddnsguru.com
   tls: false
   type: hysteria2
@@ -243,14 +242,6 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: 🐊59@oneclickvpnkeys
-  password: 29ffde49-e1d6-4dcd-a135-352920f9f0b8
-  port: 25443
-  server: de-node.rumedia-cdn.com
-  skip-cert-verify: true
-  sni: cf6.rumedia-cdn.com
-  tls: false
-  type: hysteria2
 - name: '@Begoo_VPN ²⁹⁰'
   obfs: salamander
   obfs-password: dzcb7hv6i2kx2zze
@@ -357,7 +348,7 @@ proxies:
   sni: 151.247.197.253
   tls: false
   type: hysteria2
-- name: '@AZARBAYJAB1'
+- name: '@proxy_kafee : کانال تلگرام'
   obfs: salamander
   obfs-password: c1b4086fea89914496c7e10967a419216566
   password: QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s
@@ -520,6 +511,14 @@ proxies:
   server: 2.27.59.206
   skip-cert-verify: false
   sni: de1.sferavpn.pro
+  tls: false
+  type: hysteria2
+- name: 🇪🇺 @V2_MOD_SHOP
+  password: fa1b99c89b5479752ae95af92a79e833
+  port: 1443
+  server: 89.124.86.136
+  skip-cert-verify: false
+  sni: fast.patrik-service.com
   tls: false
   type: hysteria2
 - name: 'Telegram 🆔@Cnetvpn 🇺🇲 #1'
