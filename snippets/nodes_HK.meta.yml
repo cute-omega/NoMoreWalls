@@ -1,4 +1,12 @@
 proxies:
+- name: 🇭🇰177164 | ⚡️Telegram = t.me/S...
+  password: HysTeria2026!Proxy
+  port: 8443
+  server: mz.hkychina.com
+  skip-cert-verify: false
+  sni: mz.hkychina.com
+  tls: false
+  type: hysteria2
 - alterId: 2
   cipher: auto
   name: 🇭🇰 香港|@ripaojiedian

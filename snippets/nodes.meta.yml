@@ -218,7 +218,7 @@ proxies:
   sni: news.gazette.help
   tls: false
   type: hysteria2
-- name: '[ 🇫🇮 ] | @Cfox_SerVer'
+- name: 芬兰
   obfs: salamander
   obfs-password: 8zzng75tz4tf82pj
   password: sxc15led4b0vp5fy
@@ -234,14 +234,6 @@ proxies:
   port: 36758
   server: 91.142.73.159
   skip-cert-verify: true
-  sni: cdn77.dmtr.ru
-  tls: false
-  type: hysteria2
-- name: '@awlix_ir'
-  obfs-password: dzcb7hv6i2kx2zze
-  password: 5bcodmhjtyfyyrqh
-  port: 36758
-  server: awlix1.pcjxq.digital
   sni: cdn77.dmtr.ru
   tls: false
   type: hysteria2
@@ -283,6 +275,14 @@ proxies:
   server: gift-catalog.aroonia.ir
   skip-cert-verify: false
   sni: gift-catalog.aroonia.ir
+  tls: false
+  type: hysteria2
+- name: 🇭🇰177164 | ⚡️Telegram = t.me/S...
+  password: HysTeria2026!Proxy
+  port: 8443
+  server: mz.hkychina.com
+  skip-cert-verify: false
+  sni: mz.hkychina.com
   tls: false
   type: hysteria2
 - name: 🩵+@Azarakhsh_Proxy+🩷
