@@ -295,7 +295,7 @@ proxies:
   sni: 179.61.132.96
   tls: false
   type: hysteria2
-- name: '@filembad'
+- name: '@filembad #1'
   obfs: salamander
   obfs-password: c1b4086fea89914496c7e10967a419216566
   password: QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s
@@ -478,7 +478,7 @@ proxies:
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
-- name: 🇩🇪DE-🚀@VPNine1
+- name: '[ 🇩🇪 ] | @Cfox_SerVer'
   obfs: salamander
   obfs-password: ue1s9nuqmy5fd9j5
   password: hdgvcjrpa23fi9bk
@@ -488,7 +488,7 @@ proxies:
   sni: ''
   tls: false
   type: hysteria2
-- name: '🇩🇪DE-🚀@VPNine1 #1'
+- name: '[ 🇩🇪 ] | @Cfox_SerVer #1'
   obfs: salamander
   obfs-password: ue1s9nuqmy5fd9j5
   password: hdgvcjrpa23fi9bk

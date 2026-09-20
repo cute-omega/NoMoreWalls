@@ -43,3 +43,23 @@ proxies:
   sni: de.jey.cc.cd
   tls: false
   type: hysteria2
+- name: '[ 🇩🇪 ] | @Cfox_SerVer'
+  obfs: salamander
+  obfs-password: ue1s9nuqmy5fd9j5
+  password: hdgvcjrpa23fi9bk
+  port: 53033
+  server: mirage.ehsanazizi-speed-server.com
+  skip-cert-verify: false
+  sni: ''
+  tls: false
+  type: hysteria2
+- name: '[ 🇩🇪 ] | @Cfox_SerVer #1'
+  obfs: salamander
+  obfs-password: ue1s9nuqmy5fd9j5
+  password: hdgvcjrpa23fi9bk
+  port: 53033
+  server: mirage.ehsanazizi-speed-server.com
+  skip-cert-verify: false
+  sni: mirage.ehsanazizi-speed-server.com
+  tls: false
+  type: hysteria2
