@@ -277,7 +277,7 @@ proxies:
   sni: gift-catalog.aroonia.ir
   tls: false
   type: hysteria2
-- name: '[ 🇭🇰 ] | @Cfox_SerVer'
+- name: '107'
   password: HysTeria2026!Proxy
   port: 8443
   server: mz.hkychina.com
@@ -295,7 +295,7 @@ proxies:
   sni: 179.61.132.96
   tls: false
   type: hysteria2
-- name: '@Daily_Configs : کانال تلگرام'
+- name: '@filembad'
   obfs: salamander
   obfs-password: c1b4086fea89914496c7e10967a419216566
   password: QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s
@@ -522,7 +522,7 @@ proxies:
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
-- name: '[ 🇫🇮 ] | @Cfox_SerVer'
+- name: '@Daily_Configs #2'
   obfs: salamander
   obfs-password: mtg2vchyir6la3et
   password: xbr3ppxk7rv068c4
