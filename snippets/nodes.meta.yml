@@ -107,7 +107,7 @@ proxies:
   sni: es1.xiaoliyu.cyou
   tls: false
   type: hysteria2
-- name: 🛖93@oneclickvpnkeys
+- name: 嘎嘎
   password: 19f72087-4591-4d72-930b-2697078ec2be
   port: 4433
   server: se.xiaoliyu.cyou
@@ -210,13 +210,12 @@ proxies:
   sni: news.gazette.help
   tls: false
   type: hysteria2
-- name: 🛖97@oneclickvpnkeys
+- name: 芬兰
   obfs: salamander
   obfs-password: 8zzng75tz4tf82pj
   password: sxc15led4b0vp5fy
   port: 8443
   server: musicclips.videolinks.ru
-  skip-cert-verify: true
   sni: musicclips.videolinks.ru
   tls: false
   type: hysteria2
@@ -276,14 +275,6 @@ proxies:
   server: gift-catalog.aroonia.ir
   skip-cert-verify: false
   sni: gift-catalog.aroonia.ir
-  tls: false
-  type: hysteria2
-- name: 🛖91@oneclickvpnkeys
-  password: BWAFlp8g53
-  port: 443
-  server: hys28.wba-pn.ru
-  skip-cert-verify: true
-  sni: hys28.wba-pn.ru
   tls: false
   type: hysteria2
 - name: 🇮🇳179168 | ⚡️Telegram = t.me/S...
@@ -509,14 +500,6 @@ proxies:
   server: giftcard.gateway-stream.com
   skip-cert-verify: false
   sni: giftcard.gateway-stream.com
-  tls: false
-  type: hysteria2
-- name: 🛖94@oneclickvpnkeys
-  password: sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX
-  port: 443
-  server: 217.60.182.79
-  skip-cert-verify: true
-  sni: cabinet.wwwinternetvideo.click
   tls: false
   type: hysteria2
 - name: 🥎92@oneclickvpnkeys
