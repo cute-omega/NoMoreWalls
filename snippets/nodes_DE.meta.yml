@@ -19,30 +19,6 @@ proxies:
   sni: gift-catalog.aroonia.ir
   tls: false
   type: hysteria2
-- alpn:
-  - h3
-  fingerprint: chrome
-  name: Telegram@VPNjey🇩🇪🇩🇪
-  obfs: salamander
-  obfs-password: 83v9muumcyikh5ch
-  password: TelegramVPNJey
-  port: 37003
-  server: 1.1.1.1
-  sni: de.jey.cc.cd
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
-  fingerprint: chrome
-  name: 'Telegram@VPNjey🇩🇪🇩🇪 #1'
-  obfs: salamander
-  obfs-password: 83v9muumcyikh5ch
-  password: TelegramVPNjey
-  port: 37003
-  server: 179.61.251.253
-  sni: de.jey.cc.cd
-  tls: false
-  type: hysteria2
 - name: 'V2RayyNGvpn 🇩🇪 #1'
   obfs: salamander
   obfs-password: V2RayyNGvpn
