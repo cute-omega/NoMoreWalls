@@ -7,16 +7,6 @@ proxies:
   sni: vk.com
   tls: false
   type: hysteria2
-- name: '✅  @vistav2ray  👈👈کانال ما ✅ #1'
-  obfs: salamander
-  obfs-password: d2e3c1b8a16952ae9cf06dfc05b3588a
-  password: af24a0e4-f5a2-4b97-a678-992d45346147
-  port: 30865
-  server: 108.186.180.148
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
 - name: 美国3|@ripaojiedian
   network: tcp
   password: BxceQaOe
