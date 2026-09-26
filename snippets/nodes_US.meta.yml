@@ -7,15 +7,7 @@ proxies:
   sni: vk.com
   tls: false
   type: hysteria2
-- name: 🕊️68@oneclickvpnkeys
-  password: 31329f25
-  port: 4443
-  server: 198.46.215.223
-  skip-cert-verify: true
-  sni: proxy.bingtao.xyz
-  tls: false
-  type: hysteria2
-- name: '@prrofile_purple | FaST 💚 #1'
+- name: '✅  @vistav2ray  👈👈کانال ما ✅ #1'
   obfs: salamander
   obfs-password: d2e3c1b8a16952ae9cf06dfc05b3588a
   password: af24a0e4-f5a2-4b97-a678-992d45346147

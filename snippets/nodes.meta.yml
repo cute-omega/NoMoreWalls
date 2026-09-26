@@ -242,14 +242,6 @@ proxies:
   sni: gift-catalog.aroonia.ir
   tls: false
   type: hysteria2
-- name: 🇨🇦181143 | ⚡️Telegram = t.me/S...
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: 443
-  server: 15.223.122.197
-  skip-cert-verify: true
-  sni: 'off'
-  tls: false
-  type: hysteria2
 - name: '@v2raybaaz'
   password: Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0
   port: 8443
@@ -302,7 +294,7 @@ proxies:
   sni: hy2-new.aspidnet.xyz
   tls: false
   type: hysteria2
-- name: '🇩🇪@FreakConfig #1'
+- name: 'kurdconfig #1'
   obfs: salamander
   obfs-password: telegram-ID-conf0088
   password: TELEGRAM-ID-conf0088
@@ -311,7 +303,7 @@ proxies:
   skip-cert-verify: false
   tls: false
   type: hysteria2
-- name: 🇩🇪 V2RayyNGvpn 🇩🇪
+- name: 🇩🇪181296 | ⚡️Telegram = t.me/S...
   obfs: salamander
   obfs-password: V2RayyNGvpn
   password: Telegram=V2RayyNGvpn
@@ -321,7 +313,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '🇩🇪@FreakConfig #2'
+- name: '🇩🇪@FreakConfig #1'
   obfs: salamander
   obfs-password: V2RayyNGvpn
   password: V2RayyNGvpn
@@ -359,7 +351,7 @@ proxies:
   sni: admin.wwwinternetvideo.click
   tls: false
   type: hysteria2
-- name: '@prrofile_purple | FaST 💚 #1'
+- name: '✅  @vistav2ray  👈👈کانال ما ✅ #1'
   obfs: salamander
   obfs-password: d2e3c1b8a16952ae9cf06dfc05b3588a
   password: af24a0e4-f5a2-4b97-a678-992d45346147
