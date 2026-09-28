@@ -19,7 +19,7 @@ proxies:
   sni: gift-catalog.aroonia.ir
   tls: false
   type: hysteria2
-- name: '🇩🇪 V2RayyNGvpn 🇩🇪 #2'
+- name: '🇩🇪 V2RayyNGvpn 🇩🇪 #1'
   obfs: salamander
   obfs-password: V2RayyNGvpn
   password: V2RayyNGvpn
