@@ -183,6 +183,13 @@ proxies:
   sni: gift-catalog.aroonia.ir
   tls: false
   type: hysteria2
+- name: 🇯🇵183683 | ⚡️Telegram = t.me/S...
+  password: 96ab5cd282733fd4c312a61f972f330a
+  port: 443
+  server: vp3.yysyy.online
+  skip-cert-verify: false
+  tls: false
+  type: hysteria2
 - name: 🩵+@Azarakhsh_Proxy+🩷
   obfs: salamander
   obfs-password: KevinZakarian
@@ -193,7 +200,7 @@ proxies:
   sni: 179.61.132.96
   tls: false
   type: hysteria2
-- name: '@Daily_Configs'
+- name: ✅  @vistav2ray  👈👈کانال ما ✅
   obfs: salamander
   obfs-password: c1b4086fea89914496c7e10967a419216566
   password: QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s
@@ -223,16 +230,6 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '🇩🇪 V2RayyNGvpn 🇩🇪 #1'
-  obfs: salamander
-  obfs-password: V2RayyNGvpn
-  password: V2RayyNGvpn
-  port: 443
-  server: 91.107.150.74
-  skip-cert-verify: false
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
 - name: 🇳🇱 - NL - @FreeOnlineVPN
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
@@ -243,7 +240,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: 🇺🇸183431 | ⚡️Telegram = t.me/S...
+- name: '✅  @vistav2ray  👈👈کانال ما ✅ #1'
   obfs: salamander
   obfs-password: d2e3c1b8a16952ae9cf06dfc05b3588a
   password: af24a0e4-f5a2-4b97-a678-992d45346147
@@ -281,6 +278,13 @@ proxies:
   server: 2.27.59.206
   skip-cert-verify: false
   sni: de1.sferavpn.pro
+  tls: false
+  type: hysteria2
+- name: 🇺🇸183766 | ⚡️Telegram = t.me/S...
+  password: cloud
+  port: 443
+  server: ss.marmount.space
+  sni: ss.marmount.space
   tls: false
   type: hysteria2
 - name: 'Telegram 🆔@Cnetvpn 🇺🇲 #1'
