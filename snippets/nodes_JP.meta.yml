@@ -1,11 +1,4 @@
 proxies:
-- name: 🇯🇵183683 | ⚡️Telegram = t.me/S...
-  password: 96ab5cd282733fd4c312a61f972f330a
-  port: 443
-  server: vp3.yysyy.online
-  skip-cert-verify: false
-  tls: false
-  type: hysteria2
 - alterId: 0
   cipher: auto
   name: 日本|@ripaojiedian
