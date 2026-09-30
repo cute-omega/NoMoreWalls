@@ -211,15 +211,7 @@ proxies:
   sni: hy2-new.aspidnet.xyz
   tls: false
   type: hysteria2
-- name: 🇺🇸184357 | ⚡️Telegram = t.me/S...
-  password: RN_3f80eeb4bbd0f13f
-  port: 443
-  server: 192.255.128.123
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
-- name: 🇩🇪 V2RayyNGvpn 🇩🇪
+- name: 'kurdconfig #1'
   obfs: salamander
   obfs-password: V2RayyNGvpn
   password: Telegram=V2RayyNGvpn
@@ -267,13 +259,6 @@ proxies:
   server: 5.175.249.174
   skip-cert-verify: true
   sni: api.kermanshahi.org
-  tls: false
-  type: hysteria2
-- name: 🇺🇸184360 | ⚡️Telegram = t.me/S...
-  password: bce6c821-200d-421f-bf3d-7159e5246ea0
-  port: 33333
-  server: hy2.123266.xyz
-  sni: hy2.123266.xyz
   tls: false
   type: hysteria2
 - name: 🇷🇺@FreakConfig
@@ -400,9 +385,9 @@ proxies:
   uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
 - alterId: 0
   cipher: auto
-  name: 香港3|@ripaojiedian
+  name: 🇭🇰 香港3|@ripaojiedian
   network: ws
-  port: '443'
+  port: 443
   server: ADncdOvLHR4M1P36.v.3dns.vip
   servername: ADncdOvLHR4M1P36.v.3dns.vip
   skip-cert-verify: false
@@ -415,9 +400,9 @@ proxies:
     path: /ws-vmess
 - alterId: 0
   cipher: auto
-  name: 香港2|@ripaojiedian
+  name: 🇭🇰 香港2|@ripaojiedian
   network: ws
-  port: '443'
+  port: 443
   server: kBONDXW9liFCi4h4.v.3dns.vip
   servername: kBONDXW9liFCi4h4.v.3dns.vip
   skip-cert-verify: false
@@ -430,9 +415,9 @@ proxies:
     path: /ws-vmess
 - alterId: 0
   cipher: auto
-  name: 香港4|@ripaojiedian
+  name: 🇭🇰 香港4|@ripaojiedian
   network: ws
-  port: '443'
+  port: 443
   server: aZW0eunYVdvRe73k.v.3dns.vip
   servername: aZW0eunYVdvRe73k.v.3dns.vip
   skip-cert-verify: false
@@ -445,9 +430,9 @@ proxies:
     path: /ws-vmess
 - alterId: 0
   cipher: auto
-  name: 香港5|@ripaojiedian
+  name: 🇭🇰 香港5|@ripaojiedian
   network: ws
-  port: '443'
+  port: 443
   server: syJ2gGUgMwBwQwQx.v.3dns.vip
   servername: syJ2gGUgMwBwQwQx.v.3dns.vip
   skip-cert-verify: false
@@ -460,9 +445,9 @@ proxies:
     path: /ws-vmess
 - alterId: 0
   cipher: auto
-  name: 日本|@ripaojiedian
+  name: 🇯🇵 日本|@ripaojiedian
   network: ws
-  port: '443'
+  port: 443
   server: Z9FfBx3zs2q5O0BG.v.3dns.vip
   servername: Z9FfBx3zs2q5O0BG.v.3dns.vip
   skip-cert-verify: false
@@ -475,9 +460,9 @@ proxies:
     path: /ws-vmess
 - alterId: 0
   cipher: auto
-  name: 日本2|@ripaojiedian
+  name: 🇯🇵 日本2|@ripaojiedian
   network: ws
-  port: '443'
+  port: 443
   server: kQov7UKaDknXb8a3.v.3dns.vip
   servername: kQov7UKaDknXb8a3.v.3dns.vip
   skip-cert-verify: false
@@ -490,9 +475,9 @@ proxies:
     path: /ws-vmess
 - alterId: 0
   cipher: auto
-  name: 日本3|@ripaojiedian
+  name: 🇯🇵 日本3|@ripaojiedian
   network: ws
-  port: '443'
+  port: 443
   server: kneNaKHeSXnZH259.v.3dns.vip
   servername: kneNaKHeSXnZH259.v.3dns.vip
   skip-cert-verify: false
@@ -505,9 +490,9 @@ proxies:
     path: /ws-vmess
 - alterId: 0
   cipher: auto
-  name: 新加坡|@ripaojiedian
+  name: 🇸🇬 新加坡|@ripaojiedian
   network: ws
-  port: '443'
+  port: 443
   server: ASaqYIDZa9WDQ9Kq.v.3dns.vip
   servername: ASaqYIDZa9WDQ9Kq.v.3dns.vip
   skip-cert-verify: false
@@ -520,9 +505,9 @@ proxies:
     path: /ws-vmess
 - alterId: 0
   cipher: auto
-  name: 新加坡2|@ripaojiedian
+  name: 🇸🇬 新加坡2|@ripaojiedian
   network: ws
-  port: '443'
+  port: 443
   server: 6JiziO8PxQAXBAtZ.v.3dns.vip
   servername: 6JiziO8PxQAXBAtZ.v.3dns.vip
   skip-cert-verify: false
@@ -535,9 +520,9 @@ proxies:
     path: /ws-vmess
 - alterId: 0
   cipher: auto
-  name: 韩国|@ripaojiedian
+  name: 🇰🇷 韩国|@ripaojiedian
   network: ws
-  port: '443'
+  port: 443
   server: 8nTzyR5KNivfabaT.v.3dns.vip
   servername: 8nTzyR5KNivfabaT.v.3dns.vip
   skip-cert-verify: false
@@ -550,9 +535,9 @@ proxies:
     path: /ws-vmess
 - alterId: 0
   cipher: auto
-  name: 美国|@ripaojiedian
+  name: 🇺🇸 美国|@ripaojiedian
   network: ws
-  port: '443'
+  port: 443
   server: 53vXOVarmgcreAsv.v.3dns.vip
   servername: 53vXOVarmgcreAsv.v.3dns.vip
   skip-cert-verify: false
@@ -565,9 +550,9 @@ proxies:
     path: /ws-vmess
 - alterId: 0
   cipher: auto
-  name: 美国2|@ripaojiedian
+  name: 🇺🇸 美国2|@ripaojiedian
   network: ws
-  port: '443'
+  port: 443
   server: bJ1Aa2ZyJxYamYuK.v.3dns.vip
   servername: bJ1Aa2ZyJxYamYuK.v.3dns.vip
   skip-cert-verify: false
@@ -588,6 +573,86 @@ proxies:
   tls: false
   type: vmess
   uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+- name: 香港2|@ripaojiedian
+  network: tcp
+  password: AA885B42-133C-3828-FB69-E45105C06092
+  port: 12103
+  server: 7d0a2gz0-7a0c.aws-agent.net
+  skip-cert-verify: true
+  sni: m.ctrip.com
+  type: trojan
+- name: 香港3|@ripaojiedian
+  network: tcp
+  password: AA885B42-133C-3828-FB69-E45105C06092
+  port: 10115
+  server: 7d0a2gz0-7a0c.aws-agent.net
+  skip-cert-verify: true
+  sni: m.ctrip.com
+  type: trojan
+- name: 香港4|@ripaojiedian
+  network: tcp
+  password: AA885B42-133C-3828-FB69-E45105C06092
+  port: 12107
+  server: 7d0a2gz0-7a0c.aws-agent.net
+  skip-cert-verify: true
+  sni: m.ctrip.com
+  type: trojan
+- name: 香港5|@ripaojiedian
+  network: tcp
+  password: AA885B42-133C-3828-FB69-E45105C06092
+  port: 12102
+  server: 7d0a2gz0-7a0c.aws-agent.net
+  skip-cert-verify: true
+  sni: m.ctrip.com
+  type: trojan
+- name: 日本2|@ripaojiedian
+  network: tcp
+  password: AA885B42-133C-3828-FB69-E45105C06092
+  port: 10125
+  server: 63182sh8-4d7b.aws-agent.net
+  skip-cert-verify: true
+  sni: m.ctrip.com
+  type: trojan
+- name: 新加坡|@ripaojiedian
+  network: tcp
+  password: AA885B42-133C-3828-FB69-E45105C06092
+  port: 10135
+  server: 7d0a2gz0-7a0c.aws-agent.net
+  skip-cert-verify: true
+  sni: m.ctrip.com
+  type: trojan
+- name: 美国|@ripaojiedian
+  network: tcp
+  password: AA885B42-133C-3828-FB69-E45105C06092
+  port: 10155
+  server: 63182sh8-4d7b.aws-agent.net
+  skip-cert-verify: true
+  sni: m.ctrip.com
+  type: trojan
+- name: 美国2|@ripaojiedian
+  network: tcp
+  password: AA885B42-133C-3828-FB69-E45105C06092
+  port: 12122
+  server: 63182sh8-4d7b.aws-agent.net
+  skip-cert-verify: true
+  sni: m.ctrip.com
+  type: trojan
+- name: 台湾|@ripaojiedian
+  network: tcp
+  password: AA885B42-133C-3828-FB69-E45105C06092
+  port: 12142
+  server: 7d0a2gz0-7a0c.aws-agent.net
+  skip-cert-verify: true
+  sni: m.ctrip.com
+  type: trojan
+- name: 韩国|@ripaojiedian
+  network: tcp
+  password: AA885B42-133C-3828-FB69-E45105C06092
+  port: 11171
+  server: 63182sh8-4d7b.aws-agent.net
+  skip-cert-verify: true
+  sni: m.ctrip.com
+  type: trojan
 - name: NL_speednode_0004
   port: 9002
   server: 84.17.47.125
