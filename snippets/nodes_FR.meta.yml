@@ -1,1 +1,11 @@
-proxies: []
+proxies:
+- name: '@prrofile_purple | FaST 💚 #2'
+  obfs: salamander
+  obfs-password: ec66908dbc46e6920143d9b684adf277
+  password: ca78f919e6
+  port: 11592
+  server: 155.94.134.183
+  skip-cert-verify: false
+  sni: srv-3fc7c9.21freedom.net
+  tls: false
+  type: hysteria2
