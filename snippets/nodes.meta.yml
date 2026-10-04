@@ -89,32 +89,6 @@ proxies:
   tls: false
   type: vmess
   uuid: 88888888-8888-8888-8888-888888888888
-- name: 咕咕嘎嘎
-  password: 19f72087-4591-4d72-930b-2697078ec2be
-  port: 4433
-  server: es1.xiaoliyu.cyou
-  skip-cert-verify: true
-  sni: es1.xiaoliyu.cyou
-  tls: false
-  type: hysteria2
-- name: 嘎嘎
-  password: 19f72087-4591-4d72-930b-2697078ec2be
-  port: 4433
-  server: se.xiaoliyu.cyou
-  skip-cert-verify: true
-  sni: se.xiaoliyu.cyou
-  tls: false
-  type: hysteria2
-- name: 咕咕
-  obfs: salamander
-  obfs-password: CyG0RFxMjzs41uQD4OLuHQ==
-  password: CyG0RFxMjzs41uQD4OLuHQ==
-  port: 443
-  server: 137.131.167.179
-  skip-cert-verify: true
-  sni: rmgyvpn.rest
-  tls: false
-  type: hysteria2
 - name: '@KAFING_2'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'

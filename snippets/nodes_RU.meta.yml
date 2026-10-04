@@ -1,12 +1,4 @@
 proxies:
-- name: 🪙96@oneclickvpnkeys
-  password: 19f72087-4591-4d72-930b-2697078ec2be
-  port: 18333
-  server: ru1.xiaoliyu.cyou
-  skip-cert-verify: true
-  sni: ru1.xiaoliyu.cyou
-  tls: false
-  type: hysteria2
 - name: Telegram 🆔@cnetvpn 🇷🇺
   obfs: salamander
   obfs-password: 09p333uviv2qal0y
