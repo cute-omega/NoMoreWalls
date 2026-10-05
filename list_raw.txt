@@ -33,10 +33,12 @@ hysteria2://cd74c0a406664a5bc0bac098220a2468@2.27.59.206:443?insecure=0&sni=de1.
 hysteria2://e19b5aa3-16c9-435a-8bc9-76f2f6ddff43@222.167.245.240:28015?insecure=0&sni=api-test-udp-traffic.kaneki.cfd#%40ICV2RAY%20%231
 hysteria2://e19b5aa3-16c9-435a-8bc9-76f2f6ddff43@64.188.119.177:28015?insecure=0&sni=api-test-udp-trf.kaneki.cfd#%40ICV2RAY%20%232
 hysteria2://fmaznn1lrzys7ddy@giftcard.gateway-stream.com:52076?insecure=0&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#Telegram%20%F0%9F%86%94%40Cnetvpn%20%F0%9F%87%BA%F0%9F%87%B2%20%231
+hysteria2://migrated-d730e46f5c1b@fastly.vexogf.ir:5443?insecure=0&sni=tun-a-1.bexait.ir&obfs=salamander&obfs-password=6ccfcef2e116b03ce9047333#%F0%9F%87%A9%F0%9F%87%AA187621%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/S...
 hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?insecure=0&sni=hy2.aspidnet.xyz&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#%40confiig_hub%20%231
 hysteria2://rjj39jg8iphgd06h@pro2.riziro.ir:44100?alpn=h3&fp=chrome&sni=pro2.riziro.ir&obfs=salamander&obfs-password=2gg0tx9d2etug8n9#%F0%9F%87%B1%F0%9F%87%BBhysteria
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@77.74.123.102:8443?insecure=0&sni=grape-test-italy.dynuddns.net#8
-hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@77.74.123.99:8443?insecure=1&sni=grape-test-italy.dynuddns.net#%F0%9F%AA%993%40oneclickvpnkeys
+hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@77.74.123.104:8443?insecure=1&sni=grape-test-italy.dynuddns.net#%F0%9F%9B%A0%EF%B8%8F15%40oneclickvpnkeys
+hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@77.74.123.105:8443?sni=grape-test-italy.dynuddns.net#%F0%9F%9B%A0%EF%B8%8F13%40oneclickvpnkeys
 hysteria2://s6gt5e4mof43sfg8@giftcard.gateway-stream.com:52050?insecure=0&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#Telegram%20%F0%9F%86%94%40cnetvpn%20%F0%9F%87%B3%F0%9F%87%B1
 hysteria2://tnnls@bwdf2fnt.xn--e1aatfr8bwa.online:443?insecure=0&sni=bwdf2fnt.xn--e1aatfr8bwa.online&obfs=salamander&obfs-password=b6d1f3888ab1d90dd11aac1dce427b81#%40fastkanfig%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
 hysteria2://vz86jgszv4zszchv@giftcard.gateway-stream.com:52062?insecure=0&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#Telegram%20%F0%9F%86%94%40cnetvpn%20%F0%9F%87%B8%F0%9F%87%AA
