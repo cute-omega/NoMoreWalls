@@ -164,14 +164,6 @@ proxies:
   sni: fiproxy1.lockdwn.com
   tls: false
   type: hysteria2
-- name: 🛠️93@oneclickvpnkeys
-  password: 865e271f7c97b549b024255c9d02cebe9cc0c2c070a82b1e11bb11b9cd88dd01
-  port: 443
-  server: streambox.wwwinternetvideo.click
-  skip-cert-verify: true
-  sni: streambox.wwwinternetvideo.click
-  tls: false
-  type: hysteria2
 - name: '@vmesskhodam'
   obfs: salamander
   obfs-password: xK9mN2pLq5vR8wB3
@@ -294,7 +286,7 @@ proxies:
   sni: vpn.local
   tls: false
   type: hysteria2
-- name: 🐞33@oneclickvpnkeys
+- name: 🇫🇷188573 | ⚡️Telegram = t.me/S...
   obfs: salamander
   obfs-password: ChY5QQQT3ZtUdNT8
   password: capadmbd5f18bd
@@ -322,14 +314,6 @@ proxies:
   server: 2.27.59.206
   skip-cert-verify: false
   sni: de1.sferavpn.pro
-  tls: false
-  type: hysteria2
-- name: 🇫🇮188294 | ⚡️Telegram = t.me/S...
-  password: d402d4c0b8354a90b70bb2566dce9a08
-  port: 8443
-  server: i.wareznet.ru
-  skip-cert-verify: false
-  sni: i.wareznet.ru
   tls: false
   type: hysteria2
 - name: '@ICV2RAY #1'
