@@ -89,6 +89,22 @@ proxies:
   tls: false
   type: vmess
   uuid: 88888888-8888-8888-8888-888888888888
+- name: 🇫🇷188762 | ⚡️Telegram = t.me/S...
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 13.36.234.11
+  skip-cert-verify: true
+  sni: vpn-fr-001.fastervpn.world
+  tls: false
+  type: hysteria2
+- name: 🇫🇷188763 | ⚡️Telegram = t.me/S...
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 13.38.44.64
+  skip-cert-verify: true
+  sni: 'off'
+  tls: false
+  type: hysteria2
 - name: '@KAFING_2'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
@@ -127,13 +143,6 @@ proxies:
   sni: srv-0e5387.frd21.ru
   tls: false
   type: hysteria2
-- name: 🛠️64@oneclickvpnkeys
-  password: 529f1911-04d5-4427-94b9-c851fd459a27
-  port: 443
-  server: nl-hy-test.tcp-reset-club.net
-  sni: tcp-reset-club.net
-  tls: false
-  type: hysteria2
 - name: '@Begoo_VPN ²⁹⁰'
   obfs: salamander
   obfs-password: dzcb7hv6i2kx2zze
@@ -152,6 +161,14 @@ proxies:
   server: giftcard.gisora.ir
   skip-cert-verify: false
   sni: giftcard.gisora.ir
+  tls: false
+  type: hysteria2
+- name: 🐞96@oneclickvpnkeys
+  password: 6a3fe9d0-0d68-4f29-ae99-5771d4217a45
+  port: 4433
+  server: de1.xiaoliyu.cyou
+  skip-cert-verify: true
+  sni: 127.0.0.1
   tls: false
   type: hysteria2
 - name: Telegram:@v2rayng3
@@ -266,7 +283,7 @@ proxies:
   sni: srv-3fc7c9.21freedom.net
   tls: false
   type: hysteria2
-- name: ✅  @vistav2ray  👈👈کانال ما ✅
+- name: 🇫🇷188843 | ⚡️Telegram = t.me/S...
   obfs: salamander
   obfs-password: ec66908dbc46e6920143d9b684adf277
   password: ca78f919e6
@@ -286,7 +303,7 @@ proxies:
   sni: vpn.local
   tls: false
   type: hysteria2
-- name: 🇫🇷188573 | ⚡️Telegram = t.me/S...
+- name: 🐞33@oneclickvpnkeys
   obfs: salamander
   obfs-password: ChY5QQQT3ZtUdNT8
   password: capadmbd5f18bd
