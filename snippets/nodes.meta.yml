@@ -181,19 +181,6 @@ proxies:
   sni: streambox.wwwinternetvideo.click
   tls: false
   type: hysteria2
-- alpn:
-  - h3
-  - h2
-  - http/1.1
-  name: 🇩🇪189465 | ⚡️Telegram = t.me/S...
-  obfs: salamander
-  obfs-password: 1vwbgf5t1k61nxmi
-  password: 8d1729b01c1ad743179ed4558c8404b0
-  port: 8397
-  server: 193.42.11.245
-  sni: 193.42.11.245
-  tls: false
-  type: hysteria2
 - name: Telegram 🆔@Cnetvpn 🇺🇲
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
@@ -230,6 +217,14 @@ proxies:
   server: 13.38.44.64
   skip-cert-verify: true
   sni: 'off'
+  tls: false
+  type: hysteria2
+- name: 🇷🇺189942 | ⚡️Telegram = t.me/S...
+  password: Hd7N0TU7Ow5ZqaIx
+  port: 25172
+  server: us5.h1cloud.net
+  skip-cert-verify: true
+  sni: us5.h1cloud.net
   tls: false
   type: hysteria2
 - name: '@meliproxyy'
@@ -331,6 +326,38 @@ proxies:
   sni: vpn.local
   tls: false
   type: hysteria2
+- name: 🇷🇺190020 | ⚡️Telegram = t.me/S...
+  password: cc4074d6-f450-4025-833a-a6e0100ceaff
+  port: 443
+  server: 138.124.254.233
+  skip-cert-verify: false
+  sni: crt.molniya.sbs
+  tls: false
+  type: hysteria2
+- name: 🇪🇪190019 | ⚡️Telegram = t.me/S...
+  password: cc4074d6-f450-4025-833a-a6e0100ceaff
+  port: 443
+  server: 31.76.107.12
+  skip-cert-verify: false
+  sni: crt.molniya.sbs
+  tls: false
+  type: hysteria2
+- name: 🇩🇪190017 | ⚡️Telegram = t.me/S...
+  password: cc4074d6-f450-4025-833a-a6e0100ceaff
+  port: 443
+  server: 45.88.12.155
+  skip-cert-verify: false
+  sni: crt.molniya.sbs
+  tls: false
+  type: hysteria2
+- name: 🇫🇮190018 | ⚡️Telegram = t.me/S...
+  password: cc4074d6-f450-4025-833a-a6e0100ceaff
+  port: 443
+  server: 65.108.67.45
+  skip-cert-verify: false
+  sni: crt.molniya.sbs
+  tls: false
+  type: hysteria2
 - name: 🇷🇺@FreakConfig
   obfs: salamander
   obfs-password: 44f1c1e2f8b99e792ceed574627a1eb0
@@ -349,6 +376,14 @@ proxies:
   server: 2.27.59.206
   skip-cert-verify: false
   sni: de1.sferavpn.pro
+  tls: false
+  type: hysteria2
+- name: 🇺🇸189951 | ⚡️Telegram = t.me/S...
+  password: dongtaiwang.com
+  port: 44356
+  server: hy2.561891.xyz
+  skip-cert-verify: false
+  sni: hy2.561891.xyz
   tls: false
   type: hysteria2
 - name: 😊69@oneclickvpnkeys
@@ -374,6 +409,14 @@ proxies:
   server: 91.196.32.163
   skip-cert-verify: true
   sni: germany3.h2corp.local
+  tls: false
+  type: hysteria2
+- name: 🇯🇵189917 | ⚡️Telegram = t.me/S...
+  password: my_super_password_123
+  port: 5443
+  server: 138.2.21.246
+  skip-cert-verify: false
+  sni: open.2ml.cc.cd
   tls: false
   type: hysteria2
 - name: '@confiig_hub #1'

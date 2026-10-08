@@ -1,4 +1,12 @@
 proxies:
+- name: 🇯🇵189917 | ⚡️Telegram = t.me/S...
+  password: my_super_password_123
+  port: 5443
+  server: 138.2.21.246
+  skip-cert-verify: false
+  sni: open.2ml.cc.cd
+  tls: false
+  type: hysteria2
 - alterId: 0
   cipher: auto
   name: 🇯🇵 日本|@ripaojiedian

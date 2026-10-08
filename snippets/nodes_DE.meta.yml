@@ -9,19 +9,6 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- alpn:
-  - h3
-  - h2
-  - http/1.1
-  name: 🇩🇪189465 | ⚡️Telegram = t.me/S...
-  obfs: salamander
-  obfs-password: 1vwbgf5t1k61nxmi
-  password: 8d1729b01c1ad743179ed4558c8404b0
-  port: 8397
-  server: 193.42.11.245
-  sni: 193.42.11.245
-  tls: false
-  type: hysteria2
 - name: Telegram 🆔@cnetvpn 🇩🇪
   obfs: salamander
   obfs-password: 6cmj1dymhm79hopl
@@ -30,5 +17,13 @@ proxies:
   server: gift-catalog.aroonia.ir
   skip-cert-verify: false
   sni: gift-catalog.aroonia.ir
+  tls: false
+  type: hysteria2
+- name: 🇩🇪190017 | ⚡️Telegram = t.me/S...
+  password: cc4074d6-f450-4025-833a-a6e0100ceaff
+  port: 443
+  server: 45.88.12.155
+  skip-cert-verify: false
+  sni: crt.molniya.sbs
   tls: false
   type: hysteria2

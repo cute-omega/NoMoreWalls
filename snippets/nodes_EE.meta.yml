@@ -1,1 +1,9 @@
-proxies: []
+proxies:
+- name: 🇪🇪190019 | ⚡️Telegram = t.me/S...
+  password: cc4074d6-f450-4025-833a-a6e0100ceaff
+  port: 443
+  server: 31.76.107.12
+  skip-cert-verify: false
+  sni: crt.molniya.sbs
+  tls: false
+  type: hysteria2
