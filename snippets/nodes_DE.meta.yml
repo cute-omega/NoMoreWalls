@@ -19,11 +19,3 @@ proxies:
   sni: gift-catalog.aroonia.ir
   tls: false
   type: hysteria2
-- name: 🇩🇪190017 | ⚡️Telegram = t.me/S...
-  password: cc4074d6-f450-4025-833a-a6e0100ceaff
-  port: 443
-  server: 45.88.12.155
-  skip-cert-verify: false
-  sni: crt.molniya.sbs
-  tls: false
-  type: hysteria2
