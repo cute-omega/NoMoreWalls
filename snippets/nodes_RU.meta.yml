@@ -1,11 +1,4 @@
 proxies:
-- name: 🍁75@oneclickvpnkeys
-  password: 41edb44c8e
-  port: 11592
-  server: 103.88.243.142
-  sni: srv-17e124.21freedom.net
-  tls: false
-  type: hysteria2
 - name: Telegram 🆔@cnetvpn 🇷🇺
   obfs: salamander
   obfs-password: 09p333uviv2qal0y

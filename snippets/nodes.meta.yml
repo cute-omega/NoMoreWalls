@@ -107,6 +107,14 @@ proxies:
   sni: vk.com
   tls: false
   type: hysteria2
+- name: 🍁97@oneclickvpnkeys
+  password: 099830134df5ac3a04a4b21d39b8c395
+  port: 50160
+  server: 163.192.14.135
+  skip-cert-verify: true
+  sni: vk.com
+  tls: false
+  type: hysteria2
 - name: '@ange1Vpn کانال تلگرام ما'
   obfs: salamander
   obfs-password: 7y0p9k93w7ryw8tz
@@ -117,15 +125,7 @@ proxies:
   sni: mhzedir.qzz.io
   tls: false
   type: hysteria2
-- name: 😊71@oneclickvpnkeys
-  password: 19f72087-4591-4d72-930b-2697078ec2be
-  port: 4433
-  server: de1.xiaoliyu.cyou
-  skip-cert-verify: true
-  sni: de1.xiaoliyu.cyou
-  tls: false
-  type: hysteria2
-- name: Tel-@ProxyMtAlpha🧣 2
+- name: '@VConfing ❤️‍🔥'
   obfs: salamander
   obfs-password: 87d72c2949c0ca85bbda09459244e374
   password: 35d26d53bc
@@ -172,20 +172,52 @@ proxies:
   sni: fiproxy1.lockdwn.com
   tls: false
   type: hysteria2
+- name: 🇩🇪190453 | ⚡️Telegram = t.me/S...
+  obfs: salamander
+  obfs-password: 9VK3Nqd0bcXGPxcay9hRLY28HBtKo5
+  password: 81d953a0-f0cf-4452-a669-747d32efd6c1
+  port: 24000
+  server: 177.1.195.242
+  skip-cert-verify: false
+  sni: hy.kirian.su
+  tls: false
+  type: hysteria2
+- name: 🇳🇱190450 | ⚡️Telegram = t.me/S...
+  obfs: salamander
+  obfs-password: 9VK3Nqd0bcXGPxcay9hRLY28HBtKo5
+  password: 81d953a0-f0cf-4452-a669-747d32efd6c1
+  port: 26000
+  server: 78.17.53.9
+  skip-cert-verify: false
+  sni: hy.kirian.su
+  tls: false
+  type: hysteria2
+- name: 🇫🇮190452 | ⚡️Telegram = t.me/S...
+  obfs: salamander
+  obfs-password: 9VK3Nqd0bcXGPxcay9hRLY28HBtKo5
+  password: 81d953a0-f0cf-4452-a669-747d32efd6c1
+  port: 21000
+  server: 79.137.206.157
+  skip-cert-verify: false
+  sni: hy.kirian.su
+  tls: false
+  type: hysteria2
+- name: 🇵🇱190451 | ⚡️Telegram = t.me/S...
+  obfs: salamander
+  obfs-password: 9VK3Nqd0bcXGPxcay9hRLY28HBtKo5
+  password: 81d953a0-f0cf-4452-a669-747d32efd6c1
+  port: 25000
+  server: 91.196.161.47
+  skip-cert-verify: false
+  sni: hy.kirian.su
+  tls: false
+  type: hysteria2
 - name: 🍁65@oneclickvpnkeys
   password: 84a506ca5aca505696a454d828420b3f
   port: 50160
   server: 140.238.213.114
   skip-cert-verify: true
   sni: www.bing.com
-  tls: false
-  type: hysteria2
-- name: 😊74@oneclickvpnkeys
-  password: 865e271f7c97b549b024255c9d02cebe9cc0c2c070a82b1e11bb11b9cd88dd01
-  port: 443
-  server: streambox.wwwinternetvideo.click
-  skip-cert-verify: true
-  sni: streambox.wwwinternetvideo.click
   tls: false
   type: hysteria2
 - name: Telegram 🆔@Cnetvpn 🇺🇲
@@ -283,13 +315,6 @@ proxies:
   sni: admin.wwwinternetvideo.click
   tls: false
   type: hysteria2
-- name: 😊73@oneclickvpnkeys
-  password: YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc
-  port: 443
-  server: admin.wwwinternetvideo.click
-  sni: admin.wwwinternetvideo.click
-  tls: false
-  type: hysteria2
 - name: '@KAFING_2 #2'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
@@ -298,6 +323,14 @@ proxies:
   server: 5.175.249.174
   skip-cert-verify: true
   sni: api.kermanshahi.org
+  tls: false
+  type: hysteria2
+- name: 🍁91@oneclickvpnkeys
+  password: c-E0lamG8OnEj9M_uh3oJPmIXqYIVGctO-NHELF1TmNYs7Jl
+  port: 443
+  server: cz.h2.cleanersaz.help
+  skip-cert-verify: true
+  sni: cz.h2.cleanersaz.help
   tls: false
   type: hysteria2
 - alpn:
@@ -322,14 +355,6 @@ proxies:
   sni: srv-3fc7c9.21freedom.net
   tls: false
   type: hysteria2
-- name: '@tootffarangi🍓-7'
-  password: cc4074d6-f450-4025-833a-a6e0100ceaff
-  port: 443
-  server: 45.88.12.155
-  skip-cert-verify: false
-  sni: crt.molniya.sbs
-  tls: false
-  type: hysteria2
 - name: 'kurdconfig #1'
   obfs: salamander
   obfs-password: 44f1c1e2f8b99e792ceed574627a1eb0
@@ -350,11 +375,12 @@ proxies:
   sni: de1.sferavpn.pro
   tls: false
   type: hysteria2
-- name: 😊69@oneclickvpnkeys
-  password: dsmO0439gj_nX942GJRE_9j39fbcxv52_R
-  port: 8080
-  server: 85.209.157.177
-  sni: hopp-transit.1cooldns.com
+- name: 🍁99@oneclickvpnkeys
+  password: f87376e17da040ed04c9665ce8972930
+  port: 50160
+  server: 138.2.73.238
+  skip-cert-verify: true
+  sni: 138.2.73.238
   tls: false
   type: hysteria2
 - name: 'Telegram 🆔@Cnetvpn 🇺🇲 #1'
