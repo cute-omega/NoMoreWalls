@@ -125,6 +125,14 @@ proxies:
   sni: mhzedir.qzz.io
   tls: false
   type: hysteria2
+- name: 🇩🇪190697 | ⚡️Telegram = t.me/S...
+  password: 267b3a79-81f2-42ac-a409-c23b05b6329d
+  port: 443
+  server: 188.241.241.33
+  skip-cert-verify: true
+  sni: dehy.bbobr.win
+  tls: false
+  type: hysteria2
 - name: '@VConfing ❤️‍🔥'
   obfs: salamander
   obfs-password: 87d72c2949c0ca85bbda09459244e374
@@ -135,10 +143,26 @@ proxies:
   sni: srv-0e5387.frd21.ru
   tls: false
   type: hysteria2
+- name: 🇷🇺190696 | ⚡️Telegram = t.me/S...
+  password: 3f63c86c-ac4a-4900-85cf-4fedf93c2ca5
+  port: 22443
+  server: 91.240.86.70
+  skip-cert-verify: true
+  sni: hy.quattro-tech.ru
+  tls: false
+  type: hysteria2
 - name: 🍁75@oneclickvpnkeys
   password: 41edb44c8e
   port: 11592
   server: 103.88.243.142
+  sni: srv-17e124.21freedom.net
+  tls: false
+  type: hysteria2
+- name: 🇷🇺190703 | ⚡️Telegram = t.me/S...
+  password: 41edb44c8e
+  port: 11592
+  server: srv-17e124.21freedom.net
+  skip-cert-verify: true
   sni: srv-17e124.21freedom.net
   tls: false
   type: hysteria2
@@ -150,6 +174,14 @@ proxies:
   server: 91.142.73.159
   skip-cert-verify: true
   sni: cdn77.dmtr.ru
+  tls: false
+  type: hysteria2
+- name: 🇺🇸190699 | ⚡️Telegram = t.me/S...
+  password: 5fa748137b6d822308eea4611f474ad5
+  port: 443
+  server: 155.117.19.17
+  skip-cert-verify: true
+  sni: www.bing.com
   tls: false
   type: hysteria2
 - name: Telegram 🆔@cnetvpn 🇷🇺
@@ -172,7 +204,27 @@ proxies:
   sni: fiproxy1.lockdwn.com
   tls: false
   type: hysteria2
-- name: 🇩🇪190453 | ⚡️Telegram = t.me/S...
+- name: 🇩🇪190660 | ⚡️Telegram = t.me/S...
+  obfs: salamander
+  obfs-password: 9VK3Nqd0bcXGPxcay9hRLY28HBtKo5
+  password: 77f73bd5-51bf-4143-8ebd-02f56ba376f4
+  port: 24000
+  server: 177.1.195.242
+  skip-cert-verify: false
+  sni: hy.kirian.su
+  tls: false
+  type: hysteria2
+- name: 🇫🇮190659 | ⚡️Telegram = t.me/S...
+  obfs: salamander
+  obfs-password: 9VK3Nqd0bcXGPxcay9hRLY28HBtKo5
+  password: 77f73bd5-51bf-4143-8ebd-02f56ba376f4
+  port: 21000
+  server: 79.137.206.157
+  skip-cert-verify: false
+  sni: hy.kirian.su
+  tls: false
+  type: hysteria2
+- name: '@tootffarangi🍓-6'
   obfs: salamander
   obfs-password: 9VK3Nqd0bcXGPxcay9hRLY28HBtKo5
   password: 81d953a0-f0cf-4452-a669-747d32efd6c1
@@ -182,7 +234,7 @@ proxies:
   sni: hy.kirian.su
   tls: false
   type: hysteria2
-- name: 🇳🇱190450 | ⚡️Telegram = t.me/S...
+- name: '@tootffarangi🍓-8'
   obfs: salamander
   obfs-password: 9VK3Nqd0bcXGPxcay9hRLY28HBtKo5
   password: 81d953a0-f0cf-4452-a669-747d32efd6c1
@@ -192,7 +244,7 @@ proxies:
   sni: hy.kirian.su
   tls: false
   type: hysteria2
-- name: 🇫🇮190452 | ⚡️Telegram = t.me/S...
+- name: '@tootffarangi🍓-5'
   obfs: salamander
   obfs-password: 9VK3Nqd0bcXGPxcay9hRLY28HBtKo5
   password: 81d953a0-f0cf-4452-a669-747d32efd6c1
@@ -202,7 +254,7 @@ proxies:
   sni: hy.kirian.su
   tls: false
   type: hysteria2
-- name: 🇵🇱190451 | ⚡️Telegram = t.me/S...
+- name: '@tootffarangi🍓-7'
   obfs: salamander
   obfs-password: 9VK3Nqd0bcXGPxcay9hRLY28HBtKo5
   password: 81d953a0-f0cf-4452-a669-747d32efd6c1
@@ -218,6 +270,34 @@ proxies:
   server: 140.238.213.114
   skip-cert-verify: true
   sni: www.bing.com
+  tls: false
+  type: hysteria2
+- name: '@GozargahAzad|🇦🇱'
+  password: 8bd04756-3beb-4348-82c9-d35453df50ce
+  port: 28152
+  server: alb1337.zaebalsanoproxyklinus.lol
+  sni: ''
+  tls: false
+  type: hysteria2
+- name: 🇦🇱190694 | ⚡️Telegram = t.me/S...
+  password: 8bd04756-3beb-4348-82c9-d35453df50ce
+  port: 28152
+  server: alb1337.zaebalsanoproxyklinus.lol
+  sni: alb1337.zaebalsanoproxyklinus.lol
+  tls: false
+  type: hysteria2
+- name: '@GozargahAzad|🇩🇪 #1'
+  password: 8bd04756-3beb-4348-82c9-d35453df50ce
+  port: 20270
+  server: mai.song69.fun
+  sni: ''
+  tls: false
+  type: hysteria2
+- name: 🇩🇪190695 | ⚡️Telegram = t.me/S...
+  password: 8bd04756-3beb-4348-82c9-d35453df50ce
+  port: 20270
+  server: mai.song69.fun
+  sni: mai.song69.fun
   tls: false
   type: hysteria2
 - name: Telegram 🆔@Cnetvpn 🇺🇲
@@ -240,6 +320,13 @@ proxies:
   sni: gift-catalog.aroonia.ir
   tls: false
   type: hysteria2
+- name: 🇩🇪190702 | ⚡️Telegram = t.me/S...
+  password: 9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z
+  port: 9443
+  server: 162.249.126.41
+  sni: hop-germany-september.dynuddns.com
+  tls: false
+  type: hysteria2
 - name: کانال تلگرام ما ange1Vpn@
   obfs: salamander
   obfs-password: 7y0p9k93w7ryw8tz
@@ -250,15 +337,15 @@ proxies:
   sni: mhzedir.qzz.io
   tls: false
   type: hysteria2
-- name: 😊13@oneclickvpnkeys
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: 443
-  server: 13.38.44.64
+- name: 🇩🇪190700 | ⚡️Telegram = t.me/S...
+  password: Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0
+  port: 8443
+  server: 103.126.51.55
   skip-cert-verify: true
-  sni: 'off'
+  sni: ocober-romania-new.yyuyy.com
   tls: false
   type: hysteria2
-- name: '@meliproxyy'
+- name: '@meliproxyy #2'
   obfs: salamander
   obfs-password: 6ccfcef2e116b03ce9047333
   password: KRYlhDrdm34kDT3En9j9vVO4-c3rcSiU
@@ -345,7 +432,7 @@ proxies:
   sni: srv-3fc7c9.21freedom.net
   tls: false
   type: hysteria2
-- name: kurdconfig
+- name: '@vasl_bashim'
   obfs: salamander
   obfs-password: ec66908dbc46e6920143d9b684adf277
   password: ca78f919e6
@@ -355,7 +442,7 @@ proxies:
   sni: srv-3fc7c9.21freedom.net
   tls: false
   type: hysteria2
-- name: 'kurdconfig #1'
+- name: kurdconfig
   obfs: salamander
   obfs-password: 44f1c1e2f8b99e792ceed574627a1eb0
   password: cd74c0a406664a5bc0bac098220a2468
@@ -375,6 +462,22 @@ proxies:
   sni: de1.sferavpn.pro
   tls: false
   type: hysteria2
+- name: 🇱🇻190701 | ⚡️Telegram = t.me/S...
+  password: e3c3b722-1264-4cdc-a97c-b0a1bb73cd67
+  port: 9443
+  server: lv02.gotosvo.com
+  skip-cert-verify: true
+  sni: onecloudstream.com
+  tls: false
+  type: hysteria2
+- name: 🇷🇺190698 | ⚡️Telegram = t.me/S...
+  password: f317b5d6-d399-4d3d-a051-89d674ae953c
+  port: 443
+  server: 94.198.54.132
+  skip-cert-verify: true
+  sni: msk.frkn.org
+  tls: false
+  type: hysteria2
 - name: 🍁99@oneclickvpnkeys
   password: f87376e17da040ed04c9665ce8972930
   port: 50160
@@ -391,14 +494,6 @@ proxies:
   server: giftcard.gateway-stream.com
   skip-cert-verify: false
   sni: giftcard.gateway-stream.com
-  tls: false
-  type: hysteria2
-- name: 😊14@oneclickvpnkeys
-  password: mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj
-  port: 443
-  server: 91.196.32.163
-  skip-cert-verify: true
-  sni: germany3.h2corp.local
   tls: false
   type: hysteria2
 - name: '@confiig_hub #1'
@@ -423,11 +518,33 @@ proxies:
   sni: pro2.riziro.ir
   tls: false
   type: hysteria2
+- name: 🇳🇱190576 | ⚡️Telegram = t.me/S...
+  password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
+  port: 8443
+  server: 46.229.243.138
+  sni: grape-turbo-fr.roxa.org
+  tls: false
+  type: hysteria2
 - name: 🍁45@oneclickvpnkeys
   password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
   port: 8443
   server: 77.74.123.100
   skip-cert-verify: true
+  sni: grape-test-italy.dynuddns.net
+  tls: false
+  type: hysteria2
+- name: 🇩🇪190540 | ⚡️Telegram = t.me/S...
+  password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
+  port: 8443
+  server: 77.74.123.107
+  skip-cert-verify: true
+  sni: grape-test-italy.dynuddns.net
+  tls: false
+  type: hysteria2
+- name: 🇩🇪190536 | ⚡️Telegram = t.me/S...
+  password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
+  port: 8443
+  server: 77.74.123.109
   sni: grape-test-italy.dynuddns.net
   tls: false
   type: hysteria2
@@ -449,6 +566,14 @@ proxies:
   server: bwdf2fnt.xn--e1aatfr8bwa.online
   skip-cert-verify: false
   sni: bwdf2fnt.xn--e1aatfr8bwa.online
+  tls: false
+  type: hysteria2
+- name: 🇯🇵190704 | ⚡️Telegram = t.me/S...
+  password: u63SxILNwtrQZ7Y1ZrFaZfsA
+  port: 8443
+  server: 8.211.175.236
+  skip-cert-verify: true
+  sni: bing.com
   tls: false
   type: hysteria2
 - name: Telegram 🆔@cnetvpn 🇸🇪
