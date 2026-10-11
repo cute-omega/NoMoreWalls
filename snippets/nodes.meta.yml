@@ -107,7 +107,7 @@ proxies:
   sni: vk.com
   tls: false
   type: hysteria2
-- name: '@meliproxyy'
+- name: 🇷🇺191786 | ⚡️Telegram = t.me/S...
   obfs: salamander
   obfs-password: eba1b4766d2a26d6c167e2d2e9efabf4
   password: 033dc6b532
@@ -185,7 +185,7 @@ proxies:
   sni: hy.kirian.su
   tls: false
   type: hysteria2
-- name: 🇫🇮@FreakConfig
+- name: 🇫🇮@Azaranv2ray
   obfs: salamander
   obfs-password: 9VK3Nqd0bcXGPxcay9hRLY28HBtKo5
   password: 77f73bd5-51bf-4143-8ebd-02f56ba376f4
@@ -272,6 +272,14 @@ proxies:
   sni: mhzedir.qzz.io
   tls: false
   type: hysteria2
+- name: 🇩🇪191753 | ⚡️Telegram = t.me/S...
+  password: Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0
+  port: 8080
+  server: 85.204.107.178
+  skip-cert-verify: true
+  sni: hopp-romania-new.roxa.org
+  tls: false
+  type: hysteria2
 - name: 🩵+@Azarakhsh_Proxy+🩷
   obfs: salamander
   obfs-password: KevinZakarian
@@ -335,18 +343,6 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- alpn:
-  - h3
-  name: '@V2raySaman #2'
-  obfs: salamander
-  obfs-password: ec66908dbc46e6920143d9b684adf277
-  password: ca78f919e6
-  port: 11592
-  server: 155.94.134.183
-  skip-cert-verify: false
-  sni: srv-3fc7c9.21freedom.net
-  tls: false
-  type: hysteria2
 - name: '@V2rayng_mar_ket #1'
   obfs: salamander
   obfs-password: ec66908dbc46e6920143d9b684adf277
@@ -357,7 +353,7 @@ proxies:
   sni: srv-3fc7c9.21freedom.net
   tls: false
   type: hysteria2
-- name: 🇨🇭191608 | ⚡️Telegram = t.me/S...
+- name: 🇨🇭191747 | ⚡️Telegram = t.me/S...
   obfs: salamander
   obfs-password: mbQXP2ASuHbF6ZPq
   password: capadm96216165
