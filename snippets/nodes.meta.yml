@@ -255,13 +255,6 @@ proxies:
   sni: gift-catalog.aroonia.ir
   tls: false
   type: hysteria2
-- name: ✈️64@oneclickvpnkeys
-  password: 9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z
-  port: 9443
-  server: 162.249.126.42
-  sni: hop-germany-september.dynuddns.com
-  tls: false
-  type: hysteria2
 - name: کانال تلگرام ما ange1Vpn@
   obfs: salamander
   obfs-password: 7y0p9k93w7ryw8tz
@@ -378,6 +371,14 @@ proxies:
   port: 9443
   server: 104.165.205.21
   sni: onecloudstream.com
+  tls: false
+  type: hysteria2
+- name: 🫡6@oneclickvpnkeys
+  password: f317b5d6-d399-4d3d-a051-89d674ae953c
+  port: 443
+  server: 94.198.54.132
+  skip-cert-verify: true
+  sni: msk.frkn.org
   tls: false
   type: hysteria2
 - name: 'Telegram 🆔@Cnetvpn 🇺🇲 #1'
