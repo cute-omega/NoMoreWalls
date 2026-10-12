@@ -135,14 +135,6 @@ proxies:
   sni: mhzedir.qzz.io
   tls: false
   type: hysteria2
-- name: 🍄36@oneclickvpnkeys
-  password: 267b3a79-81f2-42ac-a409-c23b05b6329d
-  port: 443
-  server: 188.241.241.33
-  skip-cert-verify: true
-  sni: dehy.bbobr.win
-  tls: false
-  type: hysteria2
 - name: '@v2ray_configs_pools 🇫🇷 ⚡️'
   obfs: salamander
   obfs-password: 87d72c2949c0ca85bbda09459244e374
@@ -183,7 +175,7 @@ proxies:
   sni: fiproxy1.lockdwn.com
   tls: false
   type: hysteria2
-- name: 🇩🇪192360 | ⚡️Telegram = t.me/S...
+- name: 'Channel : @Daily_Configs'
   obfs: salamander
   obfs-password: 9VK3Nqd0bcXGPxcay9hRLY28HBtKo5
   password: 77f73bd5-51bf-4143-8ebd-02f56ba376f4
@@ -201,6 +193,13 @@ proxies:
   server: 79.137.206.157
   skip-cert-verify: false
   sni: hy.kirian.su
+  tls: false
+  type: hysteria2
+- name: 🫧9@oneclickvpnkeys
+  password: 7ab3c77e-8fcc-4848-918f-cae3d4eac794
+  port: 2053
+  server: 194.87.118.184
+  sni: match-stream.lovkisport.blog
   tls: false
   type: hysteria2
 - name: '@tootffarangi🍓-6'
@@ -318,11 +317,12 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: 🍄98@oneclickvpnkeys
+- name: 🇸🇬192501 | ⚡️Telegram = t.me/S...
   password: aec8e5e3-bb81-4b22-8802-0b88c54997b3
-  port: 10004
-  server: r627r8.vatilon.cc
-  skip-cert-verify: true
+  port: 20004
+  server: 43.160.245.154
+  skip-cert-verify: false
+  sni: tw.australiacaregroup.site
   tls: false
   type: hysteria2
 - name: '@KAFING_2 #2'
@@ -363,13 +363,6 @@ proxies:
   server: 79.137.206.157
   skip-cert-verify: false
   sni: hy.kirian.su
-  tls: false
-  type: hysteria2
-- name: 🍄42@oneclickvpnkeys
-  password: e3c3b722-1264-4cdc-a97c-b0a1bb73cd67
-  port: 9443
-  server: 104.165.205.21
-  sni: onecloudstream.com
   tls: false
   type: hysteria2
 - name: 🇭🇰@FreakConfig
