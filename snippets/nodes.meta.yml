@@ -301,16 +301,6 @@ proxies:
   sni: vpn.local
   tls: false
   type: hysteria2
-- name: 🇫🇮 @IRAN_V2PING
-  obfs: salamander
-  obfs-password: 9VK3Nqd0bcXGPxcay9hRLY28HBtKo5
-  password: cc3f42eb-6301-4fe1-82ef-0d3443162a88
-  port: 21000
-  server: 79.137.206.157
-  skip-cert-verify: false
-  sni: hy.kirian.su
-  tls: false
-  type: hysteria2
 - name: 🇭🇰@FreakConfig
   obfs: salamander
   obfs-password: 7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9
