@@ -27,3 +27,11 @@ proxies:
   sni: gift-catalog.aroonia.ir
   tls: false
   type: hysteria2
+- name: 🇩🇪193233 | ⚡️Telegram = t.me/S...
+  password: V1UQuwa-4PRIDW2paxrPe58RcxXHPGyFIGS-5QojaM8
+  port: 443
+  server: 144.31.221.57
+  skip-cert-verify: true
+  sni: player.wwwinternetvideo.click
+  tls: false
+  type: hysteria2
