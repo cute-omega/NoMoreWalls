@@ -193,14 +193,6 @@ proxies:
   sni: fiproxy1.lockdwn.com
   tls: false
   type: hysteria2
-- name: 🇸🇬194106 | ⚡️Telegram = t.me/S...
-  password: 745A6079-6A61-423D-BDD9-B344C1D26E62
-  port: 20177
-  server: sg1.dexlos.com
-  skip-cert-verify: false
-  sni: sg1.dexlos.com
-  tls: false
-  type: hysteria2
 - name: 🇫🇮@Azaranv2ray
   obfs: salamander
   obfs-password: 9VK3Nqd0bcXGPxcay9hRLY28HBtKo5
@@ -297,16 +289,6 @@ proxies:
   server: 155.94.134.183
   skip-cert-verify: false
   sni: srv-3fc7c9.21freedom.net
-  tls: false
-  type: hysteria2
-- name: 🇳🇱194214 | ⚡️Telegram = t.me/S...
-  obfs: salamander
-  obfs-password: ypvL8T4HFIBLoH8q
-  password: capadm54312235
-  port: 443
-  server: 51.15.16.68
-  skip-cert-verify: true
-  sni: vpn.local
   tls: false
   type: hysteria2
 - name: 🇨🇭192087 | ⚡️Telegram = t.me/v...
@@ -407,14 +389,6 @@ proxies:
   server: giftcard.gateway-stream.com
   skip-cert-verify: false
   sni: giftcard.gateway-stream.com
-  tls: false
-  type: hysteria2
-- name: 🇩🇪194126 | ⚡️Telegram = t.me/S...
-  password: zhangyang
-  port: 6443
-  server: 130.61.50.75
-  skip-cert-verify: true
-  sni: 130.61.50.75
   tls: false
   type: hysteria2
 - cipher: aes-256-cfb

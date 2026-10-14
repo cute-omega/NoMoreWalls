@@ -27,11 +27,3 @@ proxies:
   sni: gift-catalog.aroonia.ir
   tls: false
   type: hysteria2
-- name: 🇩🇪194126 | ⚡️Telegram = t.me/S...
-  password: zhangyang
-  port: 6443
-  server: 130.61.50.75
-  skip-cert-verify: true
-  sni: 130.61.50.75
-  tls: false
-  type: hysteria2
