@@ -115,7 +115,7 @@ proxies:
   sni: vk.com
   tls: false
   type: hysteria2
-- name: 🇷🇺193861 | ⚡️Telegram = t.me/S...
+- name: vpnsal
   password: 033dc6b532
   port: 11592
   server: 77.232.139.128
@@ -191,6 +191,14 @@ proxies:
   server: 31.76.80.69
   skip-cert-verify: false
   sni: fiproxy1.lockdwn.com
+  tls: false
+  type: hysteria2
+- name: 🇸🇬194106 | ⚡️Telegram = t.me/S...
+  password: 745A6079-6A61-423D-BDD9-B344C1D26E62
+  port: 20177
+  server: sg1.dexlos.com
+  skip-cert-verify: false
+  sni: sg1.dexlos.com
   tls: false
   type: hysteria2
 - name: 🇫🇮@Azaranv2ray
@@ -281,14 +289,6 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 🇳🇱193803 | ⚡️Telegram = t.me/S...
-  password: c635b5f6-b5ea-4e57-927f-75860b0cb984
-  port: 1443
-  server: hy10.shamanfun.ru
-  skip-cert-verify: false
-  sni: hy10.shamanfun.ru
-  tls: false
-  type: hysteria2
 - name: '@V2rayng_mar_ket #1'
   obfs: salamander
   obfs-password: ec66908dbc46e6920143d9b684adf277
@@ -297,6 +297,16 @@ proxies:
   server: 155.94.134.183
   skip-cert-verify: false
   sni: srv-3fc7c9.21freedom.net
+  tls: false
+  type: hysteria2
+- name: 🇳🇱194214 | ⚡️Telegram = t.me/S...
+  obfs: salamander
+  obfs-password: ypvL8T4HFIBLoH8q
+  password: capadm54312235
+  port: 443
+  server: 51.15.16.68
+  skip-cert-verify: true
+  sni: vpn.local
   tls: false
   type: hysteria2
 - name: 🇨🇭192087 | ⚡️Telegram = t.me/v...
@@ -351,14 +361,6 @@ proxies:
   sni: pro2.riziro.ir
   tls: false
   type: hysteria2
-- name: 🇳🇱193870 | ⚡️Telegram = t.me/S...
-  password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
-  port: 8443
-  server: 46.229.243.139
-  skip-cert-verify: true
-  sni: grape-turbo-fr.roxa.org
-  tls: false
-  type: hysteria2
 - name: Telegram 🆔@cnetvpn 🇳🇱
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
@@ -397,14 +399,6 @@ proxies:
   sni: hopp-swizland-new.mysynology.net
   tls: false
   type: hysteria2
-- name: 🇳🇱193872 | ⚡️Telegram = t.me/S...
-  password: wrSuBorIlf
-  port: 443
-  server: 72.56.116.57
-  skip-cert-verify: true
-  sni: hys9.wba-pn.ru
-  tls: false
-  type: hysteria2
 - name: Telegram 🆔@cnetvpn 🇫🇮
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
@@ -413,6 +407,14 @@ proxies:
   server: giftcard.gateway-stream.com
   skip-cert-verify: false
   sni: giftcard.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: 🇩🇪194126 | ⚡️Telegram = t.me/S...
+  password: zhangyang
+  port: 6443
+  server: 130.61.50.75
+  skip-cert-verify: true
+  sni: 130.61.50.75
   tls: false
   type: hysteria2
 - cipher: aes-256-cfb

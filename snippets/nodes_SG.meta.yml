@@ -1,4 +1,12 @@
 proxies:
+- name: 🇸🇬194106 | ⚡️Telegram = t.me/S...
+  password: 745A6079-6A61-423D-BDD9-B344C1D26E62
+  port: 20177
+  server: sg1.dexlos.com
+  skip-cert-verify: false
+  sni: sg1.dexlos.com
+  tls: false
+  type: hysteria2
 - alterId: 0
   cipher: auto
   name: 🇸🇬 新加坡|@ripaojiedian
