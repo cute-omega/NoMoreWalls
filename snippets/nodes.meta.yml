@@ -149,6 +149,16 @@ proxies:
   sni: ees92.shhflow.xyz
   tls: false
   type: hysteria2
+- name: 🇷🇺194963 | ⚡️Telegram = t.me/S...
+  obfs: salamander
+  obfs-password: 588c76723192f87cfe6d6786816177cd2bd9773acdc545928d7d1d5e8338d4ce
+  password: 56ff50da-a238-4646-95ab-dd159634bd87
+  port: 17701
+  server: 37.9.4.112
+  skip-cert-verify: false
+  sni: ru03.arpanet-cdn.com
+  tls: false
+  type: hysteria2
 - name: '@Begoo_VPN ²⁹⁰'
   obfs: salamander
   obfs-password: dzcb7hv6i2kx2zze
@@ -339,16 +349,6 @@ proxies:
   server: 130.49.161.70
   skip-cert-verify: false
   sni: hy2.aspidnet.xyz
-  tls: false
-  type: hysteria2
-- name: 🇹🇷194831 | ⚡️Telegram = t.me/S...
-  obfs: salamander
-  obfs-password: 3b0dp6qtizuawbln
-  password: qtow1x9l2i2zst0q
-  port: 9099
-  server: 45.74.158.237
-  skip-cert-verify: false
-  sni: 45.74.158.237
   tls: false
   type: hysteria2
 - alpn:

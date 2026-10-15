@@ -7,13 +7,6 @@ proxies:
   sni: vk.com
   tls: false
   type: hysteria2
-- name: 🍂67@oneclickvpnkeys
-  password: 6656cc0a-5908-4d04-a436-64f5843c0c7a
-  port: 20326
-  server: finkawwwbroy5.qcloud.surf
-  sni: finkawwwbroy5.qcloud.surf
-  tls: false
-  type: hysteria2
 - alterId: 0
   cipher: auto
   name: 🇺🇸 美国|@ripaojiedian
