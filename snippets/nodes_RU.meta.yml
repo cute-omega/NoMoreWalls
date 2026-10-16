@@ -1,4 +1,11 @@
 proxies:
+- name: 🫑67@oneclickvpnkeys
+  password: 082f5694-9019-4110-b67b-8125dbb9bab8
+  port: 54183
+  server: outh.yandex-cloud.org
+  sni: outh.yandex-cloud.org
+  tls: false
+  type: hysteria2
 - name: Telegram 🆔@cnetvpn 🇷🇺
   obfs: salamander
   obfs-password: 09p333uviv2qal0y
