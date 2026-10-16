@@ -334,6 +334,14 @@ proxies:
   sni: vpn.local
   tls: false
   type: hysteria2
+- name: 🇺🇸195370 | ⚡️Telegram = t.me/S...
+  password: dongtaiwang.com
+  port: 44356
+  server: 142.249.37.90
+  skip-cert-verify: false
+  sni: hy2.561891.xyz
+  tls: false
+  type: hysteria2
 - name: برای اتصال دائمی جوین شو🪭 Tele...
   password: dongtaiwang.com
   port: 44356
