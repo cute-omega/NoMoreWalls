@@ -1,5 +1,5 @@
 proxies:
-- name: '@tootffarangi🍓'
+- name: '@meliproxyy'
   obfs: salamander
   obfs-password: eba1b4766d2a26d6c167e2d2e9efabf4
   password: 033dc6b532
@@ -7,13 +7,6 @@ proxies:
   server: 77.232.139.128
   skip-cert-verify: false
   sni: srv-8718e6.frd21.ru
-  tls: false
-  type: hysteria2
-- name: 🛩️31@oneclickvpnkeys
-  password: e625f8ef-f935-4c7d-a259-0f154b6842fd
-  port: 443
-  server: 177.3.209.226
-  sni: hy-se.bypassme.online
   tls: false
   type: hysteria2
 - name: Telegram 🆔@cnetvpn 🇸🇪
