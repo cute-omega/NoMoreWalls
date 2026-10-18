@@ -132,14 +132,7 @@ proxies:
   sni: srv-8718e6.frd21.ru
   tls: false
   type: hysteria2
-- name: 🛩️15@oneclickvpnkeys
-  password: 082f5694-9019-4110-b67b-8125dbb9bab8
-  port: 54183
-  server: 189.74.114.2
-  sni: outh.yandex-cloud.org
-  tls: false
-  type: hysteria2
-- name: '@v2ray_configs_pools 🇫🇷 ⚡️'
+- name: '@V2rayng_mar_ket'
   obfs: salamander
   obfs-password: 87d72c2949c0ca85bbda09459244e374
   password: 35d26d53bc
@@ -149,6 +142,14 @@ proxies:
   sni: srv-0e5387.frd21.ru
   tls: false
   type: hysteria2
+- name: 🍎98@oneclickvpnkeys
+  password: 4291c983-c520-46ac-82cc-48f14bef573f
+  port: 35013
+  server: 129.213.91.185
+  skip-cert-verify: true
+  sni: 129.213.91.185
+  tls: false
+  type: hysteria2
 - name: 🍎40@oneclickvpnkeys
   password: 529f1911-04d5-4427-94b9-c851fd459a27
   port: 443
@@ -156,7 +157,7 @@ proxies:
   sni: tcp-reset-club.net
   tls: false
   type: hysteria2
-- name: '@vpnbaz🍂'
+- name: Tel-@ProxyMtAlpha👑 10
   obfs: salamander
   obfs-password: 588c76723192f87cfe6d6786816177cd2bd9773acdc545928d7d1d5e8338d4ce
   password: 56ff50da-a238-4646-95ab-dd159634bd87
@@ -244,6 +245,25 @@ proxies:
   sni: 179.61.132.96
   tls: false
   type: hysteria2
+- name: 🍎92@oneclickvpnkeys
+  obfs: salamander
+  obfs-password: u3Soh9_Ui0UmcuY6vk0ug8Lq
+  password: M8LP9DztTr3znqCkmf-r08CQLBLLFK1r
+  port: 7443
+  server: 206.1.96.108
+  sni: me17.msjia8844.site
+  tls: false
+  type: hysteria2
+- name: '@tootffarangi🍓 #1'
+  obfs: salamander
+  obfs-password: u3Soh9_Ui0UmcuY6vk0ug8Lq
+  password: M8LP9DztTr3znqCkmf-r08CQLBLLFK1r
+  port: 7443
+  server: me17.msjia8844.site
+  skip-cert-verify: true
+  sni: me17.msjia8844.site
+  tls: false
+  type: hysteria2
 - name: '@FarazV2ray'
   obfs: salamander
   obfs-password: c1b4086fea89914496c7e10967a419216566
@@ -304,16 +324,6 @@ proxies:
   sni: vpn.local
   tls: false
   type: hysteria2
-- name: 🛩️64@oneclickvpnkeys
-  obfs: salamander
-  obfs-password: ChY5QQQT3ZtUdNT8
-  password: capadmbd5f18bd
-  port: 443
-  server: 51.77.217.70
-  skip-cert-verify: true
-  sni: vpn.local
-  tls: false
-  type: hysteria2
 - name: 'برای اتصال دائمی جوین شو🥏 Tele... #1'
   password: dongtaiwang.com
   port: 44356
@@ -350,15 +360,7 @@ proxies:
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
-- name: 🛩️39@oneclickvpnkeys
-  password: gf1
-  port: 443
-  server: 173.212.201.85
-  skip-cert-verify: true
-  sni: www.docker.com
-  tls: false
-  type: hysteria2
-- name: '@tootffarangi🍓'
+- name: '@iranping24'
   obfs: salamander
   obfs-password: amyr5i21tg78b3oa
   password: l6rbd8u8yr003yl0
