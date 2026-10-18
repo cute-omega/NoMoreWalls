@@ -132,6 +132,13 @@ proxies:
   sni: srv-8718e6.frd21.ru
   tls: false
   type: hysteria2
+- name: 🛩️15@oneclickvpnkeys
+  password: 082f5694-9019-4110-b67b-8125dbb9bab8
+  port: 54183
+  server: 189.74.114.2
+  sni: outh.yandex-cloud.org
+  tls: false
+  type: hysteria2
 - name: '@V2rayng_mar_ket'
   obfs: salamander
   obfs-password: 87d72c2949c0ca85bbda09459244e374
@@ -227,6 +234,14 @@ proxies:
   sni: gift-catalog.aroonia.ir
   tls: false
   type: hysteria2
+- name: 🇳🇱NL-🚀@VPNine1
+  password: CnVfXXvMzh
+  port: 443
+  server: 72.56.92.120
+  skip-cert-verify: true
+  sni: hys13.wba-pn.ru
+  tls: false
+  type: hysteria2
 - name: '@v2ray_configs_pools 🌍 ⚡️'
   password: Hc9_NX924RE_Mn948rgrwiub_m93V84nll
   port: 9443
@@ -254,7 +269,7 @@ proxies:
   sni: me17.msjia8844.site
   tls: false
   type: hysteria2
-- name: '@tootffarangi🍓 #1'
+- name: '@tootffarangi🍓'
   obfs: salamander
   obfs-password: u3Soh9_Ui0UmcuY6vk0ug8Lq
   password: M8LP9DztTr3znqCkmf-r08CQLBLLFK1r
@@ -324,18 +339,20 @@ proxies:
   sni: vpn.local
   tls: false
   type: hysteria2
+- name: 🛩️64@oneclickvpnkeys
+  obfs: salamander
+  obfs-password: ChY5QQQT3ZtUdNT8
+  password: capadmbd5f18bd
+  port: 443
+  server: 51.77.217.70
+  skip-cert-verify: true
+  sni: vpn.local
+  tls: false
+  type: hysteria2
 - name: 'برای اتصال دائمی جوین شو🥏 Tele... #1'
   password: dongtaiwang.com
   port: 44356
   server: 142.249.37.90
-  skip-cert-verify: false
-  sni: hy2.561891.xyz
-  tls: false
-  type: hysteria2
-- name: برای اتصال دائمی جوین شو🪭 Tele...
-  password: dongtaiwang.com
-  port: 44356
-  server: hy2.561891.xyz
   skip-cert-verify: false
   sni: hy2.561891.xyz
   tls: false
@@ -358,6 +375,14 @@ proxies:
   server: giftcard.gateway-stream.com
   skip-cert-verify: false
   sni: giftcard.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: 🛩️39@oneclickvpnkeys
+  password: gf1
+  port: 443
+  server: 173.212.201.85
+  skip-cert-verify: true
+  sni: www.docker.com
   tls: false
   type: hysteria2
 - name: '@iranping24'
@@ -399,6 +424,14 @@ proxies:
   port: 44100
   server: pro2.riziro.ir
   sni: pro2.riziro.ir
+  tls: false
+  type: hysteria2
+- name: 🇳🇱196824 | ⚡️Telegram = t.me/S...
+  password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
+  port: 8443
+  server: 46.229.243.132
+  skip-cert-verify: true
+  sni: grape-turbo-fr.roxa.org
   tls: false
   type: hysteria2
 - name: Telegram 🆔@cnetvpn 🇳🇱
