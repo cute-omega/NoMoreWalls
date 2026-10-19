@@ -1,12 +1,9 @@
 proxies:
-- name: '@MDvpnSEC⚡'
-  obfs: salamander
-  obfs-password: eba1b4766d2a26d6c167e2d2e9efabf4
-  password: 033dc6b532
-  port: 11592
-  server: 77.232.139.128
-  skip-cert-verify: false
-  sni: srv-8718e6.frd21.ru
+- name: 🌍66@oneclickvpnkeys
+  password: 36cd82d2-50b1-400d-b520-2acc9a8a6b40
+  port: 443
+  server: sw.northvale.cloud
+  sni: sw.northvale.cloud
   tls: false
   type: hysteria2
 - name: Telegram 🆔@cnetvpn 🇸🇪
@@ -19,3 +16,10 @@ proxies:
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
+- name: SE_speednode_0020
+  port: 443
+  server: 217.210.129.243
+  skip-cert-verify: true
+  tls: true
+  type: http
+  udp: true
