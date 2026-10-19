@@ -17,6 +17,13 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
+- name: 🌍37@oneclickvpnkeys
+  password: 36cd82d2-50b1-400d-b520-2acc9a8a6b40
+  port: 443
+  server: de.northvale.cloud
+  sni: de.northvale.cloud
+  tls: false
+  type: hysteria2
 - name: Telegram 🆔@cnetvpn 🇩🇪
   obfs: salamander
   obfs-password: 6cmj1dymhm79hopl
