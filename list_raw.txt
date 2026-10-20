@@ -23,7 +23,13 @@ hysteria2://8z2e26xkqsa598s3@gift-catalog.aroonia.ir:52000?insecure=0&sni=gift-c
 hysteria2://Hc9_NX924RE_Mn948rgrwiub_m93V84nll@5.254.51.108:9443?insecure=0&sni=keyhop-voxility-at.dynuddns.com#%40v2ray_configs_pools%20%F0%9F%8C%8D%20%E2%9A%A1%EF%B8%8F
 hysteria2://KevinZakarian@179.61.132.96:8443?insecure=1&sni=179.61.132.96&obfs=salamander&obfs-password=KevinZakarian#%F0%9F%A9%B5%2B%40Azarakhsh_Proxy%2B%F0%9F%A9%B7
 hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?insecure=0&sni=hy2-new.aspidnet.xyz&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566#%40FarazV2ray
-hysteria2://Telegram@179.61.138.145:443?insecure=0&sni=de2.jey.cc.cd&obfs=salamander&obfs-password=Telegram@vpnjey#%F0%9F%87%A9%F0%9F%87%AA197534%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/S...
+hysteria2://Telegram-Vpnjey@179.61.138.145:54759?insecure=1&obfs=salamander&obfs-password=Telegram@vpnjey#Telegram%40vpnjey
+hysteria2://Telegram-vpnjey@31.76.27.23:37009?insecure=1&alpn=h3&sni=de.vpnjey.store&obfs=salamander&obfs-password=Telegram@vpnjey#Telegram%40vpnjey%20%231
+hysteria2://Telegram-vpnjey@77.110.96.201:36264?insecure=1&alpn=h3&sni=se.vpnjey2.dpdns.org&obfs=salamander&obfs-password=Telegram@vpnjey#Telegram%40vpnjey%20%232
+hysteria2://Telegram@179.61.138.145:443?insecure=1&sni=de2.jey.cc.cd&obfs=salamander&obfs-password=Telegram@vpnjey#%F0%9F%87%A9%F0%9F%87%AA197534%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/S...
+hysteria2://Telegram@31.76.27.23:443?insecure=1&alpn=h3&sni=de.vpnjey.store&obfs=salamander&obfs-password=Telegram@vpnjey#Telegram%40vpnjey%20%234
+hysteria2://Telegram@77.110.96.201:443?insecure=1&alpn=h3&sni=se.vpnjey2.dpdns.org&obfs=salamander&obfs-password=Telegram@vpnjey#Telegram%40vpnjey%20%235
+hysteria2://Telegram%40vpnjey@179.61.138.145:54759?insecure=1&obfs=salamander&obfs-password=Telegram@vpnjey#Telegram%40vpnjey%20%236
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%F0%9F%87%B3%F0%9F%87%B1%20-%20NL%20-%20%40FreeOnlineVPN
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%40KAFING_2%20%232
 hysteria2://ca78f919e6@155.94.134.183:11592?insecure=0&sni=srv-3fc7c9.21freedom.net&obfs=salamander&obfs-password=ec66908dbc46e6920143d9b684adf277#%40V2rayng_mar_ket%20%231
