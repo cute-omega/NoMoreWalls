@@ -1,11 +1,4 @@
 proxies:
-- name: 🌍66@oneclickvpnkeys
-  password: 36cd82d2-50b1-400d-b520-2acc9a8a6b40
-  port: 443
-  server: sw.northvale.cloud
-  sni: sw.northvale.cloud
-  tls: false
-  type: hysteria2
 - name: Telegram 🆔@cnetvpn 🇸🇪
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
