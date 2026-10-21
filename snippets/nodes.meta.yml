@@ -263,7 +263,7 @@ proxies:
   sni: se.vpnjey2.dpdns.org
   tls: false
   type: hysteria2
-- name: 🇩🇪197534 | ⚡️Telegram = t.me/S...
+- name: Telegram@vpnjey          Teleg...
   obfs: salamander
   obfs-password: Telegram@vpnjey
   password: Telegram
@@ -364,14 +364,6 @@ proxies:
   server: giftcard.gateway-stream.com
   skip-cert-verify: false
   sni: giftcard.gateway-stream.com
-  tls: false
-  type: hysteria2
-- name: 🌍100@oneclickvpnkeys
-  password: lh92eQnxIpeg2odHHDg0SrcczqwS4e8Y
-  port: 443
-  server: 179.255.104.98
-  skip-cert-verify: true
-  sni: dl1.yuanshicheng.com
   tls: false
   type: hysteria2
 - name: '@confiig_hub #1'
