@@ -89,6 +89,14 @@ proxies:
   tls: false
   type: vmess
   uuid: 88888888-8888-8888-8888-888888888888
+- name: 🇷🇺197970 | ⚡️Telegram = t.me/S...
+  password: 41edb44c8e
+  port: 11592
+  server: 103.88.243.142
+  skip-cert-verify: true
+  sni: srv-17e124.21freedom.net
+  tls: false
+  type: hysteria2
 - name: 🇩🇪192088 | ⚡️Telegram = t.me/v...
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: 443
@@ -107,16 +115,6 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 🇹🇷197884 | ⚡️Telegram = t.me/S...
-  obfs: salamander
-  obfs-password: 9a33460c-b037-47aa-a606-d04211f4e0ec
-  password: c8ed6cd1-6566-4f7a-819e-1c55b2b360c9
-  port: 34121
-  server: 153.56.210.134
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
 - name: 🇺🇸139909 | ⚡️Telegram = t.me/S...
   password: qQe1z5kU8kN6SlKnDt9Ru3Qp
   port: 443
@@ -125,11 +123,12 @@ proxies:
   sni: vk.com
   tls: false
   type: hysteria2
-- name: vpnsal
-  password: 033dc6b532
-  port: 11592
-  server: 77.232.139.128
-  sni: srv-8718e6.frd21.ru
+- name: 🛕97@oneclickvpnkeys
+  password: 099830134df5ac3a04a4b21d39b8c395
+  port: 50160
+  server: 163.192.14.135
+  skip-cert-verify: true
+  sni: vk.com
   tls: false
   type: hysteria2
 - name: '@V2rayng_mar_ket'
@@ -142,7 +141,7 @@ proxies:
   sni: srv-0e5387.frd21.ru
   tls: false
   type: hysteria2
-- name: Tel-@ProxyMtAlpha👑 10
+- name: '@v2ray_phoenix'
   obfs: salamander
   obfs-password: 588c76723192f87cfe6d6786816177cd2bd9773acdc545928d7d1d5e8338d4ce
   password: 56ff50da-a238-4646-95ab-dd159634bd87
@@ -273,7 +272,7 @@ proxies:
   sni: se.vpnjey2.dpdns.org
   tls: false
   type: hysteria2
-- name: Telegram@vpnjey          Teleg...
+- name: 'Channel : @Daily_Configs #1'
   obfs: salamander
   obfs-password: Telegram@vpnjey
   password: Telegram
