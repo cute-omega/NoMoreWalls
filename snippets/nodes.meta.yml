@@ -140,6 +140,21 @@ proxies:
   sni: srv-0e5387.frd21.ru
   tls: false
   type: hysteria2
+- name: 🛸62@oneclickvpnkeys
+  password: 4c858cccff331e64c711a199a6cb256a
+  port: 443
+  server: clash2.deep-links.com
+  sni: clash2.deep-links.com
+  tls: false
+  type: hysteria2
+- name: 🛸69@oneclickvpnkeys
+  password: 4fUg3KH31LpMhko6o0Ka9Q
+  port: 36720
+  server: 198.46.146.118
+  skip-cert-verify: true
+  sni: bing.com
+  tls: false
+  type: hysteria2
 - name: '@v2ray_phoenix'
   obfs: salamander
   obfs-password: 588c76723192f87cfe6d6786816177cd2bd9773acdc545928d7d1d5e8338d4ce
@@ -228,7 +243,7 @@ proxies:
   sni: 179.61.132.96
   tls: false
   type: hysteria2
-- name: 🇹🇷198261 | ⚡️Telegram = t.me/S...
+- name: '@meliproxyy'
   password: M8LP9DztTr3znqCkmf-r08CQLBLLFK1r
   port: 7443
   server: me17.msjia8844.site
@@ -274,6 +289,16 @@ proxies:
   server: 31.76.27.23
   skip-cert-verify: true
   sni: de.vpnjey.store
+  tls: false
+  type: hysteria2
+- name: 🛸64@oneclickvpnkeys
+  obfs: salamander
+  obfs-password: Telegram@vpnjey
+  password: Telegram-vpnjey
+  port: 36264
+  server: 77.110.96.201
+  skip-cert-verify: true
+  sni: se.vpnjey2.dpdns.org
   tls: false
   type: hysteria2
 - alpn:
@@ -331,26 +356,6 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- alpn:
-  - h3
-  name: 🇬🇧198213 | ⚡️Telegram = t.me/S...
-  password: Un62Uyh8P2Scl8x-9DSxFnpNO4GBs4pw
-  port: 8090
-  server: 185.139.7.254
-  skip-cert-verify: true
-  sni: 185.139.7.254
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
-  name: 🇦🇺198211 | ⚡️Telegram = t.me/S...
-  password: Un62Uyh8P2Scl8x-9DSxFnpNO4GBs4pw
-  port: 8090
-  server: 3.24.240.43
-  skip-cert-verify: true
-  sni: 3.24.240.43
-  tls: false
-  type: hysteria2
 - name: 🇳🇱 - NL - @FreeOnlineVPN
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
@@ -371,6 +376,13 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
+- name: 🛸75@oneclickvpnkeys
+  password: bce6c821-200d-421f-bf3d-7159e5246ea0
+  port: 33333
+  server: hy2.123266.xyz
+  sni: hy2.123266.xyz
+  tls: false
+  type: hysteria2
 - name: '@V2rayng_mar_ket #1'
   obfs: salamander
   obfs-password: ec66908dbc46e6920143d9b684adf277
@@ -389,16 +401,6 @@ proxies:
   server: 208.69.78.217
   skip-cert-verify: true
   sni: vpn.local
-  tls: false
-  type: hysteria2
-- name: 🇭🇰198215 | ⚡️Telegram = t.me/S...
-  obfs: salamander
-  obfs-password: 7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9
-  password: eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ
-  port: 5010
-  server: 152.32.254.68
-  skip-cert-verify: false
-  sni: nas.aizhzo.com
   tls: false
   type: hysteria2
 - name: '@vmess_ir'

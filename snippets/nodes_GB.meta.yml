@@ -1,14 +1,4 @@
 proxies:
-- alpn:
-  - h3
-  name: 🇬🇧198213 | ⚡️Telegram = t.me/S...
-  password: Un62Uyh8P2Scl8x-9DSxFnpNO4GBs4pw
-  port: 8090
-  server: 185.139.7.254
-  skip-cert-verify: true
-  sni: 185.139.7.254
-  tls: false
-  type: hysteria2
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
   name: GB_speednode_0013
