@@ -1,15 +1,32 @@
 proxies:
-- name: GB_speednode_0009
-  password: None
-  port: 443
-  server: 212.102.63.61
+- alpn:
+  - h3
+  name: 🇬🇧198213 | ⚡️Telegram = t.me/S...
+  password: Un62Uyh8P2Scl8x-9DSxFnpNO4GBs4pw
+  port: 8090
+  server: 185.139.7.254
   skip-cert-verify: true
-  tls: true
-  type: http
-  udp: true
-- name: GB_speednode_0010
+  sni: 185.139.7.254
+  tls: false
+  type: hysteria2
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: GB_speednode_0013
+  network: tcp
   port: 443
-  server: 212.102.63.61
+  reality-opts:
+    public-key: ui9MLRYZIz7S6_1E4fZgoamwTypfQAMwJ1olxGcWomE
+    short-id: '!!str fc70174007a393b4'
+  server: netherlands02.azotvpn.xyz
+  servername: netherlands02.azotvpn.xyz
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: a500be68-4ff6-433b-9968-472be69fab14
+- name: GB_speednode_0014
+  port: 8443
+  server: 198.105.124.180
   skip-cert-verify: true
   tls: true
   type: http
