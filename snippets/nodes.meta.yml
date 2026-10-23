@@ -246,16 +246,6 @@ proxies:
   sni: 179.61.132.96
   tls: false
   type: hysteria2
-- name: 🇮🇷198624 | ⚡️Telegram = t.me/S...
-  obfs: salamander
-  obfs-password: 3mVEvYnmg5a4U6_66TQgh1W8
-  password: L5h99fyPz7ER5yxTks4tjDjHQa5Sk96s
-  port: 443
-  server: ir1.wufpel.ir
-  skip-cert-verify: false
-  sni: b2ab2c3a2670d4b2.wufpel.ir
-  tls: false
-  type: hysteria2
 - name: '@meliproxyy'
   password: M8LP9DztTr3znqCkmf-r08CQLBLLFK1r
   port: 7443
