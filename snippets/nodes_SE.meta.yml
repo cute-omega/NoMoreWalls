@@ -1,9 +1,15 @@
 proxies:
-- name: 🐙32@oneclickvpnkeys
+- name: 🐙71@oneclickvpnkeys
+  password: 78559873-84ef-4cab-a0b2-46d4cd20de4a
+  port: 2053
+  server: 144.31.230.51
+  sni: sweden.luxes.network
+  tls: false
+  type: hysteria2
+- name: 🐙93@oneclickvpnkeys
   password: d4ca9415f0eac7897472e1e5b86d2e96
   port: 443
-  server: 50.7.38.243
-  sni: promo.betust.net
+  server: promo.betust.net
   tls: false
   type: hysteria2
 - name: Telegram 🆔@cnetvpn 🇸🇪
