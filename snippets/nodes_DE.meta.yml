@@ -9,13 +9,6 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 🐙62@oneclickvpnkeys
-  password: 78559873-84ef-4cab-a0b2-46d4cd20de4a
-  port: 2053
-  server: 2.26.48.112
-  sni: noway.luxes.network
-  tls: false
-  type: hysteria2
 - name: Telegram 🆔@cnetvpn 🇩🇪
   obfs: salamander
   obfs-password: 6cmj1dymhm79hopl
