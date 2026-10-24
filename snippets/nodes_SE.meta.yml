@@ -1,4 +1,11 @@
 proxies:
+- name: 🐙32@oneclickvpnkeys
+  password: d4ca9415f0eac7897472e1e5b86d2e96
+  port: 443
+  server: 50.7.38.243
+  sni: promo.betust.net
+  tls: false
+  type: hysteria2
 - name: Telegram 🆔@cnetvpn 🇸🇪
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
