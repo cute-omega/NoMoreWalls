@@ -27,29 +27,6 @@ proxies:
   sni: gift-catalog.aroonia.ir
   tls: false
   type: hysteria2
-- name: 🇩🇪199747 | ⚡️Telegram = t.me/S...
-  password: mhsl
-  port: 14444
-  server: 88.99.213.222
-  skip-cert-verify: true
-  sni: bing.com
-  tls: false
-  type: hysteria2
-- name: 🍄‍🟫41@oneclickvpnkeys
-  password: miaoge110
-  port: 51511
-  server: 5.45.100.100
-  skip-cert-verify: true
-  tls: false
-  type: hysteria2
-- name: 🇩🇪199745 | ⚡️Telegram = t.me/S...
-  password: wdXYbPlYLa5yLB7LF2Ambo
-  port: 443
-  server: 46.225.10.16
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
 - name: DE_speednode_0007
   port: 443
   server: 213.109.163.119
