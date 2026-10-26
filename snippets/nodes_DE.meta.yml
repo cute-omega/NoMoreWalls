@@ -19,34 +19,6 @@ proxies:
   sni: gift-catalog.aroonia.ir
   tls: false
   type: hysteria2
-- name: 🐍8@oneclickvpnkeys
-  password: c0242d1b-db7a-4dcf-95ff-e10a3ef1c1a3
-  port: 4443
-  server: 31.77.8.44
-  sni: de4.shvpn.ru
-  tls: false
-  type: hysteria2
-- name: 🐍9@oneclickvpnkeys
-  password: c0242d1b-db7a-4dcf-95ff-e10a3ef1c1a3
-  port: 4443
-  server: 31.77.8.55
-  sni: de5.shvpn.ru
-  tls: false
-  type: hysteria2
-- name: 🐍7@oneclickvpnkeys
-  password: c0242d1b-db7a-4dcf-95ff-e10a3ef1c1a3
-  port: 4443
-  server: 94.103.169.109
-  sni: de3.shvpn.ru
-  tls: false
-  type: hysteria2
-- name: 🐍15@oneclickvpnkeys
-  password: c0242d1b-db7a-4dcf-95ff-e10a3ef1c1a3
-  port: 4443
-  server: 94.103.169.80
-  sni: de2.shvpn.ru
-  tls: false
-  type: hysteria2
 - name: DE_speednode_0004
   port: 443
   server: 213.109.163.119
