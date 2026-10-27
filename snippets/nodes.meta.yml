@@ -107,6 +107,13 @@ proxies:
   sni: vk.com
   tls: false
   type: hysteria2
+- name: 🇩🇪201034 | ⚡️Telegram = t.me/S...
+  password: 2f0fccb6-4a86-4d9f-9e03-a2dfee6ed7f5
+  port: 8443
+  server: 95.85.252.217
+  sni: speedtestmark.com
+  tls: false
+  type: hysteria2
 - name: '@V2rayng_mar_ket'
   obfs: salamander
   obfs-password: 87d72c2949c0ca85bbda09459244e374
@@ -175,28 +182,6 @@ proxies:
   server: gift-catalog.aroonia.ir
   skip-cert-verify: false
   sni: gift-catalog.aroonia.ir
-  tls: false
-  type: hysteria2
-- name: 🇩🇪200800 | ⚡️Telegram = t.me/S...
-  password: 9qFAF3s4R7wkGxcI0fonColtap41RUTsWdW
-  port: 30396
-  server: 45.131.65.244
-  skip-cert-verify: false
-  sni: pisulka.jsbox.top
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
-  - h2
-  - http/1.1
-  fingerprint: chrome
-  name: telegram:@pirozi_ArGaP
-  obfs: salamander
-  obfs-password: TYrQkc4C2MJMKlzlge0M_hrH
-  password: EOaHwQIGHSjmsbYl_g6nPanNsQ2td2Yv
-  port: 8443
-  server: ip.immahan.ir
-  sni: tr.tu5pars.ir
   tls: false
   type: hysteria2
 - name: 🩵+@Azarakhsh_Proxy+🩷
@@ -305,6 +290,16 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
+- fingerprint: chrome
+  name: '@tootffarangi🍓'
+  obfs: salamander
+  obfs-password: 5P1G9AdY6Jx8giZJCuS4w_gV
+  password: Xg5RVA7OAqBS6zvK5J4RpOVm4UMRmL-I
+  port: 443
+  server: bt.wufpel.ir
+  sni: 124dfda72fbf73c9.wufpel.ir
+  tls: false
+  type: hysteria2
 - name: 🇳🇱 - NL - @FreeOnlineVPN
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
@@ -323,6 +318,13 @@ proxies:
   server: 5.175.249.174
   skip-cert-verify: true
   sni: api.kermanshahi.org
+  tls: false
+  type: hysteria2
+- name: 🇩🇪201035 | ⚡️Telegram = t.me/S...
+  password: c0242d1b-db7a-4dcf-95ff-e10a3ef1c1a3
+  port: 4443
+  server: 31.76.24.11
+  sni: de1.shvpn.ru
   tls: false
   type: hysteria2
 - name: '@V2rayng_mar_ket #1'
@@ -373,6 +375,15 @@ proxies:
   server: giftcard.gateway-stream.com
   skip-cert-verify: false
   sni: giftcard.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: 🇩🇪201128 | ⚡️Telegram = t.me/S...
+  obfs: salamander
+  obfs-password: 7922smqtd5qm70fu
+  password: hltm9jnj6ez4cbhd
+  port: 2098
+  server: vip.trapxan.ir
+  sni: vip.trapxan.ir
   tls: false
   type: hysteria2
 - name: '@confiig_hub #1'
