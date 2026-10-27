@@ -19,6 +19,14 @@ proxies:
   sni: gift-catalog.aroonia.ir
   tls: false
   type: hysteria2
+- name: 🇩🇪200800 | ⚡️Telegram = t.me/S...
+  password: 9qFAF3s4R7wkGxcI0fonColtap41RUTsWdW
+  port: 30396
+  server: 45.131.65.244
+  skip-cert-verify: false
+  sni: pisulka.jsbox.top
+  tls: false
+  type: hysteria2
 - name: DE_speednode_0004
   port: 443
   server: 213.109.163.119

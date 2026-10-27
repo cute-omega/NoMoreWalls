@@ -99,29 +99,12 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 🔰 @prrofile_purple (تلگرام)
-  obfs: salamander
-  obfs-password: qkdqum5rllpyup7h
-  password: dfo5i9p6payp29i0
-  port: 22357
-  server: ll5xoe8j.easyiran.org
-  skip-cert-verify: false
-  sni: ll5xoe8j.easyiran.org
-  tls: false
-  type: hysteria2
 - name: 🇺🇸139909 | ⚡️Telegram = t.me/S...
   password: qQe1z5kU8kN6SlKnDt9Ru3Qp
   port: 443
   server: 54.213.89.22
   skip-cert-verify: true
   sni: vk.com
-  tls: false
-  type: hysteria2
-- name: 🇳🇱200597 | ⚡️Telegram = t.me/S...
-  password: 146d567c-6335-4e63-a8aa-7ec068642440
-  port: 4443
-  server: 13.143.232.62
-  sni: nl1.obxodvpn.us
   tls: false
   type: hysteria2
 - name: '@V2rayng_mar_ket'
@@ -192,6 +175,14 @@ proxies:
   server: gift-catalog.aroonia.ir
   skip-cert-verify: false
   sni: gift-catalog.aroonia.ir
+  tls: false
+  type: hysteria2
+- name: 🇩🇪200800 | ⚡️Telegram = t.me/S...
+  password: 9qFAF3s4R7wkGxcI0fonColtap41RUTsWdW
+  port: 30396
+  server: 45.131.65.244
+  skip-cert-verify: false
+  sni: pisulka.jsbox.top
   tls: false
   type: hysteria2
 - alpn:
@@ -344,14 +335,14 @@ proxies:
   sni: srv-3fc7c9.21freedom.net
   tls: false
   type: hysteria2
-- name: 🇳🇱200697 | ⚡️Telegram = t.me/S...
+- name: 🔰 @prrofile_purple (تلگرام)
   obfs: salamander
-  obfs-password: ypvL8T4HFIBLoH8q
-  password: capadm54312235
-  port: 443
-  server: 51.15.16.68
-  skip-cert-verify: true
-  sni: vpn.local
+  obfs-password: qkdqum5rllpyup7h
+  password: dfo5i9p6payp29i0
+  port: 22357
+  server: ll5xoe8j.easyiran.org
+  skip-cert-verify: false
+  sni: ll5xoe8j.easyiran.org
   tls: false
   type: hysteria2
 - name: '@vmess_ir'
