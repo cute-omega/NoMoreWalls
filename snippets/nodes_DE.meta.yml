@@ -9,6 +9,13 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
+- name: 🇩🇪202167 | ⚡️Telegram = t.me/S...
+  password: 23c82941-70f4-4381-90db-bd28e9a902e9
+  port: 443
+  server: 179.254.127.159
+  sni: steel7.hadsvpn.com
+  tls: false
+  type: hysteria2
 - name: DE_speednode_0004
   port: 443
   server: 213.109.163.119

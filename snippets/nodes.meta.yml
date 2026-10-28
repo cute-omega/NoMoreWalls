@@ -107,22 +107,25 @@ proxies:
   sni: vk.com
   tls: false
   type: hysteria2
-- name: 🇪🇪201602 | ⚡️Telegram = t.me/S...
-  password: 146d567c-6335-4e63-a8aa-7ec068642440
-  port: 4443
-  server: ee2.obxodvpn.us
-  skip-cert-verify: false
-  sni: nl1.obxodvpn.us
+- name: 🇵🇱202164 | ⚡️Telegram = t.me/S...
+  password: 10be1dad-9952-4c5e-aa30-db435f69b727
+  port: 4444
+  server: pl3.nexfile.net
+  sni: pl3.nexfile.net
   tls: false
   type: hysteria2
-- alpn:
-  - h3
-  name: 🇳🇱201577 | ⚡️Telegram = t.me/S...
-  password: 146d567c-6335-4e63-a8aa-7ec068642440
-  port: 4443
-  server: nl1.obxodvpn.us
-  skip-cert-verify: false
-  sni: nl1.obxodvpn.us
+- name: 🇩🇪202167 | ⚡️Telegram = t.me/S...
+  password: 23c82941-70f4-4381-90db-bd28e9a902e9
+  port: 443
+  server: 179.254.127.159
+  sni: steel7.hadsvpn.com
+  tls: false
+  type: hysteria2
+- name: 🇺🇸202161 | ⚡️Telegram = t.me/S...
+  password: 329e13e4-ee7c-4802-ac72-5fcab79c2402
+  port: 443
+  server: 217.60.72.225
+  sni: forshynewh.duckdns.org
   tls: false
   type: hysteria2
 - name: '@V2rayng_mar_ket'
@@ -173,14 +176,6 @@ proxies:
   server: giftcard.gateway-stream.com
   skip-cert-verify: false
   sni: giftcard.gateway-stream.com
-  tls: false
-  type: hysteria2
-- name: '@v2ray_configs_pools 🌍 ⚡️'
-  password: Hc9_NX924RE_Mn948rgrwiub_m93V84nll
-  port: 9443
-  server: 5.254.51.108
-  skip-cert-verify: false
-  sni: keyhop-voxility-at.dynuddns.com
   tls: false
   type: hysteria2
 - name: 🩵+@Azarakhsh_Proxy+🩷
@@ -309,6 +304,16 @@ proxies:
   sni: srv-3fc7c9.21freedom.net
   tls: false
   type: hysteria2
+- name: 🇳🇱202216 | ⚡️Telegram = t.me/S...
+  obfs: salamander
+  obfs-password: ypvL8T4HFIBLoH8q
+  password: capadm54312235
+  port: 443
+  server: 51.15.16.68
+  skip-cert-verify: true
+  sni: vpn.local
+  tls: false
+  type: hysteria2
 - name: '@vmess_ir'
   obfs: salamander
   obfs-password: 7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9
@@ -359,6 +364,13 @@ proxies:
   port: 44100
   server: pro2.riziro.ir
   sni: pro2.riziro.ir
+  tls: false
+  type: hysteria2
+- name: 🇳🇱202038 | ⚡️Telegram = t.me/S...
+  password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
+  port: 8443
+  server: 46.229.243.131
+  sni: grape-turbo-fr.roxa.org
   tls: false
   type: hysteria2
 - name: Telegram 🆔@cnetvpn 🇳🇱
