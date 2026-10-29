@@ -7,13 +7,6 @@ proxies:
   sni: vk.com
   tls: false
   type: hysteria2
-- name: 🇺🇸202161 | ⚡️Telegram = t.me/S...
-  password: 329e13e4-ee7c-4802-ac72-5fcab79c2402
-  port: 443
-  server: 217.60.72.225
-  sni: forshynewh.duckdns.org
-  tls: false
-  type: hysteria2
 - alterId: 0
   cipher: auto
   name: 🇺🇸 美国|@ripaojiedian
