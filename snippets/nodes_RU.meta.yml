@@ -1,4 +1,12 @@
 proxies:
+- name: 🇷🇺202915 | ⚡️Telegram = t.me/S...
+  password: 41edb44c8e
+  port: 11592
+  server: 103.88.243.142
+  skip-cert-verify: true
+  sni: 103.88.243.142
+  tls: false
+  type: hysteria2
 - client-fingerprint: firefox
   flow: xtls-rprx-vision
   name: RU_speednode_0029
