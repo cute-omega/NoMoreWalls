@@ -1,4 +1,14 @@
 proxies:
+- name: 🇸🇪203174 | ⚡️Telegram = t.me/S...
+  obfs: salamander
+  obfs-password: 9765192816a553687801bb170ee1c351
+  password: HyDouble_f1NgaW7sHbMefhNf
+  port: 25000
+  server: fenrir.cc.cd
+  skip-cert-verify: false
+  sni: fenrir.cc.cd
+  tls: false
+  type: hysteria2
 - name: Telegram 🆔@cnetvpn 🇸🇪
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
