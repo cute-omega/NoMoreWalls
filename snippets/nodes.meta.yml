@@ -107,31 +107,12 @@ proxies:
   sni: vk.com
   tls: false
   type: hysteria2
-- name: '@tootffarangi🍓'
-  obfs: salamander
-  obfs-password: 27b960aa5b199a215c3a84fd4818e5d2
-  password: 24266838d888d903594cc6e33910aeeb
-  port: 443
-  server: 2.28.226.197
-  sni: vpn.172908710.dpdns.org
-  tls: false
-  type: hysteria2
-- name: 🇩🇪203934 | ⚡️Telegram = t.me/S...
+- name: 🇵🇱204026 | ⚡️Telegram = t.me/S...
   password: 2a0fc918-9c61-451b-a9ad-e8f796e70f52
   port: 443
-  server: 9.247.54.69
+  server: 45.192.12.83
   skip-cert-verify: true
   sni: nl1.obxodvpn.us
-  tls: false
-  type: hysteria2
-- name: 🇫🇷203919 | ⚡️Telegram = t.me/S...
-  obfs: salamander
-  obfs-password: ad7088dafb02115c
-  password: 418ddc75-aa9c-4e5d-a9a3-82c50a5a02b6
-  port: 20222
-  server: 51.75.118.5
-  skip-cert-verify: true
-  sni: www.bing.com
   tls: false
   type: hysteria2
 - name: '@Begoo_VPN ²⁹⁰'
@@ -152,6 +133,13 @@ proxies:
   server: 31.76.80.69
   skip-cert-verify: false
   sni: fiproxy1.lockdwn.com
+  tls: false
+  type: hysteria2
+- name: 🇬🇧204020 | ⚡️Telegram = t.me/S...
+  password: 6da2c981-8c77-4340-bda3-93399b7aea26
+  port: 443
+  server: 163.245.41.48
+  sni: blogs.blog-forme.ru
   tls: false
   type: hysteria2
 - name: Telegram 🆔@Cnetvpn 🇺🇲
@@ -266,6 +254,14 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
+- name: 🇵🇱204018 | ⚡️Telegram = t.me/S...
+  password: a35c508f-4d5d-4531-842e-6e9d43c762c0
+  port: 4444
+  server: 13.143.189.96
+  skip-cert-verify: true
+  sni: pl3.nexfile.net
+  tls: false
+  type: hysteria2
 - name: '@KAFING_2 #2'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
@@ -304,6 +300,14 @@ proxies:
   server: giftcard.gateway-stream.com
   skip-cert-verify: false
   sni: giftcard.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: 🇫🇷204022 | ⚡️Telegram = t.me/S...
+  password: gf1
+  port: 443
+  server: 173.212.201.85
+  skip-cert-verify: true
+  sni: www.docker.com
   tls: false
   type: hysteria2
 - name: '@vpnbaz🍂 #1'
