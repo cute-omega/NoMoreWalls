@@ -89,15 +89,6 @@ proxies:
   tls: false
   type: vmess
   uuid: 88888888-8888-8888-8888-888888888888
-- name: 🇸🇪204441 | ⚡️Telegram = t.me/S...
-  obfs: salamander
-  obfs-password: awd7e2wmcz9zaoeb
-  password: 84kwheyd5evfdomw
-  port: 54753
-  server: 815mgcee.easyiran.org
-  sni: 815mgcee.easyiran.org
-  tls: false
-  type: hysteria2
 - name: '@KAFING_2'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
@@ -114,15 +105,6 @@ proxies:
   server: 54.213.89.22
   skip-cert-verify: true
   sni: vk.com
-  tls: false
-  type: hysteria2
-- name: 🇩🇪DE-🚀@VPNine1
-  obfs: salamander
-  obfs-password: litevpn
-  password: 59018379-d5df-4314-ab23-df0e838d7953
-  port: 443
-  server: 198.13.140.193
-  sni: efa11.lumariqis.com
   tls: false
   type: hysteria2
 - name: '@Begoo_VPN ²⁹⁰'
@@ -153,6 +135,14 @@ proxies:
   server: giftcard.gateway-stream.com
   skip-cert-verify: false
   sni: giftcard.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: 🇩🇪204672 | ⚡️Telegram = t.me/S...
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: vpn-de-002.fastervpn.world
+  skip-cert-verify: true
+  sni: vpn-de-002.fastervpn.world
   tls: false
   type: hysteria2
 - name: 🩵+@Azarakhsh_Proxy+🩷
@@ -257,18 +247,10 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: 🇧🇾204433 | ⚡️Telegram = t.me/S...
+- name: برای اتصال دائمی جوین شو🪭 Tele...
   password: a35c508f-4d5d-4531-842e-6e9d43c762c0
   port: 4444
   server: 13.143.188.142
-  skip-cert-verify: false
-  sni: bl1.nexfile.net
-  tls: false
-  type: hysteria2
-- name: 🇧🇾204438 | ⚡️Telegram = t.me/S...
-  password: a35c508f-4d5d-4531-842e-6e9d43c762c0
-  port: 4444
-  server: 13.143.188.143
   skip-cert-verify: false
   sni: bl1.nexfile.net
   tls: false
@@ -281,20 +263,6 @@ proxies:
   server: 5.175.249.174
   skip-cert-verify: true
   sni: api.kermanshahi.org
-  tls: false
-  type: hysteria2
-- name: 🇳🇱NL-🚀@VPNine1
-  password: e48078c8-21ae-4d27-9438-b85492972894
-  port: 443
-  server: 84.245.18.209
-  sni: hy.gerqix.autos
-  tls: false
-  type: hysteria2
-- name: 🇩🇪204415 | ⚡️Telegram = t.me/S...
-  password: e5ec2586-59b3-40fa-91b7-bb37a2f7744e
-  port: 443
-  server: 45.88.12.26
-  sni: crt.onecloudstream.com
   tls: false
   type: hysteria2
 - name: '@vmess_ir'
