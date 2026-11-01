@@ -89,6 +89,15 @@ proxies:
   tls: false
   type: vmess
   uuid: 88888888-8888-8888-8888-888888888888
+- name: 🇸🇪204441 | ⚡️Telegram = t.me/S...
+  obfs: salamander
+  obfs-password: awd7e2wmcz9zaoeb
+  password: 84kwheyd5evfdomw
+  port: 54753
+  server: 815mgcee.easyiran.org
+  sni: 815mgcee.easyiran.org
+  tls: false
+  type: hysteria2
 - name: '@KAFING_2'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
@@ -107,15 +116,12 @@ proxies:
   sni: vk.com
   tls: false
   type: hysteria2
-- alpn:
-  - h3
-  name: '@FXxNET⚡️'
+- name: 🇩🇪DE-🚀@VPNine1
   obfs: salamander
   obfs-password: litevpn
   password: 59018379-d5df-4314-ab23-df0e838d7953
   port: 443
   server: 198.13.140.193
-  skip-cert-verify: false
   sni: efa11.lumariqis.com
   tls: false
   type: hysteria2
@@ -139,13 +145,6 @@ proxies:
   sni: fiproxy1.lockdwn.com
   tls: false
   type: hysteria2
-- name: 🇳🇱204271 | ⚡️Telegram = t.me/S...
-  password: 6da2c981-8c77-4340-bda3-93399b7aea26
-  port: 443
-  server: 195.63.146.10
-  sni: video.blog-forme.ru
-  tls: false
-  type: hysteria2
 - name: Telegram 🆔@Cnetvpn 🇺🇲
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
@@ -154,14 +153,6 @@ proxies:
   server: giftcard.gateway-stream.com
   skip-cert-verify: false
   sni: giftcard.gateway-stream.com
-  tls: false
-  type: hysteria2
-- name: 🇩🇪204269 | ⚡️Telegram = t.me/S...
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: 443
-  server: 3.76.221.4
-  skip-cert-verify: true
-  sni: 3.76.221.4
   tls: false
   type: hysteria2
 - name: 🩵+@Azarakhsh_Proxy+🩷
@@ -266,7 +257,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: برای اتصال دائمی جوین شو🪭 Tele...
+- name: 🇧🇾204433 | ⚡️Telegram = t.me/S...
   password: a35c508f-4d5d-4531-842e-6e9d43c762c0
   port: 4444
   server: 13.143.188.142
@@ -274,19 +265,12 @@ proxies:
   sni: bl1.nexfile.net
   tls: false
   type: hysteria2
-- name: 🇵🇱204266 | ⚡️Telegram = t.me/S...
+- name: 🇧🇾204438 | ⚡️Telegram = t.me/S...
   password: a35c508f-4d5d-4531-842e-6e9d43c762c0
   port: 4444
-  server: 13.143.189.105
-  skip-cert-verify: true
-  sni: pl2.nexfile.net
-  tls: false
-  type: hysteria2
-- name: 🇵🇱204267 | ⚡️Telegram = t.me/S...
-  password: a35c508f-4d5d-4531-842e-6e9d43c762c0
-  port: 4444
-  server: 13.143.189.106
-  sni: pl2.nexfile.net
+  server: 13.143.188.143
+  skip-cert-verify: false
+  sni: bl1.nexfile.net
   tls: false
   type: hysteria2
 - name: '@KAFING_2 #2'
@@ -297,6 +281,20 @@ proxies:
   server: 5.175.249.174
   skip-cert-verify: true
   sni: api.kermanshahi.org
+  tls: false
+  type: hysteria2
+- name: 🇳🇱NL-🚀@VPNine1
+  password: e48078c8-21ae-4d27-9438-b85492972894
+  port: 443
+  server: 84.245.18.209
+  sni: hy.gerqix.autos
+  tls: false
+  type: hysteria2
+- name: 🇩🇪204415 | ⚡️Telegram = t.me/S...
+  password: e5ec2586-59b3-40fa-91b7-bb37a2f7744e
+  port: 443
+  server: 45.88.12.26
+  sni: crt.onecloudstream.com
   tls: false
   type: hysteria2
 - name: '@vmess_ir'
