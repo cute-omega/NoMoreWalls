@@ -9,12 +9,14 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 🇩🇪204672 | ⚡️Telegram = t.me/S...
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: 443
-  server: vpn-de-002.fastervpn.world
+- name: 'Telegram@vpnjey #7'
+  obfs: salamander
+  obfs-password: Telegram@vpnjey
+  password: vpnjey
+  port: 36264
+  server: 179.61.138.145
   skip-cert-verify: true
-  sni: vpn-de-002.fastervpn.world
+  sni: de2.jey.cc.cd
   tls: false
   type: hysteria2
 - name: DE_speednode_0004
