@@ -99,7 +99,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: '@VPNConnectd'
+- name: '@V2ray_confiig'
   obfs: salamander
   obfs-password: qkdqum5rllpyup7h
   password: dq6rfcyex30h1b6z
@@ -134,13 +134,6 @@ proxies:
   sni: cdn77.dmtr.ru
   tls: false
   type: hysteria2
-- name: ⚡96@oneclickvpnkeys
-  password: 63e1b9462d708b56d5d5a0267cffecdc
-  port: 443
-  server: 88.216.195.188
-  sni: promo3.goonars.com
-  tls: false
-  type: hysteria2
 - name: ⏳94@oneclickvpnkeys
   password: 69e41e64-a832-471a-b740-94577ca85520
   port: 443
@@ -165,14 +158,13 @@ proxies:
   sni: crt.onecloudstream.com
   tls: false
   type: hysteria2
-- name: Telegram 🆔@Cnetvpn 🇺🇲
-  obfs: salamander
-  obfs-password: fuw2k1ddrouwxr3u
-  password: 8f0gvz5eul6omhq4
-  port: 52087
-  server: giftcard.gateway-stream.com
-  skip-cert-verify: false
-  sni: giftcard.gateway-stream.com
+- alpn:
+  - h3
+  name: 🇩🇪206217 | ⚡️Telegram = t.me/L...
+  password: 80cbaaec-caff-4181-8539-ea6e51731007
+  port: 443
+  server: 45.88.12.119
+  sni: crt.onecloudstream.com
   tls: false
   type: hysteria2
 - name: ⏳71@oneclickvpnkeys
@@ -197,14 +189,6 @@ proxies:
   server: 202.146.222.89
   skip-cert-verify: true
   sni: https://t.me/clashv8🇨🇳
-  tls: false
-  type: hysteria2
-- name: ⚡73@oneclickvpnkeys
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: 443
-  server: vpn-de-002.fastervpn.world
-  skip-cert-verify: true
-  sni: vpn-de-002.fastervpn.world
   tls: false
   type: hysteria2
 - name: 🩵+@Azarakhsh_Proxy+🩷
@@ -315,7 +299,15 @@ proxies:
   sni: bl1.nexfile.net
   tls: false
   type: hysteria2
-- name: 🇵🇱206068 | ⚡️Telegram = t.me/L...
+- name: 🍪66@oneclickvpnkeys
+  password: a35c508f-4d5d-4531-842e-6e9d43c762c0
+  port: 4444
+  server: 13.143.188.143
+  skip-cert-verify: true
+  sni: bl1.nexfile.net
+  tls: false
+  type: hysteria2
+- name: '@vasl_bashim'
   password: a35c508f-4d5d-4531-842e-6e9d43c762c0
   port: 4444
   server: 13.143.189.105
@@ -323,7 +315,7 @@ proxies:
   sni: pl2.nexfile.net
   tls: false
   type: hysteria2
-- name: 🇵🇱206071 | ⚡️Telegram = t.me/L...
+- name: '@vpnbaz💞'
   password: a35c508f-4d5d-4531-842e-6e9d43c762c0
   port: 4444
   server: 13.143.189.106
@@ -331,7 +323,7 @@ proxies:
   sni: pl2.nexfile.net
   tls: false
   type: hysteria2
-- name: 🇵🇱206069 | ⚡️Telegram = t.me/L...
+- name: '@vpnbaz💕'
   password: a35c508f-4d5d-4531-842e-6e9d43c762c0
   port: 4444
   server: 13.143.189.142
@@ -339,7 +331,14 @@ proxies:
   sni: pl3.nexfile.net
   tls: false
   type: hysteria2
-- name: 🇵🇱206070 | ⚡️Telegram = t.me/L...
+- name: 🍪61@oneclickvpnkeys
+  password: a35c508f-4d5d-4531-842e-6e9d43c762c0
+  port: 4444
+  server: 13.143.189.143
+  sni: pl3.nexfile.net
+  tls: false
+  type: hysteria2
+- name: '@vpnbaz🍓'
   password: a35c508f-4d5d-4531-842e-6e9d43c762c0
   port: 4444
   server: 13.143.189.147
@@ -347,12 +346,19 @@ proxies:
   sni: pl2.nexfile.net
   tls: false
   type: hysteria2
-- name: 🇵🇱206072 | ⚡️Telegram = t.me/L...
+- name: برای اتصال دائمی جوین شو🍥 Tele...
   password: a35c508f-4d5d-4531-842e-6e9d43c762c0
   port: 4444
   server: 13.143.189.149
   skip-cert-verify: false
   sni: pl2.nexfile.net
+  tls: false
+  type: hysteria2
+- name: 🍪73@oneclickvpnkeys
+  password: a35c508f-4d5d-4531-842e-6e9d43c762c0
+  port: 4444
+  server: pl3.nexfile.net
+  sni: pl3.nexfile.net
   tls: false
   type: hysteria2
 - name: '@KAFING_2 #2'
@@ -392,7 +398,7 @@ proxies:
   sni: node.aweom.su
   tls: false
   type: hysteria2
-- name: 'Telegram 🆔@Cnetvpn 🇺🇲 #1'
+- name: Telegram 🆔@Cnetvpn 🇺🇲
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
   password: fmaznn1lrzys7ddy
@@ -410,15 +416,6 @@ proxies:
   server: panel.trapxan.ir
   skip-cert-verify: false
   sni: panel.trapxan.ir
-  tls: false
-  type: hysteria2
-- name: 🇳🇱206032 | ⚡️Telegram = t.me/L...
-  obfs: salamander
-  obfs-password: 7922smqtd5qm70fu
-  password: kpg57fi8uon5i67t
-  port: 2098
-  server: 185.19.33.200
-  sni: 185.19.33.200
   tls: false
   type: hysteria2
 - name: ⏳73@oneclickvpnkeys
