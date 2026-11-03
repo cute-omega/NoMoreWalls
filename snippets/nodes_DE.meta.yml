@@ -9,14 +9,13 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: '@tootffarangi🍓-1'
+- name: 🍪42@oneclickvpnkeys
   obfs: salamander
-  obfs-password: egnqz8stetfo2ci9
-  password: eik6hcffscbuqdbt
-  port: 46183
-  server: kp09bn7y.easyiran.org
-  skip-cert-verify: false
-  sni: kp09bn7y.easyiran.org
+  obfs-password: 7kydvvvn3bwt66ff
+  password: ripa841juk7gwn4t
+  port: 10005
+  server: 31.76.241.169
+  sni: de.c0d1xdev.xyz
   tls: false
   type: hysteria2
 - name: DE_speednode_0004

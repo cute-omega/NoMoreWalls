@@ -1,12 +1,4 @@
 proxies:
-- name: 🇸🇪SE-🚀@VPNine1
-  password: 769f34f0-1500-488f-b414-03bc90666502
-  port: 443
-  server: se.mimowhat.online
-  skip-cert-verify: false
-  sni: se.mimowhat.online
-  tls: false
-  type: hysteria2
 - name: Telegram 🆔@cnetvpn 🇸🇪
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
