@@ -408,16 +408,6 @@ proxies:
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
-- name: '@ConfigV2RayNG'
-  obfs: salamander
-  obfs-password: 7922smqtd5qm70fu
-  password: h05ff7mbgbj6dhwy
-  port: 2098
-  server: panel.trapxan.ir
-  skip-cert-verify: false
-  sni: panel.trapxan.ir
-  tls: false
-  type: hysteria2
 - name: ⏳73@oneclickvpnkeys
   password: maintell
   port: 2053
