@@ -12,11 +12,11 @@ hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?insecure=1
 hysteria2://dq6rfcyex30h1b6z@ll5xoe8j.easyiran.org:22357?sni=ll5xoe8j.easyiran.org&obfs=salamander&obfs-password=qkdqum5rllpyup7h#%40V2ray_confiig
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.213.89.22:443?insecure=1&sni=vk.com#%F0%9F%87%BA%F0%9F%87%B8139909%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/S...
 hysteria2://1671a252e2a97dc2bda4e515475931da@132.226.226.189:50160?insecure=1&sni=www.bing.com#%E2%8F%B374%40oneclickvpnkeys
+hysteria2://541d46d8-5fc6-4d57-a7c4-9ccd3b5966eb@51.75.118.5:20222?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=6ae3fff53efc6d7e#%F0%9F%87%AB%F0%9F%87%B7206471%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/L...
 hysteria2://5bcodmhjtyfyyrqh@91.142.73.159:36758?insecure=1&sni=cdn77.dmtr.ru&obfs=salamander&obfs-password=dzcb7hv6i2kx2zze#%40Begoo_VPN%20%C2%B2%E2%81%B9%E2%81%B0
 hysteria2://69e41e64-a832-471a-b740-94577ca85520@forshynewh.duckdns.org:443?sni=forshynewh.duckdns.org#%E2%8F%B394%40oneclickvpnkeys
 hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?insecure=0&sni=fiproxy1.lockdwn.com&obfs=salamander&obfs-password=uw9b2qq5rx#Telegram%3A%40v2rayng3
 hysteria2://70043bfa-d6fb-4980-b27e-773e9e8b2004@141.0.187.15:443?sni=crt.onecloudstream.com#%E2%8F%B31%40oneclickvpnkeys
-hysteria2://80cbaaec-caff-4181-8539-ea6e51731007@45.88.12.119:443?alpn=h3&sni=crt.onecloudstream.com#%F0%9F%87%A9%F0%9F%87%AA206217%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/L...
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@160.187.100.109:443?insecure=1&sni=160.187.100.109#%E2%8F%B371%40oneclickvpnkeys
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.174:443?insecure=1&sni=https://t.me/WangCai2🇨🇳#%E2%8F%B361%40oneclickvpnkeys
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.89:443?insecure=1&sni=https://t.me/clashv8🇨🇳#%E2%8F%B363%40oneclickvpnkeys
@@ -32,12 +32,13 @@ hysteria2://VPNJEY@179.61.138.145:36264?insecure=1&sni=de2.jey.cc.cd&obfs=salama
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%F0%9F%87%B3%F0%9F%87%B1%20-%20NL%20-%20%40FreeOnlineVPN
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.188.142:4444?insecure=0&sni=bl1.nexfile.net#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%AA%AD%20Tele...
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.188.143:4444?insecure=1&sni=bl1.nexfile.net#%F0%9F%8D%AA66%40oneclickvpnkeys
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.105:4444?insecure=0&sni=pl2.nexfile.net#%40vasl_bashim
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.105:4444?insecure=0&sni=pl2.nexfile.net#%40vasl_bashim%20%231
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.106:4444?insecure=0&sni=pl2.nexfile.net#%40vpnbaz%F0%9F%92%9E
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.142:4444?insecure=0&sni=pl3.nexfile.net#%40vpnbaz%F0%9F%92%95
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.143:4444?sni=pl3.nexfile.net#%F0%9F%8D%AA61%40oneclickvpnkeys
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.147:4444?insecure=0&sni=pl2.nexfile.net#%40vpnbaz%F0%9F%8D%93
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.149:4444?insecure=0&sni=pl2.nexfile.net#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%8D%A5%20Tele...
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.96:4444?insecure=0&sni=pl3.nexfile.net#%F0%9F%87%B5%F0%9F%87%B1206450%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/L...
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@pl3.nexfile.net:4444?sni=pl3.nexfile.net#%F0%9F%8D%AA73%40oneclickvpnkeys
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%40KAFING_2%20%232
 hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@nas.aizhzo.com:5010?insecure=0&sni=nas.aizhzo.com&obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9#%40vmess_ir
