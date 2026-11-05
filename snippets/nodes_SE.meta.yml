@@ -1,11 +1,4 @@
 proxies:
-- name: 🥌11@oneclickvpnkeys
-  password: 769f34f0-1500-488f-b414-03bc90666502
-  port: 443
-  server: 185.153.55.28
-  sni: se.mimowhat.online
-  tls: false
-  type: hysteria2
 - name: Telegram 🆔@cnetvpn 🇸🇪
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
